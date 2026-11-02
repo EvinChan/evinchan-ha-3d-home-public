@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Airflow Billboard Shader Demo</title>
+  <style>html,body{margin:0;height:100%;background:#101820;overflow:hidden}canvas{display:block}.tip{position:fixed;left:16px;top:12px;color:#cfeaff;font:13px/1.5 system-ui}</style>
+</head>
+<body>
+<div class="tip">Native Three.js only. Each airflow uses 1-2 billboard quads, 2D noise, additive transparent mist.</div>
+<script type="module">
+import * as THREE from "https://unpkg.com/three@0.169.0/build/three.module.js";
+
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(45, innerWidth / innerHeight, 0.1, 80);
+camera.position.set(0, 2.4, 7.2);
+const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(Math.min(devicePixelRatio, 1.5));
+renderer.setSize(innerWidth, innerHeight);
+document.body.appendChild(renderer.domElement);
+scene.add(new THREE.HemisphereLight(0xffffff, 0x213040, 1.2));
+
+const airflowTime = { value: 0 };
+const VERT = `
+precision mediump float;
+uniform vec3 uDirection,uSideAxis; uniform float uLength,uStartHalfWidth,uEndHalfWidth,uSpreadPower,uSideLock,uTurbulence,uPhase,uTime,uLodNear,uLodFar;
+varying vec2 vUv; varying float vLodFade;
+float hash21(vec2 p){p=fract(p*vec2(123.34,456.21));p+=dot(p,p+45.32);return fract(p.x*p.y);} 
+float noise2(vec2 p){vec2 i=floor(p),f=fract(p),u=f*f*(3.0-2.0*f);float a=hash21(i),b=hash21(i+vec2(1,0)),c=hash21(i+vec2(0,1)),d=hash21(i+vec2(1,1));return mix(mix(a,b,u.x),mix(c,d,u.x),u.y);} 
+void main(){vUv=uv;float along=uv.y,side=uv.x*2.0-1.0;vec3 anchor=(modelMatrix*vec4(0,0,0,1)).xyz;mat3 basis=mat3(modelMatrix);vec3 dir=basis*uDirection;if(length(dir)<.0001)dir=vec3(0,0,1);dir=normalize(dir);vec3 viewDir=normalize(cameraPosition-anchor);vec3 camSide=cross(viewDir,dir);if(length(camSide)<.0001)camSide=cross(vec3(0,1,0),dir);if(length(camSide)<.0001)camSide=vec3(1,0,0);camSide=normalize(camSide);vec3 pref=basis*uSideAxis;if(length(pref)<.0001)pref=camSide;pref=normalize(pref);vec3 sideDir=mix(camSide,pref,clamp(uSideLock,0.0,1.0));if(length(sideDir)<.0001)sideDir=camSide;sideDir=normalize(sideDir);float width=mix(uStartHalfWidth,uEndHalfWidth,pow(along,uSpreadPower));float drift=(noise2(vec2(along*3.7-uTime*.11+uPhase,side*1.9))-.5)*uTurbulence*along*(1.0-along*.35);vec3 worldPos=anchor+dir*(along*uLength)+sideDir*(side*width+drift);float dist=distance(cameraPosition,anchor);vLodFade=1.0-smoothstep(uLodNear,uLodFar,dist);gl_Position=projectionMatrix*viewMatrix*vec4(worldPos,1.0);} `;
+const FRAG = `
+precision mediump float;
+uniform vec3 uColor; uniform float uOpacity,uPhase,uSpeed,uStrength,uTime,uTurbulence; varying vec2 vUv; varying float vLodFade;
+float hash21(vec2 p){p=fract(p*vec2(234.54,875.31));p+=dot(p,p+31.72);return fract(p.x*p.y);} 
+float noise2(vec2 p){vec2 i=floor(p),f=fract(p),u=f*f*(3.0-2.0*f);float a=hash21(i),b=hash21(i+vec2(1,0)),c=hash21(i+vec2(0,1)),d=hash21(i+vec2(1,1));return mix(mix(a,b,u.x),mix(c,d,u.x),u.y);} 
+void main(){float along=vUv.y,side=vUv.x*2.0-1.0,time=uTime*uSpeed;vec2 fuv=vec2(vUv.x*4.2+uPhase,along*7.0-time);float n=noise2(fuv),n2=noise2(fuv*2.17+9.4);float warp=(n-.5)*uTurbulence*(.18+along*.62);float feather=1.0-smoothstep(.52,1.0,abs(side+warp));float root=1.0-smoothstep(0.0,.42,along);float farFade=1.0-smoothstep(.62,1.0,along);float start=smoothstep(0.0,.08,along);float stream=smoothstep(.5,1.0,.5+.5*sin((along*6.6-time*1.18+n*.9+uPhase)*6.2831853));float mist=.36+n*.26+n2*.14;float lod=mix(.42,1.0,clamp(vLodFade,0.0,1.0));float a=uOpacity*uStrength*feather*start*farFade*lod*(.46+root*.72+mist*.32+stream*.18);vec3 c=mix(vec3(.03,.48,.95),uColor,.72);gl_FragColor=vec4(c,clamp(a,0.0,.56));if(gl_FragColor.a<.004)discard;} `;
+
+function airflow({pos, dir, side=[1,0,0], length=1, start=.2, end=1, opacity=.22, phase=0, sideLock=.25, speed=.35, spread=.8, turbulence=.12}) {
+  const uniforms = { uTime: airflowTime, uColor:{value:new THREE.Color(0x008cff)}, uDirection:{value:new THREE.Vector3(...dir)}, uSideAxis:{value:new THREE.Vector3(...side)}, uLength:{value:length}, uStartHalfWidth:{value:start*.5}, uEndHalfWidth:{value:end*.5}, uOpacity:{value:opacity}, uPhase:{value:phase}, uSideLock:{value:sideLock}, uSpeed:{value:speed}, uSpreadPower:{value:spread}, uStrength:{value:1}, uTurbulence:{value:turbulence}, uLodNear:{value:2.2}, uLodFar:{value:6.6} };
+  const mesh = new THREE.Mesh(new THREE.PlaneGeometry(1, 1, 1, 1), new THREE.ShaderMaterial({ uniforms, vertexShader:VERT, fragmentShader:FRAG, transparent:true, depthWrite:false, side:THREE.DoubleSide, blending:THREE.AdditiveBlending, toneMapped:false }));
+  mesh.position.set(...pos); scene.add(mesh); return mesh;
+}
+
+const devices = [
+  {name:"Ceiling", x:-3.2, y:1.2, z:0, sheets:[{dir:[0,-1,0], start:.34,end:1.55,length:1.15,side:[1,0,0]},{dir:[0,-1,0], start:.26,end:1.35,length:1.0,side:[0,0,1],opacity:.16,phase:.54}]},
+  {name:"Floor", x:-1.9, y:.55, z:0, sheets:[{dir:[0,-.04,1], start:.42,end:1.18,length:1.3},{dir:[0,-.02,1], start:.3,end:.82,length:1.12,side:[0,1,0],opacity:.15,phase:.61}]},
+  {name:"Tower", x:-.6, y:.55, z:0, sheets:[{dir:[0,-.03,1], start:.7,end:.86,length:1.16,side:[0,1,0],sideLock:.88,opacity:.18}]},
+  {name:"Wall AC", x:.8, y:1.05, z:0, sheets:[{dir:[0,-.42,1], start:.38,end:.72,length:.88},{dir:[0,-.36,1], start:.22,end:.5,length:.76,side:[0,1,0],opacity:.15,phase:.67}]},
+  {name:"Central", x:2.1, y:1.1, z:0, sheets:[{dir:[0,-.24,1], start:.72,end:1.46,length:.88,sideLock:.58,opacity:.24},{dir:[0,-.18,1], start:.36,end:1.04,length:.76,side:[0,1,0],opacity:.14,phase:.49}]},
+  {name:"Cabinet", x:3.5, y:.72, z:0, sheets:[{dir:[0,-.34,1], start:.32,end:.76,length:.74},{dir:[0,-.38,1], start:.56,end:.92,length:.7,side:[0,1,0],sideLock:.68,opacity:.156,phase:.73}]},
+];
+const bodyMat = new THREE.MeshStandardMaterial({ color:0x5c6f7c, roughness:.55 });
+for (const d of devices) {
+  const body = new THREE.Mesh(new THREE.BoxGeometry(.38,.28,.16), bodyMat); body.position.set(d.x,d.y,d.z); scene.add(body);
+  for (const s of d.sheets) airflow({ pos:[d.x,d.y,d.z+.13], ...s });
+}
+addEventListener("resize",()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight);});
+function animate(t){airflowTime.value=t*.001; scene.rotation.y=Math.sin(t*.0002)*.16; renderer.render(scene,camera); requestAnimationFrame(animate);} requestAnimationFrame(animate);
+</script>
+</body>
+</html>

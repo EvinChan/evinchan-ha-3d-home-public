@@ -1,0 +1,26 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Evinchan HA 3D Home",
+        "description": "配置 3D Home 集成。",
+        "data": {
+          "log_level": "日志级别"
+        }
+      }
+    },
+    "error": {},
+    "abort": {
+      "already_configured": "3D Home 已配置。"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "log_level": "日志级别"
+        }
+      }
+    }
+  }
+}

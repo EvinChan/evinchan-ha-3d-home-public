@@ -1,0 +1,400 @@
+/*
+ * Dark "tech" theme for the prebuilt 3D Home SPA.
+ *
+ * Loaded AFTER the SPA's own stylesheet (see index.html) so plain selectors at
+ * equal specificity win by source order. The SPA is a compressed build we must
+ * not edit, so the whole restyle happens by redefining its CSS custom
+ * properties plus a small set of component overrides that are still hard-coded
+ * to light colours.
+ *
+ * Palette (matches the reference design):
+ *   canvas  #0b1020  deep navy page background
+ *   surface #151c33  panel base
+ *   ink     #e8eeff  primary text
+ *   accent  #ff8a3d  warm orange highlight (heating / active states)
+ */
+
+:root {
+  /* Core palette ------------------------------------------------------- */
+  --accent: #ff8a3d;
+  --accent-hover: #ff9d5c;
+  --accent-soft: rgba(255, 138, 61, 0.16);
+  --selection: #8ea6ff;
+  --selection-soft: rgba(142, 166, 255, 0.18);
+  --success: #4fd1a5;
+  --success-soft: rgba(79, 209, 165, 0.16);
+  --danger: #ff6b6b;
+  --danger-soft: rgba(255, 107, 107, 0.16);
+
+  --ink: #e8eeff;
+  --muted: #a6b1cc;
+  --subtle: #6f7b9b;
+
+  --line: rgba(140, 160, 210, 0.16);
+  --line-strong: rgba(140, 160, 210, 0.28);
+
+  --panel: #151c33;
+  --canvas: #070a14;
+  --surface: rgba(24, 32, 56, 0.72);
+  --surface-hover: rgba(38, 49, 82, 0.82);
+  --glass: rgba(17, 24, 43, 0.82);
+
+  /* Deeper, softer shadows read better on a dark background. */
+  --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.35);
+  --shadow-md: 0 12px 34px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 26px 70px rgba(0, 0, 0, 0.6);
+
+  /* Home scene tokens consumed by the SPA's home layout. */
+  --home-ink: #e8eeff;
+  --home-edge-x: clamp(1.25rem, 2.2vw, 2.25rem);
+  --home-scene-panel-top: clamp(5.5rem, 12vh, 7.5rem);
+  /* Width reserved on the right when the room device panel is open. */
+  --ha3d-room-panel-w: 22rem;
+}
+
+/* ---- page shells ---------------------------------------------------- */
+html,
+body,
+#root {
+  color: var(--ink);
+  background: var(--canvas);
+}
+
+body {
+  color: var(--ink);
+  background: radial-gradient(1200px 620px at 50% -10%, #1a2340 0%, #0b1020 58%, #070a14 100%);
+}
+
+/* The workspace / scene used to be a light gradient; make it the near-black
+   navy stage from reference image 1 (#070a14 base, barely-there blue glow). */
+.home-workspace,
+.home-scene,
+.mode-home .home-scene {
+  color: var(--ink);
+  background: radial-gradient(1300px 680px at 50% -16%, #11203a 0%, #0a0f1f 46%, #070a14 80%);
+}
+
+/* Subtle vignette so the floor plan pops off the near-black background. */
+.home-scene::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background: radial-gradient(118% 86% at 50% 44%, transparent 36%, rgba(3, 5, 11, 0.72) 100%);
+}
+
+/* ---- top-left title block ------------------------------------------- */
+.scene-title h1 {
+  color: #ffffff;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.55);
+}
+
+.scene-eyebrow {
+  color: #97a5c6 !important;
+}
+
+.scene-title-meta {
+  color: #aab6d3;
+}
+
+.scene-title-meta strong {
+  color: #e3eaff;
+}
+
+.scene-temp-pill {
+  color: #ffffff;
+}
+
+.scene-connection {
+  color: #aab6d3;
+}
+
+.scene-connection:hover {
+  color: #ffffff;
+}
+
+/* ---- bottom mode tabs ----------------------------------------------- */
+/* Intentionally NOT restyled: the bottom tab bar keeps the SPA's original
+   look (dark translucent pill + white labels). The dark theme must not touch
+   it — only the surrounding scene gets the new palette. */
+
+/* ---- floating panels: floor nav, room card, empty state ------------- */
+.home-floor-nav,
+.room-focus-card,
+.scene-data-empty,
+.home-dashboard-manager,
+.room-binding-panel,
+.entity-browser {
+  color: var(--ink);
+  border: 1px solid var(--line);
+  background: var(--glass);
+  box-shadow: var(--shadow-md), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  -webkit-backdrop-filter: blur(20px) saturate(1.15);
+  backdrop-filter: blur(20px) saturate(1.15);
+}
+
+.home-floor-nav > small {
+  color: var(--subtle);
+}
+
+.home-floor-nav button {
+  color: var(--muted);
+}
+
+.home-floor-nav button:hover {
+  color: #ffffff;
+  background: var(--surface-hover);
+}
+
+.home-floor-nav button.active,
+.home-floor-nav button[aria-current="true"] {
+  color: #ffffff;
+  background: var(--accent-soft);
+  box-shadow: inset 0 0 0 1px rgba(255, 138, 61, 0.35);
+}
+
+.room-focus-card small {
+  color: var(--subtle);
+}
+
+.room-focus-card strong {
+  color: #ffffff;
+}
+
+.room-focus-card span {
+  color: var(--muted);
+}
+
+.room-focus-card button {
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.room-focus-card button:hover {
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.scene-data-empty {
+  color: #cdd8f2;
+  background: radial-gradient(circle at 18% 0%, rgba(131, 216, 255, 0.1), transparent 42%), var(--glass);
+}
+
+.scene-data-empty strong {
+  color: #ffffff;
+}
+
+/* The SPA renders a "在 Home Assistant 中创建 scene.* 后会显示在这里。" hint
+   inside the scene list when no scene entity exists. It is noise on the home
+   view, so hide it (the list simply stays empty). */
+.ha-scene-empty {
+  display: none !important;
+}
+
+/* ---- right-side insight / detail panel ------------------------------ */
+.home-insight-panel.entity-selected .home-insight-track,
+.home-dashboard-card,
+.insight-pane.insight-detail {
+  color: var(--ink);
+  border: 1px solid var(--line);
+  background: radial-gradient(circle at 18% 0%, rgba(131, 216, 255, 0.09), transparent 46%), var(--glass);
+  box-shadow: var(--shadow-md), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.home-dashboard-card small,
+.home-dashboard-card span {
+  color: var(--muted);
+}
+
+.home-dashboard-card strong {
+  color: #ffffff;
+}
+
+/* ---- corner dock / menus -------------------------------------------- */
+/* Intentionally NOT restyled: the bottom-left tool dock (and its popup menu)
+   keeps the SPA's original appearance, same as the bottom tab bar. */
+
+/* ---- generic form controls inside dialogs --------------------------- */
+.home-dashboard-manager h3,
+.home-dashboard-manager strong,
+.room-binding-panel h3,
+.room-binding-panel strong {
+  color: #ffffff;
+}
+
+.home-dashboard-manager small,
+.home-dashboard-manager span,
+.room-binding-panel small,
+.room-binding-panel span {
+  color: var(--muted);
+}
+
+.home-dashboard-manager input,
+.home-dashboard-manager select,
+.room-binding-panel input,
+.room-binding-panel select,
+.search-field input {
+  color: var(--ink);
+  border: 1px solid var(--line);
+  background: rgba(9, 14, 26, 0.72);
+}
+
+.home-dashboard-manager input::placeholder,
+.room-binding-panel input::placeholder,
+.search-field input::placeholder {
+  color: var(--subtle);
+}
+
+.home-dashboard-manager input:focus,
+.home-dashboard-manager select:focus,
+.room-binding-panel input:focus,
+.search-field input:focus {
+  border-color: rgba(255, 138, 61, 0.55);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(255, 138, 61, 0.16);
+}
+
+.home-dashboard-manager-backdrop,
+.settings-backdrop,
+.sidebar-backdrop {
+  background: rgba(4, 7, 14, 0.66);
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+}
+
+/* ---- sidebar -------------------------------------------------------- */
+.home-sidebar {
+  color: var(--ink);
+  border-right: 1px solid var(--line);
+  background: linear-gradient(180deg, #121a30 0%, #0b1020 100%);
+}
+
+.sidebar-heading,
+.sidebar-heading strong {
+  color: #ffffff;
+}
+
+.sidebar-empty,
+.sidebar-heading small {
+  color: var(--muted);
+}
+
+/* ---- entity / device lists ------------------------------------------ */
+.entity-group,
+.entity-list .entity-row,
+.overview-data-entity-list .entity-row {
+  color: var(--muted);
+  border-color: var(--line);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.entity-group:hover,
+.entity-list .entity-row:hover {
+  background: var(--surface-hover);
+}
+
+/* ---- weather forecast ----------------------------------------------- */
+.home-weather-forecast,
+.weather-forecast-list,
+.forecast-day {
+  color: #dbe4fa;
+}
+
+.forecast-day span {
+  color: var(--muted);
+}
+
+/* ---- room device panel layout --------------------------------------- */
+/* The device panel (room-panel.js) is a FLOATING OVERLAY pinned to the right
+   edge (z-index 60, above the SPA's own right panel). It must NOT shrink the
+   3D scene — the scene stays full-width underneath. The only job of the
+   `.ha3d-room-panel-open` body class here is to keep the stock `.room-focus-card`
+   hidden (the overlay already shows the room name), so leave the scene alone. */
+
+@media (max-width: 1100px) {
+  :root {
+    --ha3d-room-panel-w: 19.5rem;
+  }
+}
+
+@media (max-width: 900px) {
+  :root {
+    --ha3d-room-panel-w: 21rem;
+  }
+}
+
+/* ---- scrollbars ----------------------------------------------------- */
+* {
+  scrollbar-color: rgba(140, 160, 210, 0.35) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: rgba(140, 160, 210, 0.32);
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: rgba(140, 160, 210, 0.5);
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ==========================================================================
+   Fullscreen mode (see fullscreen-toggle.js)
+   --------------------------------------------------------------------------
+   `.app-shell` is `grid-template-rows: 58px minmax(0,1fr)` and `.app-header`
+   is that first row — the title strip that reads as a disconnected band above
+   the scene. Collapsing the row (not just hiding the header) lets the scene
+   take the full viewport; hiding alone would leave an empty 58px track.
+   The class is put on <html> by the patch, and removed when fullscreen ends
+   (button, Esc, F11 or the browser's own fullscreen UI).
+   ========================================================================== */
+html.ha3d-fullscreen-shell,
+html.ha3d-fullscreen-shell body {
+  height: 100%;
+  overflow: hidden;
+}
+
+html.ha3d-fullscreen-shell .app-shell {
+  grid-template-rows: 0 minmax(0, 1fr);
+  height: 100vh;
+  height: 100dvh;
+}
+
+html.ha3d-fullscreen-shell .app-header {
+  display: none;
+}
+
+/* The dock stays reachable so the user can toggle back out of fullscreen. */
+html.ha3d-fullscreen-shell .home-corner-dock {
+  z-index: 60;
+}
+
+/* Voice assistant is disabled (see voice-disable.js, which sets
+   `ha3d.home.voiceEnabled=false` so the mic FAB / voice panel never mount).
+   The dock toggle exists only to re-enable voice, so hide it; the FAB rule is a
+   safety net in case the flag was not applied on first paint. */
+.voice-toggle {
+  display: none !important;
+}
+.voice-fab {
+  display: none !important;
+}
+
+/* Dock menu (mode-home vertical popover): the SPA shows/hides the container
+   via `.tools-open` (React state) but leaves the ITEMS keyed to desktop
+   `:hover/:focus-within` (opacity:0). Losing focus while the popover stays
+   open produced an "empty card". Pin the items to the container's state. */
+.mode-home .home-corner-dock.tools-open .corner-dock-menu>.corner-dock-action,
+.mode-home .home-corner-dock.tools-open .corner-dock-menu>.corner-dock-icon {
+  opacity: 1;
+  pointer-events: auto;
+}

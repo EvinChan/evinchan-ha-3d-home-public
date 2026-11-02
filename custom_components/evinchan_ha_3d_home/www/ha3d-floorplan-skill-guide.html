@@ -1,0 +1,45 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HA 3D JSON Skill 使用说明</title><style>body{font:16px/1.7 system-ui,sans-serif;max-width:860px;margin:40px auto;padding:0 24px;color:#202833;background:#f7fafc}main{background:white;border:1px solid #dce5ed;border-radius:16px;padding:28px 34px;box-shadow:0 8px 30px #1d35420f}pre{white-space:pre-wrap;font:inherit;margin:0}</style></head><body><main><pre># HA 3D JSON Skill 使用说明
+
+## 这个 Skill 能做什么
+
+它可以让 ChatGPT、Claude、Gemini 或其他 AI：
+
+- 从文字或户型图生成新的 HA 3D 户型 JSON
+- 根据已有 JSON 调整家具、房间和材质
+- 检查 ID、房间、墙体、门窗和材质引用
+- 在网络可达时通过接口创建或更新项目
+- 无法连接时导出完整 JSON，手动导入 HA 3D
+
+## 安装
+
+1. 点击“下载 HA 3D Skill”下载 ZIP。
+2. 解压后，将 `ha3d-floorplan-json` 文件夹安装到 AI 客户端的 Skills 目录，或把其中的 `SKILL.md` 和 `references` 内容提供给 AI。
+3. 使用支持 Skill 的客户端重新加载技能。
+
+## 新建户型
+
+把需求和 Skill 一起交给 AI，例如：
+
+&gt; 创建一套 12 米 &#215; 8 米的一层住宅，包含客厅、厨房、两个卧室和一个卫生间。生成可以导入 HA 3D 的完整 JSON。
+
+## 修改已有户型
+
+先在 HA 3D 中点击“导出 JSON”，将文件交给 AI，并明确：
+
+&gt; 保留墙体和 Home Assistant 绑定，只把客厅沙发旋转 90 度并移动到电视柜对面。
+
+## 导入方式
+
+- **手动导入**：让 AI 返回完整 JSON，回到项目设置点击“导入 JSON”。
+- **自动导入**：在可访问 HA 3D 服务的电脑上配置地址：
+
+```bash
+python scripts/ha3d_api.py configure --url http://你的IP:端口
+```
+
+之后 Skill 可执行 `list`、`export`、`create` 和 `update`。写入操作需要明确确认，并且更新已有项目需要导出基准文件，避免覆盖他人的修改。
+
+## 注意事项
+
+单位是米，旋转使用弧度。AI 生成后仍建议在 3D 预览中检查家具越界、碰撞和动线。
+</pre></main></body></html>

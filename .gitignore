@@ -1,0 +1,11 @@
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python 字节码缓存（HA / py_compile 会产生，绝不可进发布包）
+__pycache__/
+*.pyc
+
+# 混淆脚本的本地临时缓存（如需发布防护版请按需提交 pyarmor_runtime）
+.pyarmor_cache/

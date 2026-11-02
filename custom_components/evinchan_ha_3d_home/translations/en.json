@@ -1,0 +1,26 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Evinchan HA 3D Home",
+        "description": "Configure the 3D Home integration.",
+        "data": {
+          "log_level": "Log level"
+        }
+      }
+    },
+    "error": {},
+    "abort": {
+      "already_configured": "3D Home is already configured."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "log_level": "Log level"
+        }
+      }
+    }
+  }
+}

@@ -65,7 +65,8 @@ body {
   background: radial-gradient(1200px 620px at 50% -10%, #1a2340 0%, #0b1020 58%, #070a14 100%);
 }
 
-/* Default / night scene stage (fallback when no theme class is present). */
+/* The workspace / scene used to be a light gradient; make it the near-black
+   navy stage from reference image 1 (#070a14 base, barely-there blue glow). */
 .home-workspace,
 .home-scene,
 .mode-home .home-scene {
@@ -82,24 +83,6 @@ body {
   pointer-events: none;
   background: radial-gradient(118% 86% at 50% 44%, transparent 36%, rgba(3, 5, 11, 0.72) 100%);
 }
-
-
-/* Day / night scene backgrounds. !important is required because the SPA also
-   ships per-scene-mode rules (e.g. .theme-day.scene-mode-overview .home-scene)
-   at higher specificity; without it those would win over the theme gradient. */
-/* .theme-day .home-scene {
-  background: radial-gradient(circle at center 80%, #7c96cc 0%, #4866a4 100%) !important;
-}
-.theme-night .home-scene {
-  background: radial-gradient(circle at center 80%, #232a4e 0%, #070812 100%) !important;
-} */
-
-/* The SPA's subtle dark vignette is meant for a near-black stage; it would
-   muddy the requested day/night gradients, so suppress it under both themes. */
-/* .theme-day .home-scene::after,
-.theme-night .home-scene::after {
-  background: transparent !important;
-} */
 
 /* ---- top-left title block ------------------------------------------- */
 .scene-title h1 {

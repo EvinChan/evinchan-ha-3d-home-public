@@ -1,1 +1,982 @@
-function a0_0x55eb(_0x3e2d2e,_0x4cfc6d){_0x3e2d2e=_0x3e2d2e-0xd0;var _0x224f51=a0_0x3245();var _0x21b0ae=_0x224f51[_0x3e2d2e];if(a0_0x55eb['TwIREq']===undefined){var _0x459f04=function(_0x3c4d73){var _0x437c6c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x175df9='',_0x19d2b4='';for(var _0x132502=0x0,_0x240479,_0x30b855,_0x3d3bbd=0x0;_0x30b855=_0x3c4d73['charAt'](_0x3d3bbd++);~_0x30b855&&(_0x240479=_0x132502%0x4?_0x240479*0x40+_0x30b855:_0x30b855,_0x132502++%0x4)?_0x175df9+=String['fromCharCode'](0xff&_0x240479>>(-0x2*_0x132502&0x6)):0x0){_0x30b855=_0x437c6c['indexOf'](_0x30b855);}for(var _0x5cb1b3=0x0,_0x4069ab=_0x175df9['length'];_0x5cb1b3<_0x4069ab;_0x5cb1b3++){_0x19d2b4+='%'+('00'+_0x175df9['charCodeAt'](_0x5cb1b3)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x19d2b4);};a0_0x55eb['WzHFWh']=_0x459f04,a0_0x55eb['hLUKWB']={},a0_0x55eb['TwIREq']=!![];}var _0xed6834=_0x224f51[0x0],_0x324516=_0x3e2d2e+_0xed6834,_0x55ebdb=a0_0x55eb['hLUKWB'][_0x324516];return!_0x55ebdb?(_0x21b0ae=a0_0x55eb['WzHFWh'](_0x21b0ae),a0_0x55eb['hLUKWB'][_0x324516]=_0x21b0ae):_0x21b0ae=_0x55ebdb,_0x21b0ae;}function a0_0x3245(){var _0x189882=['Bg9JyxrPB24','phbHDgGGzMLSBd0Iy3vYCMvUDenVBg9YiIbKpsjnmJGZlJCGnJKYlJLOltiWlJfJltyUocaWlte0lJqTns0Xnc40lteXlJHwndC4lJzJmc02lJGGnY42lteZlJCGmtqUnc0XmY43AdiWlJfJnI44idaGmtqUoca2lJKGmtqUocaXmY43DJiWmI42yZaGnI44ltGGmteUoc0Xnc44ideXlJH6tti4mI4Xidq4nc4XytuUmIa1lJiGmcaWidaTns4XltqUm2GTnI43ytqUoca0lJGGmcaWidaTnc42idqUm3yXodGUowe1lJyGns42idaGmcaWidqUnYa1lJfOnI43ytyGnIaWidaGmca1ltuUmvy0odqUmxOIpJWVCgf0Ad4','AgeZzc1MCMLKz2uTBgLICMfYEs1IDxr0B24','C3bSAxq','ntqYmJmXmNLrve5Irq','y29UDgfPBNm','zMfSC2u','idm4lJu5nJKYmYaWideGmcaWidC3lJe1ndq2mwGYnJiUmZqWotiZytm4lJu5nJKYmYaZoc41oty5mJmGmcaWidaGmc03nY4Xntq0nJf6ig01nJmUmI0XntqUmZa4otiZ','ufvu','mJq1mJaXmM9JBwLoBW','mZy4mdy3r2ThCePT','y2XPzw50wq','C3vIC2nYAwjL','yNv0Dg9U','C2XPy2u','y2XHC3nmAxn0','DhLWzq','mcaWideWmJqGmtaYna','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','phn2zYb2Awv3qM94psiWidaGmtaYncaXmdi0iIb3Awr0Ad0ImZqIigHLAwDODd0ImZqIihzLCNnPB249iJeUmsiGEg1SBNm9iMH0Dha6lY93D3CUDZmUB3jNlZiWmdaVC3zNiIbHCMLHlwHPzgrLBJ0IDhj1zsi+','re9nq29UDgvUDeXVywrLza','pc9ZDMC+','mtu2mJq2mLjfsefowq','Cg9PBNrLCM1VDMu','lMz1CM5PDhvYzs1SAwjYyxj5lwDYAwq','phnWyw4+phn0CM9UzZ7LHRdNRRe8l3n0CM9UzZ48C21HBgW+','CM9VBxm','ytmWlJu2mJq2mIaZmc41nJi0nJiGmcaWideGmZaUodC3ntm5ltmWlJG3nZuZogG3otiUodeYmZa3ytmZlJm1odC2osaZmY4ZntG3nJKGmcaWideGmZiUoda3mZG1','muf2DunQra','yxbWzw5Kq2HPBgq','y3jLyxrLrwXLBwvUDa','zgLZy29UBMvJDa','CMv0DxjUicHMDw5JDgLVBIGPia','y2XVBMvoB2rL','z2v0u2nYzwvUq1rn','DgL0Bgu','y2XPy2TZ','zxjYB3i','Bg9N','CMvHzhLtDgf0zq','Bg9HzgLUzW','Cg9PBNrLCKv2zw50CW','AgeZzc1KAw5PBMCTDgfIBguTyNv0Dg9U','nZy1mJe1rwzNsuXR','ChjLDMvUDerLzMf1Bhq','A2v5zg93BG','lMz1CM5PDhvYzs1WAwn0B2DYyw0','Dg9gAxHLza','Dgv4Dc5MDxjUAxr1CMuTBgfIzwW','phbHDgGGzMLSBd0Iy3vYCMvUDenVBg9YiIbKpsjnnZuWlJeGndy1lJnTnI44idbSoc4YidbXnI44idaGnI44idyUogWWidm1oc4YCtaGnI44ltyUoca2lJHSltGUmIaWCs02lJGGmc02lJGTnI44BdaTmZu4lJjXmc02lJGGnI44ltyUofOIpJWVCgf0Ad4','z2v0q2XPzw50uMvJDhm','ywrK','y2HPBgrYzw4','mZaUodC3ntm4DJuWos4YndmWnZDHotmUode0mtu0idKZlJGXnde1ncaWidaGms05mI42mZi2mtyGotiUntKZmJmXEK0ZodaUodq5mJmXidqXns41ndCWnZDHmZGUntK2otiZ','zMLSDgvY','DMLLD0jVEa','C3zN','CgfYzw50tM9Kzq','B2jZzxj2zq','ChvZAa','y3jLyxrLrwXLBwvUDe5t','AgeZzc1KAw5PBMCTy2HHAxiTyNv0Dg9U','CMvWywLYigzHAwXLza','i2jMyMzIzG','zNjPzgDLugXHBLbVAw50CW','y3jLyxrLu1zhug9PBNq','C2fTzs1VCMLNAw4','y2XHC3noyw1L','Aw5Zzxj0qMvMB3jL','Ag9ZDfzPyq','y29UC3rYDwn0B3i','zMLSBa','CMvTB3zL','DhjHBNnMB3jT','Dg9W','Bg9HzcbWCM9Qzwn0igzHAwXLzca','phnWyw4Gy2XHC3m9iMz1CM5PDhvYzs1WAwn0B2DYyw0GzNjPzgDLiIbHCMLHlwHPzgrLBJ0IDhj1zsi+','yxbWBhK','y2XVC2vZDa','y2HPBgrmAxn0','BMv4DfnPyMXPBMC','ywXS','mJu1nta3odrpzLnOCNq','AgeZzfnLBgvJDefMDgvYugXHy2u','Dhj1zq','z2v0rwXLBwvUDej5swq','y29UC29Szq','zM9YrwfJAa','A2v5','seeZrf9guKLer0vFrevcvuC','x19WCM90B19F','BgfZDevYCM9Y','y2fIAw5LDa','txv0yxrPB25pyNnLCNzLCG','CMvJDc5MDxjUAxr1CMuTzM9VDhbYAw50lNnLBgvJDgvK','Dg9tDhjPBMC','Aw5Qzwn0zwq','BgvUz3rO','z2v0qM91BMrPBMDdBgLLBNrszwn0','Ahr0CdOVl3D3DY53mY5VCMCVmJaWmc9ZDMC','C2f2zsbMywLSzwqG','zNjPzgDLigz1CM5PDhvYzsbHzgrLzcbHDa','l2fWAs9WCM9Qzwn0CY9JDxjYzw50','AgeZzfbYB2PLy3rtBMfWC2HVDa','y2f0y2G','CMvMCMvZAa','ChjVAMvJDa','C3r5Bgu','ttG0os41nJu1mZGGotCXlJa2nZa3n0GXnZGUmJu0nZy5ytKZlJGXnde1nca5mY44mtqXntqGmcaWideTotiUntuZodq2ltKYlJu1mZG0nLyZnJKUmJmWnZy5','zMXVB3jZ','5RE75yQG5yAW566X77Yi54k55yE75zco54k55yE755s75BId5Ps+572U77Yj','ywrKigzYAwrNzsbMywLSzwq','Cg9SBhm','zNjPzgDLlwzVB3rWCMLUDc1Py29U','Cg9PBNrLCNvW','CMvWywLYzwq','ywn0AxzL','ouvbvezAzW','DgHLBG','lNnLBgvJDgLVBI1ZDw1Tyxj5lwHLywrPBMCGC3rYB25N','DgfYz2v0','C3rHDhvZ','Bw91C2vKB3DU','zxHLyW','mtbJrLjfvLO','Bw9KzwXjza','A2LUza','phbHDgGGzMLSBd0Iy3vYCMvUDenVBg9YiIbKpsjnmJGZlJCGmZu2lJjOltiWlJfJltyUocaWlte0lJqTns0Xnc40lteXlJHwmtqXlJLJmc02lJGGnY42lteZlJCGmtqUnc0XmY43AdiWlJfJnI44idaGmtqUoca2lJKGmtqUocaXmY43DJiWmI42yZaGnI44ltGGmteUoc0Xnc44ideXlJH6tti4mI4Xide0nY40ytuUmIa1lJiGmcaWidaTns4XltqUm2GTnI43ytqUoca0lJGGmcaWidaTnc42idqUm3yXodGUowe1lJyGns42idaGmcaWidqUnYa1lJfOnI43ytyGnIaWidaGmca1ltuUmvyXndCUnhOIpJWVCgf0Ad4','CMvWywLYzwqGBgvNywn5igzYAwrNzsbYzwnVCMrZoG','CMvWBgfJzq','CxvLCNLtzwXLy3rVCKfSBa','Bw91C2v1Ca','zNjPzgDLihbSywnLBwvUDcbKAxnHCM1LzcaOrxnJyxbLkq','CMvWywLYihnHDMuGzMfPBgvKia','Cg9PBNrLCI1LDMvUDhm','y3jLzgvUDgLHBhm','BNvTyMvY','rxnJyxbL','z2v0qxr0CMLIDxrL','Aw5Qzwn0Aw9UCW','yxbP','sdC5lJKXmtm4nweZmc41nJi0nJiGmZaUntyYndyYidaGmcaXltmWlJG3nZuZos0Zmc44nZC1mZLwmtm3lJG0nJe1nge5mY44ntm1mZGGotmUoduZntm4idaGmcaX','ig08l3nTywXSpJWVC3bHBJ4','lMz1CM5PDhvYzs1SAwjYyxj5lwDYAwqGpIbIDxr0B24SifTJBgfZCYO9j2z1CM5PDhvYzs1SAwjYyxj5j10GyNv0Dg9U','zxHJzxb0Aw9U','C3zNlMzSB29YCgXHBI1Jyw52yxm','C2v0sw50zxj2ywW','BM93','C2v0vgLTzw91Da','Cg9ZAxrPB24','yxbWBgLJyxrPB24VANnVBG','y2XHC3m','CMvXDwvZDa','Bwf0CML4vhjHBNnMB3jT','C3rVCeLTBwvKAwf0zvbYB3bHz2f0Aw9U','Cg9PBNrLCKLK','zNjPzgDLihbSywnLBwvUDcbHCM1LzdO','CxvLCNLtzwXLy3rVCG','Dgv4DenVBNrLBNq','zNvYBML0DxjL','wZnKlwHVBwuGzNjPzgDLlwXPyL0','BgvMDa','CMvPBMPLy3rPB25Z','BM8GChjVAMvJDa','Aw52zxjZzq','CgXHBI1MDxjUAxr1CMu','pc9ZCgfUpG','yMfZzvzHBa','AgvPz2H0','idKYlJu5mZiZms05mI42nZjOnZqWlJC0ntG0nKe5mY44ntm1mZGGotmUoduZntm4idaGmcaXidK3nc45nJyXntqGmtm3lJG0nJe1nhy5mI41mtq0nJfHmZaUntiZmdC3','BMf0AxzLq2fYzhm','zY5WBgfUlwz1CM5PDhvYzq','D2fYBG','DgfIBgu','y2XPzw50wa','yxjPys1WCMvZC2vK','nuvHwNj6wG','Cg9PBNrLCMrVD24','DgvZDa','Cgf0Ag5HBwu','CMvTB3zLze5VzgvZ','Cgf0Aa','D2LKDgG','nJzzv1LKsMi','Aw5MBW','DhjHy2u','CMvTB3zLq2HPBgq','AgeZzezYAwrNzuXPyKrLyNvN','C2vSzwn0zwq','lMzYAwrNzs1MB290ChjPBNqTAwnVBG','yMLUza','CMvTB3zLqxr0CMLIDxrL','zNjPzgDLihbSywnLBwvUDcbKAxnHCM1LzcaOBMf0AxzLignHCMqGC2vSzwn0zwqP','yxjTzwq','l2fWAs9WCM9Qzwn0CY8','q29UDgvUDc1uExbL','Ag9ZDenSyxnZ','z3jPzezVDw5K','zNjPzgDLihbSywnLBwvUDcbKAxnHCM1LzcaOAw50zxjHy3rPB24GB3v0C2LKzsb0AguGCgXHBIK','zNjPzgDL','Aw5KzxHpzG','BM9Uzq','C2v0qxr0CMLIDxrL','B25JBgLJAW','yxbWBgLHBMnLlMzYAwrNzq','y2XPy2S','lMLUC3bLy3rVCI10AxrSzsbZBwfSBa','DMvYC2LVBG','ywrKrxzLBNrmAxn0zw5LCG','Aw5Uzxjive1m','AgeZzc13yxnOzxiTBgLICMfYEs1IDxr0B24','y2fSBa','ChjLC2vYDMvbC3bLy3rsyxrPBW','CMvJDc5MDxjUAxr1CMuTzM9VDhbYAw50','ywjZ','A2v5q29Kzq','idmWlJuYmZa3nYaWidaGms0Zmc44mZGXntqGmZaUodC3ntm5EG','zNvYBML0DxjLlwzYAwrNzs0','zgvWDgG','mtGXndq3qwHnC1fr','y29Uy2f0','seeZrf9guKLer0vFteLcx0zpuKnf','imoxia','lMLUC3bLy3rVCI10AxrSzsbOmG','phbHDgGGzMLSBd0Iy3vYCMvUDenVBg9YiIbKpsjnnZuWlJeGmtC3lJv2lti0lJzJmc0ZidmUmY00lJKGmtaUms00lJLZmteUocaXlJKGmteUoca0lJL2mJqUnMGTmJeUoxOGBtiXlJKGmtKUmNyXntGUogmWidmTnc45iduUoc0Xms44iduUohmTmtaUms0YlJGTmtaUms01lJHwmtK2lJzOmJeUoxOIpJWVCgf0Ad4','phbHDgGGzMLSBd0Iy3vYCMvUDenVBg9YiIbKpsjnnZGWlJmGoty4lJvimJqZlJDJltiYlJCGmc01mI0Yos4ZltuYltuYvJeWmc44yZaTmJiUnYaYos4ZltuYiduYltuYAduZnI41yZiYlJCGmca1mIaYos4ZiduYiduYDJGXns43yZaGmJiUnY0Yos4ZiduYltuYiduYEIbTltuXns45lti0lJzOndK1lJnJmJaUosaWidq4lti3lJGGndGTndKUmLy0mtyUmKGYmtGUnge2lJGGnI44idaGmcaXltiUms0WlJr2ndC5lJrJmcaYms41idi3lJeGndKUmIa0oc4Xidq5lJj6ttC1os42idCZlJvimJy0lJrJltiWlJKGmc00ocaYnY44ltq4idq5lJjwmZKXlJnHnI44idyUocaWidaGmsaYlJeTmc40sdGWnY42vJeYmI43yZaTmJeUns0YnY4Xltq5lJiTndGTndKUmNOIpJWVCgf0Ad4','ANnVBG','ChjVDg90ExbL','C3rYAw5NAwz5'];a0_0x3245=function(){return _0x189882;};return a0_0x3245();}(function(_0x17fdcb,_0x127335){var _0x3d1537=a0_0x55eb,_0x5921ff=_0x17fdcb();while(!![]){try{var _0x4fba35=-parseInt(_0x3d1537(0x1ab))/0x1*(parseInt(_0x3d1537(0x1a5))/0x2)+parseInt(_0x3d1537(0x199))/0x3+parseInt(_0x3d1537(0x198))/0x4*(-parseInt(_0x3d1537(0x15a))/0x5)+-parseInt(_0x3d1537(0x161))/0x6*(-parseInt(_0x3d1537(0x185))/0x7)+-parseInt(_0x3d1537(0x193))/0x8*(parseInt(_0x3d1537(0x11f))/0x9)+parseInt(_0x3d1537(0x126))/0xa*(-parseInt(_0x3d1537(0xd5))/0xb)+parseInt(_0x3d1537(0xfc))/0xc;if(_0x4fba35===_0x127335)break;else _0x5921ff['push'](_0x5921ff['shift']());}catch(_0x3e7957){_0x5921ff['push'](_0x5921ff['shift']());}}}(a0_0x3245,0x608c8),(function(){var _0x2bd5c0=a0_0x55eb,_0x104108=(function(){var _0x17fb59=!![];return function(_0x4140e5,_0x32ceed){var _0xdcf913=_0x17fb59?function(){var _0x25532e=a0_0x55eb;if(_0x32ceed){var _0x4f4116=_0x32ceed[_0x25532e(0xf7)](_0x4140e5,arguments);return _0x32ceed=null,_0x4f4116;}}:function(){};return _0x17fb59=![],_0xdcf913;};}()),_0xf61b2c=_0x104108(this,function(){var _0x57ea60=a0_0x55eb,_0x4a862b;try{var _0x3866d2=Function(_0x57ea60(0x1af)+_0x57ea60(0x1a1)+');');_0x4a862b=_0x3866d2();}catch(_0x4d96b5){_0x4a862b=window;}var _0x5e1461=_0x4a862b[_0x57ea60(0x100)]=_0x4a862b[_0x57ea60(0x100)]||{},_0x8210ee=[_0x57ea60(0xd0),_0x57ea60(0x156),_0x57ea60(0x162),_0x57ea60(0x1b4),_0x57ea60(0x13a),_0x57ea60(0x157),_0x57ea60(0x163)];for(var _0x174222=0x0;_0x174222<_0x8210ee[_0x57ea60(0x10b)];_0x174222++){var _0x5d1cef=_0x104108[_0x57ea60(0xf0)][_0x57ea60(0x18d)][_0x57ea60(0x168)](_0x104108),_0x3fbf2a=_0x8210ee[_0x174222],_0x520a27=_0x5e1461[_0x3fbf2a]||_0x5d1cef;_0x5d1cef[_0x57ea60(0x104)]=_0x104108[_0x57ea60(0x168)](_0x104108),_0x5d1cef[_0x57ea60(0x109)]=_0x520a27[_0x57ea60(0x109)][_0x57ea60(0x168)](_0x520a27),_0x5e1461[_0x3fbf2a]=_0x5d1cef;}});_0xf61b2c();'use strict';var _0x3c28c4={};_0x3c28c4[_0x2bd5c0(0x160)]=0.822,_0x3c28c4[_0x2bd5c0(0x184)]=0.6,_0x3c28c4[_0x2bd5c0(0x152)]=1.91;var _0x4ede8e=_0x3c28c4,_0x2e1fe2=_0x2bd5c0(0x191),_0x6377dd=0x1f4,_0x215897=_0x2bd5c0(0x106),_0x3ad558=_0x2bd5c0(0x176),_0xc95e93=0x16,_0x4be6cf={};_0x4be6cf[_0x2bd5c0(0x179)]=_0xc95e93,_0x4be6cf[_0x2bd5c0(0x11a)]=0x0,_0x4be6cf[_0x2bd5c0(0x16f)]=![],_0x4be6cf[_0x2bd5c0(0x10a)]=![],_0x4be6cf[_0x2bd5c0(0xef)]=null,_0x4be6cf[_0x2bd5c0(0x16e)]=null,_0x4be6cf[_0x2bd5c0(0x154)]=0x0,_0x4be6cf[_0x2bd5c0(0x135)]=0x0,_0x4be6cf[_0x2bd5c0(0x14c)]=0x0,_0x4be6cf[_0x2bd5c0(0x1b3)]=0x0,_0x4be6cf[_0x2bd5c0(0x16b)]=![],_0x4be6cf[_0x2bd5c0(0x105)]=null;var _0x30ece5=_0x4be6cf;window[_0x2bd5c0(0x165)]=_0x30ece5,window[_0x2bd5c0(0x187)]=function(){return _0x1a7bed(),_0x30ece5;};function _0x1b1626(){var _0x87ffd7=_0x2bd5c0;if(!window[_0x87ffd7(0x103)])return;try{console[_0x87ffd7(0xd0)][_0x87ffd7(0xf7)](console,[_0x87ffd7(0x14a)][_0x87ffd7(0x186)](Array[_0x87ffd7(0x18d)][_0x87ffd7(0x19d)][_0x87ffd7(0x17d)](arguments)));}catch(_0x91813e){}}var _0x376e86=_0x2bd5c0(0x1a2)+_0x2bd5c0(0xdb)+_0x2bd5c0(0x129)+_0x2bd5c0(0x190)+_0x2bd5c0(0x18b)+_0x2bd5c0(0x18a)+_0x2bd5c0(0x1a4);function _0x26edf7(_0x325731){var _0x2c266b=_0x2bd5c0,_0x28bebc;return _0x325731&&_0x325731[_0x2c266b(0x1b0)]?(_0x28bebc=_0x325731[_0x2c266b(0x1b0)](!![]),_0x28bebc[_0x2c266b(0x169)]('id'),_0x28bebc[_0x2c266b(0x19e)][_0x2c266b(0xf2)](_0x2c266b(0x11e)),_0x28bebc[_0x2c266b(0x169)](_0x2c266b(0x175))):(_0x28bebc=document[_0x2c266b(0x1ad)](_0x2c266b(0x19c)),_0x28bebc[_0x2c266b(0x19f)]=_0x2c266b(0x19c),_0x28bebc[_0x2c266b(0xed)]=''),_0x28bebc['id']=_0x2e1fe2,_0x28bebc[_0x2c266b(0x174)](_0x2c266b(0x159),_0x2c266b(0x195)),_0x28bebc[_0x2c266b(0x1b2)]=_0x2c266b(0x118),_0x28bebc[_0x2c266b(0x17b)]=_0x2c266b(0xf6)+_0x376e86+_0x2c266b(0x150)+_0x2c266b(0x1a8)+_0x4ede8e[_0x2c266b(0x160)][_0x2c266b(0xd9)](0x2)+_0x2c266b(0x188)+_0x4ede8e[_0x2c266b(0x184)][_0x2c266b(0xd9)](0x1)+_0x2c266b(0x138),_0x28bebc[_0x2c266b(0x17a)](_0x2c266b(0x177),_0x14ef8f),_0xb95b8d&&(_0x28bebc[_0x2c266b(0x19e)][_0x2c266b(0xdd)](_0x2c266b(0x11e)),_0x28bebc[_0x2c266b(0x174)](_0x2c266b(0x159),_0x2c266b(0xfe))),_0x28bebc;}function _0x1a3ed7(){var _0xd9394c=_0x2bd5c0,_0x44e319=document[_0xd9394c(0xff)](_0x2e1fe2);if(!_0x44e319)return;if(_0xb95b8d)_0x44e319[_0xd9394c(0x19e)][_0xd9394c(0xdd)](_0xd9394c(0x11e));else _0x44e319[_0xd9394c(0x19e)][_0xd9394c(0xf2)](_0xd9394c(0x11e));_0x44e319[_0xd9394c(0x174)](_0xd9394c(0x159),_0xb95b8d?_0xd9394c(0xfe):_0xd9394c(0x195));}var _0x297279=[_0x2bd5c0(0x191),_0x2bd5c0(0x17c),_0x2bd5c0(0xd4),_0x2bd5c0(0xe7)];function _0x1b2bc5(_0x1e62fb){var _0x1c4130=_0x2bd5c0,_0x308fbe=_0x297279[_0x1c4130(0x172)](_0x1e62fb);return _0x308fbe<0x0?_0x297279[_0x1c4130(0x10b)]:_0x308fbe;}function _0x38e406(_0x5e0eeb){var _0x320574=_0x2bd5c0,_0x266429=_0x1b2bc5(_0x2e1fe2),_0x1fa8b3=_0x5e0eeb[_0x320574(0xde)];for(var _0xeb79db=0x0;_0xeb79db<_0x1fa8b3[_0x320574(0x10b)];_0xeb79db+=0x1){var _0x25a53f=_0x1fa8b3[_0xeb79db];if(!_0x25a53f||!_0x25a53f['id'])return _0x25a53f;if(_0x1b2bc5(_0x25a53f['id'])>_0x266429)return _0x25a53f;}return null;}function _0x393fb2(_0x3fefe0){var _0x4c46b2=_0x2bd5c0;try{return!!(_0x3fefe0[_0x4c46b2(0xdc)]&&_0x3fefe0[_0x4c46b2(0xdc)]()[_0x4c46b2(0x10b)]);}catch(_0xcfeebb){return!![];}}function _0x5bc748(){var _0x572463=_0x2bd5c0,_0x44e6d8=document[_0x572463(0x12c)](_0x572463(0xd8));for(var _0x6ddee2=0x0;_0x6ddee2<_0x44e6d8[_0x572463(0x10b)];_0x6ddee2+=0x1){var _0x598aea=_0x44e6d8[_0x6ddee2][_0x572463(0xf8)]?_0x44e6d8[_0x6ddee2][_0x572463(0xf8)](_0x572463(0x19c)):null;if(_0x598aea&&_0x598aea['id']!==_0x2e1fe2)return _0x598aea;}return null;}function _0x2c27a4(){var _0xc584d2=_0x2bd5c0,_0x5cd1e4=document[_0xc584d2(0x12c)](_0xc584d2(0x1a7)),_0x24afd2=null;for(var _0x814199=0x0;_0x814199<_0x5cd1e4[_0xc584d2(0x10b)];_0x814199+=0x1){if(_0x393fb2(_0x5cd1e4[_0x814199]))return _0x5cd1e4[_0x814199];if(!_0x24afd2)_0x24afd2=_0x5cd1e4[_0x814199];}return _0x24afd2;}function _0x43b7b9(){var _0x182582=_0x2bd5c0,_0x2d9498=_0x2c27a4(),_0x1893c5=document[_0x182582(0xff)](_0x2e1fe2);if(!_0x2d9498)return _0x30ece5[_0x182582(0x16f)]=![],null;_0x30ece5[_0x182582(0x16f)]=!![],_0x30ece5[_0x182582(0x154)]=_0x2d9498[_0x182582(0x12c)](_0x182582(0xd8))[_0x182582(0x10b)];if(_0x1893c5&&_0x1893c5[_0x182582(0xe3)]===_0x2d9498)return _0x30ece5[_0x182582(0x10a)]=!![],_0x580eb6(_0x2d9498),_0x1893c5;if(_0x1893c5&&_0x1893c5[_0x182582(0xe3)])_0x1893c5[_0x182582(0xe3)][_0x182582(0x164)](_0x1893c5);var _0x5251f3=_0x26edf7(_0x5bc748());return _0x2d9498[_0x182582(0xee)](_0x5251f3,_0x38e406(_0x2d9498)),_0x30ece5[_0x182582(0x10a)]=!![],_0x30ece5[_0x182582(0x135)]+=0x1,_0x580eb6(_0x2d9498),_0x5251f3;}var _0x57fbd8=null,_0x32bb61=null,_0x2429bc=![];function _0x580eb6(_0x16c9a0){var _0x33d511=_0x2bd5c0;if(!window[_0x33d511(0x107)])return;if(_0x57fbd8===_0x16c9a0&&_0x32bb61)return;try{if(_0x32bb61)_0x32bb61[_0x33d511(0x1ae)]();_0x57fbd8=_0x16c9a0,_0x32bb61=new MutationObserver(function(_0x1bcb57){var _0x3a411b=_0x33d511,_0x5dd7bd=![];for(var _0x3de0af=0x0;_0x3de0af<_0x1bcb57[_0x3a411b(0x10b)]&&!_0x5dd7bd;_0x3de0af+=0x1){var _0x2af917=_0x1bcb57[_0x3de0af][_0x3a411b(0x15e)];if(!_0x2af917)continue;for(var _0x40bdbf=0x0;_0x40bdbf<_0x2af917[_0x3a411b(0x10b)];_0x40bdbf+=0x1){if(_0x2af917[_0x40bdbf]&&_0x2af917[_0x40bdbf]['id']===_0x2e1fe2){_0x5dd7bd=!![];break;}}}if(!_0x5dd7bd)return;if(_0x2429bc)return;_0x2429bc=!![];try{_0x43b7b9(),_0x30ece5[_0x3a411b(0x14c)]+=0x1;}catch(_0x13e7e5){_0x30ece5[_0x3a411b(0x105)]=String(_0x13e7e5);}_0x2429bc=![];});var _0x370874={};_0x370874[_0x33d511(0xf9)]=!![],_0x32bb61[_0x33d511(0xe4)](_0x16c9a0,_0x370874);}catch(_0x5e36b5){_0x30ece5[_0x33d511(0x105)]=String(_0x5e36b5);}}function _0x1a7bed(){var _0x182471=_0x2bd5c0;_0x30ece5[_0x182471(0x11a)]+=0x1;try{_0x43b7b9();}catch(_0x51a349){_0x30ece5[_0x182471(0x105)]=String(_0x51a349);}}var _0xb95b8d=![];function _0x480308(_0x1d0c3b){_0x1a3ed7();}function _0x4a40bb(_0x52753a){var _0x20bed1=_0x2bd5c0;_0xb95b8d=_0x52753a,_0x30ece5[_0x20bed1(0x16b)]=_0x52753a,_0x480308(_0x52753a);}function _0x14ef8f(){var _0x24ba6b=_0x2bd5c0;_0x4a40bb(!_0xb95b8d),_0xb95b8d&&_0x3bb92d(),_0x1b1626(_0x24ba6b(0x146),_0xb95b8d);}function _0x1f88fb(){var _0x2794d5=_0x2bd5c0;document[_0x2794d5(0x17a)](_0x2794d5(0xd7),function(_0x23a106){var _0xe6d7c=_0x2794d5;_0xb95b8d&&(_0x23a106[_0xe6d7c(0x102)]===_0xe6d7c(0x133)||_0x23a106[_0xe6d7c(0x181)]===0x1b)&&(_0x4a40bb(![]),_0x1b1626(_0xe6d7c(0x12e)));},!![]);}var _0x2e3d71=[];function _0x2bf868(_0x3b6ffb){var _0x2fb853=_0x2bd5c0;if(!_0x3b6ffb||!_0x3b6ffb[_0x2fb853(0x117)])return;var _0x30403c=[];_0x3b6ffb[_0x2fb853(0x117)][_0x2fb853(0x101)](function(_0x59e963){var _0x580597=_0x2fb853;(_0x59e963[_0x580597(0x149)]||[])[_0x580597(0x101)](function(_0x49207c){var _0x15a909=_0x580597;if(!_0x49207c||_0x49207c[_0x15a909(0x127)]!==_0x3ad558)return;if(!_0x49207c[_0x15a909(0x13f)]||_0x49207c[_0x15a909(0x13f)][_0x15a909(0x10b)]<0x2)return;_0x30403c[_0x15a909(0xe5)]([Number(_0x49207c[_0x15a909(0x13f)][0x0]),Number(_0x49207c[_0x15a909(0x13f)][0x1])]);});}),_0x2e3d71=_0x30403c,_0x30ece5[_0x2fb853(0xea)]=_0x30403c[_0x2fb853(0x10b)];}function _0x31eeb4(){var _0x17e63f=_0x2bd5c0;return window[_0x17e63f(0x111)]||null;}function _0x52eaf6(){var _0x3b7972=_0x2bd5c0,_0x5df958=_0x31eeb4();if(_0x5df958){_0x5df958[_0x3b7972(0x142)]();return;}var _0x7b8e72={};_0x7b8e72[_0x3b7972(0x131)]=_0x3b7972(0xec),fetch(_0xe6b77e(_0x3b7972(0x110)),_0x7b8e72)[_0x3b7972(0x120)](function(_0x4baf7d){var _0x33b8bc=_0x3b7972;return _0x4baf7d['ok']?_0x4baf7d[_0x33b8bc(0x18c)]():null;})[_0x3b7972(0x120)](function(_0x24b8be){var _0x314cd1=_0x3b7972;_0x2bf868(_0x24b8be&&(_0x24b8be[_0x314cd1(0x114)]||_0x24b8be));})[_0x3b7972(0x112)](function(_0x49eec7){var _0x2fe8a4=_0x3b7972;_0x30ece5[_0x2fe8a4(0x105)]=String(_0x49eec7);});}function _0x5c0a8f(_0x1af7ee){var _0x188f32=_0x2bd5c0,_0x502e9a=_0x1af7ee&&_0x1af7ee[_0x188f32(0x134)]?_0x1af7ee[_0x188f32(0x134)](_0x188f32(0xf3)):null;if(!_0x502e9a)return null;var _0x337c9f=/translate\(\s*([-\d.eE+]+)[\s,]+([-\d.eE+]+)\s*\)/[_0x188f32(0x125)](_0x502e9a);if(!_0x337c9f)return null;var _0x11c28f=parseFloat(_0x337c9f[0x1]),_0x502238=parseFloat(_0x337c9f[0x2]);if(!isFinite(_0x11c28f)||!isFinite(_0x502238))return null;return[_0x11c28f,_0x502238];}function _0x4450df(_0x1c95d5){var _0x348782=_0x2bd5c0,_0xfb75fe=[];if(!_0x1c95d5||!_0x2e3d71[_0x348782(0x10b)])return _0xfb75fe;var _0x501823=_0x1c95d5[_0x348782(0x12c)](_0x348782(0x155));for(var _0x117819=0x0;_0x117819<_0x501823[_0x348782(0x10b)];_0x117819+=0x1){var _0x45b455=_0x5c0a8f(_0x501823[_0x117819]);if(!_0x45b455)continue;for(var _0x1cb728=0x0;_0x1cb728<_0x2e3d71[_0x348782(0x10b)];_0x1cb728+=0x1){var _0x26804f=_0x2e3d71[_0x1cb728];if(Math[_0x348782(0x180)](_0x45b455[0x0]-_0x26804f[0x0])<0.01&&Math[_0x348782(0x180)](_0x45b455[0x1]-_0x26804f[0x1])<0.01){_0xfb75fe[_0x348782(0xe5)](_0x501823[_0x117819]);break;}}}return _0xfb75fe;}function _0x12f2f9(){var _0x1e1bad=_0x2bd5c0;try{var _0x5b8f11=document[_0x1e1bad(0x147)](_0x1e1bad(0x13b));if(!_0x5b8f11)return;var _0x1ca5ec=_0x4450df(_0x5b8f11);for(var _0x1eee0c=0x0;_0x1eee0c<_0x1ca5ec[_0x1e1bad(0x10b)];_0x1eee0c+=0x1){var _0x11e0c2=_0x1ca5ec[_0x1eee0c][_0x1e1bad(0x147)](_0x1e1bad(0xda));if(_0x11e0c2&&_0x11e0c2[_0x1e1bad(0x148)]!=='冰箱')_0x11e0c2[_0x1e1bad(0x148)]='冰箱';}}catch(_0x44fd39){_0x30ece5[_0x1e1bad(0x105)]=String(_0x44fd39);}}var _0xdae6f3=_0x2bd5c0(0x10d),_0x57bbf0=_0x2bd5c0(0x116)+_0x2bd5c0(0x1aa)+_0x2bd5c0(0xdf)+_0x2bd5c0(0x196)+_0x2bd5c0(0x137)+_0x2bd5c0(0x153)+_0x2bd5c0(0x182);function _0x5273de(_0x242078,_0x34d67e){var _0x5529d0=_0x2bd5c0,_0x56b171=typeof _0x242078===_0x5529d0(0x132)&&isFinite(_0x242078)&&_0x242078>0x0?_0x242078:_0x4ede8e[_0x5529d0(0x160)],_0x3849e8=typeof _0x34d67e===_0x5529d0(0x132)&&isFinite(_0x34d67e)&&_0x34d67e>0x0?_0x34d67e:_0x4ede8e[_0x5529d0(0x184)],_0x876304=document[_0x5529d0(0xe6)](_0xdae6f3,_0x5529d0(0xe2));_0x876304[_0x5529d0(0x174)](_0x5529d0(0x141),_0x5529d0(0x11b)),_0x876304[_0x5529d0(0x174)]('x',String(-_0x56b171/0x2)),_0x876304[_0x5529d0(0x174)]('y',String(-_0x3849e8/0x2)),_0x876304[_0x5529d0(0x174)](_0x5529d0(0x160),String(_0x56b171)),_0x876304[_0x5529d0(0x174)](_0x5529d0(0x152),String(_0x3849e8)),_0x876304[_0x5529d0(0x174)](_0x5529d0(0xe1),_0x5529d0(0x1a0)),_0x876304[_0x5529d0(0x174)](_0x5529d0(0x17e),_0x5529d0(0x173)),_0x876304[_0x5529d0(0x174)](_0x5529d0(0x130),_0x5529d0(0x173));var _0x3a52e2=document[_0x5529d0(0xe6)](_0xdae6f3,_0x5529d0(0x15f));return _0x3a52e2[_0x5529d0(0x174)]('d',_0x57bbf0),_0x3a52e2[_0x5529d0(0x174)](_0x5529d0(0xf1),_0x5529d0(0xe9)),_0x876304[_0x5529d0(0x1ac)](_0x3a52e2),_0x876304;}function _0x1efafa(){var _0x49cb57=_0x2bd5c0;try{var _0x4eb037=document[_0x49cb57(0x147)](_0x49cb57(0x13b));if(!_0x4eb037)return;var _0x2b833e=_0x4450df(_0x4eb037),_0x15f233=![];for(var _0x529f86=0x0;_0x529f86<_0x2b833e[_0x49cb57(0x10b)];_0x529f86+=0x1){if(_0x2b833e[_0x529f86][_0x49cb57(0x147)](_0x49cb57(0x108))){_0x15f233=!![];break;}}if(!_0x15f233)return;var _0x56a5e6=document[_0x49cb57(0x147)](_0x49cb57(0x189));if(_0x56a5e6&&_0x56a5e6[_0x49cb57(0x148)]!=='冰箱')_0x56a5e6[_0x49cb57(0x148)]='冰箱';var _0x201705=document[_0x49cb57(0x147)](_0x49cb57(0x178));_0x201705&&/家具/[_0x49cb57(0x15c)](_0x201705[_0x49cb57(0x148)])&&/橱柜/[_0x49cb57(0x15c)](_0x201705[_0x49cb57(0x148)])&&(_0x201705[_0x49cb57(0x148)]=_0x201705[_0x49cb57(0x148)][_0x49cb57(0x12b)](/橱柜/g,'冰箱'));var _0x1834cd=document[_0x49cb57(0x12c)](_0x49cb57(0x121));for(var _0x6cb517=0x0;_0x6cb517<_0x1834cd[_0x49cb57(0x10b)];_0x6cb517+=0x1){if(_0x1834cd[_0x6cb517][_0x49cb57(0x148)]==='橱柜')_0x1834cd[_0x6cb517][_0x49cb57(0x148)]='冰箱';}}catch(_0x34721b){_0x30ece5[_0x49cb57(0x105)]=String(_0x34721b);}}function _0x307fd3(){var _0x5a0a13=_0x2bd5c0;try{var _0x195421=document[_0x5a0a13(0x147)](_0x5a0a13(0x13b));if(!_0x195421)return;var _0x55741b=_0x4450df(_0x195421);for(var _0x260da2=0x0;_0x260da2<_0x55741b[_0x5a0a13(0x10b)];_0x260da2+=0x1){var _0x5a3a20=_0x55741b[_0x260da2],_0x2627fa=_0x5a3a20[_0x5a0a13(0x147)](_0x5a0a13(0x17f));if(!_0x2627fa)continue;_0x2627fa[_0x5a0a13(0x115)][_0x5a0a13(0xf1)]=_0x5a0a13(0x173),_0x2627fa[_0x5a0a13(0x115)][_0x5a0a13(0xd3)]=_0x5a0a13(0xfb);if(!_0x5a3a20[_0x5a0a13(0x147)](_0x5a0a13(0x167))){var _0x15e32b=parseFloat(_0x2627fa[_0x5a0a13(0x134)](_0x5a0a13(0x160)))||_0x4ede8e[_0x5a0a13(0x160)],_0x46ddc4=parseFloat(_0x2627fa[_0x5a0a13(0x134)](_0x5a0a13(0x152)))||_0x4ede8e[_0x5a0a13(0x184)];_0x5a3a20[_0x5a0a13(0xee)](_0x5273de(_0x15e32b,_0x46ddc4),_0x2627fa[_0x5a0a13(0xfa)]);}}}catch(_0x22b4f9){_0x30ece5[_0x5a0a13(0x105)]=String(_0x22b4f9);}}function _0x4f684d(){var _0x4ff034=_0x2bd5c0,_0x3ffca6=document[_0x4ff034(0x12c)](_0x4ff034(0x139));return Array[_0x4ff034(0x18d)][_0x4ff034(0xe0)][_0x4ff034(0x17d)](_0x3ffca6,function(_0x178e11){return _0x178e11['id']!==_0x2e1fe2;});}function _0x3bb92d(){var _0xf61c2f=_0x2bd5c0;try{_0x4f684d()[_0xf61c2f(0x101)](function(_0x4ee85f){var _0x2ce976=_0xf61c2f;_0x4ee85f[_0x2ce976(0x19e)][_0x2ce976(0xf2)](_0x2ce976(0x11e)),_0x4ee85f[_0x2ce976(0x174)](_0x2ce976(0x159),_0x2ce976(0x195));});}catch(_0x5b52e0){}}function _0x15f0a5(){var _0x213651=_0x2bd5c0;document[_0x213651(0x17a)](_0x213651(0x177),function(_0x1663a6){var _0xfcf1fb=_0x213651;if(!_0xb95b8d)return;var _0x44459e=_0x1663a6[_0xfcf1fb(0x122)];if(!_0x44459e||!_0x44459e[_0xfcf1fb(0xf8)])return;if(_0x44459e[_0xfcf1fb(0xf8)]('#'+_0x2e1fe2))return;var _0x2d9823=_0x44459e[_0xfcf1fb(0xf8)](_0xfcf1fb(0x19c));if(!_0x2d9823||_0x2d9823['id']===_0x2e1fe2)return;if(!_0x2d9823[_0xfcf1fb(0x147)](_0xfcf1fb(0xd8)))return;_0xb95b8d=![],_0x30ece5[_0xfcf1fb(0x16b)]=![],_0x480308(![]),_0x1b1626(_0xfcf1fb(0x16a));},!![]);}function _0x2ce684(_0x33dc0e){var _0x8d5da1=_0x2bd5c0,_0x1a64e0=_0x33dc0e[_0x8d5da1(0x122)]&&_0x33dc0e[_0x8d5da1(0x122)][_0x8d5da1(0xf8)]?_0x33dc0e[_0x8d5da1(0x122)][_0x8d5da1(0xf8)](_0x8d5da1(0x13b)):null;if(!_0x1a64e0)_0x1a64e0=document[_0x8d5da1(0x147)](_0x8d5da1(0x13b));if(!_0x1a64e0)return null;try{if(_0x1a64e0[_0x8d5da1(0x1b1)]&&_0x1a64e0[_0x8d5da1(0xeb)]){var _0x310cfb=_0x1a64e0[_0x8d5da1(0x1b1)]();if(_0x310cfb){var _0x47a1c5=_0x1a64e0[_0x8d5da1(0xeb)]();_0x47a1c5['x']=_0x33dc0e[_0x8d5da1(0x158)],_0x47a1c5['y']=_0x33dc0e[_0x8d5da1(0x19a)];var _0x18a244=_0x47a1c5[_0x8d5da1(0x143)](_0x310cfb[_0x8d5da1(0x14e)]());if(isFinite(_0x18a244['x'])&&isFinite(_0x18a244['y']))return[_0x18a244['x'],_0x18a244['y']];}}}catch(_0x505e8a){}try{var _0x4b2945=_0x1a64e0[_0x8d5da1(0x10c)](),_0x1693d3=_0x1a64e0[_0x8d5da1(0xe1)]&&_0x1a64e0[_0x8d5da1(0xe1)][_0x8d5da1(0x151)];if(!_0x4b2945[_0x8d5da1(0x160)]||!_0x4b2945[_0x8d5da1(0x152)]||!_0x1693d3||!_0x1693d3[_0x8d5da1(0x160)]||!_0x1693d3[_0x8d5da1(0x152)])return null;var _0x314aa5=(_0x33dc0e[_0x8d5da1(0x158)]-_0x4b2945[_0x8d5da1(0x14b)])/_0x4b2945[_0x8d5da1(0x160)],_0x54c714=(_0x33dc0e[_0x8d5da1(0x19a)]-_0x4b2945[_0x8d5da1(0xf4)])/_0x4b2945[_0x8d5da1(0x152)];return[_0x1693d3['x']+_0x314aa5*_0x1693d3[_0x8d5da1(0x160)],_0x1693d3['y']+_0x54c714*_0x1693d3[_0x8d5da1(0x152)]];}catch(_0xf67bf2){return _0x30ece5[_0x8d5da1(0x105)]=String(_0xf67bf2),null;}}var _0x38c2c8=null,_0x2259e3=![],_0x1fcc7d=0x0,_0x45b3b7=-0x1;function _0x4d0572(_0x491b34){var _0xc82b9d=_0x2bd5c0;if(!_0xb95b8d)return;var _0x4fe4b7=_0x491b34[_0xc82b9d(0x122)];if(_0x4fe4b7&&_0x4fe4b7[_0xc82b9d(0xf8)]){if(!_0x4fe4b7[_0xc82b9d(0xf8)](_0xc82b9d(0x13b))){!_0x4fe4b7[_0xc82b9d(0xf8)]('#'+_0x2e1fe2)&&(_0x4a40bb(![]),_0x1b1626(_0xc82b9d(0x170)));return;}}_0x491b34[_0xc82b9d(0x144)](),_0x491b34[_0xc82b9d(0xd6)]();if(_0x491b34[_0xc82b9d(0x19f)]===_0xc82b9d(0x15b))_0x38c2c8=_0x491b34[_0xc82b9d(0x145)];else _0x2259e3=!![];_0x1fcc7d+=0x1,_0x45b3b7=_0x1fcc7d,_0x30ece5[_0xc82b9d(0x1b3)]+=0x1;var _0x1ae544=_0x2ce684(_0x491b34);if(_0x1ae544)_0xca3e30(_0x1ae544);_0x4a40bb(![]);}function _0x3fdef3(_0x44ce7e,_0x7272bb){var _0x204822=_0x2bd5c0,_0x5a2887=_0x44ce7e[_0x204822(0x122)];if(!_0x5a2887||!_0x5a2887[_0x204822(0xf8)]||!_0x5a2887[_0x204822(0xf8)](_0x204822(0x13b)))return;if(_0x45b3b7!==_0x1fcc7d){if(_0xb95b8d)_0x4a40bb(![]);return;}_0x44ce7e[_0x204822(0x144)](),_0x44ce7e[_0x204822(0xd6)]();if(_0xb95b8d)_0x4a40bb(![]);_0x7272bb===_0x204822(0x177)&&(_0x45b3b7=-0x1,_0x38c2c8=null,_0x2259e3=![]);}function _0x79bdb2(_0x278804){var _0x3a307d=_0x2bd5c0,_0x4d2786=_0x278804;while(_0x4d2786&&_0x4d2786[_0x3a307d(0xf8)]){if(_0x4d2786[_0x3a307d(0x19e)]&&_0x4d2786[_0x3a307d(0x19e)][_0x3a307d(0x194)](_0x3a307d(0x14f)))return _0x4d2786[_0x3a307d(0x147)](_0x3a307d(0x17f));_0x4d2786=_0x4d2786[_0x3a307d(0xe3)];}return null;}function _0x4386c1(_0x25d35d){var _0x2141c8=_0x2bd5c0;return!!(_0x25d35d&&_0x25d35d[_0x2141c8(0x19e)]&&_0x25d35d[_0x2141c8(0x19e)][_0x2141c8(0x194)](_0x2141c8(0x166)));}var _0x365409=![];function _0x17af48(_0x2930ba){var _0x271eed=_0x2bd5c0;if(_0x45b3b7===_0x1fcc7d)_0x45b3b7=-0x1;var _0x58197b=_0x2930ba[_0x271eed(0x122)],_0x52062e=!!(_0x58197b&&_0x58197b[_0x271eed(0xf8)]&&_0x58197b[_0x271eed(0xf8)](_0x271eed(0x13b)));if(!_0x52062e){_0x365409=![];return;}var _0x1576c1=_0x79bdb2(_0x58197b);_0x365409=!!(_0x1576c1&&!_0x4386c1(_0x1576c1));}function _0xb1de1b(_0x40a428){var _0x320ce7=_0x2bd5c0;if(!_0x365409)return;_0x40a428[_0x320ce7(0x144)]();}function _0xb4ee5d(){var _0x31d166=_0x2bd5c0;[_0x31d166(0x15b),_0x31d166(0x124),_0x31d166(0x11c),_0x31d166(0x12d),_0x31d166(0x177)][_0x31d166(0x101)](function(_0x59fe12){var _0x241dc2=_0x31d166;window[_0x241dc2(0x17a)](_0x59fe12,function(_0x586607){var _0x3d9b99=_0x241dc2;if(_0x59fe12===_0x3d9b99(0x15b)||_0x59fe12===_0x3d9b99(0x124)){if(_0xb95b8d)_0x4d0572(_0x586607);else _0x17af48(_0x586607);}else{if(_0x59fe12===_0x3d9b99(0x11c)||_0x59fe12===_0x3d9b99(0x12d))_0x365409=![];_0x3fdef3(_0x586607,_0x59fe12);}},!![]);}),window[_0x31d166(0x17a)](_0x31d166(0x1a6),_0xb1de1b,!![]);}function _0xe6b77e(_0x366c44){var _0x2e38c7=_0x2bd5c0,_0x16fcd5=window[_0x2e38c7(0x18f)][_0x2e38c7(0x15d)][_0x2e38c7(0x192)]('/')[_0x2e38c7(0xe0)](Boolean);if(_0x16fcd5[_0x2e38c7(0x10b)]>=0x2&&_0x16fcd5[0x0]===_0x2e38c7(0x136))return'/'+_0x16fcd5[0x0]+'/'+_0x16fcd5[0x1]+_0x366c44;return'.'+_0x366c44;}function _0xca3e30(_0x5e63b5){var _0x3d1169=_0x2bd5c0,_0x1e839c={};_0x1e839c[_0x3d1169(0x131)]=_0x3d1169(0xec),fetch(_0xe6b77e(_0x3d1169(0x110)),_0x1e839c)[_0x3d1169(0x120)](function(_0xf6739){var _0x4f24da=_0x3d1169;if(!_0xf6739['ok'])throw new Error(_0x4f24da(0xf5)+_0xf6739[_0x4f24da(0x123)]);return _0xf6739[_0x4f24da(0x18c)]();})[_0x3d1169(0x120)](function(_0x45c56a){var _0x27b04f=_0x3d1169,_0x36e5af=_0x45c56a&&(_0x45c56a[_0x27b04f(0x114)]||_0x45c56a);if(!_0x36e5af||!_0x36e5af[_0x27b04f(0x117)]||!_0x36e5af[_0x27b04f(0x117)][_0x27b04f(0x10b)])throw new Error(_0x27b04f(0x14d));var _0x281464=_0x36e5af[_0x27b04f(0x117)][0x0],_0x4c607b={'id':_0x27b04f(0x183)+Date[_0x27b04f(0x13d)](),'kind':_0x215897,'floorId':_0x281464['id'],'roomId':_0x281464[_0x27b04f(0x1a9)]&&_0x281464[_0x27b04f(0x1a9)][0x0]?_0x281464[_0x27b04f(0x1a9)][0x0]['id']:null,'position':[_0x5e63b5[0x0],_0x5e63b5[0x1]],'rotation':0x0,'width':_0x4ede8e[_0x27b04f(0x160)],'depth':_0x4ede8e[_0x27b04f(0x184)],'height':_0x4ede8e[_0x27b04f(0x152)],'modelId':_0x3ad558};_0x281464[_0x27b04f(0x149)]=_0x281464[_0x27b04f(0x149)]||[],_0x281464[_0x27b04f(0x149)][_0x27b04f(0xe5)](_0x4c607b);var _0x12e765={};return _0x12e765[_0x27b04f(0x16d)]=_0x27b04f(0x140),fetch(_0xe6b77e(_0x27b04f(0x16c)+_0x36e5af['id']),{'method':_0x27b04f(0x197),'headers':_0x12e765,'credentials':_0x27b04f(0xec),'body':JSON[_0x27b04f(0x18e)](_0x36e5af)});})[_0x3d1169(0x120)](function(_0x3aab09){var _0x25d2f4=_0x3d1169;if(!_0x3aab09['ok'])throw new Error(_0x25d2f4(0x10e)+_0x3aab09[_0x25d2f4(0x123)]);_0x1b1626(_0x25d2f4(0x10f),_0x5e63b5);var _0x5426d1=_0x31eeb4();if(_0x5426d1)_0x5426d1[_0x25d2f4(0x113)]();if(window[_0x25d2f4(0xfd)])window[_0x25d2f4(0xfd)](_0x5e63b5);_0x4a40bb(![]),_0x52eaf6(),window[_0x25d2f4(0x13e)](function(){_0x307fd3(),_0x12f2f9(),_0x1efafa();},0x190);})[_0x3d1169(0x112)](function(_0x115eb4){var _0x1d2af4=_0x3d1169;_0x30ece5[_0x1d2af4(0x105)]=String(_0x115eb4),_0x1b1626(_0x1d2af4(0x119),_0x115eb4);});}function _0x466d13(){var _0x42eb03=_0x2bd5c0,_0x3c00aa={};_0x3c00aa[_0x42eb03(0x131)]=_0x42eb03(0xec),fetch(_0xe6b77e(_0x42eb03(0x110)),_0x3c00aa)[_0x42eb03(0x120)](function(_0x5b660a){var _0x42d8b4=_0x42eb03;return _0x5b660a['ok']?_0x5b660a[_0x42d8b4(0x18c)]():null;})[_0x42eb03(0x120)](function(_0x4d0857){var _0x408b67=_0x42eb03,_0x931dcb=_0x4d0857&&(_0x4d0857[_0x408b67(0x114)]||_0x4d0857);if(!_0x931dcb||!_0x931dcb[_0x408b67(0x117)])return;var _0x58502e=0x0;_0x931dcb[_0x408b67(0x117)][_0x408b67(0x101)](function(_0x2e89ca){var _0x405d9e=_0x408b67;(_0x2e89ca[_0x405d9e(0x149)]||[])[_0x405d9e(0x101)](function(_0x5cfeb6){var _0x2f7dae=_0x405d9e;if(!_0x5cfeb6)return;if(_0x5cfeb6[_0x2f7dae(0x128)]===_0x2f7dae(0x171)){_0x5cfeb6[_0x2f7dae(0x128)]=_0x215897,_0x5cfeb6[_0x2f7dae(0x127)]=_0x3ad558,_0x58502e+=0x1;return;}_0x5cfeb6[_0x2f7dae(0x128)]===_0x215897&&_0x5cfeb6[_0x2f7dae(0x127)]!==_0x3ad558&&Math[_0x2f7dae(0x180)](_0x5cfeb6[_0x2f7dae(0x160)]-_0x4ede8e[_0x2f7dae(0x160)])<0.02&&Math[_0x2f7dae(0x180)](_0x5cfeb6[_0x2f7dae(0x184)]-_0x4ede8e[_0x2f7dae(0x184)])<0.02&&(_0x5cfeb6[_0x2f7dae(0x127)]=_0x3ad558,_0x58502e+=0x1);});});if(!_0x58502e)return;var _0x2a9a38={};return _0x2a9a38[_0x408b67(0x16d)]=_0x408b67(0x140),fetch(_0xe6b77e(_0x408b67(0x16c)+_0x931dcb['id']),{'method':_0x408b67(0x197),'headers':_0x2a9a38,'credentials':_0x408b67(0xec),'body':JSON[_0x408b67(0x18e)](_0x931dcb)})[_0x408b67(0x120)](function(_0x272ec8){var _0x50f0da=_0x408b67;if(!_0x272ec8['ok'])throw new Error(_0x50f0da(0x12f)+_0x272ec8[_0x50f0da(0x123)]);_0x30ece5[_0x50f0da(0x11d)]=_0x58502e,_0x1b1626(_0x50f0da(0x12a),_0x58502e);});})[_0x42eb03(0x112)](function(_0x44b09b){var _0x1b94ab=_0x42eb03;_0x30ece5[_0x1b94ab(0x105)]=String(_0x44b09b),_0x1b1626(_0x1b94ab(0xe8),_0x44b09b);});}function _0x435c1a(){var _0xa5a0fc=_0x2bd5c0;_0x466d13();var _0x3ee8dc=_0x31eeb4();if(_0x3ee8dc)_0x3ee8dc[_0xa5a0fc(0x19b)](_0x2bf868);_0x52eaf6(),_0xb4ee5d(),_0x15f0a5(),_0x1f88fb(),_0x1a7bed();var _0x2389da=0x0;window[_0xa5a0fc(0x13c)](function(){_0x2389da+=0x1;if(_0x2389da%0x1e===0x0)_0x52eaf6();_0x1a7bed(),_0x12f2f9(),_0x307fd3(),_0x1efafa();},_0x6377dd);}document[_0x2bd5c0(0xd1)]===_0x2bd5c0(0xd2)?document[_0x2bd5c0(0x17a)](_0x2bd5c0(0x1a3),_0x435c1a):_0x435c1a();}()));
+/*
+ * Fridge button for the editor's furniture library (运行时补丁).
+ *
+ * The floor-plan editor's furniture library is hard-coded inside the minified
+ * SPA bundle (`FloorplanEditor-*.js`) — its kind list does NOT contain
+ * "fridge". Because the integration cannot edit the bundle, this patch
+ * re-adds the "冰箱" card at runtime, following the same pattern as the other
+ * runtime patches (appliance-fridge.js, room-panel.js, ...):
+ *
+ *   1. poll the DOM for the furniture library grid (`.furniture-library-grid`,
+ *      with a fallback that locates any native library button's parent),
+ *   2. inject a "冰箱" <button> that matches the native cards,
+ *   3. on click + plan click, write a furniture record into the current
+ *      floor-plan project through the SAME relative REST API the SPA itself
+ *      uses ("./api/projects/current" then PUT "./api/projects/{id}") —
+ *      document-relative, so it works no matter which path the panel is
+ *      mounted under (e.g. /evinchan-3d-home or /api/evinchan_ha_3d_home).
+ *
+ * The record uses the carrier kind "cabinet" + modelId "appliance.fridge"
+ * (see CARRIER_KIND below for why). After the PUT, the backend broadcasts
+ * `project.updated`; the SPA re-renders the 2D footprint, this patch paints
+ * the fridge pictogram + "冰箱" label on it, and `appliance-fridge.js` swaps in
+ * the procedural 3D fridge by matching kind or modelId.
+ *
+ * Debug: set `window.HA3D_FRIDGE_DEBUG = true` (before or after load) and
+ * inspect `window.ha3dFridgeLibDebug`.
+ */
+(function () {
+  "use strict";
+
+  // Mirrors schema.py `_FURNITURE_FALLBACK["fridge"] = (0.822, 0.6, 1.91)`.
+  var DIM = { width: 0.822, depth: 0.6, height: 1.91 };
+  var BUTTON_ID = "ha3d-fridge-library-button";
+  var POLL_MS = 500;
+  /* The SPA's internal furniture catalog (vt = {sofa:{label...}, ...}) is
+   * hard-coded and has NO "fridge" entry — a furniture record with
+   * kind:"fridge" makes the SPA crash (`vt[kind].label` of undefined, black
+   * screen). So the card writes a KNOWN carrier kind ("cabinet") carrying
+   * modelId "appliance.fridge"; `appliance-fridge.js` matches furniture by
+   * that modelId and renders the 3D fridge. */
+  var CARRIER_KIND = "cabinet";
+  var MODEL_ID = "appliance.fridge";
+
+  // Bump on every behavioural change: after a reload, read it in the console to
+  // prove which build the browser is actually running (stale iframe caches made
+  // earlier debugging ambiguous).
+  var VERSION = 22;
+
+  var stats = {
+    version: VERSION,
+    polls: 0,
+    gridFound: false,
+    injected: false,
+    hostVia: null, // "grid" | "card" | "text"
+    hostClass: null,
+    nativeCards: 0,
+    injections: 0,
+    reinjections: 0,
+    clicks: 0,
+    armed: false,
+    lastError: null,
+  };
+  window.ha3dFridgeLibDebug = stats;
+  // Manual trigger for debugging in the console.
+  window.HA3D_FRIDGE_LIB_FORCE = function () {
+    ensureButton();
+    return stats;
+  };
+
+  function log() {
+    if (!window.HA3D_FRIDGE_DEBUG) return;
+    try {
+      console.log.apply(console, ["[3d-home fridge-lib]"].concat(Array.prototype.slice.call(arguments)));
+    } catch (e) {
+      /* ignore */
+    }
+  }
+
+  /* ----------------------------------------------------- button injection */
+  // The icon is the user-supplied fridge glyph; fills use currentColor so the
+  // icon follows the card's ink colour like the native pictograms do.
+  var ICON_SVG =
+    '<svg viewBox="0 0 1024 1024" width="34" height="34" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">' +
+    '<path fill="currentColor" d="M750.1 465.3m6.8 0l8.2 0q6.8 0 6.8 6.8l0 358.2q0 6.8-6.8 6.8l-8.2 0q-6.8 0-6.8-6.8l0-358.2q0-6.8 6.8-6.8Z"></path>' +
+    '<path fill="currentColor" d="M283.7 356.2h-20.1c-6.8 0-14.4-5-14.4-11.8V141.9c0-6.8 7.6-13.7 14.4-13.7h20.1c6.8 0 14.8 6.9 14.8 13.7v202.6c0 6.8-8 11.8-14.8 11.8zM282.1 147.4a5.2 5.2 0 0 0-5.1-4.3h-6.7a4.8 4.8 0 0 0-4.6 4.3v188.9a5.6 5.6 0 0 0 4.7 5.1h6.7a6 6 0 0 0 5-5.1V147.4z"></path>' +
+    '<path fill="currentColor" d="M283.7 692.9h-20.1c-6.8 0-14.4-5-14.4-11.8V478.6c0-6.8 7.6-13.7 14.4-13.7h20.1c6.8 0 14.8 6.9 14.8 13.7v202.6c0 6.8-8 11.8-14.8 11.8zM282.1 484.1a5.2 5.2 0 0 0-5.1-4.3h-6.7a4.8 4.8 0 0 0-4.6 4.3v188.9a5.6 5.6 0 0 0 4.7 5.1h6.7a6 6 0 0 0 5-5.1V484.1z"></path>' +
+    '<path fill="currentColor" d="M780.3 968.5H243.7c-22.7 0-52-29.3-52-52V100.8c0-22.7 29.3-52 52-52h536.5c22.7 0 52 29.3 52 52v815.7c0 22.7-29.3 52-52 52z m-515.9-24.6h495.3c20.9 0 48-27.8 48-49.2V416.2H218.4a6.8 6.8 0 0 1-2.1-0.4v479.4c0 21.5 27.1 49.2 48.1 49.2zM759.6 73.5H264.4c-20.9 0-48 27.8-48 49.2V391.3a6.8 6.8 0 0 1 2.1-0.4H807.6V122.7c0-21.5-27.1-49.2-48-49.2z"></path>' +
+    '<path fill="currentColor" d="M750.1 177.5v-24.6c0-3 3.3-4.9 10.1-4.9s11.8 1.9 11.8 4.9v24.6h-21.9z m21.9 19.2v158.8c0 3-4.9 5.8-11.8 5.8s-10.1-2.8-10.1-5.8V196.6h21.9z"></path>' +
+    "</svg>";
+
+  /* The card is a CLONE of a native furniture card, inserted as the FIRST
+   * child of `.furniture-library-grid`.
+   *
+   * Being inside the grid matters: the grid is `display:grid` with
+   * `grid-template-columns: 124px 124px`, so only real children get the
+   * native card's width, alignment, wrapping and scroll behaviour. A floating
+   * body-level card looked detached from the list and did not participate in
+   * the layout.
+   *
+   * The hard part is React: the grid is a React-managed container and React
+   * removes foreign nodes when it re-renders the list, which previously made
+   * the card flicker away every 500 ms. That wipe is also what let a click
+   * land on the native card underneath and arm the sofa. So:
+   *
+   *   - the node is CLONED from a native card, inheriting its classes and
+   *     structure (identical look, zero custom CSS for the resting state);
+   *   - a MutationObserver on the grid re-inserts it synchronously the moment
+   *     React removes it, so the gap is a single microtask, not a full poll
+   *     interval — the user can never click "through" a missing card;
+   *   - the poll remains as a backstop for a grid that is replaced wholesale. */
+
+  /* Build the card by CLONING a native furniture card: the clone inherits
+   * whatever classes/structure the SPA's cards use, so it is styled exactly
+   * like them (the native cards have an empty class attribute and are laid
+   * out by the grid itself). Falls back to a from-scratch button. */
+  function makeCard(nativeCard) {
+    var btn;
+    if (nativeCard && nativeCard.cloneNode) {
+      btn = nativeCard.cloneNode(true);
+      btn.removeAttribute("id");
+      btn.classList.remove("active");
+      btn.removeAttribute("onclick");
+    } else {
+      btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "";
+    }
+    btn.id = BUTTON_ID;
+    btn.setAttribute("aria-pressed", "false");
+    btn.title = "添加冰箱（点击后点击画布放置）";
+    btn.innerHTML =
+      '<span class="furniture-pictogram fridge" aria-hidden="true">' + ICON_SVG + "</span>" +
+      "<span><strong>冰箱</strong><small>" +
+      DIM.width.toFixed(2) + " × " + DIM.depth.toFixed(1) + " m</small></span>";
+    // The clone is inert markup; wire the handler once (cloneNode copies no
+    // listeners, and re-adding a listener to a re-cloned node would stack).
+    btn.addEventListener("click", onCardClick);
+    if (placementArmed) {
+      btn.classList.add("active");
+      btn.setAttribute("aria-pressed", "true");
+    }
+    return btn;
+  }
+
+  function applyCardState() {
+    var btn = document.getElementById(BUTTON_ID);
+    if (!btn) return;
+    // Native cards express selection with the `active` class; reuse it so the
+    // armed state looks exactly like an armed native card.
+    if (placementArmed) btn.classList.add("active");
+    else btn.classList.remove("active");
+    btn.setAttribute("aria-pressed", placementArmed ? "true" : "false");
+  }
+
+  /* ------------------------------------------------------- library lanes */
+  /* Several patches inject their own card into the SAME React-owned grid
+   * (.furniture-library-grid): this file (fridge), furniture-library-washer.js
+   * and furniture-library-dining.js.
+   *
+   * Every one of them used to read "my card is not the grid's first child" as
+   * "React wiped it" and then re-cloned + re-inserted it at the FRONT. With two
+   * patches loaded, each pass pushed the other card back and the one sitting in
+   * front took over grid.firstElementChild — so the two cards deleted and
+   * rebuilt each other in a loop at the poll interval ("冰箱/洗衣机交替闪烁").
+   *
+   * The fix is a fixed lane order plus a strict ownership rule:
+   *   - a card that is already a child of the grid is NEVER moved or rebuilt;
+   *   - the insertion point is computed from the lane index only, so the card's
+   *     position is stable no matter which patch ran last.
+   * `#ha3d-fridge-library-button` < `#ha3d-washer...` < `#ha3d-dining-*`. */
+  var LANE_ORDER = ["ha3d-fridge-library-button", "ha3d-washer-library-button", "ha3d-dining-table-button", "ha3d-dining-chair-button"];
+
+  function laneIndexOf(id) {
+    var i = LANE_ORDER.indexOf(id);
+    return i < 0 ? LANE_ORDER.length : i;
+  }
+
+  // First grid child that belongs AFTER our lane. A foreign lane card that is
+  // still earlier than its own slot must not block us, hence the comparison on
+  // lane index instead of on "is it a lane card at all".
+  function insertionPoint(grid) {
+    var lane = laneIndexOf(BUTTON_ID);
+    var kids = grid.children;
+    for (var i = 0; i < kids.length; i += 1) {
+      var kid = kids[i];
+      if (!kid || !kid.id) return kid;
+      if (laneIndexOf(kid.id) > lane) return kid;
+    }
+    return null;
+  }
+
+  function isVisible(el) {
+    try {
+      return !!(el.getClientRects && el.getClientRects().length);
+    } catch (e) {
+      return true;
+    }
+  }
+
+  // A native furniture card = a <button> containing a furniture pictogram.
+  function findNativeCard() {
+    var pics = document.querySelectorAll(".furniture-pictogram");
+    for (var i = 0; i < pics.length; i += 1) {
+      var card = pics[i].closest ? pics[i].closest("button") : null;
+      if (card && card.id !== BUTTON_ID) return card;
+    }
+    return null;
+  }
+
+  // The grid the card belongs in: the visible one whenever possible.
+  function findGrid() {
+    var grids = document.querySelectorAll(".furniture-library-grid");
+    var fallback = null;
+    for (var i = 0; i < grids.length; i += 1) {
+      if (isVisible(grids[i])) return grids[i];
+      if (!fallback) fallback = grids[i];
+    }
+    return fallback;
+  }
+
+  /* Insert (or re-insert) the card at its lane position in the grid.
+   * Returns the live button, or null when the grid does not exist. */
+  function ensureCardInGrid() {
+    var grid = findGrid();
+    var btn = document.getElementById(BUTTON_ID);
+    if (!grid) {
+      stats.gridFound = false;
+      return null;
+    }
+    stats.gridFound = true;
+    stats.nativeCards = grid.querySelectorAll(".furniture-pictogram").length;
+    /* Already inside the grid: leave it exactly where it is. Rebuilding or
+     * re-inserting a card that is already in place is what made two library
+     * patches fight over grid.firstElementChild (see CARD_LANE). */
+    if (btn && btn.parentNode === grid) {
+      stats.injected = true;
+      watchGrid(grid);
+      return btn;
+    }
+    if (btn && btn.parentNode) btn.parentNode.removeChild(btn);
+    var fresh = makeCard(findNativeCard());
+    grid.insertBefore(fresh, insertionPoint(grid));
+    stats.injected = true;
+    stats.injections += 1;
+    watchGrid(grid);
+    return fresh;
+  }
+
+  /* Re-insert the card the instant React removes it.
+   *
+   * `childList` mutations are delivered as a microtask right after the
+   * mutation, so the card comes back within the same task — before the
+   * browser can dispatch a click to whatever React rendered in its place.
+   * This is what makes "click the card" reliable, unlike the old poll-only
+   * approach where the card could be missing for up to 500 ms.
+   *
+   * The trigger is the narrowest possible one: OUR OWN node leaving the grid.
+   * Any childList mutation counted as "we were removed" before, so the sibling
+   * library patches' insertions re-triggered this observer on every pass. */
+  var observedGrid = null;
+  var observer = null;
+  var restoring = false;
+
+  function watchGrid(grid) {
+    if (!window.MutationObserver) return;
+    if (observedGrid === grid && observer) return;
+    try {
+      if (observer) observer.disconnect();
+      observedGrid = grid;
+      observer = new MutationObserver(function (records) {
+        var removedUs = false;
+        for (var i = 0; i < records.length && !removedUs; i += 1) {
+          var removed = records[i].removedNodes;
+          if (!removed) continue;
+          for (var j = 0; j < removed.length; j += 1) {
+            if (removed[j] && removed[j].id === BUTTON_ID) {
+              removedUs = true;
+              break;
+            }
+          }
+        }
+        if (!removedUs) return;
+        if (restoring) return;
+        restoring = true;
+        try {
+          ensureCardInGrid();
+          stats.reinjections += 1;
+        } catch (err) {
+          stats.lastError = String(err);
+        }
+        restoring = false;
+      });
+      observer.observe(grid, { childList: true });
+      // A grid that appears only later (view/floor switch) is caught by the
+      // poll: ensureCardInGrid moves the card into it and re-targets the
+      // observer, because the old grid no longer contains the card.
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  /* Poll backstop: the grid can be torn down and rebuilt (view switch, floor
+   * change), which disconnects the observer target. A card that is already in
+   * the live grid is left completely untouched — no re-clone, no re-insert —
+   * so two co-existing library patches can no longer rebuild each other. */
+  function ensureButton() {
+    stats.polls += 1;
+    try {
+      ensureCardInGrid();
+    } catch (err) {
+      stats.lastError = String(err);
+      /* never break the editor */
+    }
+  }
+
+  /* ------------------------------------- two-step placement (native-like) */
+  // The SPA's library cards work in two steps: click a card to arm the kind,
+  // then click the plan to drop it. Our card mirrors that: clicking arms
+  // fridge placement; the next pointerdown on `svg.floorplan-canvas` is
+  // intercepted in the CAPTURE phase (so the SPA never sees it and will not
+  // drop the sofa it still has armed), converted from screen to plan metres
+  // through the SVG's CTM (its user units are metres — the footprint rects
+  // use x=-width/2 etc.), and a fridge record is written at that position.
+
+  var placementArmed = false;
+
+  function setArmedVisual(on) {
+    // The card carries its own inline styles (it lives on document.body, not
+    // inside the SPA's stylesheet scope), so the armed state restyles it
+    // directly instead of toggling a class.
+    applyCardState();
+  }
+
+  function setArmed(on) {
+    placementArmed = on;
+    stats.armed = on;
+    setArmedVisual(on);
+  }
+
+  function onCardClick() {
+    setArmed(!placementArmed);
+    if (placementArmed) {
+      // Visually deselect the native card the SPA keeps armed (sofa by
+      // default) so only one card looks selected. React may restore the class
+      // on its next render — harmless, our interception still works.
+      disarmNativeCards();
+    }
+    log("fridge placement armed:", placementArmed);
+  }
+
+  /* Escape always cancels an armed placement. The "click outside the plan
+   * disarms" rule lives in handleDown (window capture) so it runs before the
+   * SPA reacts, in the same pass that decides whether to intercept. */
+  function installDisarmGuards() {
+    document.addEventListener(
+      "keydown",
+      function (e) {
+        if (placementArmed && (e.key === "Escape" || e.keyCode === 27)) {
+          setArmed(false);
+          log("fridge placement disarmed (Escape)");
+        }
+      },
+      true
+    );
+  }
+
+  /* ------------------------------------ 2D label override ---------- */
+  /* The SPA renders our fridge footprint with the CARRIER kind, so both the
+   * on-canvas <text class="furniture-label"> and the inspector title read
+   * "橱柜". The catalog (`vt`) inside the bundle cannot be extended (an
+   * unknown kind crashes on `vt[kind].label`), so the rendered text is
+   * corrected after each paint.
+   *
+   * IDENTIFICATION MUST NOT USE SIZE. The editor lets the user resize the
+   * item, so a fridge can be 1.00 × 0.60 m or anything else; the old
+   * size-match (0.822 × 0.60) silently stopped matching after a resize and
+   * the card fell back to "橱柜" — exactly the reported bug. Instead the
+   * fridge records are read from the project (`modelId === MODEL_ID`) and
+   * matched to the rendered footprints by PLAN POSITION:
+   *
+   *   <g class="plan-furniture" transform="translate(x z) rotate(deg)">
+   *     <rect class="furniture-footprint cabinet">
+   *     <text class="furniture-label">橱柜</text>
+   *   </g>
+   *
+   * The <g> translate is the item's plan coordinate, the same value stored in
+   * `item.position`, so this stays correct for any size or rotation. */
+
+  // Plan coordinates of every fridge record, refreshed from the API.
+  var fridgePlanPoints = [];
+
+  /* 从共享快照里算出本补丁的记录坐标。快照层保证"同一时刻只有一个
+   * /api/projects/current 在途"，各补丁不再各拉一份完整项目。 */
+  function applyFridgeProject(project) {
+    if (!project || !project.floors) return;
+    var pts = [];
+    project.floors.forEach(function (floor) {
+      (floor.furniture || []).forEach(function (item) {
+        if (!item || item.modelId !== MODEL_ID) return;
+        if (!item.position || item.position.length < 2) return;
+        pts.push([Number(item.position[0]), Number(item.position[1])]);
+      });
+    });
+    fridgePlanPoints = pts;
+    stats.fridgePlanPoints = pts.length;
+  }
+
+  function snapshot() {
+    return window.ha3dProjectSnapshot || null;
+  }
+
+  function refreshFridgePlanPoints() {
+    var snap = snapshot();
+    if (snap) {
+      snap.request();
+      return;
+    }
+    /* 兜底：共享层没加载时退回自己拉（单补丁场景）。 */
+    fetch(apiUrl("/api/projects/current"), { credentials: "same-origin" })
+      .then(function (res) {
+        return res.ok ? res.json() : null;
+      })
+      .then(function (res) {
+        applyFridgeProject(res && (res.project || res));
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+      });
+  }
+
+  // Parse `translate(x z) rotate(deg)` from a plan-furniture <g>.
+  function planGroupTransform(g) {
+    var t = g && g.getAttribute ? g.getAttribute("transform") : null;
+    if (!t) return null;
+    var m = /translate\(\s*([-\d.eE+]+)[\s,]+([-\d.eE+]+)\s*\)/.exec(t);
+    if (!m) return null;
+    var x = parseFloat(m[1]);
+    var z = parseFloat(m[2]);
+    if (!isFinite(x) || !isFinite(z)) return null;
+    return [x, z];
+  }
+
+  /* Which rendered footprint groups belong to a fridge record.
+   * Returns the <g class="plan-furniture"> nodes (never the rects: the group
+   * is what carries the position, and the label lives inside it). */
+  function fridgeFootprintGroups(svg) {
+    var out = [];
+    if (!svg || !fridgePlanPoints.length) return out;
+    var groups = svg.querySelectorAll("g.plan-furniture");
+    for (var i = 0; i < groups.length; i += 1) {
+      var pos = planGroupTransform(groups[i]);
+      if (!pos) continue;
+      for (var j = 0; j < fridgePlanPoints.length; j += 1) {
+        var p = fridgePlanPoints[j];
+        // 1 cm tolerance: the SVG carries the same float the API returned.
+        if (Math.abs(pos[0] - p[0]) < 0.01 && Math.abs(pos[1] - p[1]) < 0.01) {
+          out.push(groups[i]);
+          break;
+        }
+      }
+    }
+    return out;
+  }
+
+  function relabelFridgeFootprints() {
+    try {
+      var svg = document.querySelector("svg.floorplan-canvas");
+      if (!svg) return;
+      var groups = fridgeFootprintGroups(svg);
+      for (var i = 0; i < groups.length; i += 1) {
+        var label = groups[i].querySelector("text.furniture-label");
+        if (label && label.textContent !== "冰箱") label.textContent = "冰箱";
+      }
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  /* ------------------------------------ 2D footprint icon ---------- */
+  /* The plan view draws every furniture item as a plain filled rect. For our
+   * fridges we overlay the user-supplied fridge pictogram — a nested <svg> with
+   * its own viewBox, so it scales exactly onto the footprint — and clear the
+   * carrier kind's fill, keeping the footprint outline as the 2D placeholder.
+   * pointer-events:none keeps the rect as the click target for selection. */
+  var SVG_NS = "http://www.w3.org/2000/svg";
+  var FRIDGE_ICON_PATH =
+    "M849.565538 971.067077H178.254769a93.814154 93.814154 0 0 1-92.553846-92.553846V369.230769" +
+    "a30.562462 30.562462 0 0 1 30.877539-30.877538h792.812307a33.358769 33.358769 0 0 1 32.807385" +
+    "30.877538v509.243077a93.814154 93.814154 0 0 1-92.632616 92.593231zM380.849231 415.547077a38.596923" +
+    " 38.596923 0 1 0 0 77.154461h262.340923a38.596923 38.596923 0 0 0 0-77.154461z m563.2-154.308923" +
+    "H79.911385a30.562462 30.562462 0 0 1-30.877539-30.877539V137.846154a93.853538 93.853538 0 0 1" +
+    " 92.593231-92.672h740.745846A93.853538 93.853538 0 0 1 974.966154 137.846154v92.514461a30.523077" +
+    " 30.523077 0 0 1-30.838154 30.877539z";
+
+  function makeFridgeIcon(w, h) {
+    var iw = typeof w === "number" && isFinite(w) && w > 0 ? w : DIM.width;
+    var ih = typeof h === "number" && isFinite(h) && h > 0 ? h : DIM.depth;
+    var icon = document.createElementNS(SVG_NS, "svg");
+    icon.setAttribute("class", "fridge-footprint-icon");
+    icon.setAttribute("x", String(-iw / 2));
+    icon.setAttribute("y", String(-ih / 2));
+    icon.setAttribute("width", String(iw));
+    icon.setAttribute("height", String(ih));
+    icon.setAttribute("viewBox", "0 0 1024 1024");
+    icon.setAttribute("preserveAspectRatio", "none");
+    icon.setAttribute("pointer-events", "none");
+    var path = document.createElementNS(SVG_NS, "path");
+    path.setAttribute("d", FRIDGE_ICON_PATH);
+    path.setAttribute("fill", "#bfbfbf");
+    icon.appendChild(path);
+    return icon;
+  }
+
+  /* The right-hand inspector title is `vt[selected.kind].label` (hard-coded
+   * catalog), so a selected fridge reads "橱柜". That value lives in React
+   * state and is re-rendered on every update, so the rendered <h2> inside
+   * `.inspector-title` is patched right after each paint.
+   *
+   * The selected item is identified by PLAN POSITION (see
+   * fridgeFootprintGroups), never by size, so a resized fridge keeps the
+   * "冰箱" title. */
+  function relabelInspectorTitle() {
+    try {
+      var svg = document.querySelector("svg.floorplan-canvas");
+      if (!svg) return;
+      var groups = fridgeFootprintGroups(svg);
+      var selectedIsFridge = false;
+      for (var i = 0; i < groups.length; i += 1) {
+        if (groups[i].querySelector("rect.furniture-footprint.selected")) {
+          selectedIsFridge = true;
+          break;
+        }
+      }
+      if (!selectedIsFridge) return;
+      var h2 = document.querySelector(".inspector-title h2");
+      if (h2 && h2.textContent !== "冰箱") h2.textContent = "冰箱";
+      var small = document.querySelector(".inspector-title small");
+      if (small && /家具/.test(small.textContent) && /橱柜/.test(small.textContent)) {
+        small.textContent = small.textContent.replace(/橱柜/g, "冰箱");
+      }
+      // The summary card repeats the carrier label in its own heading
+      // ("家具 / 橱柜"), which React re-renders independently of the title.
+      var headings = document.querySelectorAll(".selection-summary-heading strong");
+      for (var hi = 0; hi < headings.length; hi += 1) {
+        if (headings[hi].textContent === "橱柜") headings[hi].textContent = "冰箱";
+      }
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  function paintFridgeFootprints() {
+    try {
+      var svg = document.querySelector("svg.floorplan-canvas");
+      if (!svg) return;
+      var groups = fridgeFootprintGroups(svg);
+      for (var i = 0; i < groups.length; i += 1) {
+        var g = groups[i];
+        var rect = g.querySelector("rect.furniture-footprint");
+        if (!rect) continue;
+        rect.style.fill = "none";
+        // `fill:none` alone would make the rect hit-test transparent (SVG's
+        // default pointer-events only counts painted areas), so the footprint
+        // could no longer be clicked in the editor. Force it to keep receiving
+        // pointer events over its whole box.
+        rect.style.pointerEvents = "all";
+        if (!g.querySelector(".fridge-footprint-icon")) {
+          // Size the pictogram to the CURRENT footprint so a resized fridge
+          // still gets an icon that fills its box.
+          var w = parseFloat(rect.getAttribute("width")) || DIM.width;
+          var h = parseFloat(rect.getAttribute("height")) || DIM.depth;
+          g.insertBefore(makeFridgeIcon(w, h), rect.nextSibling);
+        }
+      }
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  function nativeLibraryCards() {
+    var all = document.querySelectorAll(
+      ".furniture-library-grid > button, [class*='furniture-library'] button"
+    );
+    return Array.prototype.filter.call(all, function (b) {
+      return b.id !== BUTTON_ID;
+    });
+  }
+
+  function disarmNativeCards() {
+    try {
+      nativeLibraryCards().forEach(function (b) {
+        b.classList.remove("active");
+        b.setAttribute("aria-pressed", "false");
+      });
+    } catch (err) {
+      /* ignore */
+    }
+  }
+
+  // A click on a native card hands selection back to the SPA: disarm ours so
+  // the canvas drops the native kind again.
+  function installNativeCardHandoff() {
+    document.addEventListener(
+      "click",
+      function (e) {
+        if (!placementArmed) return;
+        var target = e.target;
+        if (!target || !target.closest) return;
+        if (target.closest("#" + BUTTON_ID)) return;
+        var card = target.closest("button");
+        if (!card || card.id === BUTTON_ID) return;
+        if (!card.querySelector(".furniture-pictogram")) return;
+        placementArmed = false;
+        stats.armed = false;
+        setArmedVisual(false);
+        log("fridge placement disarmed (native card selected)");
+      },
+      true
+    );
+  }
+
+  /* Screen -> plan metres. The canvas viewBox is in metres (footprints use
+   * x=-width/2, width=2.2 ...), so the CTM inverse gives plan coordinates.
+   * Fallback: if the CTM is unavailable, map through the bounding rect and the
+   * viewBox (keeps placement working instead of silently returning null, which
+   * used to let the SPA's armed sofa drop instead). */
+  function planPointFromEvent(e) {
+    var svg = e.target && e.target.closest ? e.target.closest("svg.floorplan-canvas") : null;
+    if (!svg) svg = document.querySelector("svg.floorplan-canvas");
+    if (!svg) return null;
+    try {
+      if (svg.getScreenCTM && svg.createSVGPoint) {
+        var ctm = svg.getScreenCTM();
+        if (ctm) {
+          var pt = svg.createSVGPoint();
+          pt.x = e.clientX;
+          pt.y = e.clientY;
+          var p = pt.matrixTransform(ctm.inverse());
+          if (isFinite(p.x) && isFinite(p.y)) return [p.x, p.y];
+        }
+      }
+    } catch (err) {
+      /* fall through to the rect-based mapping */
+    }
+    try {
+      var box = svg.getBoundingClientRect();
+      var vb = svg.viewBox && svg.viewBox.baseVal;
+      if (!box.width || !box.height || !vb || !vb.width || !vb.height) return null;
+      var rx = (e.clientX - box.left) / box.width;
+      var ry = (e.clientY - box.top) / box.height;
+      return [vb.x + rx * vb.width, vb.y + ry * vb.height];
+    } catch (err2) {
+      stats.lastError = String(err2);
+      return null;
+    }
+  }
+
+  /* Intercept EVERY press/release event the SPA might use to drop furniture —
+   * on WINDOW, capture phase.
+   *
+   * Why WINDOW and not document: the SPA registers its own placement handler
+   * on `window` (measured: with document-capture interception, re-opening the
+   * furniture panel and clicking the canvas dropped BOTH a fridge (ours) and
+   * a sofa (the SPA's) — the SPA's window-capture listener ran BEFORE our
+   * document-capture one, because window precedes document in the capture
+   * path, and stopImmediatePropagation cannot retro-stop an earlier listener).
+   * Registering on window makes ours the very first listener that runs, so
+   * the stop actually shields the SPA.
+   *
+   * Both pointer AND mouse events are covered: a real click fires pointerdown
+   * then mousedown (plus the up/click pair), and SPA builds differ on which
+   * one triggers placement.
+   *
+   * WHY THE "placed" FLAG IS GONE FROM THE RELEASE PATH.
+   * The previous build kept a boolean set for 1000 ms after a placement and
+   * swallowed every canvas event while it was set. `click` is not guaranteed
+   * while a click-to-cartesian handler with an early `return` sits in the SVG
+   * capture path, so that boolean regularly stayed `true` for the full second:
+   * the very next click on the plan was eaten, which is exactly the reported
+   * "点了差不多一秒才落到画布上". Now only the arm used for THIS gesture is
+   * consumed, and the pointer identity alone decides which release events
+   * belong to a placement gesture. */
+  var placedPointerId = null;
+  var placedByMouse = false;
+
+  /* Gesture lock for THIS placement only.
+   *
+   * A single canvas click emits pointerdown → pointerup → click. The old code
+   * only stopped pointerdown, then released, so the trailing `click` flowed to
+   * the SPA — whose window-capture click handler drops ITS own armed kind
+   * (a sofa) and PUTs the whole in-memory project over the fridge record. The
+   * old `gestureIsOurs` looked like it covered that, but `click` carries no
+   * pointerId, so it fell through to `placedByMouse` (false for any pointer
+   * gesture) and never blocked anything.
+   *
+   * A fixed 1 s boolean is NOT the answer either — that was the earlier
+   * "点了差不多一秒才落到画布上" bug, where the next click got eaten. So the
+   * lock is keyed by a gesture serial instead: every placement bumps
+   * `gestureSerial`, and only the release/click that belongs to that same
+   * serial is swallowed. The next independent click is untouched. */
+  /* -1 表示"没有任何手势被锁"。若用 0 当初始值，由于 gestureSerial 也从 0 开始，
+   * 页面刚加载时 blockingSerial === gestureSerial 会成立，导致**第一次点击就被
+   * 当成"上一个放置手势的尾巴"封掉** —— 家具彻底点不动。 */
+  var gestureSerial = 0;
+  var blockingSerial = -1;
+
+  function handleDown(e) {
+    if (!placementArmed) return;
+    var t = e.target;
+    if (t && t.closest) {
+      // Outside the canvas (toolbar, panels, library cards): disarm and let
+      // the event flow through untouched so the SPA still reacts to it.
+      if (!t.closest("svg.floorplan-canvas")) {
+        if (!t.closest("#" + BUTTON_ID)) {
+          setArmed(false);
+          log("fridge placement disarmed (interaction outside the plan)");
+        }
+        return;
+      }
+    }
+    e.stopImmediatePropagation();
+    e.preventDefault();
+    /* Arm the gesture lock BEFORE the async placement, and disarm immediately:
+     * `addFridgeAt` resolves over several microtasks (GET + PUT), so doing the
+     * release afterwards kept the lock alive while an impatient second click
+     * arrived. */
+    if (e.type === "pointerdown") placedPointerId = e.pointerId;
+    else placedByMouse = true;
+    gestureSerial += 1;
+    blockingSerial = gestureSerial;
+    stats.clicks += 1;
+    var pos = planPointFromEvent(e);
+    if (pos) addFridgeAt(pos);
+    // One-shot, exactly like a native card: the SPA places a single item and
+    // un-highlights the card.
+    setArmed(false);
+  }
+
+  function handleUp(e, type) {
+    var t = e.target;
+    if (!t || !t.closest || !t.closest("svg.floorplan-canvas")) return;
+    /* Only the tail of the gesture that placed a fridge is blocked. Once the
+     * `click` of that gesture has been swallowed the lock is cleared, so the
+     * next click goes straight through. */
+    if (blockingSerial !== gestureSerial) {
+      if (placementArmed) setArmed(false);
+      return;
+    }
+    e.stopImmediatePropagation();
+    e.preventDefault();
+    if (placementArmed) setArmed(false);
+    /* 只在 click 解锁：up 也必须挡住（否则 click 会漏给 SPA，skill §2.3）。
+     * 若浏览器不发 click，残留的锁由下一次 pointerdown 清理（见 handleDown）。 */
+    if (type === "click") {
+      blockingSerial = -1;
+      placedPointerId = null;
+      placedByMouse = false;
+    }
+  }
+
+  /* ------------------------------------- 未选中时禁止拖拽（只允许选中）
+   * SPA 的 pointerdown 处理是「先选中、再 st() 启动拖拽」，所以原生家具一点
+   * 就跟着鼠标跑。用户期望补丁模型：第一次点击只选中（蓝色高亮），已选中后
+   * 才能拖动。
+   *
+   * ⚠️ 绝不能在 pointerdown 上 stopPropagation：SPA 的选中本身就挂在
+   * pointerdown/click 链上，一旦在 window 捕获阶段掐断，家具就**彻底点不动**。
+   * 正确做法：down 照常放行（让 SPA 完成选中），只把**移动**掐掉。 */
+  function footprintOf(el) {
+    var n = el;
+    while (n && n.closest) {
+      if (n.classList && n.classList.contains("plan-furniture")) {
+        return n.querySelector("rect.furniture-footprint");
+      }
+      n = n.parentNode;
+    }
+    return null;
+  }
+
+  function isSelectedFootprint(rect) {
+    return !!(rect && rect.classList && rect.classList.contains("selected"));
+  }
+
+  var dragBlocked = false;
+
+  function handleDownGate(e) {
+    /* 新手指按下即代表上一个手势已结束。若上一次放置没等到 click
+     * （pointerdown 被 preventDefault 后浏览器可能根本不发 click），
+     * blockingSerial 会残留并把后续 up/click 一起挡死。 */
+    if (blockingSerial === gestureSerial) blockingSerial = -1;
+
+    var t = e.target;
+    var onCanvas = !!(t && t.closest && t.closest("svg.floorplan-canvas"));
+    if (!onCanvas) { dragBlocked = false; return; }
+    var rect = footprintOf(t);
+    dragBlocked = !!(rect && !isSelectedFootprint(rect));
+  }
+
+  function handleMoveGate(e) {
+    if (!dragBlocked) return;
+    e.stopImmediatePropagation();
+  }
+
+  function installPlacementInterceptor() {
+    ["pointerdown", "mousedown", "pointerup", "mouseup", "click"].forEach(function (type) {
+      window.addEventListener(
+        type,
+        function (e) {
+          if (type === "pointerdown" || type === "mousedown") {
+            if (placementArmed) handleDown(e);
+            else handleDownGate(e);
+          } else {
+            if (type === "pointerup" || type === "mouseup") dragBlocked = false;
+            handleUp(e, type);
+          }
+        },
+        true
+      );
+    });
+    /* 移动拦截单独注册在捕获阶段，且只在本次按下判定为"未选中"时生效。 */
+    window.addEventListener("pointermove", handleMoveGate, true);
+  }
+
+  /* --------------------------------------------------- add on click */
+  // Path-aware like the SPA (R3.2): when served under /api/<integration>/ the
+  // API root is that prefix, otherwise fall back to the SPA's own document
+  // relative "./api/..." form so the panel URL never breaks the endpoints.
+  function apiUrl(path) {
+    var parts = window.location.pathname.split("/").filter(Boolean);
+    if (parts.length >= 2 && parts[0] === "api") return "/" + parts[0] + "/" + parts[1] + path;
+    return "." + path;
+  }
+
+  function addFridgeAt(pos) {
+    fetch(apiUrl("/api/projects/current"), { credentials: "same-origin" })
+      .then(function (res) {
+        if (!res.ok) throw new Error("load project failed " + res.status);
+        return res.json();
+      })
+      .then(function (res) {
+        var project = res && (res.project || res);
+        if (!project || !project.floors || !project.floors.length) {
+          throw new Error("no project");
+        }
+        var floor = project.floors[0];
+        var item = {
+          id: "furniture-fridge-" + Date.now(),
+          kind: CARRIER_KIND,
+          floorId: floor.id,
+          roomId: floor.rooms && floor.rooms[0] ? floor.rooms[0].id : null,
+          position: [pos[0], pos[1]],
+          rotation: 0,
+          width: DIM.width,
+          depth: DIM.depth,
+          height: DIM.height,
+          modelId: MODEL_ID,
+        };
+        floor.furniture = floor.furniture || [];
+        floor.furniture.push(item);
+        return fetch(apiUrl("/api/projects/" + project.id), {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          credentials: "same-origin",
+          body: JSON.stringify(project),
+        });
+      })
+      .then(function (res) {
+        if (!res.ok) throw new Error("save failed " + res.status);
+        log("fridge furniture added at", pos);
+        var snapAfter = snapshot();
+        if (snapAfter) snapAfter.refresh();
+        // 放置后自动选中，弹出属性卡片（与原生家具一致）
+        if (window.ha3dSelectAfterPlace) window.ha3dSelectAfterPlace(pos);
+        // One-shot placement: drop one fridge per arm, like a stamp, so a
+        // forgotten armed state cannot litter the plan with cabinets.
+        setArmed(false);
+        // The new record must be known before the footprint can be identified
+        // (identification is position-based), so refresh the list first and
+        // paint once it lands. The interval tick re-applies it afterwards.
+        refreshFridgePlanPoints();
+        window.setTimeout(function () {
+          paintFridgeFootprints();
+          relabelFridgeFootprints();
+          relabelInspectorTitle();
+        }, 400);
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+        log("add fridge failed", err);
+      });
+  }
+
+  /* ------------------------------------------------ self-heal old data */
+  /* Earlier builds of this patch wrote kind:"fridge" records, which crash the
+   * SPA (`vt[kind].label` of undefined) on every project load. One-time
+   * migration: rewrite any such record to the carrier kind + modelId so the
+   * saved project becomes loadable again. */
+  function repairLegacyFridgeRecords() {
+    fetch(apiUrl("/api/projects/current"), { credentials: "same-origin" })
+      .then(function (res) {
+        return res.ok ? res.json() : null;
+      })
+      .then(function (res) {
+        var project = res && (res.project || res);
+        if (!project || !project.floors) return;
+        var changed = 0;
+        project.floors.forEach(function (floor) {
+          (floor.furniture || []).forEach(function (item) {
+            if (!item) return;
+            // Old builds wrote kind:"fridge" (crashes the SPA catalog).
+            if (item.kind === "fridge") {
+              item.kind = CARRIER_KIND;
+              item.modelId = MODEL_ID;
+              changed += 1;
+              return;
+            }
+            // Records left behind by the early one-shot click (v4-v5) were
+            // cabinets with modelId null/absent, so `appliance-fridge.js` no
+            // longer recognised them and the 3D view showed a plain cabinet.
+            // Such a cabinet can only be ours when its size is the fridge size.
+            if (
+              item.kind === CARRIER_KIND &&
+              item.modelId !== MODEL_ID &&
+              Math.abs(item.width - DIM.width) < 0.02 &&
+              Math.abs(item.depth - DIM.depth) < 0.02
+            ) {
+              item.modelId = MODEL_ID;
+              changed += 1;
+            }
+          });
+        });
+        if (!changed) return;
+        return fetch(apiUrl("/api/projects/" + project.id), {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          credentials: "same-origin",
+          body: JSON.stringify(project),
+        }).then(function (res2) {
+          if (!res2.ok) throw new Error("repair save failed " + res2.status);
+          stats.repaired = changed;
+          log("repaired legacy fridge records:", changed);
+        });
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+        log("repair failed", err);
+      });
+  }
+
+  /* ----------------------------------------------------------- boot */
+  function start() {
+    repairLegacyFridgeRecords();
+    // 订阅共享快照：有缓存时立即回调一次，之后每次刷新都会再次回调
+    var snap = snapshot();
+    if (snap) snap.subscribe(applyFridgeProject);
+    refreshFridgePlanPoints();
+    installPlacementInterceptor();
+    installNativeCardHandoff();
+    installDisarmGuards();
+    ensureButton();
+    // The grid only exists while the editor view is open and may be rebuilt
+    // (floor switch, mode change), so keep (re)injecting defensively.
+    // The project data is re-read on a slower cadence than the repaint: the
+    // SPA re-renders the footprints constantly, but the set of fridge records
+    // only changes when the user adds/deletes/moves one.
+    var tick = 0;
+    window.setInterval(function () {
+      tick += 1;
+      if (tick % 30 === 0) refreshFridgePlanPoints();
+      ensureButton();
+      relabelFridgeFootprints();
+      paintFridgeFootprints();
+      relabelInspectorTitle();
+    }, POLL_MS);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
+})();

@@ -1,1 +1,1045 @@
-function a0_0x2de7(_0x43f0c4,_0x43d8f0){_0x43f0c4=_0x43f0c4-0x125;var _0x57040f=a0_0x108e();var _0x187b9e=_0x57040f[_0x43f0c4];if(a0_0x2de7['bAwNnZ']===undefined){var _0xf70fe=function(_0xfc7c38){var _0x5186b9='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x408cae='',_0x2410c1='';for(var _0x4e5cda=0x0,_0x3e7895,_0x3feded,_0x4f8885=0x0;_0x3feded=_0xfc7c38['charAt'](_0x4f8885++);~_0x3feded&&(_0x3e7895=_0x4e5cda%0x4?_0x3e7895*0x40+_0x3feded:_0x3feded,_0x4e5cda++%0x4)?_0x408cae+=String['fromCharCode'](0xff&_0x3e7895>>(-0x2*_0x4e5cda&0x6)):0x0){_0x3feded=_0x5186b9['indexOf'](_0x3feded);}for(var _0x123e82=0x0,_0x444c79=_0x408cae['length'];_0x123e82<_0x444c79;_0x123e82++){_0x2410c1+='%'+('00'+_0x408cae['charCodeAt'](_0x123e82)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2410c1);};a0_0x2de7['UntVUt']=_0xf70fe,a0_0x2de7['MVzzOy']={},a0_0x2de7['bAwNnZ']=!![];}var _0x5ae97b=_0x57040f[0x0],_0x108ed9=_0x43f0c4+_0x5ae97b,_0x2de70f=a0_0x2de7['MVzzOy'][_0x108ed9];return!_0x2de70f?(_0x187b9e=a0_0x2de7['UntVUt'](_0x187b9e),a0_0x2de7['MVzzOy'][_0x108ed9]=_0x187b9e):_0x187b9e=_0x2de70f,_0x187b9e;}(function(_0x6c0c77,_0x208fd1){var _0x3aa8b1=a0_0x2de7,_0x1a6886=_0x6c0c77();while(!![]){try{var _0x351825=-parseInt(_0x3aa8b1(0x17b))/0x1*(-parseInt(_0x3aa8b1(0x1a7))/0x2)+parseInt(_0x3aa8b1(0x1aa))/0x3+parseInt(_0x3aa8b1(0x1b1))/0x4*(-parseInt(_0x3aa8b1(0x1ca))/0x5)+parseInt(_0x3aa8b1(0x212))/0x6*(parseInt(_0x3aa8b1(0x181))/0x7)+-parseInt(_0x3aa8b1(0x1b0))/0x8+-parseInt(_0x3aa8b1(0x196))/0x9+parseInt(_0x3aa8b1(0x18c))/0xa;if(_0x351825===_0x208fd1)break;else _0x1a6886['push'](_0x1a6886['shift']());}catch(_0x5733b8){_0x1a6886['push'](_0x1a6886['shift']());}}}(a0_0x108e,0xb6a9d),(function(){var _0x3e0181=a0_0x2de7,_0xcee18d=(function(){var _0xddf3ed=!![];return function(_0x14828d,_0xaab11a){var _0x238bad=_0xddf3ed?function(){var _0x94d5b0=a0_0x2de7;if(_0xaab11a){var _0x435a8f=_0xaab11a[_0x94d5b0(0x1a6)](_0x14828d,arguments);return _0xaab11a=null,_0x435a8f;}}:function(){};return _0xddf3ed=![],_0x238bad;};}()),_0x524834=_0xcee18d(this,function(){var _0x4c5007=a0_0x2de7,_0x22053a=function(){var _0x5a73f1=a0_0x2de7,_0x68b6ec;try{_0x68b6ec=Function(_0x5a73f1(0x1b6)+_0x5a73f1(0x135)+');')();}catch(_0x59fd7d){_0x68b6ec=window;}return _0x68b6ec;},_0x979613=_0x22053a(),_0x3faf72=_0x979613[_0x4c5007(0x1f8)]=_0x979613[_0x4c5007(0x1f8)]||{},_0x4f5f0b=[_0x4c5007(0x13d),_0x4c5007(0x1cb),_0x4c5007(0x18b),_0x4c5007(0x19e),_0x4c5007(0x148),_0x4c5007(0x1eb),_0x4c5007(0x1d1)];for(var _0x4118ec=0x0;_0x4118ec<_0x4f5f0b[_0x4c5007(0x1f3)];_0x4118ec++){var _0x30c106=_0xcee18d[_0x4c5007(0x17d)][_0x4c5007(0x1bd)][_0x4c5007(0x182)](_0xcee18d),_0x5b31f8=_0x4f5f0b[_0x4118ec],_0x2c4d5f=_0x3faf72[_0x5b31f8]||_0x30c106;_0x30c106[_0x4c5007(0x1ea)]=_0xcee18d[_0x4c5007(0x182)](_0xcee18d),_0x30c106[_0x4c5007(0x130)]=_0x2c4d5f[_0x4c5007(0x130)][_0x4c5007(0x182)](_0x2c4d5f),_0x3faf72[_0x5b31f8]=_0x30c106;}});_0x524834();'use strict';var _0x301380=[_0x3e0181(0x12c)],_0x510050=_0x3e0181(0x1c6),_0x9f5b90=_0x3e0181(0x189),_0x18f9db=_0x3e0181(0x1fd),_0x5c2d0b=_0x3e0181(0x169),_0x434219=_0x3e0181(0x1d0),_0x4ce5a4=0x5,_0xb5e04c={};_0xb5e04c[_0x3e0181(0x1c4)]=_0x4ce5a4,_0xb5e04c[_0x3e0181(0x201)]=0x0,_0xb5e04c[_0x3e0181(0x12b)]=0x0,_0xb5e04c[_0x3e0181(0x157)]=0x0,_0xb5e04c[_0x3e0181(0x195)]=0x0,_0xb5e04c[_0x3e0181(0x1a4)]=0x0,_0xb5e04c[_0x3e0181(0x15a)]=null,_0xb5e04c[_0x3e0181(0x192)]=null,_0xb5e04c[_0x3e0181(0x1f7)]=null,_0xb5e04c[_0x3e0181(0x137)]=null,_0xb5e04c[_0x3e0181(0x17f)]=null,_0xb5e04c[_0x3e0181(0x1c5)]=null;var _0xf03b6b=_0xb5e04c;window[_0x3e0181(0x20e)]=_0xf03b6b;var _0x5e63a3={};_0x5e63a3[_0x3e0181(0x1ee)]=2.2,_0x5e63a3[_0x3e0181(0x14a)]=0.35,_0x5e63a3[_0x3e0181(0x217)]=2.5,_0x5e63a3[_0x3e0181(0x16a)]=0.33,_0x5e63a3[_0x3e0181(0x1e7)]=0.02,_0x5e63a3[_0x3e0181(0x1ed)]=0.05,_0x5e63a3[_0x3e0181(0x19c)]=0.02,_0x5e63a3[_0x3e0181(0x1e9)]=0.018,_0x5e63a3[_0x3e0181(0x1dd)]=0.02,_0x5e63a3[_0x3e0181(0x188)]=0.55,_0x5e63a3[_0x3e0181(0x1a3)]=0.4125,_0x5e63a3[_0x3e0181(0x1ce)]=0.008,_0x5e63a3[_0x3e0181(0x186)]=0.03,_0x5e63a3[_0x3e0181(0x134)]=0.025;var _0x3660f7=_0x5e63a3,_0x1d40b7=_0x3660f7[_0x3e0181(0x1ee)],_0x1f6684=_0x3660f7[_0x3e0181(0x14a)],_0x20af9c=_0x3660f7[_0x3e0181(0x217)],_0x566107=_0x3660f7[_0x3e0181(0x1ed)],_0x522ba7=_0x20af9c-_0x3660f7[_0x3e0181(0x1dd)],_0x182460=0.95,_0x2f4358=_0x182460,_0x48092c=_0x182460+_0x3660f7[_0x3e0181(0x1e9)],_0x160890=1.6,_0x4cc352=1.32,_0x1c0329=1.58,_0x222997=1.27,_0x3d77a5=0.01,_0x3780af=_0x3660f7[_0x3e0181(0x16a)],_0x287f6e=-0.165,_0x3b947b=-0.157,_0x3e9e30=-_0x1d40b7/0x2,_0x44929d=_0x3e9e30+_0x3660f7[_0x3e0181(0x188)],_0xbbe920=_0x1d40b7/0x2,_0x5cb516=0x0,_0x218920=0x0,_0x3ab06c=0x2bc,_0x16a029=_0x3e0181(0x1c1),_0x5090c3=_0x3e0181(0x1ae),_0x452964=0x1e1e20,_0x367343=0x2a2e30;function _0x322b92(){var _0x4a8364=_0x3e0181;if(!window[_0x4a8364(0x17e)])return;try{console[_0x4a8364(0x13d)][_0x4a8364(0x1a6)](console,[_0x4a8364(0x142)][_0x4a8364(0x21b)]([][_0x4a8364(0x19f)][_0x4a8364(0x15c)](arguments)));}catch(_0x282dd0){}}function _0x10ea4c(){var _0x3e5736=_0x3e0181,_0x30eb6e=window[_0x3e5736(0x1cf)][_0x3e5736(0x163)][_0x3e5736(0x1dc)]('/')[_0x3e5736(0x1a5)](Boolean);if(_0x30eb6e[_0x3e5736(0x1f3)]>=0x2&&_0x30eb6e[0x0]===_0x3e5736(0x19d))return'/'+_0x30eb6e[0x0]+'/'+_0x30eb6e[0x1];return'';}function _0x4367db(){var _0x10ca8a=_0x3e0181;try{var _0x55d253=window[_0x10ca8a(0x141)][_0x10ca8a(0x1da)](_0x510050);if(_0x55d253===_0x10ca8a(0x1c8)||_0x55d253===_0x10ca8a(0x1a0)||_0x55d253===_0x10ca8a(0x128))return _0x55d253;}catch(_0xe946b6){}return _0x10ca8a(0x128);}var _0x809a4=null;(function _0x35a0bf(){var _0x21083e=_0x3e0181;try{function _0x1196e4(_0x444551){var _0x45c98b=a0_0x2de7;try{var _0x36df41=_0x444551[_0x45c98b(0x19a)];if(!_0x36df41||typeof _0x36df41[_0x45c98b(0x1fc)]!==_0x45c98b(0x170))return;_0xf03b6b[_0x45c98b(0x156)]=!![];if(_0x36df41[_0x45c98b(0x158)])return;_0x36df41[_0x45c98b(0x158)]=!![];var _0x2545c0=_0x36df41[_0x45c98b(0x1fc)];_0x36df41[_0x45c98b(0x1fc)]=function(_0x4f35ba,_0x550152){var _0x458419=_0x45c98b;try{_0x4f35ba&&_0x4f35ba[_0x458419(0x1ef)]&&(_0x809a4=_0x4f35ba,window[_0x458419(0x1d9)]=_0x4f35ba);}catch(_0x8f0bfa){}return _0x2545c0[_0x458419(0x15c)](this,_0x4f35ba,_0x550152);};}catch(_0x3df790){}}var _0x166994=window[_0x21083e(0x19b)];if(_0x166994&&typeof _0x166994[_0x21083e(0x190)]===_0x21083e(0x170))_0x166994[_0x21083e(0x190)](_0x21083e(0x15d),_0x1196e4),_0x166994[_0x21083e(0x190)](_0x21083e(0x143),_0x1196e4),_0xf03b6b[_0x21083e(0x1f7)]=_0x21083e(0x1b7);else{var _0x5cf147=new EventTarget();_0x5cf147[_0x21083e(0x190)](_0x21083e(0x15d),_0x1196e4),_0x5cf147[_0x21083e(0x190)](_0x21083e(0x143),_0x1196e4),window[_0x21083e(0x19b)]=_0x5cf147,_0xf03b6b[_0x21083e(0x1f7)]=_0x21083e(0x1a1);}}catch(_0x1ec67a){_0xf03b6b[_0x21083e(0x17f)]=_0x21083e(0x184)+String(_0x1ec67a);}}());function _0x1dbca0(_0x8e4f37){var _0x505bd3=_0x3e0181;if(typeof _0x8e4f37!==_0x505bd3(0x170))return![];var _0xf4416=_0x8e4f37[_0x505bd3(0x1bd)];if(!_0xf4416)return![];return typeof _0xf4416[_0x505bd3(0x20d)]===_0x505bd3(0x170)&&typeof _0xf4416[_0x505bd3(0x1ff)]===_0x505bd3(0x170);}function _0x2ef954(_0x4d7018){var _0x574b4d=_0x3e0181,_0x247771={};_0x247771[_0x574b4d(0x12e)]=null,_0x247771[_0x574b4d(0x193)]=null,_0x247771[_0x574b4d(0x213)]=null,_0x247771[_0x574b4d(0x147)]=null,_0x247771[_0x574b4d(0x1b9)]=null,_0x247771[_0x574b4d(0x204)]=null,_0x247771[_0x574b4d(0x139)]=null,_0x247771[_0x574b4d(0x1f9)]=null,_0x247771[_0x574b4d(0x126)]=null,_0x247771[_0x574b4d(0x1b4)]=null,_0x247771[_0x574b4d(0x1a9)]=null,_0x247771[_0x574b4d(0x17a)]=null,_0x247771[_0x574b4d(0x173)]=null;var _0xdb2957=_0x247771;try{_0x4d7018[_0x574b4d(0x191)](function(_0xb6bafb){var _0x23559f=_0x574b4d;try{if(!_0xb6bafb)return;if(!_0xdb2957[_0x23559f(0x12e)]&&_0xb6bafb[_0x23559f(0x14d)])_0xdb2957[_0x23559f(0x12e)]=_0xb6bafb[_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x193)]&&_0xb6bafb[_0x23559f(0x153)])_0xdb2957[_0x23559f(0x193)]=_0xb6bafb[_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x213)]&&_0xb6bafb[_0x23559f(0x1cc)])_0xdb2957[_0x23559f(0x213)]=_0xb6bafb[_0x23559f(0x1cc)][_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x1b9)]&&_0xb6bafb[_0x23559f(0x177)])_0xdb2957[_0x23559f(0x1b9)]=_0xb6bafb[_0x23559f(0x177)][_0x23559f(0x17d)];var _0x4385e9=_0xb6bafb[_0x23559f(0x20c)];if(_0x4385e9){var _0x4171eb=_0x4385e9[_0x23559f(0x138)]||'';if(!_0xdb2957[_0x23559f(0x204)]&&_0x4171eb===_0x23559f(0x204))_0xdb2957[_0x23559f(0x204)]=_0x4385e9[_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x139)]&&_0x4171eb===_0x23559f(0x139))_0xdb2957[_0x23559f(0x139)]=_0x4385e9[_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x1f9)]&&_0x4171eb===_0x23559f(0x1f9))_0xdb2957[_0x23559f(0x1f9)]=_0x4385e9[_0x23559f(0x17d)];try{var _0x59f39c=_0x4385e9[_0x23559f(0x1d5)]||{},_0x48334d=_0x59f39c[_0x23559f(0x18a)],_0x5d2c00=_0x59f39c[_0x23559f(0x149)];!_0xdb2957[_0x23559f(0x126)]&&_0x48334d&&_0x48334d[_0x23559f(0x1f3)]&&_0x48334d[0x0]&&_0x48334d[0x0][_0x23559f(0x17d)]&&_0x1dbca0(_0x48334d[0x0][_0x23559f(0x17d)])&&(_0xdb2957[_0x23559f(0x126)]=_0x48334d[0x0][_0x23559f(0x17d)]),!_0xdb2957[_0x23559f(0x126)]&&_0x5d2c00&&_0x5d2c00[_0x23559f(0x17d)]&&_0x1dbca0(_0x5d2c00[_0x23559f(0x17d)])&&(_0xdb2957[_0x23559f(0x126)]=_0x5d2c00[_0x23559f(0x17d)]);}catch(_0x3a5a28){}}var _0x5a068c=_0xb6bafb[_0x23559f(0x194)]?Array[_0x23559f(0x180)](_0xb6bafb[_0x23559f(0x194)])?_0xb6bafb[_0x23559f(0x194)]:[_0xb6bafb[_0x23559f(0x194)]]:[];for(var _0x8297c4=0x0;_0x8297c4<_0x5a068c[_0x23559f(0x1f3)];_0x8297c4+=0x1){var _0x39bdde=_0x5a068c[_0x8297c4];if(!_0x39bdde||!_0x39bdde[_0x23559f(0x17d)])continue;var _0x586667=_0x39bdde[_0x23559f(0x138)]||'';if(!_0xdb2957[_0x23559f(0x1b4)]&&_0x586667===_0x23559f(0x1b4))_0xdb2957[_0x23559f(0x1b4)]=_0x39bdde[_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x1a9)]&&_0x586667===_0x23559f(0x1a9))_0xdb2957[_0x23559f(0x1a9)]=_0x39bdde[_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x17a)]&&_0x586667===_0x23559f(0x17a))_0xdb2957[_0x23559f(0x17a)]=_0x39bdde[_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x173)]&&_0x586667===_0x23559f(0x173))_0xdb2957[_0x23559f(0x173)]=_0x39bdde[_0x23559f(0x17d)];if(!_0xdb2957[_0x23559f(0x147)]&&_0x39bdde[_0x23559f(0x21a)])_0xdb2957[_0x23559f(0x147)]=_0x39bdde[_0x23559f(0x21a)][_0x23559f(0x17d)];}}catch(_0x1012fd){}});}catch(_0x55a855){_0x322b92(_0x574b4d(0x132),_0x55a855);}return _0xdb2957;}function _0x5b774b(_0xc99d85,_0x28dc71,_0xed3c41,_0x2ff777,_0x3a63e8){var _0x509610=_0x3e0181;if(!_0xc99d85[_0x509610(0x1f9)]||!_0x1dbca0(_0xc99d85[_0x509610(0x126)]))return new _0xc99d85[(_0x509610(0x204))](_0x28dc71,_0xed3c41,_0x2ff777);var _0x226518=Math[_0x509610(0x131)](_0x3a63e8,_0x28dc71/0x2-0.001,_0xed3c41/0x2-0.001),_0x3041b4=Math[_0x509610(0x131)](_0x3a63e8,_0x2ff777/0x2-0.001);if(_0x226518<=0.0005||_0x3041b4<=0.0005)return new _0xc99d85[(_0x509610(0x204))](_0x28dc71,_0xed3c41,_0x2ff777);var _0x2ce79a=_0x28dc71-0x2*_0x226518,_0x35c993=_0xed3c41-0x2*_0x226518,_0x38d76e=new _0xc99d85[(_0x509610(0x126))](),_0x128da2=-_0x2ce79a/0x2,_0x13587e=-_0x35c993/0x2;_0x38d76e[_0x509610(0x20d)](_0x128da2+_0x226518,_0x13587e),_0x38d76e[_0x509610(0x15b)](_0x128da2+_0x2ce79a-_0x226518,_0x13587e),_0x38d76e[_0x509610(0x1ff)](_0x128da2+_0x2ce79a,_0x13587e,_0x128da2+_0x2ce79a,_0x13587e+_0x226518),_0x38d76e[_0x509610(0x15b)](_0x128da2+_0x2ce79a,_0x13587e+_0x35c993-_0x226518),_0x38d76e[_0x509610(0x1ff)](_0x128da2+_0x2ce79a,_0x13587e+_0x35c993,_0x128da2+_0x2ce79a-_0x226518,_0x13587e+_0x35c993),_0x38d76e[_0x509610(0x15b)](_0x128da2+_0x226518,_0x13587e+_0x35c993),_0x38d76e[_0x509610(0x1ff)](_0x128da2,_0x13587e+_0x35c993,_0x128da2,_0x13587e+_0x35c993-_0x226518),_0x38d76e[_0x509610(0x15b)](_0x128da2,_0x13587e+_0x226518),_0x38d76e[_0x509610(0x1ff)](_0x128da2,_0x13587e,_0x128da2+_0x226518,_0x13587e);var _0x563902={};_0x563902[_0x509610(0x14a)]=_0x2ff777-0x2*_0x3041b4,_0x563902[_0x509610(0x211)]=!![],_0x563902[_0x509610(0x1f4)]=_0x3041b4,_0x563902[_0x509610(0x160)]=_0x3041b4,_0x563902[_0x509610(0x13a)]=0x2,_0x563902[_0x509610(0x150)]=0x4,_0x563902[_0x509610(0x1bc)]=0x1;var _0x390d2b=new _0xc99d85[(_0x509610(0x1f9))](_0x38d76e,_0x563902);_0x390d2b[_0x509610(0x20b)]();if(typeof _0x390d2b[_0x509610(0x1c7)]===_0x509610(0x170)&&_0x390d2b[_0x509610(0x199)]){var _0x1c0319=_0x390d2b[_0x509610(0x199)],_0x4a86af=_0x1c0319[_0x509610(0x151)]['x']-_0x1c0319[_0x509610(0x131)]['x'],_0xe30344=_0x1c0319[_0x509610(0x151)]['y']-_0x1c0319[_0x509610(0x131)]['y'],_0x4774e2=_0x1c0319[_0x509610(0x151)]['z']-_0x1c0319[_0x509610(0x131)]['z'];if(_0x4a86af>0x0&&_0xe30344>0x0&&_0x4774e2>0x0)_0x390d2b[_0x509610(0x1df)](_0x28dc71/_0x4a86af,_0xed3c41/_0xe30344,_0x2ff777/_0x4774e2);}return _0x390d2b;}function _0x35c2af(_0x31438c,_0x10c85e){var _0x34b38c=_0x3e0181;if(_0x31438c[_0x34b38c(0x17a)])return new _0x31438c[(_0x34b38c(0x17a))]({'color':new _0x31438c[(_0x34b38c(0x147))](_0x10c85e),'roughness':0.75,'metalness':0x0});return null;}function _0x1ac5a6(_0x8b0e43,_0x54a634){var _0x62c49b=_0x3e0181;if(_0x8b0e43[_0x62c49b(0x1b4)])return new _0x8b0e43[(_0x62c49b(0x1b4))]({'color':new _0x8b0e43[(_0x62c49b(0x147))](_0x54a634),'roughness':0.45,'metalness':0x0,'clearcoat':0.25,'clearcoatRoughness':0.5});return _0x35c2af(_0x8b0e43,_0x54a634);}function _0xe2dc1c(_0x24c7cb){var _0xdde0ae=_0x3e0181;if(_0x24c7cb[_0xdde0ae(0x17a)])return new _0x24c7cb[(_0xdde0ae(0x17a))]({'color':new _0x24c7cb[(_0xdde0ae(0x147))](_0x452964),'roughness':0.4,'metalness':0.2});return null;}function _0x50de82(_0x296b38){var _0x52edac=_0x3e0181;if(_0x296b38[_0x52edac(0x1b4)])return new _0x296b38[(_0x52edac(0x1b4))]({'color':new _0x296b38[(_0x52edac(0x147))](_0x367343),'roughness':0.08,'metalness':0x0,'transparent':!![],'opacity':0.3});return null;}function _0x28d896(_0x56351d,_0x580847){var _0x13456f=_0x3e0181,_0x3f9a03=_0x56351d&&_0x56351d[_0x13456f(0x16f)],_0x4be157=_0x3f9a03&&_0x3f9a03[_0x580847];if(typeof _0x4be157!==_0x13456f(0x1fe))return null;return/^#[0-9a-fA-F]{6}$/[_0x13456f(0x18d)](_0x4be157)?_0x4be157[_0x13456f(0x1ba)]():null;}function _0x23363c(_0x5edfbc,_0x127324,_0x2f70b2){var _0x943fed=_0x3e0181,_0x4c31fd=new _0x5edfbc[(_0x943fed(0x12e))]();_0x4c31fd[_0x943fed(0x152)]=_0x943fed(0x1f5);var _0x16fd4b=parseInt((_0x127324||_0x16a029)[_0x943fed(0x19f)](0x1),0x10),_0x27687d=parseInt((_0x2f70b2||_0x5090c3)[_0x943fed(0x19f)](0x1),0x10),_0x4830bc=_0x35c2af(_0x5edfbc,_0x27687d),_0x397cb1=_0x1ac5a6(_0x5edfbc,_0x16fd4b),_0x2f9877=_0xe2dc1c(_0x5edfbc)||_0x4830bc,_0x190178=_0x50de82(_0x5edfbc),_0x1a1e32=_0x5edfbc[_0x943fed(0x204)],_0x479489=-0x1;function _0x1475e3(_0x24d860,_0x571d36,_0x7f80eb,_0x12892b,_0x1350eb,_0xa651ab,_0x1921c1,_0x98a5c6){var _0x3110f1=_0x943fed,_0x57b4dc;try{_0x57b4dc=_0x5b774b(_0x5edfbc,_0x24d860,_0x571d36,_0x7f80eb,_0x98a5c6===undefined?0.004:_0x98a5c6);}catch(_0x3cc9e5){_0x57b4dc=new _0x1a1e32(_0x24d860,_0x571d36,_0x7f80eb);}var _0x5eb674=new _0x5edfbc[(_0x3110f1(0x193))](_0x57b4dc,_0x1921c1);return _0x5eb674[_0x3110f1(0x1cc)][_0x3110f1(0x1f0)](_0x479489*_0x12892b,_0x1350eb,_0xa651ab),_0x5eb674[_0x3110f1(0x14b)]=!![],_0x5eb674[_0x3110f1(0x174)]=!![],_0x4c31fd[_0x3110f1(0x171)](_0x5eb674),_0x5eb674;}function _0x309ac0(_0x3ea410,_0x4c2405){return(_0x3ea410+_0x4c2405)/0x2;}function _0x356b66(_0x33f836,_0x23d27f){return(_0x33f836+_0x23d27f)/0x2;}function _0x4379f0(_0x4be7d5){var _0x454703=_0x943fed;return _0x309ac0(_0x44929d+_0x4be7d5*_0x3660f7[_0x454703(0x1a3)],_0x44929d+(_0x4be7d5+0x1)*_0x3660f7[_0x454703(0x1a3)]);}var _0x58d110=_0x3660f7[_0x943fed(0x1a3)]-_0x3660f7[_0x943fed(0x1ce)],_0x4d0f6c=_0x3660f7[_0x943fed(0x1ed)]/0x2,_0x2fc767=_0x1f6684-0x2*_0x3660f7[_0x943fed(0x19c)];_0x1475e3(_0x1d40b7,_0x3660f7[_0x943fed(0x1ed)],_0x3660f7[_0x943fed(0x19c)],0x0,_0x4d0f6c,-(_0x1f6684/0x2-_0x3660f7[_0x943fed(0x19c)]/0x2),_0x4830bc),_0x1475e3(_0x1d40b7,_0x3660f7[_0x943fed(0x1ed)],_0x3660f7[_0x943fed(0x19c)],0x0,_0x4d0f6c,_0x1f6684/0x2-_0x3660f7[_0x943fed(0x19c)]/0x2,_0x4830bc),_0x1475e3(_0x3660f7[_0x943fed(0x19c)],_0x3660f7[_0x943fed(0x1ed)],_0x2fc767,_0x3e9e30+_0x3660f7[_0x943fed(0x19c)]/0x2,_0x4d0f6c,0x0,_0x4830bc),_0x1475e3(_0x3660f7[_0x943fed(0x19c)],_0x3660f7[_0x943fed(0x1ed)],_0x2fc767,_0xbbe920-_0x3660f7[_0x943fed(0x19c)]/0x2,_0x4d0f6c,0x0,_0x4830bc);var _0x566af6=_0x522ba7-_0x566107;_0x1475e3(_0x3660f7[_0x943fed(0x1e9)]+0.002,_0x566af6,_0x3780af,_0x3e9e30+0.011,_0x356b66(_0x566107,_0x522ba7),_0x3d77a5,_0x4830bc),_0x1475e3(_0x3660f7[_0x943fed(0x1e9)]+0.002,_0x566af6,_0x3780af,_0xbbe920-0.011,_0x356b66(_0x566107,_0x522ba7),_0x3d77a5,_0x4830bc);var _0x2ef067=_0x3e9e30+0.022,_0x3c07dc=_0x44929d-0.002,_0x558228=_0x3c07dc-_0x2ef067,_0x57c8c6=_0x309ac0(_0x2ef067,_0x3c07dc);_0x1475e3(_0x3660f7[_0x943fed(0x1e9)],_0x566af6,_0x3780af,_0x44929d-_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x356b66(_0x566107,_0x522ba7),_0x3d77a5,_0x4830bc),_0x1475e3(_0x558228,_0x3660f7[_0x943fed(0x1e9)],_0x3780af,_0x57c8c6,_0x522ba7-_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x3d77a5,_0x4830bc),_0x1475e3(_0x558228,_0x3660f7[_0x943fed(0x1e9)],_0x3780af,_0x57c8c6,_0x566107+_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x3d77a5,_0x4830bc),_0x1475e3(_0x558228,_0x566af6-0x2*_0x3660f7[_0x943fed(0x1e9)],_0x3660f7[_0x943fed(0x1e9)],_0x57c8c6,_0x356b66(_0x566107,_0x522ba7),_0x1f6684/0x2-_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x4830bc);var _0x3cc44c=[0.65,1.15,1.65,2.05];for(var _0x13a7da=0x0;_0x13a7da<_0x3cc44c[_0x943fed(0x1f3)];_0x13a7da+=0x1){_0x1475e3(_0x558228-0.01,_0x3660f7[_0x943fed(0x1e9)],_0x3780af-0.02,_0x57c8c6,_0x3cc44c[_0x13a7da],_0x3d77a5,_0x4830bc);}_0x1475e3(_0x3660f7[_0x943fed(0x186)],_0x566af6,_0x3660f7[_0x943fed(0x1e7)],_0x3e9e30+_0x3660f7[_0x943fed(0x186)]/0x2,_0x356b66(_0x566107,_0x522ba7),_0x287f6e,_0x2f9877),_0x1475e3(_0x3660f7[_0x943fed(0x186)],_0x566af6,_0x3660f7[_0x943fed(0x1e7)],_0x44929d-_0x3660f7[_0x943fed(0x186)]/0x2,_0x356b66(_0x566107,_0x522ba7),_0x287f6e,_0x2f9877);var _0x1d3e96=_0x3660f7[_0x943fed(0x188)]-0x2*_0x3660f7[_0x943fed(0x186)],_0x2943d9=_0x3e9e30+_0x3660f7[_0x943fed(0x188)]/0x2;_0x1475e3(_0x1d3e96,_0x3660f7[_0x943fed(0x186)],_0x3660f7[_0x943fed(0x1e7)],_0x2943d9,_0x522ba7-_0x3660f7[_0x943fed(0x186)]/0x2,_0x287f6e,_0x2f9877),_0x1475e3(_0x1d3e96,_0x3660f7[_0x943fed(0x186)],_0x3660f7[_0x943fed(0x1e7)],_0x2943d9,_0x566107+_0x3660f7[_0x943fed(0x186)]/0x2,_0x287f6e,_0x2f9877),_0x1475e3(_0x1d3e96,_0x3660f7[_0x943fed(0x134)],_0x3660f7[_0x943fed(0x1e7)],_0x2943d9,_0x222997,_0x287f6e,_0x2f9877);_0x190178&&_0x1475e3(_0x1d3e96,_0x566af6-0x2*_0x3660f7[_0x943fed(0x186)],0.004,_0x2943d9,_0x356b66(_0x566107,_0x522ba7),_0x3b947b,_0x190178,0.002);var _0x5ab560=_0x160890,_0x2d978b=_0x522ba7;_0x1475e3(_0x1d40b7-_0x3660f7[_0x943fed(0x188)],_0x2d978b-_0x5ab560,_0x3780af,_0x309ac0(_0x44929d,_0xbbe920),_0x356b66(_0x5ab560,_0x2d978b),_0x3d77a5,_0x4830bc);for(var _0x193693=0x0;_0x193693<0x4;_0x193693+=0x1){_0x1475e3(_0x58d110,_0x2d978b-_0x5ab560-_0x3660f7[_0x943fed(0x1ce)],_0x3660f7[_0x943fed(0x1e7)],_0x4379f0(_0x193693),_0x356b66(_0x5ab560+_0x3660f7[_0x943fed(0x1ce)]/0x2,_0x2d978b-_0x3660f7[_0x943fed(0x1ce)]/0x2),_0x287f6e,_0x397cb1,0.008);}var _0x275df9=_0x44929d,_0x17088d=_0x44929d+0x2*_0x3660f7[_0x943fed(0x1a3)],_0x5057aa=_0x17088d-_0x275df9,_0xdd9553=_0x309ac0(_0x275df9,_0x17088d);_0x1475e3(_0x5057aa,_0x3660f7[_0x943fed(0x1e9)],_0x3780af,_0xdd9553,_0x4cc352+_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x3d77a5,_0x4830bc),_0x1475e3(_0x5057aa,_0x3660f7[_0x943fed(0x1e9)],_0x3780af,_0xdd9553,_0x1c0329-_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x3d77a5,_0x4830bc),_0x1475e3(_0x3660f7[_0x943fed(0x1e9)],_0x1c0329-_0x4cc352-0x2*_0x3660f7[_0x943fed(0x1e9)],_0x3780af,_0x275df9+_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x356b66(_0x4cc352+_0x3660f7[_0x943fed(0x1e9)],_0x1c0329-_0x3660f7[_0x943fed(0x1e9)]),_0x3d77a5,_0x4830bc),_0x1475e3(_0x3660f7[_0x943fed(0x1e9)],_0x1c0329-_0x4cc352-0x2*_0x3660f7[_0x943fed(0x1e9)],_0x3780af,_0x17088d-_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x356b66(_0x4cc352+_0x3660f7[_0x943fed(0x1e9)],_0x1c0329-_0x3660f7[_0x943fed(0x1e9)]),_0x3d77a5,_0x4830bc),_0x1475e3(_0x5057aa-0x2*_0x3660f7[_0x943fed(0x1e9)],_0x1c0329-_0x4cc352-0x2*_0x3660f7[_0x943fed(0x1e9)],_0x3660f7[_0x943fed(0x1e9)],_0xdd9553,_0x356b66(_0x4cc352+_0x3660f7[_0x943fed(0x1e9)],_0x1c0329-_0x3660f7[_0x943fed(0x1e9)]),_0x1f6684/0x2-_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x4830bc),_0x1475e3(_0x1d40b7-_0x3660f7[_0x943fed(0x188)],_0x160890-_0x48092c,_0x3660f7[_0x943fed(0x1e9)],_0x309ac0(_0x44929d,_0xbbe920),_0x356b66(_0x48092c,_0x160890),_0x1f6684/0x2-_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x4830bc),_0x1475e3(_0x1d40b7-_0x3660f7[_0x943fed(0x188)],_0x3660f7[_0x943fed(0x1e9)],_0x3780af,_0x309ac0(_0x44929d,_0xbbe920),_0x2f4358+_0x3660f7[_0x943fed(0x1e9)]/0x2,_0x3d77a5,_0x4830bc);var _0x354073=_0x566107,_0x3e4df4=_0x182460;_0x1475e3(_0x1d40b7-_0x3660f7[_0x943fed(0x188)],_0x3e4df4-_0x354073,_0x3780af,_0x309ac0(_0x44929d,_0xbbe920),_0x356b66(_0x354073,_0x3e4df4),_0x3d77a5,_0x4830bc);for(var _0x5e99f8=0x0;_0x5e99f8<0x3;_0x5e99f8+=0x1){_0x1475e3(_0x58d110,_0x3e4df4-_0x354073-_0x3660f7[_0x943fed(0x1ce)],_0x3660f7[_0x943fed(0x1e7)],_0x4379f0(_0x5e99f8),_0x356b66(_0x354073+_0x3660f7[_0x943fed(0x1ce)]/0x2,_0x3e4df4-_0x3660f7[_0x943fed(0x1ce)]/0x2),_0x287f6e,_0x397cb1,0.008);}var _0x183502=(_0x354073+_0x3e4df4)/0x2;return _0x1475e3(_0x58d110,_0x183502-_0x354073-_0x3660f7[_0x943fed(0x1ce)],_0x3660f7[_0x943fed(0x1e7)],_0x4379f0(0x3),_0x356b66(_0x354073+_0x3660f7[_0x943fed(0x1ce)]/0x2,_0x183502-_0x3660f7[_0x943fed(0x1ce)]/0x2),_0x287f6e,_0x397cb1,0.008),_0x1475e3(_0x58d110,_0x3e4df4-_0x183502-_0x3660f7[_0x943fed(0x1ce)],_0x3660f7[_0x943fed(0x1e7)],_0x4379f0(0x3),_0x356b66(_0x183502+_0x3660f7[_0x943fed(0x1ce)]/0x2,_0x3e4df4-_0x3660f7[_0x943fed(0x1ce)]/0x2),_0x287f6e,_0x397cb1,0.008),_0x1475e3(_0x1d40b7,_0x3660f7[_0x943fed(0x1dd)],_0x1f6684,0x0,_0x20af9c-_0x3660f7[_0x943fed(0x1dd)]/0x2,0x0,_0x4830bc),_0x4c31fd[_0x943fed(0x144)][_0x9f5b90]=!![],_0x4c31fd;}var _0x57d2eb=null,_0x30afb6={};function _0x4a27d4(_0x5d198e){var _0x3f77c8=_0x3e0181,_0x297b64=_0x5d198e;while(_0x297b64){if(_0x297b64[_0x3f77c8(0x144)]&&_0x297b64[_0x3f77c8(0x144)][_0x9f5b90])return!![];_0x297b64=_0x297b64[_0x3f77c8(0x140)];}return![];}function _0x5e97d2(){var _0x536642=_0x3e0181,_0xe2c5a8={};if(!_0x57d2eb||!_0x57d2eb[_0x536642(0x1e3)]){_0x30afb6=_0xe2c5a8;return;}_0x57d2eb[_0x536642(0x1e3)][_0x536642(0x166)](function(_0x21582c){var _0x46ce32=_0x536642;(_0x21582c[_0x46ce32(0x16f)]||[])[_0x46ce32(0x166)](function(_0x351ac2){var _0x57fdd1=_0x46ce32;if(!_0x351ac2||_0x301380[_0x57fdd1(0x13b)](_0x351ac2[_0x57fdd1(0x1e6)])<0x0)return;if(!_0x351ac2[_0x57fdd1(0x1cc)]||_0x351ac2[_0x57fdd1(0x1cc)][_0x57fdd1(0x1f3)]<0x2)return;var _0x1a1ceb=typeof _0x351ac2[_0x57fdd1(0x1c0)]===_0x57fdd1(0x146)?_0x351ac2[_0x57fdd1(0x1c0)]:0x0;_0xe2c5a8[_0x57fdd1(0x200)+_0x351ac2['id']]={'key':_0x57fdd1(0x200)+_0x351ac2['id'],'furniture':_0x351ac2,'floor':_0x21582c,'device':{'position':[_0x351ac2[_0x57fdd1(0x1cc)][0x0],0x0,_0x351ac2[_0x57fdd1(0x1cc)][0x1]],'rotation':[0x0,-_0x1a1ceb,0x0]}};});}),_0x30afb6=_0xe2c5a8;}function _0x248415(_0x16f936){var _0x591991=_0x3e0181;if(!_0x16f936||!_0x16f936[_0x591991(0x1e3)])return;_0x57d2eb=_0x16f936,_0x5e97d2(),_0xf03b6b[_0x591991(0x12b)]=Object[_0x591991(0x216)](_0x30afb6)[_0x591991(0x1f3)],_0x322b92(_0x591991(0x198),_0xf03b6b[_0x591991(0x12b)]);}function _0x47d787(){var _0x48467c=_0x3e0181,_0x124ba4=window[_0x48467c(0x14e)];if(_0x124ba4){_0x124ba4[_0x48467c(0x1a8)](_0x5bb6d0),_0x124ba4[_0x48467c(0x175)]();return;}var _0x3a32c6={};_0x3a32c6[_0x48467c(0x15f)]=_0x48467c(0x154),fetch(_0x10ea4c()+_0x48467c(0x1af),_0x3a32c6)[_0x48467c(0x16e)](function(_0x40535b){var _0xe5dfdb=_0x48467c;return _0x40535b[_0xe5dfdb(0x1d4)]();})[_0x48467c(0x16e)](function(_0x2d9b2e){var _0x57996b=_0x48467c;_0x248415(_0x2d9b2e&&(_0x2d9b2e[_0x57996b(0x1ab)]||_0x2d9b2e));})[_0x48467c(0x1fa)](function(_0x17b980){var _0x129aea=_0x48467c;_0xf03b6b[_0x129aea(0x17f)]=_0x129aea(0x161)+String(_0x17b980);});}function _0x5bb6d0(_0x1efff6){var _0x505b39=_0x3e0181;_0x248415(_0x1efff6&&(_0x1efff6[_0x505b39(0x1ab)]||_0x1efff6));}function _0x4c3c72(){var _0x384397=_0x3e0181,_0x64f29b=(location[_0x384397(0x172)]===_0x384397(0x1b8)?_0x384397(0x178):_0x384397(0x127))+'//'+location[_0x384397(0x165)]+_0x10ea4c()+_0x384397(0x1d3),_0x1c5db1;try{_0x1c5db1=new WebSocket(_0x64f29b);}catch(_0x3e6cfc){return;}_0x1c5db1[_0x384397(0x190)](_0x384397(0x202),function(){var _0x4dd78c=_0x384397;try{var _0x3b6ea0={};_0x3b6ea0[_0x4dd78c(0x138)]=_0x4dd78c(0x207),_0x3b6ea0[_0x4dd78c(0x136)]=_0x4dd78c(0x1f5),_0x1c5db1[_0x4dd78c(0x219)](JSON[_0x4dd78c(0x16c)](_0x3b6ea0));}catch(_0x370d01){}}),_0x1c5db1[_0x384397(0x190)](_0x384397(0x1d6),function(_0x5f145c){var _0x35f989=_0x384397;try{var _0x4cce1c=JSON[_0x35f989(0x218)](_0x5f145c[_0x35f989(0x16b)]);if(_0x4cce1c&&_0x4cce1c[_0x35f989(0x138)]===_0x35f989(0x179))_0x248415(_0x4cce1c[_0x35f989(0x1b5)]);}catch(_0x47d016){}}),_0x1c5db1[_0x384397(0x190)](_0x384397(0x18e),function(){var _0x1b2c4a=_0x384397;window[_0x1b2c4a(0x183)](_0x4c3c72,0xbb8);});}function _0xd7c051(_0x2a7e3e,_0x48d5a4){var _0xafbf1f=_0x3e0181,_0x13fde2=_0x48d5a4[_0xafbf1f(0x20c)];if(!_0x13fde2)return null;try{if(!_0x13fde2[_0xafbf1f(0x199)]&&_0x13fde2[_0xafbf1f(0x1c7)])_0x13fde2[_0xafbf1f(0x1c7)]();if(!_0x13fde2[_0xafbf1f(0x199)])return null;_0x48d5a4[_0xafbf1f(0x133)](!![],![]);var _0x441ad3=_0x13fde2[_0xafbf1f(0x199)],_0x27327a=new _0x2a7e3e[(_0xafbf1f(0x213))](0x3b9aca00,0x3b9aca00,0x3b9aca00),_0x5ee9f1=new _0x2a7e3e[(_0xafbf1f(0x213))](-0x3b9aca00,-0x3b9aca00,-0x3b9aca00),_0x87ea81=new _0x2a7e3e[(_0xafbf1f(0x213))]();for(var _0x4681a0=0x0;_0x4681a0<0x8;_0x4681a0+=0x1){_0x87ea81[_0xafbf1f(0x1f0)](_0x4681a0&0x1?_0x441ad3[_0xafbf1f(0x151)]['x']:_0x441ad3[_0xafbf1f(0x131)]['x'],_0x4681a0&0x2?_0x441ad3[_0xafbf1f(0x151)]['y']:_0x441ad3[_0xafbf1f(0x131)]['y'],_0x4681a0&0x4?_0x441ad3[_0xafbf1f(0x151)]['z']:_0x441ad3[_0xafbf1f(0x131)]['z'])[_0xafbf1f(0x1b3)](_0x48d5a4[_0xafbf1f(0x177)]),_0x27327a[_0xafbf1f(0x131)](_0x87ea81),_0x5ee9f1[_0xafbf1f(0x151)](_0x87ea81);}var _0x4eb90a={};return _0x4eb90a[_0xafbf1f(0x131)]=_0x27327a,_0x4eb90a[_0xafbf1f(0x151)]=_0x5ee9f1,_0x4eb90a;}catch(_0x5d3f20){return null;}}function _0x1418cb(_0xecac21,_0xa2be6b){var _0x330e94=_0x3e0181,_0x4f450e=new _0xecac21[(_0x330e94(0x213))](0x3b9aca00,0x3b9aca00,0x3b9aca00),_0x1b6c3b=new _0xecac21[(_0x330e94(0x213))](-0x3b9aca00,-0x3b9aca00,-0x3b9aca00),_0x33309d=![];_0xa2be6b[_0x330e94(0x191)](function(_0x4d25e7){var _0x320610=_0x330e94;if(!_0x4d25e7[_0x320610(0x153)]||!_0x4d25e7[_0x320610(0x20c)])return;var _0x5745cf=_0xd7c051(_0xecac21,_0x4d25e7);if(!_0x5745cf)return;_0x33309d=!![];if(_0x5745cf[_0x320610(0x131)]['x']<_0x4f450e['x'])_0x4f450e['x']=_0x5745cf[_0x320610(0x131)]['x'];if(_0x5745cf[_0x320610(0x131)]['y']<_0x4f450e['y'])_0x4f450e['y']=_0x5745cf[_0x320610(0x131)]['y'];if(_0x5745cf[_0x320610(0x131)]['z']<_0x4f450e['z'])_0x4f450e['z']=_0x5745cf[_0x320610(0x131)]['z'];if(_0x5745cf[_0x320610(0x151)]['x']>_0x1b6c3b['x'])_0x1b6c3b['x']=_0x5745cf[_0x320610(0x151)]['x'];if(_0x5745cf[_0x320610(0x151)]['y']>_0x1b6c3b['y'])_0x1b6c3b['y']=_0x5745cf[_0x320610(0x151)]['y'];if(_0x5745cf[_0x320610(0x151)]['z']>_0x1b6c3b['z'])_0x1b6c3b['z']=_0x5745cf[_0x320610(0x151)]['z'];});var _0x26b2d0={};return _0x26b2d0[_0x330e94(0x131)]=_0x4f450e,_0x26b2d0[_0x330e94(0x151)]=_0x1b6c3b,_0x33309d?_0x26b2d0:null;}var _0x461e9e={};function _0x53d961(_0x3c24ad){var _0x1111f0=_0x3e0181,_0x273919=_0x461e9e[_0x3c24ad];return!!(_0x273919&&_0x273919[_0x1111f0(0x167)]&&_0x273919[_0x1111f0(0x167)][_0x1111f0(0x1c9)]&&_0x273919[_0x1111f0(0x167)][_0x1111f0(0x1c9)][_0x1111f0(0x140)]);}function _0x13889f(_0x56a8f5,_0x434890,_0x1c619c){var _0x1ab113=_0x3e0181,_0x3796bc=_0x56a8f5[_0x1ab113(0x151)]['x']-_0x56a8f5[_0x1ab113(0x131)]['x'],_0x2f7bbd=_0x56a8f5[_0x1ab113(0x151)]['y']-_0x56a8f5[_0x1ab113(0x131)]['y'],_0x3dee30=_0x56a8f5[_0x1ab113(0x151)]['z']-_0x56a8f5[_0x1ab113(0x131)]['z'];if(Math[_0x1ab113(0x151)](_0x3796bc,_0x2f7bbd,_0x3dee30)>0x4||Math[_0x1ab113(0x131)](_0x3796bc,_0x2f7bbd,_0x3dee30)<0.05)return![];var _0x41cf97=Math[_0x1ab113(0x1e0)](_0x3796bc*_0x3796bc+_0x3dee30*_0x3dee30),_0x641a6e=Math[_0x1ab113(0x1e0)](_0x434890*_0x434890+_0x1c619c*_0x1c619c),_0x305ec6=_0x434890+_0x1c619c;if(_0x41cf97<_0x641a6e-0.5||_0x41cf97>_0x305ec6+0.5)return![];if(_0x3796bc>_0x305ec6+0.25||_0x3dee30>_0x305ec6+0.25)return![];return!![];}function _0x3a3277(_0x4c7947,_0x23b769,_0x44692c,_0xedf5ea){var _0x2d3401=_0x3e0181,_0x4f69fb=_0x44692c[_0x2d3401(0x16f)]||{},_0x2de936=typeof _0x4f69fb[_0x2d3401(0x1ee)]===_0x2d3401(0x146)?_0x4f69fb[_0x2d3401(0x1ee)]:_0x1d40b7,_0x18e70d=typeof _0x4f69fb[_0x2d3401(0x14a)]===_0x2d3401(0x146)?_0x4f69fb[_0x2d3401(0x14a)]:_0x1f6684,_0x34fa0f=_0x44692c[_0x2d3401(0x1bf)][_0x2d3401(0x1cc)]?_0x44692c[_0x2d3401(0x1bf)][_0x2d3401(0x1cc)][0x0]:null,_0x4eed95=_0x44692c[_0x2d3401(0x1bf)][_0x2d3401(0x1cc)]?_0x44692c[_0x2d3401(0x1bf)][_0x2d3401(0x1cc)][0x2]:null;if(_0x34fa0f===null||_0x4eed95===null)return null;function _0x306c67(_0x414976){var _0x30aaa1=_0x2d3401;if(!_0x414976||!_0x414976[_0x30aaa1(0x144)])return![];return _0x414976[_0x30aaa1(0x144)][_0x5c2d0b]||_0x414976[_0x30aaa1(0x144)][_0x9f5b90];}var _0x40b687=null,_0x48ab16=Infinity;_0x23b769[_0x2d3401(0x191)](function(_0x4db0a0){var _0x1fdd0f=_0x2d3401;if(_0x40b687)return;if(!(_0x4db0a0[_0x1fdd0f(0x14d)]||_0x4db0a0[_0x1fdd0f(0x138)]===_0x1fdd0f(0x12e)))return;if(_0x4a27d4(_0x4db0a0)||_0x306c67(_0x4db0a0))return;var _0xbf41df=_0x4db0a0[_0x1fdd0f(0x144)]||{},_0x493619=_0xbf41df[_0x1fdd0f(0x20a)];if(_0x493619!==_0x44692c[_0x1fdd0f(0x1ec)]&&!(_0x4f69fb&&_0x493619===_0x4f69fb['id']))return;if(_0xbf41df[_0x1fdd0f(0x164)])return;var _0x2aa344=_0xbf41df[_0x18f9db];if(_0x2aa344&&_0x2aa344!==_0xedf5ea)return;var _0x356909=_0x1418cb(_0x4c7947,_0x4db0a0);if(!_0x356909)return;var _0x55d66d={};_0x55d66d[_0x1fdd0f(0x1c9)]=_0x4db0a0,_0x55d66d[_0x1fdd0f(0x131)]=_0x356909[_0x1fdd0f(0x131)],_0x40b687=_0x55d66d;});if(_0x40b687)return _0x40b687;return _0x23b769[_0x2d3401(0x191)](function(_0x2ed269){var _0x2f8fa1=_0x2d3401;if(!(_0x2ed269[_0x2f8fa1(0x14d)]||_0x2ed269[_0x2f8fa1(0x138)]===_0x2f8fa1(0x12e)))return;if(_0x4a27d4(_0x2ed269)||_0x306c67(_0x2ed269))return;var _0x6dc8f5=_0x2ed269[_0x2f8fa1(0x144)]||{};if(_0x6dc8f5[_0x2f8fa1(0x159)])return;var _0x54c0dc=_0x6dc8f5[_0x18f9db];if(_0x54c0dc&&_0x54c0dc!==_0xedf5ea)return;var _0x40b805=_0x2ed269[_0x2f8fa1(0x1cc)]?_0x2ed269[_0x2f8fa1(0x1cc)]['x']:0x0,_0x5d4b93=_0x2ed269[_0x2f8fa1(0x1cc)]?_0x2ed269[_0x2f8fa1(0x1cc)]['z']:0x0;if(Math[_0x2f8fa1(0x1f1)](_0x40b805-_0x34fa0f)>0.35||Math[_0x2f8fa1(0x1f1)](_0x5d4b93-_0x4eed95)>0.35)return;var _0x5b20b5=_0x1418cb(_0x4c7947,_0x2ed269);if(!_0x5b20b5||!_0x13889f(_0x5b20b5,_0x2de936,_0x18e70d))return;var _0xe331fb=Math[_0x2f8fa1(0x1e0)]((_0x40b805-_0x34fa0f)*(_0x40b805-_0x34fa0f)+(_0x5d4b93-_0x4eed95)*(_0x5d4b93-_0x4eed95));if(_0xe331fb<_0x48ab16){_0x48ab16=_0xe331fb;var _0x2a041b={};_0x2a041b[_0x2f8fa1(0x1c9)]=_0x2ed269,_0x2a041b[_0x2f8fa1(0x131)]=_0x5b20b5[_0x2f8fa1(0x131)],_0x40b687=_0x2a041b;}}),!_0x40b687&&_0x23b769[_0x2d3401(0x191)](function(_0x5c64cd){var _0x26adee=_0x2d3401;if(_0x4a27d4(_0x5c64cd)||_0x306c67(_0x5c64cd))return;var _0x3aaf39=_0x5c64cd[_0x26adee(0x144)]||{};if(_0x3aaf39[_0x18f9db]||_0x3aaf39[_0x26adee(0x164)])return;var _0x432775=_0xd7c051(_0x4c7947,_0x5c64cd);if(!_0x432775)return;var _0x1bb495=_0x432775[_0x26adee(0x151)]['x']-_0x432775[_0x26adee(0x131)]['x'],_0x200520=_0x432775[_0x26adee(0x151)]['y']-_0x432775[_0x26adee(0x131)]['y'],_0xf2b439=_0x432775[_0x26adee(0x151)]['z']-_0x432775[_0x26adee(0x131)]['z'];if(Math[_0x26adee(0x151)](_0x1bb495,_0x200520,_0xf2b439)>0x4||Math[_0x26adee(0x131)](_0x1bb495,_0x200520,_0xf2b439)<0.03)return;var _0x5c9551=Math[_0x26adee(0x1f1)](_0x1bb495-_0x2de936)<0.12&&Math[_0x26adee(0x1f1)](_0xf2b439-_0x18e70d)<0.12||Math[_0x26adee(0x1f1)](_0x1bb495-_0x18e70d)<0.12&&Math[_0x26adee(0x1f1)](_0xf2b439-_0x2de936)<0.12;if(!_0x5c9551)return;var _0x40d3c4=0x0;if(_0x34fa0f!==null&&_0x4eed95!==null){var _0x256fdd=(_0x432775[_0x26adee(0x131)]['x']+_0x432775[_0x26adee(0x151)]['x'])/0x2,_0x5dd5b2=(_0x432775[_0x26adee(0x131)]['z']+_0x432775[_0x26adee(0x151)]['z'])/0x2;_0x40d3c4=Math[_0x26adee(0x1e0)]((_0x256fdd-_0x34fa0f)*(_0x256fdd-_0x34fa0f)+(_0x5dd5b2-_0x4eed95)*(_0x5dd5b2-_0x4eed95));}if(_0x40d3c4<_0x48ab16){_0x48ab16=_0x40d3c4;var _0x1ef234={};_0x1ef234[_0x26adee(0x1c9)]=_0x5c64cd,_0x1ef234[_0x26adee(0x131)]=_0x432775[_0x26adee(0x131)],_0x40b687=_0x1ef234;}}),_0x40b687;}function _0x438d83(_0x4b990a,_0x5b3757,_0x22fad1,_0x59dc15,_0x4a638c){var _0x1daa1b=_0x3e0181,_0x442951=_0x22fad1[_0x1daa1b(0x16f)]||{},_0x3b2f8c=typeof _0x442951[_0x1daa1b(0x1ee)]===_0x1daa1b(0x146)?_0x442951[_0x1daa1b(0x1ee)]:_0x1d40b7,_0x3f5868=typeof _0x442951[_0x1daa1b(0x14a)]===_0x1daa1b(0x146)?_0x442951[_0x1daa1b(0x14a)]:_0x1f6684,_0x5d310f=typeof _0x442951[_0x1daa1b(0x217)]===_0x1daa1b(0x146)?_0x442951[_0x1daa1b(0x217)]:_0x20af9c,_0x1c21f4=_0x4a638c?_0x4a638c['x']:_0x22fad1[_0x1daa1b(0x1bf)][_0x1daa1b(0x1cc)]?_0x22fad1[_0x1daa1b(0x1bf)][_0x1daa1b(0x1cc)][0x0]:null,_0x47f360=_0x4a638c?_0x4a638c['z']:_0x22fad1[_0x1daa1b(0x1bf)][_0x1daa1b(0x1cc)]?_0x22fad1[_0x1daa1b(0x1bf)][_0x1daa1b(0x1cc)][0x2]:null;if(_0x1c21f4===null||_0x47f360===null)return 0x0;var _0x2ef2b4=Math[_0x1daa1b(0x151)](0.25,Math[_0x1daa1b(0x131)](_0x3b2f8c,_0x3f5868)*0.35),_0x1349c2=Math[_0x1daa1b(0x151)](0.12,Math[_0x1daa1b(0x131)](_0x3b2f8c,_0x3f5868)*0.28),_0x148837=0x0;_0x5b3757[_0x1daa1b(0x191)](function(_0x5581d7){var _0x1b7c7b=_0x1daa1b;if(!_0x5581d7[_0x1b7c7b(0x153)]||!_0x5581d7[_0x1b7c7b(0x20c)])return;if(_0x4a27d4(_0x5581d7))return;var _0x4c7629=_0x5581d7[_0x1b7c7b(0x144)]||{};if(_0x4c7629[_0x9f5b90]||_0x4c7629[_0x5c2d0b])return;if(_0x4c7629[_0x18f9db]===_0x59dc15)return;if(_0x4c7629[_0x1b7c7b(0x164)]||_0x4c7629[_0x1b7c7b(0x15e)]||_0x4c7629[_0x1b7c7b(0x13c)]||_0x4c7629[_0x1b7c7b(0x1d8)]||_0x4c7629[_0x1b7c7b(0x145)]||_0x4c7629[_0x1b7c7b(0x215)])return;var _0xeb69bc=_0x5581d7[_0x1b7c7b(0x194)];if(_0xeb69bc&&_0xeb69bc[_0x1b7c7b(0x13e)]&&_0xeb69bc[_0x1b7c7b(0x1e4)]===0x0)return;var _0x57766b=_0xd7c051(_0x4b990a,_0x5581d7);if(!_0x57766b)return;var _0x4a3368=_0x57766b[_0x1b7c7b(0x151)]['x']-_0x57766b[_0x1b7c7b(0x131)]['x'],_0x5308eb=_0x57766b[_0x1b7c7b(0x151)]['y']-_0x57766b[_0x1b7c7b(0x131)]['y'],_0x3b16e1=_0x57766b[_0x1b7c7b(0x151)]['z']-_0x57766b[_0x1b7c7b(0x131)]['z'];if(!(_0x4a3368>0x0)||!(_0x3b16e1>0x0))return;if(Math[_0x1b7c7b(0x151)](_0x4a3368,_0x5308eb,_0x3b16e1)>0x4||Math[_0x1b7c7b(0x131)](_0x4a3368,_0x5308eb,_0x3b16e1)<0.03)return;if(_0x57766b[_0x1b7c7b(0x151)]['y']>_0x5d310f+0.6)return;if(_0x5308eb>_0x5d310f*1.6)return;var _0x59296f=(_0x57766b[_0x1b7c7b(0x131)]['x']+_0x57766b[_0x1b7c7b(0x151)]['x'])/0x2,_0x28df2a=(_0x57766b[_0x1b7c7b(0x131)]['z']+_0x57766b[_0x1b7c7b(0x151)]['z'])/0x2;if(Math[_0x1b7c7b(0x1f1)](_0x59296f-_0x1c21f4)>_0x2ef2b4||Math[_0x1b7c7b(0x1f1)](_0x28df2a-_0x47f360)>_0x2ef2b4)return;if(_0x5308eb<0.12)return;if(_0x4a3368<_0x3b2f8c*0.45||_0x3b16e1<_0x3f5868*0.45)return;if(_0x57766b[_0x1b7c7b(0x131)]['y']>0.35)return;var _0x1bb53c=Math[_0x1b7c7b(0x1f1)](_0x4a3368-_0x3b16e1)<0.06,_0x34b8ff=Math[_0x1b7c7b(0x1f1)](_0x4a3368-_0x3b2f8c)<_0x1349c2&&Math[_0x1b7c7b(0x1f1)](_0x3b16e1-_0x3f5868)<_0x1349c2||Math[_0x1b7c7b(0x1f1)](_0x4a3368-_0x3f5868)<_0x1349c2&&Math[_0x1b7c7b(0x1f1)](_0x3b16e1-_0x3b2f8c)<_0x1349c2||_0x1bb53c&&Math[_0x1b7c7b(0x1f1)]((_0x4a3368+_0x3b16e1)/0x2-(_0x3b2f8c+_0x3f5868)/0x2)<_0x1349c2*1.6;if(!_0x34b8ff)return;if(!_0x5581d7[_0x1b7c7b(0x144)])_0x5581d7[_0x1b7c7b(0x144)]={};_0x5581d7[_0x1b7c7b(0x144)][_0x18f9db]=_0x59dc15,_0x5581d7[_0x1b7c7b(0x1e2)]&&(_0x5581d7[_0x1b7c7b(0x1e2)]=![],_0x148837+=0x1);});if(_0x148837)_0xf03b6b[_0x1daa1b(0x1a4)]+=_0x148837;return _0x148837;}function _0x182759(_0x15e7ab,_0x51a524,_0x56a619,_0x205bdd,_0x59c550){var _0x103513=_0x3e0181;try{_0x56a619[_0x103513(0x1c9)][_0x103513(0x133)](!![],![]);var _0x5677d5=_0x56a619[_0x103513(0x1c9)][_0x103513(0x1e1)](new _0x15e7ab[(_0x103513(0x213))]()),_0x44be8f=_0x56a619[_0x103513(0x1c9)][_0x103513(0x197)](new _0x56a619[(_0x103513(0x1c9))][(_0x103513(0x1de))][(_0x103513(0x17d))]()),_0x19c54c=_0x51a524[_0x103513(0x140)],_0x390658=null;if(_0x19c54c&&_0x15e7ab[_0x103513(0x1b9)]){_0x19c54c[_0x103513(0x133)](!![],![]),_0x390658=new _0x15e7ab[(_0x103513(0x1b9))]()[_0x103513(0x1ac)](_0x19c54c[_0x103513(0x177)])[_0x103513(0x16d)](),_0x5677d5[_0x103513(0x1b3)](_0x390658);var _0xd16a12=new _0x56a619[(_0x103513(0x1c9))][(_0x103513(0x1de))][(_0x103513(0x17d))]();_0x19c54c[_0x103513(0x177)][_0x103513(0x1fb)](new _0x15e7ab[(_0x103513(0x213))](),_0xd16a12,new _0x15e7ab[(_0x103513(0x213))]()),_0x44be8f[_0x103513(0x205)](_0xd16a12[_0x103513(0x1c2)]()[_0x103513(0x16d)]());}var _0x858e90=_0x56a619[_0x103513(0x1c9)][_0x103513(0x1e1)](new _0x15e7ab[(_0x103513(0x213))]())['y'],_0x535a83=_0x390658?new _0x15e7ab[(_0x103513(0x213))](0x0,_0x858e90,0x0)[_0x103513(0x1b3)](_0x390658)['y']:_0x858e90,_0x5b3d2f=[_0x5677d5['x'],_0x5677d5['y'],_0x535a83,_0x5677d5['z'],_0x44be8f['x'],_0x44be8f['y'],_0x44be8f['z'],_0x44be8f['w']];for(var _0x26f77e=0x0;_0x26f77e<_0x5b3d2f[_0x103513(0x1f3)];_0x26f77e+=0x1){if(typeof _0x5b3d2f[_0x26f77e]!==_0x103513(0x146)||!isFinite(_0x5b3d2f[_0x26f77e]))return _0xf03b6b[_0x103513(0x17f)]=_0x103513(0x162)+_0x26f77e+')',![];}var _0x90bdbd=_0x205bdd[_0x103513(0x16f)]||{};if(typeof _0x90bdbd[_0x103513(0x1ee)]===_0x103513(0x146)&&typeof _0x90bdbd[_0x103513(0x217)]===_0x103513(0x146)&&typeof _0x90bdbd[_0x103513(0x14a)]===_0x103513(0x146)){var _0x1b267e=_0x90bdbd[_0x103513(0x1ee)]/_0x1d40b7,_0x49f55f=_0x90bdbd[_0x103513(0x217)]/_0x20af9c,_0x231d8d=_0x90bdbd[_0x103513(0x14a)]/_0x1f6684;isFinite(_0x1b267e)&&isFinite(_0x49f55f)&&isFinite(_0x231d8d)&&_0x1b267e>0x0&&_0x49f55f>0x0&&_0x231d8d>0x0&&_0x51a524[_0x103513(0x1df)][_0x103513(0x1f0)](_0x1b267e,_0x49f55f,_0x231d8d);}return _0x51a524[_0x103513(0x1cc)][_0x103513(0x1ac)](_0x5677d5),_0x51a524[_0x103513(0x1cc)]['y']=_0x535a83,_0x51a524[_0x103513(0x1de)][_0x103513(0x1ac)](_0x44be8f),_0x1bcfa9(_0x56a619,_0x59c550),!![];}catch(_0x1bc570){return _0x322b92(_0x103513(0x14c),_0x1bc570),![];}}function _0x1bcfa9(_0x8fa4d1,_0x263a4c){var _0x103a58=_0x3e0181;if(!_0x8fa4d1||!_0x8fa4d1[_0x103a58(0x1c9)])return;if(!_0x8fa4d1[_0x103a58(0x1c9)][_0x103a58(0x144)])_0x8fa4d1[_0x103a58(0x1c9)][_0x103a58(0x144)]={};_0x8fa4d1[_0x103a58(0x1c9)][_0x103a58(0x144)][_0x18f9db]=_0x263a4c,_0x8fa4d1[_0x103a58(0x1c9)][_0x103a58(0x1e2)]&&(_0x8fa4d1[_0x103a58(0x1c9)][_0x103a58(0x1e2)]=![],_0xf03b6b[_0x103a58(0x1a4)]+=0x1);}function _0x449892(){var _0x107048=_0x3e0181,_0x321894=Object[_0x107048(0x216)](_0x461e9e);for(var _0x4a4f78=0x0;_0x4a4f78<_0x321894[_0x107048(0x1f3)];_0x4a4f78+=0x1){var _0x314196=_0x461e9e[_0x321894[_0x4a4f78]];if(!_0x314196||!_0x314196[_0x107048(0x167)]||!_0x314196[_0x107048(0x14f)])continue;var _0x1c80a9=_0x314196[_0x107048(0x167)]&&_0x314196[_0x107048(0x167)][_0x107048(0x1c9)];if(_0x1c80a9&&!_0x1c80a9[_0x107048(0x140)])continue;if(!_0x314196[_0x107048(0x210)][_0x107048(0x140)])continue;_0x182759(_0x314196[_0x107048(0x14f)],_0x314196[_0x107048(0x210)],_0x314196[_0x107048(0x167)],_0x314196[_0x107048(0x1f2)],_0x321894[_0x4a4f78]);}}function _0x3d616a(){var _0x401848=_0x3e0181,_0x5322f9=window[_0x401848(0x1be)];if(_0x5322f9&&_0x5322f9[_0x401848(0x143)])_0x5322f9[_0x401848(0x143)](_0x434219,_0x449892);}function _0x5ac7f8(_0x24a6ec,_0x5072f1){var _0x2ea47d=_0x3e0181,_0x325511=_0x5072f1[_0x2ea47d(0x1bf)][_0x2ea47d(0x1cc)]||[0x0,0x0,0x0];_0x24a6ec[_0x2ea47d(0x1cc)][_0x2ea47d(0x1f0)](_0x325511[0x0],_0x325511[0x1]||0x0,_0x325511[0x2]||0x0);var _0x5d796d=_0x5072f1[_0x2ea47d(0x1bf)][_0x2ea47d(0x1c0)];if(Array[_0x2ea47d(0x180)](_0x5d796d))_0x24a6ec[_0x2ea47d(0x1c0)][_0x2ea47d(0x1f0)](_0x5d796d[0x0]||0x0,_0x5d796d[0x1]||0x0,_0x5d796d[0x2]||0x0);}function _0x3409bd(_0x5d340b,_0x11731c,_0x472639){var _0x1721a7=_0x3e0181,_0x46376f=_0x472639[_0x1721a7(0x1ec)],_0x1398a9=_0x1721a7(0x1d7)+_0x46376f,_0x49eefe=null;_0x11731c[_0x1721a7(0x191)](function(_0x1974be){var _0x2c485e=_0x1721a7;if(!_0x49eefe&&_0x1974be[_0x2c485e(0x152)]===_0x1398a9)_0x49eefe=_0x1974be;});if(_0x49eefe)return _0x49eefe;var _0x1044d3=new _0x5d340b[(_0x1721a7(0x12e))]();return _0x1044d3[_0x1721a7(0x152)]=_0x1398a9,_0x1044d3[_0x1721a7(0x144)][_0x1721a7(0x20a)]=_0x46376f,_0x1044d3[_0x1721a7(0x144)][_0x5c2d0b]=!![],_0x5ac7f8(_0x1044d3,_0x472639),_0x11731c[_0x1721a7(0x171)](_0x1044d3),_0x322b92(_0x1721a7(0x1ad),_0x46376f),_0x1044d3;}function _0x1330af(_0x2076e5){var _0x54644f=_0x3e0181;try{var _0xe5d5ca=[];_0x2076e5[_0x54644f(0x191)](function(_0x4344cc){var _0xd32319=_0x54644f;if(_0x4344cc[_0xd32319(0x20c)]&&_0x4344cc[_0xd32319(0x20c)][_0xd32319(0x206)])_0x4344cc[_0xd32319(0x20c)][_0xd32319(0x206)]();if(_0x4344cc[_0xd32319(0x194)]){var _0x3f8161=Array[_0xd32319(0x180)](_0x4344cc[_0xd32319(0x194)])?_0x4344cc[_0xd32319(0x194)]:[_0x4344cc[_0xd32319(0x194)]];for(var _0x138f40=0x0;_0x138f40<_0x3f8161[_0xd32319(0x1f3)];_0x138f40+=0x1){var _0x1695cc=_0x3f8161[_0x138f40];if(!_0x1695cc||_0xe5d5ca[_0xd32319(0x13b)](_0x1695cc)>=0x0)continue;_0xe5d5ca[_0xd32319(0x1c3)](_0x1695cc);if(_0x1695cc[_0xd32319(0x206)])_0x1695cc[_0xd32319(0x206)]();}}});if(_0x2076e5[_0x54644f(0x140)])_0x2076e5[_0x54644f(0x140)][_0x54644f(0x1bb)](_0x2076e5);}catch(_0x21ae4c){}}function _0x134eea(_0x357037,_0x400072,_0x181936){var _0x33139e=_0x3e0181,_0x146aa4=_0x4367db(),_0x196a4c=_0x28d896(_0x181936,_0x33139e(0x1d2))||'',_0x1e5256=_0x28d896(_0x181936,_0x33139e(0x1b2))||'',_0x97f8e2=null;_0x400072[_0x33139e(0x13f)][_0x33139e(0x166)](function(_0x8bc464){var _0x856375=_0x33139e;if(!_0x97f8e2&&_0x8bc464[_0x856375(0x144)]&&_0x8bc464[_0x856375(0x144)][_0x9f5b90])_0x97f8e2=_0x8bc464;});if(_0x97f8e2){var _0x278eac=_0x97f8e2[_0x33139e(0x144)][_0x33139e(0x1f6)]===_0x146aa4&&(_0x97f8e2[_0x33139e(0x144)][_0x33139e(0x203)]||'')===_0x196a4c&&(_0x97f8e2[_0x33139e(0x144)][_0x33139e(0x187)]||'')===_0x1e5256;if(_0x278eac){if(window[_0x33139e(0x1e5)])window[_0x33139e(0x1e5)][_0x33139e(0x1e8)](_0x97f8e2,_0x181936);return![];}_0x1330af(_0x97f8e2);}var _0x28f809=_0x23363c(_0x357037,_0x196a4c||null,_0x1e5256||null);_0x28f809[_0x33139e(0x144)][_0x33139e(0x1f6)]=_0x146aa4,_0x28f809[_0x33139e(0x144)][_0x33139e(0x203)]=_0x196a4c,_0x28f809[_0x33139e(0x144)][_0x33139e(0x187)]=_0x1e5256,_0x28f809[_0x33139e(0x1cc)][_0x33139e(0x1f0)](0x0,0x0,_0x218920);if(window[_0x33139e(0x1e5)])window[_0x33139e(0x1e5)][_0x33139e(0x20f)](_0x28f809,_0x181936,0x0);return _0x28f809[_0x33139e(0x1c0)][_0x33139e(0x1f0)](0x0,_0x5cb516,0x0),_0x400072[_0x33139e(0x171)](_0x28f809),!![];}function _0x325ed0(){var _0x3f107b=_0x3e0181;_0xf03b6b[_0x3f107b(0x201)]+=0x1;try{_0x4d03fd();}catch(_0x312658){_0xf03b6b[_0x3f107b(0x17f)]=_0x3f107b(0x125)+String(_0x312658&&_0x312658[_0x3f107b(0x1d6)]?_0x312658[_0x3f107b(0x1d6)]:_0x312658),_0xf03b6b[_0x3f107b(0x1c5)]=_0x312658&&_0x312658[_0x3f107b(0x168)]?String(_0x312658[_0x3f107b(0x168)])[_0x3f107b(0x19f)](0x0,0x190):null;}}function _0x4d03fd(){var _0xb468d2=_0x3e0181;_0x3d616a();var _0xb688d=_0x809a4;if(!_0xb688d){_0xf03b6b[_0xb468d2(0x17f)]=_0xb468d2(0x208);return;}var _0x5c2689=window[_0xb468d2(0x1d9)];if(!_0xb688d&&_0x5c2689&&_0x5c2689[_0xb468d2(0x1ef)])_0xb688d=_0x5c2689;_0xf03b6b[_0xb468d2(0x137)]=_0xb468d2(0x214);var _0x22a42d=Object[_0xb468d2(0x216)](_0x30afb6);_0xf03b6b[_0xb468d2(0x12b)]=_0x22a42d[_0xb468d2(0x1f3)];if(!_0x22a42d[_0xb468d2(0x1f3)]){_0xf03b6b[_0xb468d2(0x17f)]=_0xb468d2(0x1cd);return;}var _0x4d523f=_0x2ef954(_0xb688d),_0x4851bd=[];if(!_0x4d523f[_0xb468d2(0x12e)])_0x4851bd[_0xb468d2(0x1c3)](_0xb468d2(0x12e));if(!_0x4d523f[_0xb468d2(0x193)])_0x4851bd[_0xb468d2(0x1c3)](_0xb468d2(0x193));if(!_0x4d523f[_0xb468d2(0x213)])_0x4851bd[_0xb468d2(0x1c3)](_0xb468d2(0x213));if(!_0x4d523f[_0xb468d2(0x147)])_0x4851bd[_0xb468d2(0x1c3)](_0xb468d2(0x147));if(!_0x4d523f[_0xb468d2(0x204)]&&!_0x4d523f[_0xb468d2(0x1f9)])_0x4851bd[_0xb468d2(0x1c3)](_0xb468d2(0x155));_0xf03b6b[_0xb468d2(0x15a)]=_0x4851bd[_0xb468d2(0x1f3)]?_0x4851bd[_0xb468d2(0x129)](','):null;if(_0x4851bd[_0xb468d2(0x1f3)]){_0xf03b6b[_0xb468d2(0x17f)]=_0xb468d2(0x12a)+_0xf03b6b[_0xb468d2(0x15a)];return;}var _0x3dc621={};_0x3dc621[_0xb468d2(0x149)]=!_0x4d523f[_0xb468d2(0x126)],_0x3dc621[_0xb468d2(0x185)]=!_0x4d523f[_0xb468d2(0x1f9)],_0xf03b6b[_0xb468d2(0x192)]=_0x3dc621;var _0x76d5f=![];_0x22a42d[_0xb468d2(0x166)](function(_0x36e31f){var _0xabcb30=_0xb468d2,_0x1aec8e=_0x30afb6[_0x36e31f],_0x326919=_0x3409bd(_0x4d523f,_0xb688d,_0x1aec8e),_0x375d50=[];_0x326919[_0xabcb30(0x13f)][_0xabcb30(0x166)](function(_0x400750){var _0x47bac4=_0xabcb30;if(_0x400750[_0x47bac4(0x144)]&&_0x400750[_0x47bac4(0x144)][_0x9f5b90])_0x375d50[_0x47bac4(0x1c3)](_0x400750);});while(_0x375d50[_0xabcb30(0x1f3)]>0x1)_0x1330af(_0x375d50[_0xabcb30(0x12f)]());if(_0x134eea(_0x4d523f,_0x326919,_0x1aec8e))_0x76d5f=!![];var _0x1f7ec4=_0x461e9e[_0x36e31f],_0x4693a2=_0x53d961(_0x36e31f)?_0x1f7ec4[_0xabcb30(0x167)]:_0x3a3277(_0x4d523f,_0xb688d,_0x1aec8e,_0x36e31f);if(_0x4693a2&&_0x182759(_0x4d523f,_0x326919,_0x4693a2,_0x1aec8e,_0x36e31f)){_0x76d5f=!![];var _0x598970={};_0x598970[_0xabcb30(0x210)]=_0x326919,_0x598970[_0xabcb30(0x167)]=_0x4693a2,_0x598970[_0xabcb30(0x1f2)]=_0x1aec8e,_0x598970[_0xabcb30(0x14f)]=_0x4d523f,_0x461e9e[_0x36e31f]=_0x598970;}else!_0x4693a2&&!_0x1f7ec4&&_0x5ac7f8(_0x326919,_0x1aec8e);var _0x4259f5=null;if(_0x4693a2)try{_0x4693a2[_0xabcb30(0x1c9)][_0xabcb30(0x133)](!![],![]),_0x4259f5=_0x4693a2[_0xabcb30(0x1c9)][_0xabcb30(0x1e1)](new _0x4d523f[(_0xabcb30(0x213))]());}catch(_0x450b2e){_0x4259f5=null;}var _0x40cd5a=_0x438d83(_0x4d523f,_0xb688d,_0x1aec8e,_0x36e31f,_0x4259f5);if(_0x40cd5a)_0x76d5f=!![];});var _0x5ab571=[];_0xb688d[_0xb468d2(0x191)](function(_0x3a083d){var _0x2b4c28=_0xb468d2;if(_0x3a083d[_0x2b4c28(0x144)]&&_0x3a083d[_0x2b4c28(0x144)][_0x2b4c28(0x169)]&&_0x3a083d[_0x2b4c28(0x144)][_0x2b4c28(0x20a)]){var _0x3ab692=_0x3a083d[_0x2b4c28(0x144)][_0x2b4c28(0x20a)];if(!_0x30afb6[_0x3ab692])_0x5ab571[_0x2b4c28(0x1c3)](_0x3a083d);}}),_0x5ab571[_0xb468d2(0x166)](function(_0x41deaa){var _0x250288=_0xb468d2;_0x41deaa[_0x250288(0x13f)][_0x250288(0x19f)]()[_0x250288(0x166)](function(_0x3719bf){var _0x4f3cfc=_0x250288;if(_0x3719bf[_0x4f3cfc(0x144)]&&_0x3719bf[_0x4f3cfc(0x144)][_0x9f5b90])_0x1330af(_0x3719bf);});if(_0x41deaa[_0x250288(0x140)])_0x41deaa[_0x250288(0x140)][_0x250288(0x1bb)](_0x41deaa);}),_0xf03b6b[_0xb468d2(0x157)]=_0x22a42d[_0xb468d2(0x1f3)],_0xf03b6b[_0xb468d2(0x195)]=0x0,_0xb688d[_0xb468d2(0x191)](function(_0x1340d0){var _0x7649bf=_0xb468d2;if(_0x1340d0[_0x7649bf(0x144)]&&_0x1340d0[_0x7649bf(0x144)][_0x9f5b90])_0xf03b6b[_0x7649bf(0x195)]+=0x1;}),_0xf03b6b[_0xb468d2(0x17f)]=null;if(_0x76d5f)try{if(window[_0xb468d2(0x1d9)]&&window[_0xb468d2(0x1d9)][_0xb468d2(0x18f)]){var _0x280795={};_0x280795[_0xb468d2(0x138)]=_0xb468d2(0x176),window[_0xb468d2(0x1d9)][_0xb468d2(0x18f)](_0x280795);}}catch(_0x21aeb3){}}window[_0x3e0181(0x209)]=function(){var _0x187d80=_0x3e0181;return{'version':_0x4ce5a4,'captured':!!_0x809a4,'entries':Object[_0x187d80(0x216)](_0x30afb6)[_0x187d80(0x1f3)],'attached':_0xf03b6b[_0x187d80(0x157)],'models':_0xf03b6b[_0x187d80(0x195)],'hiddenStock':_0xf03b6b[_0x187d80(0x1a4)],'kitMissing':_0xf03b6b[_0x187d80(0x15a)],'degraded':_0xf03b6b[_0x187d80(0x192)]||null,'devtoolsHook':_0xf03b6b[_0x187d80(0x1f7)],'storeRoute':_0xf03b6b[_0x187d80(0x137)],'lastError':_0xf03b6b[_0x187d80(0x17f)],'lastStack':_0xf03b6b[_0x187d80(0x1c5)]||null};};function _0x3e4cf3(){var _0x20f39c=_0x3e0181;_0x47d787(),_0x4c3c72(),_0x3d616a(),window[_0x20f39c(0x1db)](_0x325ed0,_0x3ab06c),window[_0x20f39c(0x183)](_0x325ed0,0x4b0);}document[_0x3e0181(0x12d)]===_0x3e0181(0x17c)?document[_0x3e0181(0x190)](_0x3e0181(0x1a2),_0x3e4cf3):_0x3e4cf3();}()));function a0_0x108e(){var _0xe43a56=['AgeZzfnPzgvIB2fYza','C2HHCgvZ','Aw5MBW','ndC2otyWmgDjvxvkBG','DgvZDa','y2XVC2u','zgLZCgf0y2HfDMvUDa','ywrKrxzLBNrmAxn0zw5LCG','DhjHDMvYC2u','zgvNCMfKzwq','twvZAa','Bwf0zxjPywW','Bw9KzwXZ','nJmXmtCWmff5t1njEa','z2v0v29YBgrrDwf0zxjUAw9U','ChjVAMvJDcbSB2fKzwqSihnPzgvIB2fYzcbLBNrYAwvZoG','yM91BMrPBMDcB3G','zgv0ywLS','x19usfjfrv9ervzut09mu19F','zM9VDfq','yxbP','zxjYB3i','C2XPy2u','y2fYDg9VBG','Aw5ZDgfSBgvK','re9nq29UDgvUDeXVywrLza','y29SvW','AgLKzgvUu3rVy2S','zMLSDgvY','yxbWBhK','mJiZofHbDLzqBq','C3vIC2nYAwjL','twvZAfrVB25nyxrLCMLHBa','ndiYntCYmNnjC3L5Ca','ChjVAMvJDa','y29WEq','C3rHBMrHBg9UzsbZAwrLyM9HCMqGy29UDgfPBMvYignYzwf0zwqGzM9Y','i2m5ytG3yW','l2fWAs9WCM9Qzwn0CY9JDxjYzw50','mJaYmZa0BfbPthjb','ntq5mLf3B3rNEa','y2fIAw5LDenVBg9Y','yxbWBhLnyxrYAxG0','twvZAfbOExnPy2fStwf0zxjPywW','Cgf5Bg9Hza','CMv0DxjUicHMDw5JDgLVBIGPia','y2HHAw5Lza','Ahr0Chm6','twf0CML4na','Dg9mB3DLCKnHC2u','CMvTB3zL','C3rLChm','ChjVDg90ExbL','x19OytnKu2nLBMvpCMLNAw5gAxG','zgv2AwnL','CM90yxrPB24','i2vKztDKyq','y2XVBMu','ChvZAa','DMvYC2LVBG','BgfZDfn0ywnR','AgeZzc5OB21LlNnJzw5LvMLZDwfSu3r5Bgu','y29TChv0zujVDw5KAw5NqM94','y3jLyw0','B2jQ','ntqWnvr4vhHryG','D2fYBG','Cg9ZAxrPB24','BM8GC2LKzwjVyxjKigvUDhjPzxmGAw4GDgHLihbYB2PLy3q','C2vHBq','Bg9JyxrPB24','zNvYBML0DxjLlxnPzgvIB2fYza','DhjHy2u','zg9VCKnVBg9Y','l3DZ','ANnVBG','CgfYyw1LDgvYCW','BwvZC2fNzq','AgeZzc1ZAwrLyM9HCMqTC3rHBMrHBg9UztO','AgeZzfnVzMftDg9JA0HPzgrLBG','x19OytnKq2fWDhvYzwrty2vUzq','z2v0sxrLBq','C2v0sw50zxj2ywW','C3bSAxq','Dg9Wq2fWva','CxvHDgvYBMLVBG','C2nHBgu','C3fYDa','z2v0v29YBgrqB3nPDgLVBG','DMLZAwjSzq','zMXVB3jZ','B3bHy2L0Eq','AgeZze1VzgvStgLMDa','Bw9KzwXjza','zgvWDgHeB29Y','C3LUyW','CgfUzwXu','x19WCM90B19F','DgfIBgu','A2v5','zM9VDeHLAwDODa','D2LKDgG','Axnty2vUzq','C2v0','ywjZ','zw50CNK','BgvUz3rO','yMv2zwXtAxPL','AgeZzc1ZAwrLyM9HCMq','AgeZzfnPzgvIB2fYzfn0EwXL','zgv2Dg9VBhniB29R','y29UC29Szq','rxH0CNvKzuDLB21LDhj5','y2f0y2G','zgvJB21WB3nL','CMvUzgvY','AgeZzfnPzgvIB2fYzfn0B2nRsgLKzgvU','C3rYAw5N','CxvHzhjHDgLJq3vYDMvuBW','zNvYBML0DxjLoG','CNvUCW','B3bLBG','AgeZzfnPzgvIB2fYzerVB3i','qM94r2vVBwv0CNK','ChjLBxvSDgLWBhK','zgLZCg9Zzq','ChjVAMvJDc5ZDwjZy3jPyMu','BM8GC2nLBMuGy2fWDhvYzwqGEwv0icHYzw5KzxjLCIbOB29RigHHCYbUB3qGzMLYzwqP','AgeZzfnPzgvIB2fYzfbYB2jL','zM9JDxnfBNrPDhLjza','y2vUDgvY','z2vVBwv0CNK','Bw92zvrV','AgeZzfnPzgvIB2fYzerLyNvN','yxbWBhLz','y29UDgfPBMvY','yMv2zwXfBMfIBgvK','mtG5ntm1ofjuvvbqvW','vMvJDg9YmW','CMvUzgvYzxiTAg9VAW','AgeZzezYAwrNzvn0B2nRsgLKzgvU','A2v5CW','AgvPz2H0','CgfYC2u','C2vUza','y29SB3i','y29Uy2f0','C3LUy1nJzw5LihrOCMv3oIa','u2HHCgu','D3m6','z2XHC3m','AM9PBG','DgHYzwuGy29UC3rYDwn0B3jZihvUyxzHAwXHyMXLoIa','zw50CMLLCW','zNvYBML0DxjLlNnPzgvIB2fYza','CMvHzhLtDgf0zq','r3jVDxa','Cg9W','Dg9tDhjPBMC','BwLU','yM9YCM93vgHYzwuGzMfPBgvK','DxbKyxrLv29YBgrnyxrYAxG','zNjHBwvnAwru','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','CMvXDwvZDeLK','C3rVCMvsB3v0zq','DhLWzq','q3LSAw5Kzxjhzw9TzxrYEq','yMv2zwXtzwDTzw50CW','Aw5KzxHpzG','AgeZzfDHC2HLCLn0B2nRsgLKzgvU','Bg9N','DhjHBNnWyxjLBNq','y2HPBgrYzw4','CgfYzw50','Bg9JywXtDg9YywDL','wZnKlwHVBwuGC2LKzwjVyxjKxq','CMvNAxn0zxi','DxnLCKrHDge','AgeZze5LC3rLzfn0B2nRsgLKzgvU','BNvTyMvY','q29SB3i','zxHJzxb0Aw9U','C2HHCgu','zgvWDgG','y2fZDfnOywrVDW','ywrVChrtDg9JA1rYyw5ZzM9YBsbMywLSzwq','AxnhCM91Ca','AgeZzfbYB2PLy3rtBMfWC2HVDa','A2L0','y3vYDMvtzwDTzw50CW','Bwf4','BMfTzq','AxnnzxnO','C2fTzs1VCMLNAw4','BM8Gz2vVBwv0CNKGy2XHC3mGyxqGywXS','CMvUzgvYzxjdyxb0DxjLza','yxr0ywnOzwq','x19OytnKu2LKzwjVyxjKsg9VA2vK','AgeZze1VzgvSu3rHBMrHBg9Uzq','A2L0twLZC2LUzW','BgLUzvrV','y2fSBa','B2jZzxj2zq','AgeZzerPBMLUz1n0B2nRsgLKzgvU','y3jLzgvUDgLHBhm','yMv2zwXuAgLJA25LC3m','ChjVAMvJDcbSB2fKigzHAwXLzdOG','ywrVChrtDg9JA1rYyw5ZzM9YBtOGBM9UlwzPBML0zsb0CMfUC2zVCM0GkgLUzgv4ia','Cgf0Ag5HBwu','AgeZzfn0B2nRsgLKzgvU','Ag9ZDa','zM9YrwfJAa','C3rVy2S','C3rHy2S','AgeZzfnPzgvIB2fYzfn0yw5KywXVBMu','zgvWDgHcB2r5','zgf0yq','C3rYAw5NAwz5','Aw52zxj0','DgHLBG','zNvYBML0DxjL','zNvUy3rPB24','ywrK','ChjVDg9JB2W','twvZAejHC2LJtwf0zxjPywW','CMvJzwL2zvnOywrVDW','CMvXDwvZDa','y2HHBMDL','Bwf0CML4v29YBgq','D3nZoG','ChjVAMvJDc51CgrHDgvK','twvZAfn0yw5KyxjKtwf0zxjPywW','nJC3AwLSB0zs','Bg9HzgLUzW','y29UC3rYDwn0B3i','seeZrf9tsurfqK9buKrFrevcvuC','BgfZDevYCM9Y','AxnbCNjHEq','n3nAzwDTDG','yMLUza','C2v0vgLTzw91Da','zgv2Dg9VBhmGAg9VAYbMywLSzwq6ia','zxH0CNvKzq','zNjHBwvu','AgeZzfnPzgvIB2fYzenHyG','z2XHC3nAB25LvW'];a0_0x108e=function(){return _0xe43a56;};return a0_0x108e();}
+/*
+ * 定制餐边柜 3D 模型（运行时补丁）。
+ *
+ * Record shape: carrier kind "sideboard"（SPA 白名单内，会被原生渲染 → 三层隐藏）
+ * + modelId "furniture.sideboard"。纯 furniture 路径 A，不绑定 HA 实体。
+ *
+ * 造型：浅木色柜体 + 奶白哑光烤漆门板 + 黑色细框透明玻璃展示区。
+ * 左侧通高玻璃展示塔（4 隔板），右上 4 扇封闭柜门 + 下方开放格，
+ * 中段背板 + 台面，下方 3 扇大柜门 + 右侧上下 2 扇，地脚封边 + 顶封板。
+ * 整体 2.2 × 0.35 × 2.5 m。
+ *
+ * 坐标约定（ha3d-model-modeling §6.1）：原点 = 包围盒中心地面点，
+ * 正面直接朝 -Z，MODEL_YAW / MODEL_Z_OFFSET 均为 0。
+ *
+ * 特殊材质：三套 visualStyle 下统一「木纹 / 哑白烤漆 / 黑框 / 玻璃」，
+ * 描边沿用奶油风格逻辑（outline = 0，无描边外壳）。
+ * 可配置颜色（inspector-surface-color.js 写记录，schema.py 白名单）：
+ *   doorColor    奶白门板（默认 #ede7da）
+ *   cabinetColor 浅木柜体（默认 #c9a87c），黑框与玻璃固定不随参数变化。
+ *
+ * 骨架来自 model-template.js：区间足迹判据 / per-uid 宿主锁定 / 帧驱动 /
+ * 无每轮静态写回（自动旋转漂移三硬规则，ha3d-model-integration §6.3）。
+ *
+ * Debug: window.ha3dSideboardProbe()
+ */
+(function () {
+  "use strict";
+
+  var MODEL_IDS = ["furniture.sideboard"];
+  var STYLE_KEY = "ha3d.home.sceneVisualStyle";
+  var MODEL_FLAG = "ha3dSideboard";
+  var STOCK_CLAIM = "ha3dSideboardStockHidden"; // 专属占用标记，不与其他补丁共用
+  var STANDALONE_FLAG = "ha3dSideboardStandalone";
+  var SCAN_KEY = "furniture-sideboard";
+  var VERSION = 5;
+
+  /* 诊断对象必须在 hook 之前声明（var 提升不提升赋值）。 */
+  var stats = {
+    version: VERSION,
+    runs: 0,
+    entries: 0,
+    attached: 0,
+    models: 0,
+    hiddenStock: 0,
+    kitMissing: null,
+    degraded: null,
+    devtoolsHook: null,
+    storeRoute: null,
+    lastError: null,
+    lastStack: null,
+  };
+  window.ha3dSideboardDebug = stats;
+
+  /* ------------------------------------------------------------ 尺寸（米） */
+  var DIM = {
+    width: 2.2,
+    depth: 0.35,        // 整体外深
+    height: 2.5,
+    depthBody: 0.33,    // 柜体进深（门凸出在前）
+    depthDoor: 0.02,    // 门/框厚
+    footHeight: 0.05,   // 地脚高
+    footT: 0.02,        // 地脚封边厚
+    panelT: 0.018,      // 隔板/背板/开放格板厚
+    topCapT: 0.02,      // 顶封板厚
+    glassZoneW: 0.55,   // 左玻璃区总宽
+    colW: 0.4125,       // 右区单列宽
+    seam: 0.008,        // 门缝
+    frameT: 0.03,       // 黑框梃宽
+    frameMidT: 0.025,   // 黑框中横梃高
+  };
+
+  /* 派生量 —— 全部显式定义，禁止引用 DIM 不存在的字段 */
+  var TOTAL_W = DIM.width;
+  var TOTAL_D = DIM.depth;
+  var TOTAL_H = DIM.height;
+  var BODY_BOTTOM = DIM.footHeight;                 // 0.05
+  var BODY_TOP = TOTAL_H - DIM.topCapT;             // 2.48
+  var LOWER_TOP = 0.95;                             // 下柜门顶
+  var COUNTER_BOT = LOWER_TOP;                      // 台面 0.95→0.97
+  var COUNTER_TOP = LOWER_TOP + DIM.panelT;         // 0.968 ≈ 台面顶
+  var MID_TOP = 1.6;                                // 中段顶（上柜底）
+  var NICHE_BOT = 1.32;
+  var NICHE_TOP = 1.58;
+  var GLASS_SPLIT_Y = 1.27;                         // 黑框中横梃中心
+
+  /* z 平面：柜体 z ∈ [-0.155, +0.175]，门 z ∈ [-0.175, -0.155]，bbox 关于 0 对称 */
+  var BODY_CENTER_Z = 0.01;
+  var BODY_D = DIM.depthBody;
+  var DOOR_CENTER_Z = -0.165;
+  var GLASS_Z = -0.157;
+
+  /* x 边界：左区 [-1.1, -0.55]，右区 4 列各 0.4125 */
+  var X_LEFT = -TOTAL_W / 2;             // -1.1
+  var GLASS_X0 = X_LEFT + DIM.glassZoneW; // -0.55
+  var X_RIGHT = TOTAL_W / 2;             // 1.1
+
+  var MODEL_YAW = 0;
+  var MODEL_Z_OFFSET = 0;
+
+  var SCAN_INTERVAL = 700;
+
+  /* 默认色（记录未设置时使用） */
+  var DEFAULT_DOOR_HEX = "#ede7da";
+  var DEFAULT_CAB_HEX = "#c9a87c";
+  var BLACK = 0x1e1e20;
+  var GLASS_TINT = 0x2a2e30;
+
+  /* ------------------------------------------------------------- 工具 */
+  function log() {
+    if (!window.HA3D_SIDEBOARD_DEBUG) return;
+    try { console.log.apply(console, ["[3d-home sideboard]"].concat([].slice.call(arguments))); } catch (e) {}
+  }
+
+  function apiBase() {
+    var parts = window.location.pathname.split("/").filter(Boolean);
+    if (parts.length >= 2 && parts[0] === "api") return "/" + parts[0] + "/" + parts[1];
+    return "";
+  }
+
+  function currentStyle() {
+    try {
+      var v = window.localStorage.getItem(STYLE_KEY);
+      if (v === "cream" || v === "cartoon" || v === "glass") return v;
+    } catch (e) {}
+    return "glass";
+  }
+
+  /* ------------------------------------- 场景捕获（链式，绝不覆盖旧 hook） */
+  var capturedScene = null;
+  (function installHook() {
+    try {
+      function onEvent(e) {
+        try {
+          var renderer = e.detail;
+          if (!renderer || typeof renderer.render !== "function") return;
+          stats.rendererCaptured = true;
+          if (renderer.__ha3dSideboardHooked) return;
+          renderer.__ha3dSideboardHooked = true;
+          var orig = renderer.render;
+          renderer.render = function (scene, camera) {
+            try {
+              if (scene && scene.isScene) {
+                capturedScene = scene;
+                window.__ha3dCapturedScene = scene;
+              }
+            } catch (err) {}
+            return orig.call(this, scene, camera);
+          };
+        } catch (err) {}
+      }
+      var prev = window.__THREE_DEVTOOLS__;
+      if (prev && typeof prev.addEventListener === "function") {
+        prev.addEventListener("observe", onEvent);
+        prev.addEventListener("register", onEvent);
+        stats.devtoolsHook = "chained";
+      } else {
+        var hook = new EventTarget();
+        hook.addEventListener("observe", onEvent);
+        hook.addEventListener("register", onEvent);
+        window.__THREE_DEVTOOLS__ = hook;
+        stats.devtoolsHook = "installed";
+      }
+    } catch (err) {
+      stats.lastError = "devtools hook failed: " + String(err);
+    }
+  })();
+
+  /* --------------------------------------------------------- borrow kit */
+  function isUsableShape(C) {
+    if (typeof C !== "function") return false;
+    var proto = C.prototype;
+    if (!proto) return false;
+    return typeof proto.moveTo === "function" && typeof proto.quadraticCurveTo === "function";
+  }
+
+  function borrowThree(scene) {
+    var kit = {
+      Group: null, Mesh: null, Vector3: null, Color: null, Matrix4: null,
+      BoxGeometry: null, CylinderGeometry: null, ExtrudeGeometry: null, Shape: null,
+      MeshPhysicalMaterial: null, MeshToonMaterial: null,
+      MeshStandardMaterial: null, MeshBasicMaterial: null,
+    };
+    try {
+      scene.traverse(function (obj) {
+        try {
+          if (!obj) return;
+          if (!kit.Group && obj.isGroup) kit.Group = obj.constructor;
+          if (!kit.Mesh && obj.isMesh) kit.Mesh = obj.constructor;
+          if (!kit.Vector3 && obj.position) kit.Vector3 = obj.position.constructor;
+          if (!kit.Matrix4 && obj.matrixWorld) kit.Matrix4 = obj.matrixWorld.constructor;
+
+          var geo = obj.geometry;
+          if (geo) {
+            var gn = geo.type || "";
+            if (!kit.BoxGeometry && gn === "BoxGeometry") kit.BoxGeometry = geo.constructor;
+            if (!kit.CylinderGeometry && gn === "CylinderGeometry") kit.CylinderGeometry = geo.constructor;
+            if (!kit.ExtrudeGeometry && gn === "ExtrudeGeometry") kit.ExtrudeGeometry = geo.constructor;
+            try {
+              var p = geo.parameters || {};
+              var shapes = p.shapes;
+              var single = p.shape;
+              if (!kit.Shape && shapes && shapes.length && shapes[0] && shapes[0].constructor && isUsableShape(shapes[0].constructor)) {
+                kit.Shape = shapes[0].constructor;
+              }
+              if (!kit.Shape && single && single.constructor && isUsableShape(single.constructor)) {
+                kit.Shape = single.constructor;
+              }
+            } catch (e) {}
+          }
+
+          var mats = obj.material ? (Array.isArray(obj.material) ? obj.material : [obj.material]) : [];
+          for (var i = 0; i < mats.length; i += 1) {
+            var m = mats[i];
+            if (!m || !m.constructor) continue;
+            var mn = m.type || "";
+            if (!kit.MeshPhysicalMaterial && mn === "MeshPhysicalMaterial") kit.MeshPhysicalMaterial = m.constructor;
+            if (!kit.MeshToonMaterial && mn === "MeshToonMaterial") kit.MeshToonMaterial = m.constructor;
+            if (!kit.MeshStandardMaterial && mn === "MeshStandardMaterial") kit.MeshStandardMaterial = m.constructor;
+            if (!kit.MeshBasicMaterial && mn === "MeshBasicMaterial") kit.MeshBasicMaterial = m.constructor;
+            if (!kit.Color && m.color) kit.Color = m.color.constructor;
+          }
+        } catch (e) {}
+      });
+    } catch (err) {
+      log("borrowThree failed", err);
+    }
+    return kit;
+  }
+
+  /* ------------------------------------------------------- 几何工厂（带回退） */
+  function roundedBoxGeometry(T, w, h, d, r) {
+    if (!T.ExtrudeGeometry || !isUsableShape(T.Shape)) return new T.BoxGeometry(w, h, d);
+    var rCorner = Math.min(r, w / 2 - 0.001, h / 2 - 0.001);
+    var rBevel = Math.min(r, d / 2 - 0.001);
+    if (rCorner <= 0.0005 || rBevel <= 0.0005) return new T.BoxGeometry(w, h, d);
+
+    var sw = w - 2 * rCorner;
+    var sh = h - 2 * rCorner;
+    var s = new T.Shape();
+    var x = -sw / 2;
+    var y = -sh / 2;
+    s.moveTo(x + rCorner, y);
+    s.lineTo(x + sw - rCorner, y);
+    s.quadraticCurveTo(x + sw, y, x + sw, y + rCorner);
+    s.lineTo(x + sw, y + sh - rCorner);
+    s.quadraticCurveTo(x + sw, y + sh, x + sw - rCorner, y + sh);
+    s.lineTo(x + rCorner, y + sh);
+    s.quadraticCurveTo(x, y + sh, x, y + sh - rCorner);
+    s.lineTo(x, y + rCorner);
+    s.quadraticCurveTo(x, y, x + rCorner, y);
+
+    var geo = new T.ExtrudeGeometry(s, {
+      depth: d - 2 * rBevel,
+      bevelEnabled: true,
+      bevelSize: rBevel,
+      bevelThickness: rBevel,
+      bevelSegments: 2,
+      curveSegments: 4,
+      steps: 1,
+    });
+    geo.center();
+    if (typeof geo.computeBoundingBox === "function" && geo.boundingBox) {
+      var bb = geo.boundingBox;
+      var sx = bb.max.x - bb.min.x;
+      var sy = bb.max.y - bb.min.y;
+      var sz = bb.max.z - bb.min.z;
+      if (sx > 0 && sy > 0 && sz > 0) geo.scale(w / sx, h / sy, d / sz);
+    }
+    return geo;
+  }
+
+  /* -------------------------------------------------------------- 材质 */
+  function woodMaterial(T, color) {
+    if (T.MeshStandardMaterial) {
+      return new T.MeshStandardMaterial({ color: new T.Color(color), roughness: 0.75, metalness: 0 });
+    }
+    return null;
+  }
+
+  function paintMaterial(T, color) {
+    if (T.MeshPhysicalMaterial) {
+      return new T.MeshPhysicalMaterial({
+        color: new T.Color(color),
+        roughness: 0.45,
+        metalness: 0,
+        clearcoat: 0.25,
+        clearcoatRoughness: 0.5,
+      });
+    }
+    return woodMaterial(T, color);
+  }
+
+  function frameMaterial(T) {
+    if (T.MeshStandardMaterial) {
+      return new T.MeshStandardMaterial({ color: new T.Color(BLACK), roughness: 0.4, metalness: 0.2 });
+    }
+    return null;
+  }
+
+  function glassMaterial(T) {
+    if (T.MeshPhysicalMaterial) {
+      return new T.MeshPhysicalMaterial({
+        color: new T.Color(GLASS_TINT),
+        roughness: 0.08,
+        metalness: 0,
+        transparent: true,
+        opacity: 0.3,
+      });
+    }
+    return null;
+  }
+
+  /* ------------------------------------------------ 拾取的参数颜色 */
+  function hexColorOf(entry, key) {
+    var rec = entry && entry.furniture;
+    var raw = rec && rec[key];
+    if (typeof raw !== "string") return null;
+    return /^#[0-9a-fA-F]{6}$/.test(raw) ? raw.toLowerCase() : null;
+  }
+
+  /* -------------------------------------------------------------- 模型 */
+  function buildSideboard(T, doorHex, cabHex) {
+    var group = new T.Group();
+    group.name = "ha3d-sideboard";
+
+    var doorColor = parseInt((doorHex || DEFAULT_DOOR_HEX).slice(1), 16);
+    var cabColor = parseInt((cabHex || DEFAULT_CAB_HEX).slice(1), 16);
+    var wood = woodMaterial(T, cabColor);
+    var cream = paintMaterial(T, doorColor);
+    var black = frameMaterial(T) || wood;
+    var glass = glassMaterial(T);
+
+    var fall = T.BoxGeometry;
+
+    /* ---------------------------------------------------------------
+     * X 轴镜像开关（MIRROR_X = -1）。
+     *
+     * 需求：参考图里**玻璃展示柜门在柜子的左边**（正面视角）。本模型
+     * 最初把玻璃塔建在 −X 侧，正面看时落在画面右边，与参考图相反。
+     *
+     * 为什么用「坐标镜像」而不是 scale.x = -1 / rotation.y = π：
+     *   - scale.x = -1 是负缩放，会翻转三角形绕序 → 法线朝内 → 背面剔除
+     *     → 柜体「半透明 / 穿模」（与洗衣机那次事故同类）；
+     *   - rotation.y = π 会把**正面也转过去**，门会跑到背面去；
+     *   - 坐标镜像只改 position，不动任何几何 → 绕序 / 法线 / 描边全部不变，
+     *     且各部件的相对关系（玻璃塔 ↔ 木纹侧板、开放格 ↔ 玻璃塔、
+     *     下柜上下 2 扇门 ↔ 远离玻璃的一端）自动保持不变。
+     * --------------------------------------------------------------- */
+    var MIRROR_X = -1;
+
+    function part(w, h, d, x, y, z, mat, radius) {
+      var geo;
+      try {
+        geo = roundedBoxGeometry(T, w, h, d, radius === undefined ? 0.004 : radius);
+      } catch (err) {
+        geo = new fall(w, h, d);
+      }
+      var mesh = new T.Mesh(geo, mat);
+      mesh.position.set(MIRROR_X * x, y, z);
+      mesh.castShadow = true;
+      mesh.receiveShadow = true;
+      group.add(mesh);
+      return mesh;
+    }
+
+    function centerX(x0, x1) { return (x0 + x1) / 2; }
+    function spanY(y0, y1) { return (y0 + y1) / 2; }
+    function colX(i) { return centerX(GLASS_X0 + i * DIM.colW, GLASS_X0 + (i + 1) * DIM.colW); }
+    var doorW = DIM.colW - DIM.seam;
+
+    /* --- 地脚封边（一圈，木色） --- */
+    var footY = DIM.footHeight / 2;
+    var footSpanD = TOTAL_D - 2 * DIM.footT;
+    part(TOTAL_W, DIM.footHeight, DIM.footT, 0, footY, -(TOTAL_D / 2 - DIM.footT / 2), wood);
+    part(TOTAL_W, DIM.footHeight, DIM.footT, 0, footY, TOTAL_D / 2 - DIM.footT / 2, wood);
+    part(DIM.footT, DIM.footHeight, footSpanD, X_LEFT + DIM.footT / 2, footY, 0, wood);
+    part(DIM.footT, DIM.footHeight, footSpanD, X_RIGHT - DIM.footT / 2, footY, 0, wood);
+
+    /* --- 左右两侧端板：与柜框完全同色（木色） ---
+     * 右侧端板原先是奶白色，从背面视角看会紧贴"中间开放隔"，
+     * 容易被误读成隔板是白的。现在只有**门板**用奶白，
+     * 其余一切（端板 / 侧板 / 背板 / 隔板 / 台面 / 地脚 / 顶封板）统一木色。 */
+    var sideH = BODY_TOP - BODY_BOTTOM;
+    part(DIM.panelT + 0.002, sideH, BODY_D, X_LEFT + 0.011, spanY(BODY_BOTTOM, BODY_TOP), BODY_CENTER_Z, wood);
+    part(DIM.panelT + 0.002, sideH, BODY_D, X_RIGHT - 0.011, spanY(BODY_BOTTOM, BODY_TOP), BODY_CENTER_Z, wood);
+
+    /* --- 左玻璃展示塔（内空 + 隔板） --- */
+    var gInX0 = X_LEFT + 0.022;
+    var gInX1 = GLASS_X0 - 0.002;
+    var gW = gInX1 - gInX0;
+    var gCX = centerX(gInX0, gInX1);
+    // 右分隔板
+    part(DIM.panelT, sideH, BODY_D, GLASS_X0 - DIM.panelT / 2, spanY(BODY_BOTTOM, BODY_TOP), BODY_CENTER_Z, wood);
+    // 顶板 / 底板
+    part(gW, DIM.panelT, BODY_D, gCX, BODY_TOP - DIM.panelT / 2, BODY_CENTER_Z, wood);
+    part(gW, DIM.panelT, BODY_D, gCX, BODY_BOTTOM + DIM.panelT / 2, BODY_CENTER_Z, wood);
+    // 背板（深一档，玻璃后可见层次）
+    part(gW, sideH - 2 * DIM.panelT, DIM.panelT, gCX, spanY(BODY_BOTTOM, BODY_TOP), TOTAL_D / 2 - DIM.panelT / 2, wood);
+    // 4 片水平隔板
+    var shelfYs = [0.65, 1.15, 1.65, 2.05];
+    for (var si = 0; si < shelfYs.length; si += 1) {
+      part(gW - 0.01, DIM.panelT, BODY_D - 0.02, gCX, shelfYs[si], BODY_CENTER_Z, wood);
+    }
+
+    /* --- 玻璃门黑框 + 玻璃片 --- */
+    part(DIM.frameT, sideH, DIM.depthDoor, X_LEFT + DIM.frameT / 2, spanY(BODY_BOTTOM, BODY_TOP), DOOR_CENTER_Z, black);
+    part(DIM.frameT, sideH, DIM.depthDoor, GLASS_X0 - DIM.frameT / 2, spanY(BODY_BOTTOM, BODY_TOP), DOOR_CENTER_Z, black);
+    var frameSpanW = DIM.glassZoneW - 2 * DIM.frameT;
+    var frameCX = X_LEFT + DIM.glassZoneW / 2;
+    part(frameSpanW, DIM.frameT, DIM.depthDoor, frameCX, BODY_TOP - DIM.frameT / 2, DOOR_CENTER_Z, black);
+    part(frameSpanW, DIM.frameT, DIM.depthDoor, frameCX, BODY_BOTTOM + DIM.frameT / 2, DOOR_CENTER_Z, black);
+    part(frameSpanW, DIM.frameMidT, DIM.depthDoor, frameCX, GLASS_SPLIT_Y, DOOR_CENTER_Z, black);
+    if (glass) {
+      part(frameSpanW, sideH - 2 * DIM.frameT, 0.004, frameCX, spanY(BODY_BOTTOM, BODY_TOP), GLASS_Z, glass, 0.002);
+    }
+
+    /* --- 右上柜体 + 4 扇封闭柜门 --- */
+    var upY0 = MID_TOP;
+    var upY1 = BODY_TOP;
+    part(TOTAL_W - DIM.glassZoneW, upY1 - upY0, BODY_D, centerX(GLASS_X0, X_RIGHT), spanY(upY0, upY1), BODY_CENTER_Z, wood);
+    for (var ui = 0; ui < 4; ui += 1) {
+      part(doorW, upY1 - upY0 - DIM.seam, DIM.depthDoor, colX(ui), spanY(upY0 + DIM.seam / 2, upY1 - DIM.seam / 2), DOOR_CENTER_Z, cream, 0.008);
+    }
+
+    /* --- 开放格（镂空凹槽，跨左 2 列，前开口） --- */
+    var nX0 = GLASS_X0;
+    var nX1 = GLASS_X0 + 2 * DIM.colW;
+    var nW = nX1 - nX0;
+    var nCX = centerX(nX0, nX1);
+    part(nW, DIM.panelT, BODY_D, nCX, NICHE_BOT + DIM.panelT / 2, BODY_CENTER_Z, wood);
+    part(nW, DIM.panelT, BODY_D, nCX, NICHE_TOP - DIM.panelT / 2, BODY_CENTER_Z, wood);
+    part(DIM.panelT, NICHE_TOP - NICHE_BOT - 2 * DIM.panelT, BODY_D, nX0 + DIM.panelT / 2, spanY(NICHE_BOT + DIM.panelT, NICHE_TOP - DIM.panelT), BODY_CENTER_Z, wood);
+    part(DIM.panelT, NICHE_TOP - NICHE_BOT - 2 * DIM.panelT, BODY_D, nX1 - DIM.panelT / 2, spanY(NICHE_BOT + DIM.panelT, NICHE_TOP - DIM.panelT), BODY_CENTER_Z, wood);
+    part(nW - 2 * DIM.panelT, NICHE_TOP - NICHE_BOT - 2 * DIM.panelT, DIM.panelT, nCX, spanY(NICHE_BOT + DIM.panelT, NICHE_TOP - DIM.panelT), TOTAL_D / 2 - DIM.panelT / 2, wood);
+
+    /* --- 中段：背板 + 台面 --- */
+    part(TOTAL_W - DIM.glassZoneW, MID_TOP - COUNTER_TOP, DIM.panelT, centerX(GLASS_X0, X_RIGHT), spanY(COUNTER_TOP, MID_TOP), TOTAL_D / 2 - DIM.panelT / 2, wood);
+    part(TOTAL_W - DIM.glassZoneW, DIM.panelT, BODY_D, centerX(GLASS_X0, X_RIGHT), COUNTER_BOT + DIM.panelT / 2, BODY_CENTER_Z, wood);
+
+    /* --- 下方柜体 + 3 扇大柜门 + 右侧上下 2 扇 --- */
+    var loY0 = BODY_BOTTOM;
+    var loY1 = LOWER_TOP;
+    part(TOTAL_W - DIM.glassZoneW, loY1 - loY0, BODY_D, centerX(GLASS_X0, X_RIGHT), spanY(loY0, loY1), BODY_CENTER_Z, wood);
+    for (var li = 0; li < 3; li += 1) {
+      part(doorW, loY1 - loY0 - DIM.seam, DIM.depthDoor, colX(li), spanY(loY0 + DIM.seam / 2, loY1 - DIM.seam / 2), DOOR_CENTER_Z, cream, 0.008);
+    }
+    // 最右列上下 2 扇
+    var splitMid = (loY0 + loY1) / 2;
+    part(doorW, splitMid - loY0 - DIM.seam, DIM.depthDoor, colX(3), spanY(loY0 + DIM.seam / 2, splitMid - DIM.seam / 2), DOOR_CENTER_Z, cream, 0.008);
+    part(doorW, loY1 - splitMid - DIM.seam, DIM.depthDoor, colX(3), spanY(splitMid + DIM.seam / 2, loY1 - DIM.seam / 2), DOOR_CENTER_Z, cream, 0.008);
+
+    /* --- 顶封板（通长，木色） --- */
+    part(TOTAL_W, DIM.topCapT, TOTAL_D, 0, TOTAL_H - DIM.topCapT / 2, 0, wood);
+
+    group.userData[MODEL_FLAG] = true;
+    return group;
+  }
+
+  /* --------------------------------------------------------- 项目数据 */
+  var project = null;
+  var entries = {};
+
+  function isOwnPart(obj) {
+    var node = obj;
+    while (node) {
+      if (node.userData && node.userData[MODEL_FLAG]) return true;
+      node = node.parent;
+    }
+    return false;
+  }
+
+  function collectEntries() {
+    var map = {};
+    if (!project || !project.floors) {
+      entries = map;
+      return;
+    }
+    project.floors.forEach(function (floor) {
+      (floor.furniture || []).forEach(function (item) {
+        if (!item || MODEL_IDS.indexOf(item.modelId) < 0) return;
+        if (!item.position || item.position.length < 2) return;
+        var rot = typeof item.rotation === "number" ? item.rotation : 0;
+        map["furniture:" + item.id] = {
+          key: "furniture:" + item.id,
+          furniture: item,
+          floor: floor,
+          device: {
+            position: [item.position[0], 0, item.position[1]],
+            rotation: [0, -rot, 0], // 编辑器以 -rotation 渲染家具
+          },
+        };
+      });
+    });
+    entries = map;
+  }
+
+  function setProject(next) {
+    if (!next || !next.floors) return;
+    project = next;
+    collectEntries();
+    stats.entries = Object.keys(entries).length;
+    log("project loaded, sideboard entries:", stats.entries);
+  }
+
+  function loadProject() {
+    var snap = window.ha3dProjectSnapshot;
+    if (snap) {
+      snap.subscribe(applySnapshot);
+      snap.request();
+      return;
+    }
+    fetch(apiBase() + "/api/projects/current", { credentials: "same-origin" })
+      .then(function (r) { return r.json(); })
+      .then(function (res) { setProject(res && (res.project || res)); })
+      .catch(function (e) { stats.lastError = "project load failed: " + String(e); });
+  }
+
+  function applySnapshot(projectOrRes) {
+    setProject(projectOrRes && (projectOrRes.project || projectOrRes));
+  }
+
+  function connectWs() {
+    var url = (location.protocol === "https:" ? "wss:" : "ws:") + "//" + location.host + apiBase() + "/ws";
+    var ws;
+    try { ws = new WebSocket(url); } catch (e) { return; }
+    ws.addEventListener("open", function () {
+      try { ws.send(JSON.stringify({ type: "project.subscribe", requestId: "ha3d-sideboard" })); } catch (e) {}
+    });
+    ws.addEventListener("message", function (e) {
+      try {
+        var msg = JSON.parse(e.data);
+        if (msg && msg.type === "project.updated") setProject(msg.payload);
+      } catch (err) {}
+    });
+    ws.addEventListener("close", function () { window.setTimeout(connectWs, 3000); });
+  }
+
+  /* --------------------------------------------------------- 世界包围盒 */
+  function worldBounds(T, obj) {
+    var geo = obj.geometry;
+    if (!geo) return null;
+    try {
+      if (!geo.boundingBox && geo.computeBoundingBox) geo.computeBoundingBox();
+      if (!geo.boundingBox) return null;
+      obj.updateWorldMatrix(true, false);
+      var bb = geo.boundingBox;
+      var min = new T.Vector3(1e9, 1e9, 1e9);
+      var max = new T.Vector3(-1e9, -1e9, -1e9);
+      var c = new T.Vector3();
+      for (var i = 0; i < 8; i += 1) {
+        c.set(i & 1 ? bb.max.x : bb.min.x, i & 2 ? bb.max.y : bb.min.y, i & 4 ? bb.max.z : bb.min.z).applyMatrix4(obj.matrixWorld);
+        min.min(c);
+        max.max(c);
+      }
+      return { min: min, max: max };
+    } catch (err) {
+      return null;
+    }
+  }
+
+  /* Vector3 无下标访问，六个分量必须逐个展开。 */
+  function worldBoundsOfObject(T, root) {
+    var min = new T.Vector3(1e9, 1e9, 1e9);
+    var max = new T.Vector3(-1e9, -1e9, -1e9);
+    var found = false;
+    root.traverse(function (o) {
+      if (!o.isMesh || !o.geometry) return;
+      var b = worldBounds(T, o);
+      if (!b) return;
+      found = true;
+      if (b.min.x < min.x) min.x = b.min.x;
+      if (b.min.y < min.y) min.y = b.min.y;
+      if (b.min.z < min.z) min.z = b.min.z;
+      if (b.max.x > max.x) max.x = b.max.x;
+      if (b.max.y > max.y) max.y = b.max.y;
+      if (b.max.z > max.z) max.z = b.max.z;
+    });
+    return found ? { min: min, max: max } : null;
+  }
+
+  /* --------------------------------- 宿主认领（旋转不变区间足迹判据） */
+  var adoptedByUid = {}; // uid -> { container, stock, entry, kit }
+
+  function hostLocked(uid) {
+    var a = adoptedByUid[uid];
+    return !!(a && a.stock && a.stock.obj && a.stock.obj.parent);
+  }
+
+  function footprintOk(box, rw, rd) {
+    var sx = box.max.x - box.min.x;
+    var sy = box.max.y - box.min.y;
+    var sz = box.max.z - box.min.z;
+    if (Math.max(sx, sy, sz) > 4 || Math.min(sx, sy, sz) < 0.05) return false;
+    /* 旋转不变判据：AABB 水平对角线随 θ∈[0°,45°] 从 √(w²+d²) 增到 w+d，
+     * 必须接受整个区间，不能等值判定（否则 ~45° 认不到宿主 → 漂移）。 */
+    var diagBox = Math.sqrt(sx * sx + sz * sz);
+    var diagRec = Math.sqrt(rw * rw + rd * rd);
+    var diagMax = rw + rd;
+    if (diagBox < diagRec - 0.5 || diagBox > diagMax + 0.5) return false;
+    if (sx > diagMax + 0.25 || sz > diagMax + 0.25) return false;
+    return true;
+  }
+
+  function findStockAnchor(T, scene, entry, claimedUid) {
+    var rec = entry.furniture || {};
+    var rw = typeof rec.width === "number" ? rec.width : TOTAL_W;
+    var rd = typeof rec.depth === "number" ? rec.depth : TOTAL_D;
+    var px = entry.device.position ? entry.device.position[0] : null;
+    var pz = entry.device.position ? entry.device.position[2] : null;
+    if (px === null || pz === null) return null;
+
+    function isOwnGroup(g) {
+      if (!g || !g.userData) return false;
+      return g.userData[STANDALONE_FLAG] || g.userData[MODEL_FLAG];
+    }
+
+    var best = null;
+    var bestScore = Infinity;
+
+    /* 第 1 层：SPA 用 focusEntityId 标记原生家具组，直接命中（最可靠，
+     * 不依赖包围盒形状，也天然旋转无关）。 */
+    scene.traverse(function (obj) {
+      if (best) return;
+      if (!(obj.isGroup || obj.type === "Group")) return;
+      if (isOwnPart(obj) || isOwnGroup(obj)) return;
+      var ud0 = obj.userData || {};
+      var fid = ud0.focusEntityId;
+      if (fid !== entry.key && !(rec && fid === rec.id)) return;
+      if (ud0.ha3dStockHidden) return;
+      var claim0 = ud0[STOCK_CLAIM];
+      if (claim0 && claim0 !== claimedUid) return;
+      var box0 = worldBoundsOfObject(T, obj);
+      if (!box0) return;
+      best = { obj: obj, min: box0.min };
+    });
+    if (best) return best;
+
+    /* 第 2 层：本地坐标 ≈ 记录坐标 + 旋转不变区间足迹判据。 */
+    scene.traverse(function (obj) {
+      if (!(obj.isGroup || obj.type === "Group")) return;
+      if (isOwnPart(obj) || isOwnGroup(obj)) return;
+      var ud = obj.userData || {};
+      if (ud.ha3dModelStandalone) return;
+      var claim = ud[STOCK_CLAIM];
+      if (claim && claim !== claimedUid) return;   // 别的记录/补丁占用
+      var lx = obj.position ? obj.position.x : 0;
+      var lz = obj.position ? obj.position.z : 0;
+      if (Math.abs(lx - px) > 0.35 || Math.abs(lz - pz) > 0.35) return;
+      var box = worldBoundsOfObject(T, obj);
+      if (!box || !footprintOk(box, rw, rd)) return;
+      var score = Math.sqrt((lx - px) * (lx - px) + (lz - pz) * (lz - pz));
+      if (score < bestScore) { bestScore = score; best = { obj: obj, min: box.min }; }
+    });
+
+    /* 第 3 层兜底：按足迹匹配单个 mesh（不含位置约束，但尽量接近记录坐标）。
+     * 与 sofa / nested 同款，保证组级匹配落空时仍能找到原生模型隐藏。 */
+    if (!best) {
+      scene.traverse(function (obj) {
+        if (isOwnPart(obj) || isOwnGroup(obj)) return;
+        var udm = obj.userData || {};
+        if (udm[STOCK_CLAIM] || udm.ha3dStockHidden) return;
+        var b = worldBounds(T, obj);
+        if (!b) return;
+        var sx = b.max.x - b.min.x;
+        var sy = b.max.y - b.min.y;
+        var sz = b.max.z - b.min.z;
+        if (Math.max(sx, sy, sz) > 4 || Math.min(sx, sy, sz) < 0.03) return;
+        var horiz =
+          (Math.abs(sx - rw) < 0.12 && Math.abs(sz - rd) < 0.12) ||
+          (Math.abs(sx - rd) < 0.12 && Math.abs(sz - rw) < 0.12);
+        if (!horiz) return;
+        var score = 0;
+        if (px !== null && pz !== null) {
+          var cx = (b.min.x + b.max.x) / 2;
+          var cz = (b.min.z + b.max.z) / 2;
+          score = Math.sqrt((cx - px) * (cx - px) + (cz - pz) * (cz - pz));
+        }
+        if (score < bestScore) {
+          bestScore = score;
+          best = { obj: obj, min: b.min };
+        }
+      });
+    }
+    return best;
+  }
+
+  /* ------------------------------------------- 三层隐藏：第 2 层 mesh 形状 */
+  function hideStockMeshes(T, scene, entry, uid, wp) {
+    var rec = entry.furniture || {};
+    var rw = typeof rec.width === "number" ? rec.width : TOTAL_W;
+    var rd = typeof rec.depth === "number" ? rec.depth : TOTAL_D;
+    var rh = typeof rec.height === "number" ? rec.height : TOTAL_H;
+    var px = wp ? wp.x : entry.device.position ? entry.device.position[0] : null;
+    var pz = wp ? wp.z : entry.device.position ? entry.device.position[2] : null;
+    if (px === null || pz === null) return 0;
+
+    var tol = Math.max(0.25, Math.min(rw, rd) * 0.35);
+    var footTol = Math.max(0.12, Math.min(rw, rd) * 0.28);
+    var hidden = 0;
+
+    scene.traverse(function (obj) {
+      if (!obj.isMesh || !obj.geometry) return;
+      if (isOwnPart(obj)) return;
+      var ud = obj.userData || {};
+      if (ud[MODEL_FLAG] || ud[STANDALONE_FLAG]) return;
+      if (ud[STOCK_CLAIM] === uid) return; // 自己已藏
+      if (
+        ud.ha3dStockHidden || ud.ha3dDiningStockHidden || ud.ha3dWasherStockHidden ||
+        ud.ha3dSofaStockHidden || ud.ha3dNestedStockHidden || ud.ha3dFridgeStockHidden
+      ) return; // 别的补丁占用
+      var mat = obj.material;
+      if (mat && mat.transparent && mat.opacity === 0) return; // 透明 hitbox 保留
+
+      var b = worldBounds(T, obj);
+      if (!b) return;
+      var sx = b.max.x - b.min.x;
+      var sy = b.max.y - b.min.y;
+      var sz = b.max.z - b.min.z;
+      if (!(sx > 0) || !(sz > 0)) return;
+      if (Math.max(sx, sy, sz) > 4 || Math.min(sx, sy, sz) < 0.03) return;
+      if (b.max.y > rh + 0.6) return;
+      if (sy > rh * 1.6) return;
+
+      var cx = (b.min.x + b.max.x) / 2;
+      var cz = (b.min.z + b.max.z) / 2;
+      if (Math.abs(cx - px) > tol || Math.abs(cz - pz) > tol) return;
+
+      // 高柜体形：覆盖大半足迹、有实质厚度
+      if (sy < 0.12) return;
+      if (sx < rw * 0.45 || sz < rd * 0.45) return;
+      if (b.min.y > 0.35) return;
+
+      var nearSquare = Math.abs(sx - sz) < 0.06;
+      var match =
+        (Math.abs(sx - rw) < footTol && Math.abs(sz - rd) < footTol) ||
+        (Math.abs(sx - rd) < footTol && Math.abs(sz - rw) < footTol) ||
+        (nearSquare && Math.abs((sx + sz) / 2 - (rw + rd) / 2) < footTol * 1.6);
+      if (!match) return;
+
+      if (!obj.userData) obj.userData = {};
+      obj.userData[STOCK_CLAIM] = uid;
+      if (obj.visible) {
+        obj.visible = false;
+        hidden += 1;
+      }
+    });
+
+    if (hidden) stats.hiddenStock += hidden;
+    return hidden;
+  }
+
+  /* ----------------------------------------------------- 变换采纳 / 帧驱动 */
+  function adoptStockTransform(T, container, stock, entry, uid) {
+    try {
+      stock.obj.updateWorldMatrix(true, false);
+      var wp = stock.obj.getWorldPosition(new T.Vector3());
+      var wq = stock.obj.getWorldQuaternion(new (stock.obj.quaternion.constructor)());
+      var parent = container.parent;
+      var inv = null;
+      if (parent && T.Matrix4) {
+        parent.updateWorldMatrix(true, false);
+        inv = new T.Matrix4().copy(parent.matrixWorld).invert();
+        wp.applyMatrix4(inv);
+        var pq = new (stock.obj.quaternion.constructor)();
+        parent.matrixWorld.decompose(new T.Vector3(), pq, new T.Vector3());
+        wq.premultiply(pq.clone().invert());
+      }
+      /* 贴地对齐宿主原点的 y（地面），不用 AABB 最低点。 */
+      var groundWorldY = stock.obj.getWorldPosition(new T.Vector3()).y;
+      var baseY = inv ? new T.Vector3(0, groundWorldY, 0).applyMatrix4(inv).y : groundWorldY;
+
+      var nums = [wp.x, wp.y, baseY, wp.z, wq.x, wq.y, wq.z, wq.w];
+      for (var i = 0; i < nums.length; i += 1) {
+        if (typeof nums[i] !== "number" || !isFinite(nums[i])) {
+          stats.lastError = "adoptStockTransform: non-finite transform (index " + i + ")";
+          return false;
+        }
+      }
+
+      var rec = entry.furniture || {};
+      if (typeof rec.width === "number" && typeof rec.height === "number" && typeof rec.depth === "number") {
+        var sx = rec.width / TOTAL_W;
+        var sy = rec.height / TOTAL_H;
+        var sz = rec.depth / TOTAL_D;
+        if (isFinite(sx) && isFinite(sy) && isFinite(sz) && sx > 0 && sy > 0 && sz > 0) {
+          container.scale.set(sx, sy, sz);
+        }
+      }
+
+      container.position.copy(wp);
+      container.position.y = baseY;
+      container.quaternion.copy(wq);
+      claimStock(stock, uid);
+      return true;
+    } catch (err) {
+      log("adoptStockTransform failed", err);
+      return false;
+    }
+  }
+
+  function claimStock(stock, uid) {
+    if (!stock || !stock.obj) return;
+    if (!stock.obj.userData) stock.obj.userData = {};
+    stock.obj.userData[STOCK_CLAIM] = uid;
+    if (stock.obj.visible) {
+      stock.obj.visible = false;
+      stats.hiddenStock += 1;
+    }
+  }
+
+  function frameSync() {
+    var keys = Object.keys(adoptedByUid);
+    for (var i = 0; i < keys.length; i += 1) {
+      var a = adoptedByUid[keys[i]];
+      if (!a || !a.stock || !a.kit) continue;
+      var host = a.stock && a.stock.obj;
+      if (host && !host.parent) continue; // 宿主被 React 重建 → 等下一轮认领
+      if (!a.container.parent) continue;
+      adoptStockTransform(a.kit, a.container, a.stock, a.entry, keys[i]);
+    }
+  }
+
+  function publishFrameSync() {
+    var fix = window.__ha3dSceneOriginFix;
+    if (fix && fix.register) fix.register(SCAN_KEY, frameSync);
+  }
+
+  function syncStandaloneTransform(container, entry) {
+    var pos = entry.device.position || [0, 0, 0];
+    container.position.set(pos[0], pos[1] || 0, pos[2] || 0);
+    var rot = entry.device.rotation;
+    if (Array.isArray(rot)) container.rotation.set(rot[0] || 0, rot[1] || 0, rot[2] || 0);
+  }
+
+  function standaloneContainer(T, scene, entry) {
+    var uid = entry.key;
+    var key = "ha3d-sideboard-standalone:" + uid;
+    var existing = null;
+    scene.traverse(function (obj) {
+      if (!existing && obj.name === key) existing = obj;
+    });
+    if (existing) return existing;
+
+    var container = new T.Group();
+    container.name = key;
+    container.userData.focusEntityId = uid;
+    container.userData[STANDALONE_FLAG] = true;
+    syncStandaloneTransform(container, entry);
+    scene.add(container);
+    log("standalone sideboard container created for", uid);
+    return container;
+  }
+
+  function disposeModel(model) {
+    try {
+      var seen = [];
+      model.traverse(function (obj) {
+        if (obj.geometry && obj.geometry.dispose) obj.geometry.dispose();
+        if (obj.material) {
+          var mats = Array.isArray(obj.material) ? obj.material : [obj.material];
+          for (var i = 0; i < mats.length; i += 1) {
+            var m = mats[i];
+            if (!m || seen.indexOf(m) >= 0) continue;
+            seen.push(m);
+            if (m.dispose) m.dispose();
+          }
+        }
+      });
+      if (model.parent) model.parent.remove(model);
+    } catch (err) {}
+  }
+
+  function attachModel(T, container, entry) {
+    var styleName = currentStyle();
+    var door = hexColorOf(entry, "doorColor") || "";
+    var cab = hexColorOf(entry, "cabinetColor") || "";
+    var existing = null;
+    container.children.forEach(function (child) {
+      if (!existing && child.userData && child.userData[MODEL_FLAG]) existing = child;
+    });
+    if (existing) {
+      var unchanged =
+        existing.userData.ha3dSideboardStyle === styleName &&
+        (existing.userData.ha3dSideboardDoor || "") === door &&
+        (existing.userData.ha3dSideboardCab || "") === cab;
+      if (unchanged) {
+        if (window.ha3dModelLift) window.ha3dModelLift.sync(existing, entry);
+        return false;
+      }
+      disposeModel(existing);
+    }
+    var model = buildSideboard(T, door || null, cab || null);
+    model.userData.ha3dSideboardStyle = styleName;
+    model.userData.ha3dSideboardDoor = door;
+    model.userData.ha3dSideboardCab = cab;
+    model.position.set(0, 0, MODEL_Z_OFFSET);
+    if (window.ha3dModelLift) window.ha3dModelLift.applyY(model, entry, 0);
+    model.rotation.set(0, MODEL_YAW, 0);
+    container.add(model);
+    return true;
+  }
+
+  /* ----------------------------------------------------------- 同步循环 */
+  function syncScene() {
+    stats.runs += 1;
+    try {
+      syncSceneInner();
+    } catch (err) {
+      stats.lastError = "syncScene threw: " + String(err && err.message ? err.message : err);
+      stats.lastStack = err && err.stack ? String(err.stack).slice(0, 400) : null;
+    }
+  }
+
+  function syncSceneInner() {
+    publishFrameSync(); // 幂等：保证帧驱动一定注册上
+    var scene = capturedScene;
+    if (!scene) {
+      stats.lastError = "no scene captured yet (renderer hook has not fired)";
+      return;
+    }
+    var shared = window.__ha3dCapturedScene;
+    if (!scene && shared && shared.isScene) scene = shared;
+    stats.storeRoute = "renderer-hook";
+
+    var ids = Object.keys(entries);
+    stats.entries = ids.length;
+    if (!ids.length) {
+      stats.lastError = "no sideboard entries in the project";
+      return;
+    }
+
+    var T = borrowThree(scene);
+    var fatal = [];
+    if (!T.Group) fatal.push("Group");
+    if (!T.Mesh) fatal.push("Mesh");
+    if (!T.Vector3) fatal.push("Vector3");
+    if (!T.Color) fatal.push("Color");
+    if (!T.BoxGeometry && !T.ExtrudeGeometry) fatal.push("no geometry class at all");
+    stats.kitMissing = fatal.length ? fatal.join(",") : null;
+    if (fatal.length) {
+      stats.lastError = "three constructors unavailable: " + stats.kitMissing;
+      return;
+    }
+    stats.degraded = { shape: !T.Shape, extrude: !T.ExtrudeGeometry };
+
+    var changed = false;
+    ids.forEach(function (uid) {
+      var entry = entries[uid];
+      var target = standaloneContainer(T, scene, entry);
+
+      var extras = [];
+      target.children.forEach(function (child) {
+        if (child.userData && child.userData[MODEL_FLAG]) extras.push(child);
+      });
+      while (extras.length > 1) disposeModel(extras.pop());
+
+      if (attachModel(T, target, entry)) changed = true;
+
+      /* 宿主认领：已锁定沿用；找不到宿主**不要**写回静态记录坐标（会弹飞）。 */
+      var prev = adoptedByUid[uid];
+      var stock = hostLocked(uid)
+        ? prev.stock
+        : findStockAnchor(T, scene, entry, uid);
+      if (stock && adoptStockTransform(T, target, stock, entry, uid)) {
+        changed = true;
+        adoptedByUid[uid] = { container: target, stock: stock, entry: entry, kit: T };
+      } else if (!stock && !prev) {
+        syncStandaloneTransform(target, entry); // 仅首次兜底
+      }
+
+      // 第 2 层隐藏每 tick 重跑：React 会重建原生 mesh
+      var wp = null;
+      if (stock) {
+        try {
+          stock.obj.updateWorldMatrix(true, false);
+          wp = stock.obj.getWorldPosition(new T.Vector3());
+        } catch (e) {
+          wp = null;
+        }
+      }
+      var n = hideStockMeshes(T, scene, entry, uid, wp);
+      if (n) changed = true;
+    });
+
+    // 孤儿清理：记录已从 project 删除 → 释放 GPU 资源并移除空容器
+    // （两阶段：先收集再清理，避免在 scene.traverse 回调里改 scene.children 导致漏清）
+    var _orphans = [];
+    scene.traverse(function (o) {
+      if (o.userData && o.userData["ha3dSideboardStandalone"] && o.userData.focusEntityId) {
+        var _uid = o.userData.focusEntityId;
+        if (!entries[_uid]) _orphans.push(o);
+      }
+    });
+    _orphans.forEach(function (o) {
+      o.children.slice().forEach(function (ch) {
+        if (ch.userData && ch.userData[MODEL_FLAG]) disposeModel(ch);
+      });
+      if (o.parent) o.parent.remove(o);
+    });
+    stats.attached = ids.length;
+    stats.models = 0;
+    scene.traverse(function (o) {
+      if (o.userData && o.userData[MODEL_FLAG]) stats.models += 1;
+    });
+    stats.lastError = null;
+    if (changed) {
+      try {
+        if (window.__ha3dCapturedScene && window.__ha3dCapturedScene.dispatchEvent) {
+          window.__ha3dCapturedScene.dispatchEvent({ type: "change" });
+        }
+      } catch (err) {}
+    }
+  }
+
+  window.ha3dSideboardProbe = function () {
+    return {
+      version: VERSION,
+      captured: !!capturedScene,
+      entries: Object.keys(entries).length,
+      attached: stats.attached,
+      models: stats.models,
+      hiddenStock: stats.hiddenStock,
+      kitMissing: stats.kitMissing,
+      degraded: stats.degraded || null,
+      devtoolsHook: stats.devtoolsHook,
+      storeRoute: stats.storeRoute,
+      lastError: stats.lastError,
+      lastStack: stats.lastStack || null,
+    };
+  };
+
+  function start() {
+    loadProject();
+    connectWs();
+    publishFrameSync();
+    window.setInterval(syncScene, SCAN_INTERVAL);
+    window.setTimeout(syncScene, 1200); // 首帧不等轮询
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
+})();

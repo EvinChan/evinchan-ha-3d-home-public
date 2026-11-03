@@ -1,1 +1,617 @@
-function a0_0x2e49(){var _0x32d39f=['CMvNAxn0zxi','y2XVBMvoB2rL','zMXVB3jZ','ote4ndy0neTst2Pmrq','DgL0Bgu','BM93','Cg9PBNrLCMrVD24','ywrKrxzLBNrmAxn0zw5LCG','A2v5q29Kzq','Dg9tDhjPBMC','re9nq29UDgvUDeXVywrLza','C2XPy2u','C3rVCeLTBwvKAwf0zvbYB3bHz2f0Aw9U','y2fSBa','C3bSAxq','ywrKigzHAwXLza','zMfSC2u','CMvHzhLtDgf0zq','zMLSDgvY','zMfICMLJihnVzMeGywrKzwqGyxq','phnWyw4+phn0CM9UzZ4','AgeZzc1MywjYAwmTC29Mys1IDxr0B24','ufvu','phnWyw4Gy2XHC3m9iMz1CM5PDhvYzs1WAwn0B2DYyw0IigfYAweTAgLKzgvUpsj0CNvLiJ4','A2v5zg93BG','C2fTzs1VCMLNAw4','Cg9PBNrLCNvW','DgfYz2v0','CgXHBI1MDxjUAxr1CMu','Bg9JyxrPB24','CMvJDc5MDxjUAxr1CMuTzM9VDhbYAw50lNnLBgvJDgvK','Bg9N','BM8GChjVAMvJDa','AgeZzc1MCMLKz2uTBgLICMfYEs1IDxr0B24','y3jLyxrLrwXLBwvUDa','mZe2otCYAvfYvg15','CMvTB3zL','Bw91C2v1Ca','yxbP','yxjTzwq','DhjHBNnMB3jT','CMvXDwvZDa','ywjZ','y2HPBgrmAxn0','C2v0sw50zxj2ywW','pc9ZCgfUpG','DMLLD0jVEa','y2XHC3nmAxn0','zNvYBML0DxjL','Aw5KzxHpzG','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','ChvZAa','zNvYBML0DxjLlMzHyNjPy19ZB2zH','ChjLDMvUDerLzMf1Bhq','yMfZzvzHBa','ywrK','imoxia','zNvYBML0DxjLlwzHyNjPyY1ZB2zHlq','z2v0qxr0CMLIDxrL','yxjT','mta1mtrLCMrhruy','BgvMDa','DhjHy2u','CMvMCMvZAa','AgeZzfbYB2PLy3rtBMfWC2HVDa','AgeZzc13yxnOzxiTBgLICMfYEs1IDxr0B24','y3jLyxrLu1zhug9PBNq','CxvLCNLtzwXLy3rVCG','ywn0AxzL','BgvUz3rO','z2v0rwXLBwvUDej5swq','z2v0q2XPzw50uMvJDhm','wZnKlwHVBwuGC29Mys1SAwjD','x19OytnKtgLIqxjT','y2XVC2vZDa','Dgv4DenVBNrLBNq','yMLUza','CMvPBMPLy3rPB25Z','AgeZzc1KAw5PBMCTy2HHAxiTyNv0Dg9U','y29UDgfPBNm','l2fWAs9WCM9Qzwn0CY8','otmXmJu3t0X2Dxr2','zxjYB3i','pc9ZDMC+','Dg9W','CMvTB3zLq2HPBgq','seeZrf9tt0zbx0XjqL9erujvrW','Bwf0CML4vhjHBNnMB3jT','Cg9ZAxrPB24','C3vIC2nYAwjL','CMvWBgfJzq','mtq0nMzozfzTwG','odmXoty1rxLZDvnU','yxbWBhK','y3jLzgvUDgLHBhm','AgeZzfnVzMfmAwjezwj1zW','ChjVAMvJDa','lMz1CM5PDhvYzs1SAwjYyxj5lwDYAwqGpIbIDxr0B24SifTJBgfZCYO9iMz1CM5PDhvYzs1SAwjYyxj5iL0GyNv0Dg9U','lNnLBgvJDgLVBI1ZDw1Tyxj5lwHLywrPBMCGC3rYB25N','B25JBgLJAW','Bw91C2vKB3DU','Aw5MBW','Bw9KzwXjza','pc9ZDhjVBMC+phnTywXSpG','lMLUC3bLy3rVCI10AxrSzsbOmG','y2XPzw50wa','CMvTB3zLqxr0CMLIDxrL','zxHJzxb0Aw9U','rxnJyxbL','x19WCM90B19F','Cg9SBhm','Bg9HzcbWCM9Qzwn0igzHAwXLzca','CM9VBxm','AgvPz2H0','zM9YrwfJAa','Dhj1zq','DMvYC2LVBG','yxbWBgLJyxrPB24VANnVBG','y2XPy2S','CMvTB3zLze5VzgvZ','y29UC3rYDwn0B3i','Aw5Uzxjive1m','C3rYAw5NAwz5','q29UDgvUDc1uExbL','CgfYzw50tM9Kzq','C2v0qxr0CMLIDxrL','DgfIBgu','y29Uy2f0','C2f2zsbMywLSzwqG','zxHLyW','Dg9gAxHLza','yxjPys1WCMvZC2vK','Aw5Zzxj0qMvMB3jL','CMvJDc5MDxjUAxr1CMuTzM9VDhbYAw50','C3rHDhvZ','C2vSzwn0zwq','phn2zYb2Awv3qM94psiWidaGnJqGnJqIihDPzhrOpsiZnciGAgvPz2H0psiZnciGyxjPys1OAwrKzw49iNrYDwuIpG','lMz1CM5PDhvYzs1WAwn0B2DYyw0','C29Myq','Cgf0Ag5HBwu','Cg9PBNrLCKLK','A2v5','y2HPBgrYzw4','BgfZDevYCM9Y','zY5WBgfUlwz1CM5PDhvYzq','y29UC29Szq','DgvZDa','phbHDgGGzd0ItteWidi2ytqGncaWidaGmsa0idr2ngGZnNyTnge0idqGmcaWideGocaWDJeWytqGncaWidaGms00idrimtbHnca0idaGmcaXltqTnfyZmge0idqGmcaWideGnc00wIiGzMLSBd0IBM9UzsiGC3rYB2TLpsjJDxjYzw50q29SB3iIihn0CM9Rzs13Awr0Ad0ImYiVpG','DgHLBG','z2v0qM91BMrPBMDdBgLLBNrszwn0','DhLWzq','5RE75yQG5BId6iM65Rkz5y+r77Yi54k55yE75zco54k55yE755s75BId5Ps+572U77Yj','y2f0y2G','txv0yxrPB25pyNnLCNzLCG','zgLZy29UBMvJDa','Aw5Qzwn0Aw9UCW','ig08l3nTywXSpJWVC3bHBJ4','CxvLCNLtzwXLy3rVCKfSBa','Cg9PBNrLCM1VDMu','CgXHBLbVAw50CW','Aw52zxjZzq','pgXPBMuGEde9iJmYiIb5mt0ImJaIihGYpsiZmIiGEti9iJm0iIbZDhjVA2u9iMn1CNjLBNrdB2XVCIiGC3rYB2TLlxDPzhrOpsiYiIbVCgfJAxr5psiWlJyIlZ4','lMLUC3bLy3rVCI10AxrSzsbZBwfSBa','5BId6iM65Rkz5y+r','ANnVBG','B2jZzxj2zq','AgeZzc1KAw5PBMCTDgfIBguTyNv0Dg9U','AgeZzfnLBgvJDefMDgvYugXHy2u','Dgv4Dc5MDxjUAxr1CMuTBgfIzwW','phbHDgGGzd0Itte2idq4DJrnndGGndH2nciGC3rYB2TLpsjJDxjYzw50q29SB3iIihn0CM9Rzs13Awr0Ad0ImYiGC3rYB2TLlwXPBMvJyxa9iNjVDw5KiI8+','D2LKDgG','Bg9HzgLUzW','CMv0DxjUicHMDw5JDgLVBIGPia','D2fYBG','l2fWAs9WCM9Qzwn0CY9JDxjYzw50','zgvWDgG','CgXHy2vK','C3zNlMzSB29YCgXHBI1Jyw52yxm','y2XPzw50wq','yNv0Dg9U','lMz1CM5PDhvYzs1SAwjYyxj5lwDYAwq','nJaYnZqZrvH1r0rP','z2v0u2nYzwvUq1rn','z3jPzezVDw5K','nJG4mZyWAvD5u09J','ohjmv3bXrq','AgfZt3DUuhjVCgvYDhK','ChjVDg90ExbL','phbHDgGGzd0Itte0idi0DI02ytqGncaWidaGmsa0ltrOmJHHnca0idaGmcaXidqGnhy2iIbMAwXSpsjUB25LiIbZDhjVA2u9iMn1CNjLBNrdB2XVCIiGC3rYB2TLlxDPzhrOpsiZiI8+'];a0_0x2e49=function(){return _0x32d39f;};return a0_0x2e49();}function a0_0x4233(_0x10ddec,_0x34bd3d){_0x10ddec=_0x10ddec-0xb0;var _0x1b1e67=a0_0x2e49();var _0x522abe=_0x1b1e67[_0x10ddec];if(a0_0x4233['XijUXM']===undefined){var _0x277ba4=function(_0x43301d){var _0x237709='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x50b1fd='',_0x2b9864='';for(var _0x4ed6ae=0x0,_0x3cb83f,_0x3a9e2e,_0x3872e9=0x0;_0x3a9e2e=_0x43301d['charAt'](_0x3872e9++);~_0x3a9e2e&&(_0x3cb83f=_0x4ed6ae%0x4?_0x3cb83f*0x40+_0x3a9e2e:_0x3a9e2e,_0x4ed6ae++%0x4)?_0x50b1fd+=String['fromCharCode'](0xff&_0x3cb83f>>(-0x2*_0x4ed6ae&0x6)):0x0){_0x3a9e2e=_0x237709['indexOf'](_0x3a9e2e);}for(var _0x511efe=0x0,_0x3a7cd3=_0x50b1fd['length'];_0x511efe<_0x3a7cd3;_0x511efe++){_0x2b9864+='%'+('00'+_0x50b1fd['charCodeAt'](_0x511efe)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2b9864);};a0_0x4233['ISklgu']=_0x277ba4,a0_0x4233['kyWbtZ']={},a0_0x4233['XijUXM']=!![];}var _0x36f6b9=_0x1b1e67[0x0],_0x2e49f2=_0x10ddec+_0x36f6b9,_0x4233df=a0_0x4233['kyWbtZ'][_0x2e49f2];return!_0x4233df?(_0x522abe=a0_0x4233['ISklgu'](_0x522abe),a0_0x4233['kyWbtZ'][_0x2e49f2]=_0x522abe):_0x522abe=_0x4233df,_0x522abe;}(function(_0x10e230,_0x46136e){var _0x41b15f=a0_0x4233,_0x1a3231=_0x10e230();while(!![]){try{var _0x1f6a50=-parseInt(_0x41b15f(0xc0))/0x1+parseInt(_0x41b15f(0xeb))/0x2+-parseInt(_0x41b15f(0x119))/0x3+-parseInt(_0x41b15f(0xc4))/0x4*(parseInt(_0x41b15f(0x124))/0x5)+parseInt(_0x41b15f(0x123))/0x6*(parseInt(_0x41b15f(0x104))/0x7)+parseInt(_0x41b15f(0xc3))/0x8+parseInt(_0x41b15f(0xcb))/0x9;if(_0x1f6a50===_0x46136e)break;else _0x1a3231['push'](_0x1a3231['shift']());}catch(_0x5930f0){_0x1a3231['push'](_0x1a3231['shift']());}}}(a0_0x2e49,0x5d099),(function(){var _0x593721=a0_0x4233,_0x5e89ef=(function(){var _0x446fea=!![];return function(_0x38a0b3,_0x1d3082){var _0x40aa1c=_0x446fea?function(){var _0xcb2640=a0_0x4233;if(_0x1d3082){var _0x498585=_0x1d3082[_0xcb2640(0x125)](_0x38a0b3,arguments);return _0x1d3082=null,_0x498585;}}:function(){};return _0x446fea=![],_0x40aa1c;};}()),_0x10e74b=_0x5e89ef(this,function(){var _0x5ba93e=a0_0x4233,_0x2d1fd8=function(){var _0x1860d8=a0_0x4233,_0x22e545;try{_0x22e545=Function(_0x1860d8(0xb7)+_0x1860d8(0xfa)+');')();}catch(_0x29109b){_0x22e545=window;}return _0x22e545;},_0x3a4f1a=_0x2d1fd8(),_0x3bcca1=_0x3a4f1a[_0x5ba93e(0x159)]=_0x3a4f1a[_0x5ba93e(0x159)]||{},_0x42ffa7=[_0x5ba93e(0xe7),_0x5ba93e(0xb8),_0x5ba93e(0x12d),_0x5ba93e(0x11a),_0x5ba93e(0x133),_0x5ba93e(0x146),_0x5ba93e(0x106)];for(var _0x3f28ed=0x0;_0x3f28ed<_0x42ffa7[_0x5ba93e(0x10d)];_0x3f28ed++){var _0x77f387=_0x5e89ef[_0x5ba93e(0x140)][_0x5ba93e(0xc6)][_0x5ba93e(0x114)](_0x5e89ef),_0xc73683=_0x42ffa7[_0x3f28ed],_0x1dc471=_0x3bcca1[_0xc73683]||_0x77f387;_0x77f387[_0x5ba93e(0x135)]=_0x5e89ef[_0x5ba93e(0x114)](_0x5e89ef),_0x77f387[_0x5ba93e(0xd1)]=_0x1dc471[_0x5ba93e(0xd1)][_0x5ba93e(0x114)](_0x1dc471),_0x3bcca1[_0xc73683]=_0x77f387;}});_0x10e74b();'use strict';var _0x25b32e=_0x593721(0xfc),_0x4416ca=_0x593721(0x152),_0x514eda={};_0x514eda[_0x593721(0xb5)]=2.2,_0x514eda[_0x593721(0xba)]=0.95,_0x514eda[_0x593721(0x139)]=0.82;var _0x53c21f=_0x514eda,_0x3de020=_0x593721(0x16b),_0x485639=_0x593721(0xdd),_0x510de2=0x1f4,_0x90353a=0x2,_0xd00b0a={};_0xd00b0a[_0x593721(0x13c)]=_0x90353a,_0xd00b0a[_0x593721(0x136)]=0x0,_0xd00b0a[_0x593721(0xc2)]=![],_0xd00b0a[_0x593721(0x163)]=0x0,_0xd00b0a[_0x593721(0x115)]=0x0,_0xd00b0a[_0x593721(0xef)]=![],_0xd00b0a[_0x593721(0xbb)]=0x0,_0xd00b0a[_0x593721(0x167)]=0x0,_0xd00b0a[_0x593721(0x157)]=null;var _0x30e3aa=_0xd00b0a;window[_0x593721(0x127)]=_0x30e3aa;function _0x34295b(){var _0x24a9ea=_0x593721;if(!window[_0x24a9ea(0x11e)])return;try{console[_0x24a9ea(0xe7)][_0x24a9ea(0x125)](console,[_0x24a9ea(0x110)][_0x24a9ea(0x147)]([][_0x24a9ea(0xd3)][_0x24a9ea(0xd5)](arguments)));}catch(_0x3e6c65){}}function _0x2ad043(){var _0x3797c2=_0x593721;if(!window[_0x3797c2(0x111)]){var _0x55aaf6={};window[_0x3797c2(0x111)]={'register':function(_0x4418a8,_0x3bfc3b){_0x55aaf6[_0x4418a8]=_0x3bfc3b;},'arm':function(_0x5a4493){var _0xc15e9b=_0x3797c2;for(var _0x1296de in _0x55aaf6){if(_0x1296de!==_0x5a4493&&Object[_0xc15e9b(0xc6)][_0xc15e9b(0xc5)][_0xc15e9b(0xd5)](_0x55aaf6,_0x1296de))try{_0x55aaf6[_0x1296de]();}catch(_0x567288){}}}};}return window[_0x3797c2(0x111)];}var _0x1bfac0=_0x593721(0x150)+_0x593721(0xc7)+_0x593721(0x15b)+_0x593721(0xb4)+_0x593721(0x169)+_0x593721(0x11b);function _0x176c3b(_0x569c31){var _0x4bd1ab=_0x593721,_0x3a593b;return _0x569c31&&_0x569c31[_0x4bd1ab(0xc9)]?(_0x3a593b=_0x569c31[_0x4bd1ab(0xc9)](!![]),_0x3a593b[_0x4bd1ab(0x132)]('id'),_0x3a593b[_0x4bd1ab(0xf7)][_0x4bd1ab(0xec)](_0x4bd1ab(0x10c)),_0x3a593b[_0x4bd1ab(0x132)](_0x4bd1ab(0x12b))):(_0x3a593b=document[_0x4bd1ab(0xea)](_0x4bd1ab(0xbe)),_0x3a593b[_0x4bd1ab(0x15e)]=_0x4bd1ab(0xbe)),_0x3a593b['id']=_0x485639,_0x3a593b[_0x4bd1ab(0x145)](_0x4bd1ab(0x14b),_0x4bd1ab(0xd8)),_0x3a593b[_0x4bd1ab(0xcc)]=_0x4bd1ab(0x15f),_0x3a593b[_0x4bd1ab(0x141)]=_0x4bd1ab(0xdf)+_0x1bfac0+_0x4bd1ab(0xf5)+_0x4bd1ab(0xdc)+_0x3de020+_0x4bd1ab(0x12f)+_0x53c21f[_0x4bd1ab(0xb5)][_0x4bd1ab(0x14a)](0x2)+_0x4bd1ab(0x100)+_0x53c21f[_0x4bd1ab(0xba)][_0x4bd1ab(0x14a)](0x2)+_0x4bd1ab(0x164),_0x3a593b[_0x4bd1ab(0xcf)](_0x4bd1ab(0x13e),function(){var _0x33e126=_0x4bd1ab;if(_0x30e3aa[_0x33e126(0xef)]){_0x51be26(![]);return;}_0x2ad043()[_0x33e126(0x103)](_0x485639),_0x51be26(!![]),_0x39393c();}),_0x30e3aa[_0x4bd1ab(0xef)]&&(_0x3a593b[_0x4bd1ab(0xf7)][_0x4bd1ab(0xff)](_0x4bd1ab(0x10c)),_0x3a593b[_0x4bd1ab(0x145)](_0x4bd1ab(0x14b),_0x4bd1ab(0x13b))),_0x3a593b;}function _0x1f3877(_0x2a2939){var _0x2a6bdc=_0x593721;try{return!!(_0x2a2939[_0x2a6bdc(0x10f)]&&_0x2a2939[_0x2a6bdc(0x10f)]()[_0x2a6bdc(0x10d)]);}catch(_0x4443e0){return!![];}}function _0x28c637(){var _0x8e4b22=_0x593721,_0x30555d=document[_0x8e4b22(0x165)](_0x8e4b22(0x151));for(var _0x1c7757=0x0;_0x1c7757<_0x30555d[_0x8e4b22(0x10d)];_0x1c7757+=0x1){var _0xb68cc7=_0x30555d[_0x1c7757][_0x8e4b22(0x112)]?_0x30555d[_0x1c7757][_0x8e4b22(0x112)](_0x8e4b22(0xbe)):null;if(_0xb68cc7&&_0xb68cc7['id']!==_0x485639)return _0xb68cc7;}return null;}function _0x2b6fcc(){var _0x4c8577=_0x593721,_0x2b9ffe=document[_0x4c8577(0x165)](_0x4c8577(0xbf)),_0x682af0=null;for(var _0x4de516=0x0;_0x4de516<_0x2b9ffe[_0x4c8577(0x10d)];_0x4de516+=0x1){if(_0x1f3877(_0x2b9ffe[_0x4de516]))return _0x2b9ffe[_0x4de516];if(!_0x682af0)_0x682af0=_0x2b9ffe[_0x4de516];}return _0x682af0;}var _0x52e7b4=[_0x593721(0xe9),_0x593721(0x109),_0x593721(0xb1),_0x593721(0x116),_0x485639];function _0x4d1a68(_0xfeeca8){var _0x27bfc6=_0x593721,_0x5272cc=_0x52e7b4[_0x27bfc6(0xf9)](_0xfeeca8);return _0x5272cc<0x0?_0x52e7b4[_0x27bfc6(0x10d)]:_0x5272cc;}function _0x4d6f81(_0x111541){var _0x1c5fd6=_0x593721,_0xd2adb9=_0x4d1a68(_0x485639),_0x4b5266=_0x111541[_0x1c5fd6(0x156)];for(var _0x2f030c=0x0;_0x2f030c<_0x4b5266[_0x1c5fd6(0x10d)];_0x2f030c+=0x1){var _0x40d037=_0x4b5266[_0x2f030c];if(!_0x40d037||!_0x40d037['id'])return _0x40d037;if(_0x4d1a68(_0x40d037['id'])>_0xd2adb9)return _0x40d037;}return null;}function _0x3b9411(){var _0x1af2c2=_0x593721,_0x5023d3=_0x2b6fcc();if(!_0x5023d3){_0x30e3aa[_0x1af2c2(0xc2)]=![];return;}_0x30e3aa[_0x1af2c2(0xc2)]=!![];var _0x5d2c44=document[_0x1af2c2(0x10e)](_0x485639);if(_0x5d2c44&&_0x5d2c44[_0x1af2c2(0x144)]===_0x5023d3)return;if(_0x5d2c44&&_0x5d2c44[_0x1af2c2(0x144)])_0x5d2c44[_0x1af2c2(0x144)][_0x1af2c2(0x11d)](_0x5d2c44);var _0x5a64f7=_0x176c3b(_0x28c637());_0x5023d3[_0x1af2c2(0x14c)](_0x5a64f7,_0x4d6f81(_0x5023d3)),_0x30e3aa[_0x1af2c2(0x163)]+=0x1,_0x42d218(_0x5023d3);}var _0x5f5486=null,_0x194874=null,_0x4c10e6=![];function _0x42d218(_0x35a7ec){var _0x40aa85=_0x593721;if(!window[_0x40aa85(0x161)])return;if(_0x194874===_0x35a7ec&&_0x5f5486)return;try{if(_0x5f5486)_0x5f5486[_0x40aa85(0x162)]();_0x194874=_0x35a7ec,_0x5f5486=new MutationObserver(function(_0x5cda28){var _0x5a770e=_0x40aa85,_0x5d5ffb=![];for(var _0x22bc31=0x0;_0x22bc31<_0x5cda28[_0x5a770e(0x10d)]&&!_0x5d5ffb;_0x22bc31+=0x1){var _0xedfb12=_0x5cda28[_0x22bc31][_0x5a770e(0x13f)];if(!_0xedfb12)continue;for(var _0x40b1ff=0x0;_0x40b1ff<_0xedfb12[_0x5a770e(0x10d)];_0x40b1ff+=0x1){if(_0xedfb12[_0x40b1ff]&&_0xedfb12[_0x40b1ff]['id']===_0x485639){_0x5d5ffb=!![];break;}}}if(!_0x5d5ffb||_0x4c10e6)return;_0x4c10e6=!![];try{_0x3b9411(),_0x30e3aa[_0x5a770e(0x115)]+=0x1;}catch(_0x23b7ec){_0x30e3aa[_0x5a770e(0x157)]=String(_0x23b7ec);}_0x4c10e6=![];});var _0x3d71b1={};_0x3d71b1[_0x40aa85(0xf3)]=!![],_0x5f5486[_0x40aa85(0xb0)](_0x35a7ec,_0x3d71b1);}catch(_0x211c33){_0x30e3aa[_0x40aa85(0x157)]=String(_0x211c33);}}var _0x466a82=null,_0x52ae4a=![];function _0x51be26(_0x40911f){var _0x135e86=_0x593721;_0x30e3aa[_0x135e86(0xef)]=_0x40911f;var _0x29f953=document[_0x135e86(0x10e)](_0x485639);if(_0x29f953){if(_0x40911f)_0x29f953[_0x135e86(0xf7)][_0x135e86(0xff)](_0x135e86(0x10c));else _0x29f953[_0x135e86(0xf7)][_0x135e86(0xec)](_0x135e86(0x10c));_0x29f953[_0x135e86(0x145)](_0x135e86(0x14b),_0x40911f?_0x135e86(0x13b):_0x135e86(0xd8));}}function _0x39393c(){var _0xa6df08=_0x593721;try{var _0x2f9f6b=document[_0xa6df08(0x165)](_0xa6df08(0x129));Array[_0xa6df08(0xc6)][_0xa6df08(0x13a)][_0xa6df08(0xd5)](_0x2f9f6b,function(_0x4ddc32){var _0x48126c=_0xa6df08;if(_0x4ddc32['id']===_0x485639)return;_0x4ddc32[_0x48126c(0xf7)][_0x48126c(0xec)](_0x48126c(0x10c)),_0x4ddc32[_0x48126c(0x145)](_0x48126c(0x14b),_0x48126c(0xd8));});}catch(_0x4bb814){}}function _0x368c6a(_0x1bcb28){var _0x4621d4=_0x593721,_0x25ca23=_0x1bcb28[_0x4621d4(0xe3)]&&_0x1bcb28[_0x4621d4(0xe3)][_0x4621d4(0x112)]?_0x1bcb28[_0x4621d4(0xe3)][_0x4621d4(0x112)](_0x4621d4(0xbc)):null;if(!_0x25ca23)_0x25ca23=document[_0x4621d4(0x10b)](_0x4621d4(0xbc));if(!_0x25ca23)return null;try{if(_0x25ca23[_0x4621d4(0xc1)]&&_0x25ca23[_0x4621d4(0x10a)]){var _0x57b43b=_0x25ca23[_0x4621d4(0xc1)]();if(_0x57b43b){var _0xe8bc56=_0x25ca23[_0x4621d4(0x10a)]();_0xe8bc56['x']=_0x1bcb28[_0x4621d4(0x131)],_0xe8bc56['y']=_0x1bcb28[_0x4621d4(0xbd)];var _0x592437=_0xe8bc56[_0x4621d4(0x11f)](_0x57b43b[_0x4621d4(0x168)]());if(isFinite(_0x592437['x'])&&isFinite(_0x592437['y']))return[_0x592437['x'],_0x592437['y']];}}}catch(_0x26e78f){}try{var _0x39bdb7=_0x25ca23[_0x4621d4(0x15d)](),_0x12897d=_0x25ca23[_0x4621d4(0xf6)]&&_0x25ca23[_0x4621d4(0xf6)][_0x4621d4(0xfe)];if(!_0x39bdb7[_0x4621d4(0xb5)]||!_0x39bdb7[_0x4621d4(0x139)]||!_0x12897d||!_0x12897d[_0x4621d4(0xb5)]||!_0x12897d[_0x4621d4(0x139)])return null;return[_0x12897d['x']+(_0x1bcb28[_0x4621d4(0x131)]-_0x39bdb7[_0x4621d4(0x105)])/_0x39bdb7[_0x4621d4(0xb5)]*_0x12897d[_0x4621d4(0xb5)],_0x12897d['y']+(_0x1bcb28[_0x4621d4(0xbd)]-_0x39bdb7[_0x4621d4(0x11c)])/_0x39bdb7[_0x4621d4(0x139)]*_0x12897d[_0x4621d4(0x139)]];}catch(_0x51ef81){return _0x30e3aa[_0x4621d4(0x157)]=String(_0x51ef81),null;}}var _0x3245e3=0x0,_0x10bf04=-0x1;function _0x1be366(_0x13057a){var _0x3cf4e7=_0x593721;if(!_0x30e3aa[_0x3cf4e7(0xef)])return;var _0x2ec2e9=_0x13057a[_0x3cf4e7(0xe3)];if(_0x2ec2e9&&_0x2ec2e9[_0x3cf4e7(0x112)]){if(!_0x2ec2e9[_0x3cf4e7(0x112)](_0x3cf4e7(0xbc))){if(!_0x2ec2e9[_0x3cf4e7(0x112)]('#'+_0x485639))_0x51be26(![]);return;}}_0x13057a[_0x3cf4e7(0xd4)](),_0x13057a[_0x3cf4e7(0xfd)](),_0x466a82=_0x13057a[_0x3cf4e7(0x15e)]===_0x3cf4e7(0xce)?_0x13057a[_0x3cf4e7(0x154)]:null,_0x52ae4a=_0x13057a[_0x3cf4e7(0x15e)]!==_0x3cf4e7(0xce),_0x3245e3+=0x1,_0x10bf04=_0x3245e3;var _0x38acf8=_0x368c6a(_0x13057a);if(_0x38acf8)_0x40a967(_0x38acf8);_0x51be26(![]);}function _0x440318(_0x445176,_0x57987f){var _0x48cf83=_0x593721,_0x51abba=_0x445176[_0x48cf83(0xe3)];if(!_0x51abba||!_0x51abba[_0x48cf83(0x112)]||!_0x51abba[_0x48cf83(0x112)](_0x48cf83(0xbc)))return;if(_0x10bf04!==_0x3245e3){if(_0x30e3aa[_0x48cf83(0xef)])_0x51be26(![]);return;}_0x445176[_0x48cf83(0xd4)](),_0x445176[_0x48cf83(0xfd)]();if(_0x30e3aa[_0x48cf83(0xef)])_0x51be26(![]);_0x57987f===_0x48cf83(0x13e)&&(_0x10bf04=-0x1,_0x466a82=null,_0x52ae4a=![]);}function _0x491f48(_0x22895b){var _0x44f534=_0x593721,_0x33d62b=_0x22895b;while(_0x33d62b&&_0x33d62b[_0x44f534(0x112)]){if(_0x33d62b[_0x44f534(0xf7)]&&_0x33d62b[_0x44f534(0xf7)][_0x44f534(0x117)](_0x44f534(0xe4)))return _0x33d62b[_0x44f534(0x10b)](_0x44f534(0x14d));_0x33d62b=_0x33d62b[_0x44f534(0x144)];}return null;}function _0x4a2ae5(_0x151ac8){var _0x3b251b=_0x593721;return!!(_0x151ac8&&_0x151ac8[_0x3b251b(0xf7)]&&_0x151ac8[_0x3b251b(0xf7)][_0x3b251b(0x117)](_0x3b251b(0x14f)));}var _0x3eac3c=![];function _0x381412(_0x40b612){var _0x5083a1=_0x593721;if(_0x10bf04===_0x3245e3)_0x10bf04=-0x1;var _0x188203=_0x40b612[_0x5083a1(0xe3)],_0x478d18=!!(_0x188203&&_0x188203[_0x5083a1(0x112)]&&_0x188203[_0x5083a1(0x112)](_0x5083a1(0xbc)));if(!_0x478d18){_0x3eac3c=![];return;}var _0x19c1c5=_0x491f48(_0x188203);_0x3eac3c=!!(_0x19c1c5&&!_0x4a2ae5(_0x19c1c5));}function _0x1a6b77(_0x5c6c61){var _0x4e879d=_0x593721;if(!_0x3eac3c)return;_0x5c6c61[_0x4e879d(0xd4)]();}function _0x2f0fa(){var _0x1c8da8=_0x593721;[_0x1c8da8(0xce),_0x1c8da8(0x12c),_0x1c8da8(0xe2),_0x1c8da8(0xed),_0x1c8da8(0x13e)][_0x1c8da8(0x13a)](function(_0x5a646b){var _0x319ed0=_0x1c8da8;window[_0x319ed0(0xcf)](_0x5a646b,function(_0x13adb0){var _0x3368a0=_0x319ed0;if(_0x5a646b===_0x3368a0(0xce)||_0x5a646b===_0x3368a0(0x12c)){if(_0x30e3aa[_0x3368a0(0xef)])_0x1be366(_0x13adb0);else _0x381412(_0x13adb0);}else{if(_0x5a646b===_0x3368a0(0xe2)||_0x5a646b===_0x3368a0(0xed))_0x3eac3c=![];_0x440318(_0x13adb0,_0x5a646b);}},!![]);}),window[_0x1c8da8(0xcf)](_0x1c8da8(0x166),_0x1a6b77,!![]);}function _0x5825c0(_0x5228e7){var _0x2f780a=_0x593721,_0x1e98b7=window[_0x2f780a(0xe5)][_0x2f780a(0x153)][_0x2f780a(0xd6)]('/')[_0x2f780a(0xda)](Boolean);if(_0x1e98b7[_0x2f780a(0x10d)]>=0x2&&_0x1e98b7[0x0]===_0x2f780a(0xee))return'/'+_0x1e98b7[0x0]+'/'+_0x1e98b7[0x1]+_0x5228e7;return'.'+_0x5228e7;}function _0x40a967(_0x51d00e){var _0x2f7bd5=_0x593721,_0x59e788={};_0x59e788[_0x2f7bd5(0x126)]=_0x2f7bd5(0xe1),fetch(_0x5825c0(_0x2f7bd5(0xb9)),_0x59e788)[_0x2f7bd5(0x15c)](function(_0x3bc39b){var _0x248e46=_0x2f7bd5;if(!_0x3bc39b['ok'])throw new Error(_0x248e46(0x137)+_0x3bc39b[_0x248e46(0x14e)]);return _0x3bc39b[_0x248e46(0x16c)]();})[_0x2f7bd5(0x15c)](function(_0x591176){var _0xc44200=_0x2f7bd5,_0x344a44=_0x591176&&(_0x591176[_0xc44200(0x128)]||_0x591176);if(!_0x344a44||!_0x344a44[_0xc44200(0xca)]||!_0x344a44[_0xc44200(0xca)][_0xc44200(0x10d)])throw new Error(_0xc44200(0xe8));var _0x2a709f=_0x344a44[_0xc44200(0xca)][0x0],_0x463650={'id':_0xc44200(0x101)+Date[_0xc44200(0xcd)](),'kind':_0x4416ca,'floorId':_0x2a709f['id'],'roomId':_0x2a709f[_0xc44200(0x138)]&&_0x2a709f[_0xc44200(0x138)][0x0]?_0x2a709f[_0xc44200(0x138)][0x0]['id']:null,'position':[_0x51d00e[0x0],_0x51d00e[0x1]],'rotation':0x0,'width':_0x53c21f[_0xc44200(0xb5)],'depth':_0x53c21f[_0xc44200(0xba)],'height':_0x53c21f[_0xc44200(0x139)],'modelId':_0x25b32e};_0x2a709f[_0xc44200(0xf8)]=_0x2a709f[_0xc44200(0xf8)]||[],_0x2a709f[_0xc44200(0xf8)][_0xc44200(0xfb)](_0x463650);var _0x5ed4b4={};return _0x5ed4b4[_0xc44200(0x143)]=_0xc44200(0x13d),fetch(_0x5825c0(_0xc44200(0x118)+_0x344a44['id']),{'method':_0xc44200(0xde),'headers':_0x5ed4b4,'credentials':_0xc44200(0xe1),'body':JSON[_0xc44200(0x142)](_0x344a44)});})[_0x2f7bd5(0x15c)](function(_0x259f8c){var _0x5c865c=_0x2f7bd5;if(!_0x259f8c['ok'])throw new Error(_0x5c865c(0x148)+_0x259f8c[_0x5c865c(0x14e)]);_0x30e3aa[_0x5c865c(0xbb)]+=0x1,_0x34295b(_0x5c865c(0xdb),_0x51d00e);var _0x4591ee=_0x182ffd();if(_0x4591ee)_0x4591ee[_0x5c865c(0x107)]();if(window[_0x5c865c(0xb2)])window[_0x5c865c(0xb2)](_0x51d00e);})[_0x2f7bd5(0x160)](function(_0x313a2f){var _0x3d2ec0=_0x2f7bd5;_0x30e3aa[_0x3d2ec0(0x157)]=String(_0x313a2f),_0x34295b(_0x3d2ec0(0xd7),_0x313a2f);});}var _0x2aed9b=[];function _0x269abb(_0x4aa43c){var _0x2e0603=_0x593721;if(!_0x4aa43c||!_0x4aa43c[_0x2e0603(0xca)])return;var _0x14be12=[];_0x4aa43c[_0x2e0603(0xca)][_0x2e0603(0x13a)](function(_0x5b6453){var _0x27a876=_0x2e0603;(_0x5b6453[_0x27a876(0xf8)]||[])[_0x27a876(0x13a)](function(_0x2acd4a){var _0x32a6f5=_0x27a876;if(!_0x2acd4a||_0x2acd4a[_0x32a6f5(0x12e)]!==_0x25b32e)return;if(!_0x2acd4a[_0x32a6f5(0x120)]||_0x2acd4a[_0x32a6f5(0x120)][_0x32a6f5(0x10d)]<0x2)return;_0x14be12[_0x32a6f5(0xfb)]([Number(_0x2acd4a[_0x32a6f5(0x120)][0x0]),Number(_0x2acd4a[_0x32a6f5(0x120)][0x1])]);});}),_0x2aed9b=_0x14be12,_0x30e3aa[_0x2e0603(0x167)]=_0x14be12[_0x2e0603(0x10d)];}function _0x182ffd(){var _0x4a49e2=_0x593721;return window[_0x4a49e2(0x108)]||null;}function _0x4ff2f9(){var _0x226eba=_0x593721,_0x56d968=_0x182ffd();if(_0x56d968){_0x56d968[_0x226eba(0xf1)]();return;}var _0xd53ca4={};_0xd53ca4[_0x226eba(0x126)]=_0x226eba(0xe1),fetch(_0x5825c0(_0x226eba(0xb9)),_0xd53ca4)[_0x226eba(0x15c)](function(_0x58ec7d){var _0x2851cd=_0x226eba;return _0x58ec7d['ok']?_0x58ec7d[_0x2851cd(0x16c)]():null;})[_0x226eba(0x15c)](function(_0x772f6a){var _0x5946ad=_0x226eba;_0x269abb(_0x772f6a&&(_0x772f6a[_0x5946ad(0x128)]||_0x772f6a));})[_0x226eba(0x160)](function(_0x53ae10){var _0x452c04=_0x226eba;_0x30e3aa[_0x452c04(0x157)]=String(_0x53ae10);});}function _0x42cdbd(_0x26b691){var _0x4f5741=_0x593721,_0x2e62b7=_0x26b691&&_0x26b691[_0x4f5741(0x102)]?_0x26b691[_0x4f5741(0x102)](_0x4f5741(0xf0)):null;if(!_0x2e62b7)return null;var _0x98b5a3=/translate\(\s*([-\d.eE+]+)[\s,]+([-\d.eE+]+)\s*\)/[_0x4f5741(0x149)](_0x2e62b7);if(!_0x98b5a3)return null;var _0x5486bf=parseFloat(_0x98b5a3[0x1]),_0x55db4e=parseFloat(_0x98b5a3[0x2]);if(!isFinite(_0x5486bf)||!isFinite(_0x55db4e))return null;return[_0x5486bf,_0x55db4e];}function _0x311c32(){var _0x242ad3=_0x593721,_0x4b8b30=[],_0x4216c8=document[_0x242ad3(0x10b)](_0x242ad3(0xbc));if(!_0x4216c8||!_0x2aed9b[_0x242ad3(0x10d)])return _0x4b8b30;var _0x55a55d=_0x4216c8[_0x242ad3(0x165)](_0x242ad3(0x158));for(var _0x3cb587=0x0;_0x3cb587<_0x55a55d[_0x242ad3(0x10d)];_0x3cb587+=0x1){var _0x5296a2=_0x42cdbd(_0x55a55d[_0x3cb587]);if(!_0x5296a2)continue;for(var _0x144dcb=0x0;_0x144dcb<_0x2aed9b[_0x242ad3(0x10d)];_0x144dcb+=0x1){var _0x539159=_0x2aed9b[_0x144dcb];if(Math[_0x242ad3(0xf2)](_0x5296a2[0x0]-_0x539159[0x0])<0.01&&Math[_0x242ad3(0xf2)](_0x5296a2[0x1]-_0x539159[0x1])<0.01){_0x4b8b30[_0x242ad3(0xfb)](_0x55a55d[_0x3cb587]);break;}}}return _0x4b8b30;}function _0x256c37(){var _0x379707=_0x593721;try{var _0xe0b2ba=_0x311c32();for(var _0x2c1d8c=0x0;_0x2c1d8c<_0xe0b2ba[_0x379707(0x10d)];_0x2c1d8c+=0x1){var _0x515c49=_0xe0b2ba[_0x2c1d8c][_0x379707(0x10b)](_0x379707(0xb3));if(_0x515c49&&_0x515c49[_0x379707(0x113)]!==_0x3de020)_0x515c49[_0x379707(0x113)]=_0x3de020;}}catch(_0x3fe735){_0x30e3aa[_0x379707(0x157)]=String(_0x3fe735);}}function _0x10df3c(){var _0x214cac=_0x593721;try{var _0x2de1d3=_0x311c32(),_0x21f1c9=![];for(var _0x5a20dd=0x0;_0x5a20dd<_0x2de1d3[_0x214cac(0x10d)];_0x5a20dd+=0x1){if(_0x2de1d3[_0x5a20dd][_0x214cac(0x10b)](_0x214cac(0xe6))){_0x21f1c9=!![];break;}}if(!_0x21f1c9)return;var _0x257ec8=document[_0x214cac(0x10b)](_0x214cac(0x130));if(_0x257ec8&&_0x257ec8[_0x214cac(0x113)]!==_0x3de020)_0x257ec8[_0x214cac(0x113)]=_0x3de020;var _0x2e4652=document[_0x214cac(0x10b)](_0x214cac(0x16a));_0x2e4652&&/沙发/[_0x214cac(0x15a)](_0x2e4652[_0x214cac(0x113)])&&!/布艺沙发/[_0x214cac(0x15a)](_0x2e4652[_0x214cac(0x113)])&&(_0x2e4652[_0x214cac(0x113)]=_0x2e4652[_0x214cac(0x113)][_0x214cac(0x122)](/沙发/g,_0x3de020));var _0x4448e0=document[_0x214cac(0x165)](_0x214cac(0x12a));for(var _0x4dbefa=0x0;_0x4dbefa<_0x4448e0[_0x214cac(0x10d)];_0x4dbefa+=0x1){if(_0x4448e0[_0x4dbefa][_0x214cac(0x113)]==='沙发')_0x4448e0[_0x4dbefa][_0x214cac(0x113)]=_0x3de020;}}catch(_0x432dc4){_0x30e3aa[_0x214cac(0x157)]=String(_0x432dc4);}}function _0x45474b(){var _0x1f5da6=_0x593721;document[_0x1f5da6(0xcf)](_0x1f5da6(0x13e),function(_0x519e84){var _0x2d54a7=_0x1f5da6;if(!_0x30e3aa[_0x2d54a7(0xef)])return;var _0x46f48a=_0x519e84[_0x2d54a7(0xe3)];if(!_0x46f48a||!_0x46f48a[_0x2d54a7(0x112)])return;if(_0x46f48a[_0x2d54a7(0x112)]('#'+_0x485639))return;var _0x533467=_0x46f48a[_0x2d54a7(0x112)](_0x2d54a7(0xbe));if(_0x533467&&_0x533467[_0x2d54a7(0x10b)](_0x2d54a7(0x151)))_0x51be26(![]);},!![]),document[_0x1f5da6(0xcf)](_0x1f5da6(0xe0),function(_0x5da76c){var _0x1ec378=_0x1f5da6;if(_0x30e3aa[_0x1ec378(0xef)]&&(_0x5da76c[_0x1ec378(0x155)]===_0x1ec378(0x134)||_0x5da76c[_0x1ec378(0xd0)]===0x1b))_0x51be26(![]);},!![]);}function _0x3f6ae0(){var _0x336ac6=_0x593721;_0x2ad043()[_0x336ac6(0xc8)](_0x485639,function(){_0x51be26(![]);}),_0x2f0fa(),_0x45474b(),_0x3b9411();var _0x4fa7ce=_0x182ffd();if(_0x4fa7ce)_0x4fa7ce[_0x336ac6(0x121)](_0x269abb);_0x4ff2f9();var _0x40ddea=0x0;window[_0x336ac6(0xf4)](function(){var _0x44b46f=_0x336ac6;_0x40ddea+=0x1;if(_0x40ddea%0x1e===0x0)_0x4ff2f9();_0x30e3aa[_0x44b46f(0x136)]+=0x1;try{_0x3b9411();}catch(_0x1b3406){_0x30e3aa[_0x44b46f(0x157)]=String(_0x1b3406);}_0x256c37(),_0x10df3c();},_0x510de2);}document[_0x593721(0xd9)]===_0x593721(0xb6)?document[_0x593721(0xcf)](_0x593721(0xd2),_0x3f6ae0):_0x3f6ae0();}()));
+/*
+ * 布艺沙发卡片（furniture-library 运行时补丁）。
+ *
+ * 与 furniture-library-dining.js 同构，但大幅精简：载体 kind 是 `sofa`，
+ * SPA 目录里 label 本来就是"沙发"，2D 足迹/属性卡片无需任何改写，因此
+ * 这里只做两件事：
+ *   1. 往 `.furniture-library-grid` 注入一张"布艺沙发"卡片（克隆原生卡片，
+ *      MutationObserver 抢回 + 轮询兜底，lane 排序与既有补丁共存）；
+ *   2. 点卡片 → 画布点击 → 经 REST 写入一条 kind "sofa" +
+ *      modelId "furniture.fabric_sofa" 的家具记录（两步放置，一次性）。
+ *
+ * 3D 模型由 furniture-sofa.js 渲染（含对原生 sofa 的三层隐藏）。
+ *
+ * Debug: window.HA3D_SOFA_LIB_DEBUG = true → window.ha3dSofaLibDebug
+ */
+(function () {
+  "use strict";
+
+  var MODEL_ID = "furniture.fabric_sofa";
+  var CARRIER_KIND = "sofa"; // SPA 白名单 kind，label 即"沙发"
+  var DIM = { width: 2.2, depth: 0.95, height: 0.82 };
+  var LABEL = "布艺沙发";
+  var BUTTON_ID = "ha3d-fabric-sofa-button";
+  var POLL_MS = 500;
+  var VERSION = 2;
+
+  var stats = {
+    version: VERSION,
+    polls: 0,
+    gridFound: false,
+    injections: 0,
+    reinjections: 0,
+    armed: false,
+    placed: 0,
+    planPoints: 0,
+    lastError: null,
+  };
+  window.ha3dSofaLibDebug = stats;
+
+  function log() {
+    if (!window.HA3D_SOFA_LIB_DEBUG) return;
+    try {
+      console.log.apply(console, ["[3d-home sofa-lib]"].concat([].slice.call(arguments)));
+    } catch (e) {}
+  }
+
+  /* 跨补丁 armed 协调器：任一库卡片武装时强制解除其它库补丁的 armed 状态，
+   * 避免 armed 泄漏导致点子母茶几却放出自家沙发。详见嵌套库补丁同名字段。 */
+  function armCoordinator() {
+    if (!window.__ha3dLibArm) {
+      var owners = {};
+      window.__ha3dLibArm = {
+        register: function (id, disarm) { owners[id] = disarm; },
+        arm: function (id) {
+          for (var k in owners) {
+            if (k !== id && Object.prototype.hasOwnProperty.call(owners, k)) {
+              try { owners[k](); } catch (e) {}
+            }
+          }
+        },
+      };
+    }
+    return window.__ha3dLibArm;
+  }
+
+  /* 卡片图标：正视三座沙发剪影 */
+  var ICON_SVG =
+    '<svg viewBox="0 0 64 64" width="34" height="34" aria-hidden="true">' +
+    '<path d="M14 24v-6a4 4 0 0 1 4-4h28a4 4 0 0 1 4 4v6" fill="none" stroke="currentColor" stroke-width="3"/>' +
+    '<path d="M10 26a4 4 0 0 1 4 4v4h36v-4a4 4 0 0 1 8 0v10a4 4 0 0 1-4 4H10a4 4 0 0 1-4-4V30a4 4 0 0 1 4-4Z" fill="none" stroke="currentColor" stroke-width="3"/>' +
+    '<path d="M16 48v4M48 48v4" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>' +
+    '<line x1="32" y1="20" x2="32" y2="34" stroke="currentColor" stroke-width="2" opacity="0.6"/>' +
+    "</svg>";
+
+  /* ----------------------------------------------------- 卡片注入 */
+  function makeCard(nativeCard) {
+    var btn;
+    if (nativeCard && nativeCard.cloneNode) {
+      btn = nativeCard.cloneNode(true);
+      btn.removeAttribute("id");
+      btn.classList.remove("active");
+      btn.removeAttribute("onclick");
+    } else {
+      btn = document.createElement("button");
+      btn.type = "button";
+    }
+    btn.id = BUTTON_ID;
+    btn.setAttribute("aria-pressed", "false");
+    btn.title = "添加布艺沙发（点击后点击画布放置）";
+    btn.innerHTML =
+      '<span class="furniture-pictogram" aria-hidden="true">' + ICON_SVG + "</span>" +
+      "<span><strong>" + LABEL + "</strong><small>" +
+      DIM.width.toFixed(2) + " × " + DIM.depth.toFixed(2) + " m</small></span>";
+    btn.addEventListener("click", function () {
+      if (stats.armed) {
+        setArmed(false);
+        return;
+      }
+      armCoordinator().arm(BUTTON_ID); // 强制解除其它库补丁的 armed
+      setArmed(true);
+      disarmNativeCards();
+    });
+    if (stats.armed) {
+      btn.classList.add("active");
+      btn.setAttribute("aria-pressed", "true");
+    }
+    return btn;
+  }
+
+  function isVisible(el) {
+    try {
+      return !!(el.getClientRects && el.getClientRects().length);
+    } catch (e) {
+      return true;
+    }
+  }
+
+  function findNativeCard() {
+    var pics = document.querySelectorAll(".furniture-pictogram");
+    for (var i = 0; i < pics.length; i += 1) {
+      var card = pics[i].closest ? pics[i].closest("button") : null;
+      if (card && card.id !== BUTTON_ID) return card;
+    }
+    return null;
+  }
+
+  function findGrid() {
+    var grids = document.querySelectorAll(".furniture-library-grid");
+    var fallback = null;
+    for (var i = 0; i < grids.length; i += 1) {
+      if (isVisible(grids[i])) return grids[i];
+      if (!fallback) fallback = grids[i];
+    }
+    return fallback;
+  }
+
+  /* lane 排序：与其他补丁的卡片共存，位置固定、互不抢位 */
+  var LANE_ORDER = [
+    "ha3d-fridge-library-button",
+    "ha3d-washer-library-button",
+    "ha3d-dining-table-button",
+    "ha3d-dining-chair-button",
+    BUTTON_ID,
+  ];
+
+  function laneIndexOf(id) {
+    var i = LANE_ORDER.indexOf(id);
+    return i < 0 ? LANE_ORDER.length : i;
+  }
+
+  function insertionPoint(grid) {
+    var lane = laneIndexOf(BUTTON_ID);
+    var kids = grid.children;
+    for (var i = 0; i < kids.length; i += 1) {
+      var kid = kids[i];
+      if (!kid || !kid.id) return kid;
+      if (laneIndexOf(kid.id) > lane) return kid;
+    }
+    return null;
+  }
+
+  function ensureCardsInGrid() {
+    var grid = findGrid();
+    if (!grid) {
+      stats.gridFound = false;
+      return;
+    }
+    stats.gridFound = true;
+    var existing = document.getElementById(BUTTON_ID);
+    if (existing && existing.parentNode === grid) return; // 已在网格内：不动
+    if (existing && existing.parentNode) existing.parentNode.removeChild(existing);
+    var card = makeCard(findNativeCard());
+    grid.insertBefore(card, insertionPoint(grid));
+    stats.injections += 1;
+    watchGrid(grid);
+  }
+
+  var observer = null;
+  var observedGrid = null;
+  var restoring = false;
+
+  function watchGrid(grid) {
+    if (!window.MutationObserver) return;
+    if (observedGrid === grid && observer) return;
+    try {
+      if (observer) observer.disconnect();
+      observedGrid = grid;
+      observer = new MutationObserver(function (records) {
+        var removedUs = false;
+        for (var i = 0; i < records.length && !removedUs; i += 1) {
+          var removed = records[i].removedNodes;
+          if (!removed) continue;
+          for (var j = 0; j < removed.length; j += 1) {
+            if (removed[j] && removed[j].id === BUTTON_ID) {
+              removedUs = true;
+              break;
+            }
+          }
+        }
+        if (!removedUs || restoring) return;
+        restoring = true;
+        try {
+          ensureCardsInGrid();
+          stats.reinjections += 1;
+        } catch (err) {
+          stats.lastError = String(err);
+        }
+        restoring = false;
+      });
+      observer.observe(grid, { childList: true });
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  /* ------------------------------------------------- 两步放置 */
+  var placedPointerId = null;
+  var placedByMouse = false;
+
+  function setArmed(on) {
+    stats.armed = on;
+    var btn = document.getElementById(BUTTON_ID);
+    if (btn) {
+      if (on) btn.classList.add("active");
+      else btn.classList.remove("active");
+      btn.setAttribute("aria-pressed", on ? "true" : "false");
+    }
+  }
+
+  function disarmNativeCards() {
+    try {
+      var all = document.querySelectorAll(
+        '.furniture-library-grid > button, [class*="furniture-library"] button'
+      );
+      Array.prototype.forEach.call(all, function (b) {
+        if (b.id === BUTTON_ID) return;
+        b.classList.remove("active");
+        b.setAttribute("aria-pressed", "false");
+      });
+    } catch (err) {}
+  }
+
+  function planPointFromEvent(e) {
+    var svg = e.target && e.target.closest ? e.target.closest("svg.floorplan-canvas") : null;
+    if (!svg) svg = document.querySelector("svg.floorplan-canvas");
+    if (!svg) return null;
+    try {
+      if (svg.getScreenCTM && svg.createSVGPoint) {
+        var ctm = svg.getScreenCTM();
+        if (ctm) {
+          var pt = svg.createSVGPoint();
+          pt.x = e.clientX;
+          pt.y = e.clientY;
+          var p = pt.matrixTransform(ctm.inverse());
+          if (isFinite(p.x) && isFinite(p.y)) return [p.x, p.y];
+        }
+      }
+    } catch (err) {}
+    try {
+      var box = svg.getBoundingClientRect();
+      var vb = svg.viewBox && svg.viewBox.baseVal;
+      if (!box.width || !box.height || !vb || !vb.width || !vb.height) return null;
+      return [
+        vb.x + ((e.clientX - box.left) / box.width) * vb.width,
+        vb.y + ((e.clientY - box.top) / box.height) * vb.height,
+      ];
+    } catch (err2) {
+      stats.lastError = String(err2);
+      return null;
+    }
+  }
+
+  /* 拦截必须在 window 捕获阶段：SPA 自己的放置监听挂在 window 上。
+   * 用「手势序号」把本次手势（down→up→click）挡死，避免 SPA 在 click 上
+   * 再放出它自己 armed 的 kind 并覆盖刚写入的记录（skill §2.3）。
+   * 用序号而不是 1 秒布尔：固定计时会让下一次点击被吞掉。
+   *
+   * ⚠️ 解锁不能只依赖 click：放置时 pointerdown 已被 preventDefault +
+   * stopImmediatePropagation，浏览器常常**不产生后续 click**，blockingSerial
+   * 就会永久残留 → 之后所有画布点击都被挡死 → 补丁模型永远选不中、
+   * 也弹不出属性卡片。所以 pointerup/mouseup 也要能结束本次手势。 */
+  /* -1 表示"没有任何手势被锁"。若用 0 当初始值，由于 gestureSerial 也从 0 开始，
+   * 页面刚加载时 blockingSerial === gestureSerial 会成立，导致**第一次点击就被
+   * 当成"上一个放置手势的尾巴"封掉** —— 家具彻底点不动。 */
+  var gestureSerial = 0;
+  var blockingSerial = -1;
+
+  function handleDown(e) {
+    if (!stats.armed) return;
+    var t = e.target;
+    if (t && t.closest) {
+      if (!t.closest("svg.floorplan-canvas")) {
+        if (!t.closest("#" + BUTTON_ID)) setArmed(false);
+        return;
+      }
+    }
+    e.stopImmediatePropagation();
+    e.preventDefault();
+    placedPointerId = e.type === "pointerdown" ? e.pointerId : null;
+    placedByMouse = e.type !== "pointerdown";
+    gestureSerial += 1;
+    blockingSerial = gestureSerial;
+    var pos = planPointFromEvent(e);
+    if (pos) addItemAt(pos);
+    setArmed(false); // 一次性放置
+  }
+
+  function handleUp(e, type) {
+    var t = e.target;
+    if (!t || !t.closest || !t.closest("svg.floorplan-canvas")) return;
+    if (blockingSerial !== gestureSerial) {
+      if (stats.armed) setArmed(false);
+      return;
+    }
+    e.stopImmediatePropagation();
+    e.preventDefault();
+    if (stats.armed) setArmed(false);
+    /* 只在 click 解锁：up 也必须挡住（否则 click 会漏给 SPA，skill §2.3）。
+     * 若浏览器不发 click，残留的锁由下一次 pointerdown 清理（见 handleDown）。 */
+    if (type === "click") {
+      blockingSerial = -1;
+      placedPointerId = null;
+      placedByMouse = false;
+    }
+  }
+
+  /* ------------------------------------- 未选中时禁止拖拽（只允许选中）
+   * SPA 的 pointerdown 处理是「先 rs() 选中、再 st() 启动拖拽」，所以原生家具
+   * 一点就跟着鼠标跑。用户期望补丁模型：第一次点击只选中（蓝色高亮），
+   * 已选中后才能拖动。
+   *
+   * ⚠️ 绝不能在 pointerdown 上 stopPropagation：SPA 的选中（Hn）本身就挂在
+   * pointerdown/click 链上，一旦在 window 捕获阶段掐断，家具就**彻底点不动**
+   * （这是踩过的坑）。正确切入点是不挡 down，而是把**移动**掐掉：
+   *   - down 时记录"这一下按之前它是否已选中"；
+   *   - 若未选中，则在 pointermove 捕获阶段 stopImmediatePropagation，
+   *     SPA 拿不到移动事件 → 不会位移；
+   *   - up/click 照常放行 → SPA 完成选中并弹出属性卡片。
+   * 下一次点击时它已选中，拖拽自然生效。 */
+  function footprintOf(el) {
+    var n = el;
+    while (n && n.closest) {
+      if (n.classList && n.classList.contains("plan-furniture")) {
+        return n.querySelector("rect.furniture-footprint");
+      }
+      n = n.parentNode;
+    }
+    return null;
+  }
+
+  function isSelectedFootprint(rect) {
+    return !!(rect && rect.classList && rect.classList.contains("selected"));
+  }
+
+  /* down 期间锁住的拖拽：只要它处于"按下前未选中"状态，移动事件就不放行。 */
+  var dragBlocked = false;
+
+  function handleDownGate(e) {
+    /* 新手指按下即代表上一个手势已结束。若上一次放置没等到 click
+     * （pointerdown 被 preventDefault 后浏览器可能根本不发 click），
+     * blockingSerial 会残留并把后续 up/click 一起挡死 —— 补丁模型就永远
+     * 选不中、弹不出属性卡片。这里是"未武装时"的必经路径，必须清理。 */
+    if (blockingSerial === gestureSerial) blockingSerial = -1;
+
+    var t = e.target;
+    var onCanvas = !!(t && t.closest && t.closest("svg.floorplan-canvas"));
+    if (!onCanvas) { dragBlocked = false; return; }
+    var rect = footprintOf(t);
+    /* 只对"家具且当前未选中"的情况拦移动；点在空白、已选中家具、
+     * 非家具元素上一律不干预。 */
+    dragBlocked = !!(rect && !isSelectedFootprint(rect));
+  }
+
+  function handleMoveGate(e) {
+    if (!dragBlocked) return;
+    e.stopImmediatePropagation();
+  }
+
+  function installPlacementInterceptor() {
+    ["pointerdown", "mousedown", "pointerup", "mouseup", "click"].forEach(function (type) {
+      window.addEventListener(
+        type,
+        function (e) {
+          if (type === "pointerdown" || type === "mousedown") {
+            if (stats.armed) handleDown(e);
+            else handleDownGate(e);
+          } else {
+            if (type === "pointerup" || type === "mouseup") dragBlocked = false;
+            handleUp(e, type);
+          }
+        },
+        true
+      );
+    });
+    /* 移动拦截单独注册在捕获阶段，且只在本次按下判定为"未选中"时生效。 */
+    window.addEventListener("pointermove", handleMoveGate, true);
+  }
+
+  function apiUrl(path) {
+    var parts = window.location.pathname.split("/").filter(Boolean);
+    if (parts.length >= 2 && parts[0] === "api") return "/" + parts[0] + "/" + parts[1] + path;
+    return "." + path;
+  }
+
+  function addItemAt(pos) {
+    fetch(apiUrl("/api/projects/current"), { credentials: "same-origin" })
+      .then(function (res) {
+        if (!res.ok) throw new Error("load project failed " + res.status);
+        return res.json();
+      })
+      .then(function (res) {
+        var project = res && (res.project || res);
+        if (!project || !project.floors || !project.floors.length) throw new Error("no project");
+        var floor = project.floors[0];
+        var item = {
+          id: "furniture-fabric-sofa-" + Date.now(),
+          kind: CARRIER_KIND,
+          floorId: floor.id,
+          roomId: floor.rooms && floor.rooms[0] ? floor.rooms[0].id : null,
+          position: [pos[0], pos[1]],
+          rotation: 0,
+          width: DIM.width,
+          depth: DIM.depth,
+          height: DIM.height,
+          modelId: MODEL_ID,
+        };
+        floor.furniture = floor.furniture || [];
+        floor.furniture.push(item);
+        return fetch(apiUrl("/api/projects/" + project.id), {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          credentials: "same-origin",
+          body: JSON.stringify(project),
+        });
+      })
+      .then(function (res) {
+        if (!res.ok) throw new Error("save failed " + res.status);
+        stats.placed += 1;
+        log("fabric sofa added at", pos);
+        var snapAfter = snapshot();
+        if (snapAfter) snapAfter.refresh();
+        // 放置后自动选中，弹出属性卡片（与原生家具一致）
+        if (window.ha3dSelectAfterPlace) window.ha3dSelectAfterPlace(pos);
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+        log("add failed", err);
+      });
+  }
+
+  /* ------------------------------------------------- 2D / 属性卡片文案改写
+   * 载体 kind 是原生 "sofa"，SPA 会把 2D 标签、属性卡片大标题和卡片内名称
+   * 都渲染成「沙发」。按 modelId + 平面坐标识别我们的记录（绝不用尺寸，
+   * 用户改尺寸后仍有效），把这三处改写为「布艺沙发」。 */
+  var planPoints = [];
+
+  /* 从共享快照里算出本补丁的记录坐标。快照层保证"同一时刻只有一个
+   * /api/projects/current 在途"，各补丁不再各拉一份完整项目。 */
+  function applyProject(project) {
+    if (!project || !project.floors) return;
+    var pts = [];
+    project.floors.forEach(function (floor) {
+      (floor.furniture || []).forEach(function (item) {
+        if (!item || item.modelId !== MODEL_ID) return;
+        if (!item.position || item.position.length < 2) return;
+        pts.push([Number(item.position[0]), Number(item.position[1])]);
+      });
+    });
+    planPoints = pts;
+    stats.planPoints = pts.length;
+  }
+
+  function snapshot() {
+    return window.ha3dProjectSnapshot || null;
+  }
+
+  function refreshPlanPoints() {
+    var snap = snapshot();
+    if (snap) {
+      snap.request();
+      return;
+    }
+    /* 兜底：共享层没加载时退回自己拉（单补丁场景）。 */
+    fetch(apiUrl("/api/projects/current"), { credentials: "same-origin" })
+      .then(function (res) {
+        return res.ok ? res.json() : null;
+      })
+      .then(function (res) {
+        applyProject(res && (res.project || res));
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+      });
+  }
+
+  function planGroupTransform(g) {
+    var t = g && g.getAttribute ? g.getAttribute("transform") : null;
+    if (!t) return null;
+    var m = /translate\(\s*([-\d.eE+]+)[\s,]+([-\d.eE+]+)\s*\)/.exec(t);
+    if (!m) return null;
+    var x = parseFloat(m[1]);
+    var z = parseFloat(m[2]);
+    if (!isFinite(x) || !isFinite(z)) return null;
+    return [x, z];
+  }
+
+  function sofaFootprintGroups() {
+    var out = [];
+    var svg = document.querySelector("svg.floorplan-canvas");
+    if (!svg || !planPoints.length) return out;
+    var groups = svg.querySelectorAll("g.plan-furniture");
+    for (var i = 0; i < groups.length; i += 1) {
+      var pos = planGroupTransform(groups[i]);
+      if (!pos) continue;
+      for (var j = 0; j < planPoints.length; j += 1) {
+        var p = planPoints[j];
+        if (Math.abs(pos[0] - p[0]) < 0.01 && Math.abs(pos[1] - p[1]) < 0.01) {
+          out.push(groups[i]);
+          break;
+        }
+      }
+    }
+    return out;
+  }
+
+  function relabelFootprints() {
+    try {
+      var groups = sofaFootprintGroups();
+      for (var i = 0; i < groups.length; i += 1) {
+        var label = groups[i].querySelector("text.furniture-label");
+        if (label && label.textContent !== LABEL) label.textContent = LABEL;
+      }
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  /* 属性卡片标题由 React 按 vt[kind].label 渲染并反复重建，每轮 tick 重写。 */
+  function relabelInspectorTitle() {
+    try {
+      var groups = sofaFootprintGroups();
+      var selected = false;
+      for (var i = 0; i < groups.length; i += 1) {
+        if (groups[i].querySelector("rect.furniture-footprint.selected")) {
+          selected = true;
+          break;
+        }
+      }
+      if (!selected) return;
+      var h2 = document.querySelector(".inspector-title h2");
+      if (h2 && h2.textContent !== LABEL) h2.textContent = LABEL;
+      var small = document.querySelector(".inspector-title small");
+      if (small && /沙发/.test(small.textContent) && !/布艺沙发/.test(small.textContent)) {
+        small.textContent = small.textContent.replace(/沙发/g, LABEL);
+      }
+      var headings = document.querySelectorAll(".selection-summary-heading strong");
+      for (var hi = 0; hi < headings.length; hi += 1) {
+        if (headings[hi].textContent === "沙发") headings[hi].textContent = LABEL;
+      }
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  /* 点其他原生卡片时解除武装；Esc 解除武装 */
+  function installGuards() {
+    document.addEventListener(
+      "click",
+      function (e) {
+        if (!stats.armed) return;
+        var target = e.target;
+        if (!target || !target.closest) return;
+        if (target.closest("#" + BUTTON_ID)) return;
+        var card = target.closest("button");
+        if (card && card.querySelector(".furniture-pictogram")) setArmed(false);
+      },
+      true
+    );
+    document.addEventListener(
+      "keydown",
+      function (e) {
+        if (stats.armed && (e.key === "Escape" || e.keyCode === 27)) setArmed(false);
+      },
+      true
+    );
+  }
+
+  function start() {
+    armCoordinator().register(BUTTON_ID, function () { setArmed(false); });
+    installPlacementInterceptor();
+    installGuards();
+    ensureCardsInGrid();
+    // 订阅共享快照：有缓存时立即回调一次，之后每次刷新都会再次回调
+    var snap = snapshot();
+    if (snap) snap.subscribe(applyProject);
+    refreshPlanPoints();
+    var tick = 0;
+    window.setInterval(function () {
+      tick += 1;
+      if (tick % 30 === 0) refreshPlanPoints();
+      stats.polls += 1;
+      try {
+        ensureCardsInGrid();
+      } catch (err) {
+        stats.lastError = String(err);
+      }
+      relabelFootprints();
+      relabelInspectorTitle();
+    }, POLL_MS);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
+})();

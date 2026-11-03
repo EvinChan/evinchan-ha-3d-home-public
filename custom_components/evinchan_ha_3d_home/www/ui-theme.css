@@ -66,12 +66,26 @@ body {
 }
 
 /* The workspace / scene used to be a light gradient; make it the near-black
-   navy stage from reference image 1 (#070a14 base, barely-there blue glow). */
+   navy stage from reference image 1 (#070a14 base, barely-there blue glow).
+   昼夜背景：SPA 的 theme 只作为 React prop 传入 3D 画布（presentation 模式下
+   场景内不挂背景色），.home-scene 的 className 也不随昼夜变化，所以这层 CSS
+   背景必须由 ground-tint.js 按同一时钟规则（7:00–17:59 为白天）挂/摘
+   .ha3d-night 类来切换。此前 v1.9.10 把日间渐变写死 + !important，导致
+   18 点后 3D 背景仍是白天。 */
 .home-workspace,
 .home-scene,
 .mode-home .home-scene {
   color: var(--ink);
-  background: radial-gradient(circle at center 80%, #7c96cc 0%, #4866a4 100%) !important;
+  /* 白天：渐变值来自 scene-colors.css 的 --sc-bg-day（唯一调色入口） */
+  background: var(--sc-bg-day, radial-gradient(circle at center 80%, #7c96cc 0%, #4866a4 100%)) !important;
+  transition: background 1.2s ease;
+}
+
+/* 夜晚（ground-tint.js 按时钟挂 .ha3d-night）：渐变来自 --sc-bg-night */
+.home-workspace.ha3d-night,
+.home-scene.ha3d-night,
+.mode-home .home-scene.ha3d-night {
+  background: var(--sc-bg-night, radial-gradient(circle at center 80%, #232a4e 0%, #070812 100%)) !important;
 }
 
 /* Subtle vignette so the floor plan pops off the near-black background. */

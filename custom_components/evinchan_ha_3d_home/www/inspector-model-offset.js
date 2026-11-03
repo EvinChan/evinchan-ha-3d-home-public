@@ -1,1 +1,398 @@
-function a0_0x3d63(_0x4a56db,_0x516325){_0x4a56db=_0x4a56db-0x6c;var _0xbc36c2=a0_0xe3ce();var _0x2c2f7d=_0xbc36c2[_0x4a56db];if(a0_0x3d63['xOZxhy']===undefined){var _0x4fb27b=function(_0x126fda){var _0x5c27e6='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0xd0385b='',_0x552af6='';for(var _0x32b118=0x0,_0x251b12,_0x3f8f61,_0x29974e=0x0;_0x3f8f61=_0x126fda['charAt'](_0x29974e++);~_0x3f8f61&&(_0x251b12=_0x32b118%0x4?_0x251b12*0x40+_0x3f8f61:_0x3f8f61,_0x32b118++%0x4)?_0xd0385b+=String['fromCharCode'](0xff&_0x251b12>>(-0x2*_0x32b118&0x6)):0x0){_0x3f8f61=_0x5c27e6['indexOf'](_0x3f8f61);}for(var _0x48fa2d=0x0,_0x5aea05=_0xd0385b['length'];_0x48fa2d<_0x5aea05;_0x48fa2d++){_0x552af6+='%'+('00'+_0xd0385b['charCodeAt'](_0x48fa2d)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x552af6);};a0_0x3d63['fhWaMW']=_0x4fb27b,a0_0x3d63['dWmjWz']={},a0_0x3d63['xOZxhy']=!![];}var _0x2ed077=_0xbc36c2[0x0],_0xe3ce2a=_0x4a56db+_0x2ed077,_0x3d633f=a0_0x3d63['dWmjWz'][_0xe3ce2a];return!_0x3d633f?(_0x2c2f7d=a0_0x3d63['fhWaMW'](_0x2c2f7d),a0_0x3d63['dWmjWz'][_0xe3ce2a]=_0x2c2f7d):_0x2c2f7d=_0x3d633f,_0x2c2f7d;}function a0_0xe3ce(){var _0x42cc25=['yxbP','ChjVDg90ExbL','ChjVAMvJDa','nJLiuu9rD1i','ywrKrxzLBNrmAxn0zw5LCG','nZGWmdq3nhbsuejnsq','BMv4DfnPyMXPBMC','mtiYmJiWodrPDvblqwu','zgLZCgXHEtPMBgv4o2fSAwDUlwL0zw1ZoMnLBNrLCJTQDxn0Awz5lwnVBNrLBNq6C3bHy2uTyMv0D2vLBJTNyxa6ohb4oW','y3nZvgv4Da','mtyXmhPjy2DguG','CgfKzgLUzZO0ChGGmtbWEdTIB3jKzxiTCMfKAxvZoJzWEdTMB250lxnPEMu6mtjWEdTJDxjZB3i6Cg9PBNrLCJS','y2XPy2S','zMXVB3i','DgfIBgu','Bwf4','Cg9ZAxrPB24','zM9UDc12yxjPyw50lw51BwvYAwm6DgfIDwXHCI1UDw1ZoW','zY5WBgfUlwz1CM5PDhvYzq','re9nq29UDgvUDeXVywrLza','Aw5MBW','y2XHC3nmAxn0','AgeZzeXPzNrezwj1zW','CMvHzhLtDgf0zq','C2vSzwn0zwrnB2rLBeLK','yNv0Dg9U','zxHLyW','ig1T','Cgf0Ag5HBwu','zM9UDc12yxjPyw50lw51BwvYAwm6DgfIDwXHCI1UDw1Zo29WywnPDhK6mc43ntS','y29UC29Szq','Aw5WDxq','nJC1nJnwEuLOr3e','Dg9gAxHLza','mtuWotvoyMn4vLm','yM9YzgvYoJfWEcbZB2XPzcbYz2jHkdeYnYWXmJCSmti3ldaUnduPo2jHy2TNCM91BMq6DhjHBNnWyxjLBNq7y29SB3i6Aw5OzxjPDdS','ndu4ndrjtwLRAKi','Bg9N','Dg9tDhjPBMC','C3vIDhjLzq','y2HHBMDL','ywjZ','BgLMDe9MzG','BNvTyMvY','zMLSDgvY','C2v0qxr0CMLIDxrL','C3rLCa','C3rHDhvZ','yxjPys1SywjLBa','C3rYAw5NAwz5','mZiXnJbiruDXCvy','56A75zYW6AUy5BQM77Yi5Q+R57gZ77Yj','C2f2zsbMywLSzwqG','DMfSDwu','zgLZy29UBMvJDa','lMLUC3bLy3rVCI1Wyw5LBa','Dgv4DenVBNrLBNq','txv0yxrPB25pyNnLCNzLCG','Cg9SBhm','DhjHy2u','DgL0Bgu','56A75zYW6AUy5BQM','ndeWEu5OvKHR','yM9YzgvYlxjHzgL1CZOXmNb4o2jHy2TNCM91BMq6CMDIysGXmJCSmti3ldeYnYWWlJa4ktS','B2jZzxj2zq','y3jLzgvUDgLHBhm','l2fWAs9WCM9Qzwn0CY9JDxjYzw50','z2v0rwXLBwvUDej5swq','zgLZCgXHEtPMBgv4o2fSAwDUlwL0zw1ZoMnLBNrLCJTNyxa6ohb4oW','CMvMCMvZAa','C3bHBG','CMv0DxjUicHMDw5JDgLVBIGPia','zM9UDc1ZAxPLoJeYChG7Bgv0DgvYlxnWywnPBMC6mc4WmMvTo29WywnPDhK6mc44ntS','yxbWBgLJyxrPB24VANnVBG','DMvYC2LVBG','CgfYzw50tM9Kzq','ANnVBG','56A75zYW6AUy5BQM5B6U6lcd77Yi5Q+R57gZ77Yj','Aw5Zzxj0qMvMB3jL','yMLUza','D2LKDgG6nJrWEdTWywrKAw5NoJrWEca2ChG7yM9YzgvYlxjHzgL1CZO2ChG7zM9UDc1ZAxPLoJeYChG7','CMvXDwvZDa','zNvYBML0DxjL','C2v0sw50zxj2ywW','BgvUz3rO','zgLZCgXHEtPMBgv4o2zSzxGTzgLYzwn0Aw9UoMnVBhvTBJTNyxa6ohb4o3bHzgrPBMC6mtjWEcaXnhb4o21HCMDPBI10B3a6mtbWEdS','BwLU','ufvu','AgeZzc1TB2rLBc1SAwz0','zgL2','x19WCM90B19F','CMvTB3zLq2HPBgq','CMfUz2u','C2vSzwn0Aw9Ulxn1Bw1HCNKTy2fYza','zxHJzxb0Aw9U','AxrLBq','DgHLBG','CMvJDc5MDxjUAxr1CMuTzM9VDhbYAw50lNnLBgvJDgvK','C2f2zxm','DhLWzq','CMvJB3jKig5VDcbMB3vUzcbVBIbZyxzL','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','C3r5Bgu','CxvLCNLtzwXLy3rVCG','z2v0qxr0CMLIDxrL','CM91BMq','6iUL6jc95zYW6yoO5lU255Yl6lw35P2L6zM36l+B5zYW5P2/77Ym6lcd5AsN5Q2K5yc877YB5OkS56M65yIz6lcd5Bcp44cc','zM9YrwfJAa','AgeZzc1TB2rLBc1SAwz0lxjVDW','l2fWAs9WCM9Qzwn0CY8','zMXLEdOXo2fJy2vUDc1JB2XVCJOJnda5zwzMo2n1CNnVCJPWB2LUDgvYoW','CxvLCNLtzwXLy3rVCKfSBa','CMvJB3jKig5VDcbMB3vUza','Bg9HzcbMywLSzwqG','ChjLDMvUDerLzMf1Bhq','y3jLyxrLrwXLBwvUDa','5OgI5Asn5lI6iddVViJMQkhLNOVPU5JORQtOTltLNldVViK','Bg9JyxrPB24','zxjYB3i','C3zNlMzSB29YCgXHBI1Jyw52yxm','lNnLBgvJDgLVBI1ZDw1Tyxj5lwnHCMq','AgeZzfbYB2PLy3rtBMfWC2HVDa','yxbWBhK','C3rVCfbYB3bHz2f0Aw9U','BM8GChjVAMvJDa','DhjHBNnMB3jT','y29UDgfPBNm','y2HPBgrmAxn0','Bg9HzgLUzW','C3bSAxq','nte3ndbnrwPRwxK','CMvPBMPLy3rPB25Z','D2fYBG','y29UC3rYDwn0B3i','y2f0y2G','y3vYCMvUDeXPzNq','yxbWzw5Kq2HPBgq','Aw5Qzwn0Aw9UCW','y2XHC3noyw1L','C3vIC2nYAwjL','C3rYAw5N','zMXVB3jZ','C2fTzs1VCMLNAw4','Bw9KzwXjza','nZH0rhbSq28','q29UDgvUDc1uExbL','mtncswXpELe','zM9UDc1ZAxPLoJeXChG7B3bHy2L0EtOWlJu1oW','BgfZDevYCM9Y'];a0_0xe3ce=function(){return _0x42cc25;};return a0_0xe3ce();}(function(_0x2cbd00,_0x1b33fd){var _0x461e24=a0_0x3d63,_0x36de77=_0x2cbd00();while(!![]){try{var _0x1029ea=parseInt(_0x461e24(0xda))/0x1*(-parseInt(_0x461e24(0xca))/0x2)+parseInt(_0x461e24(0xe0))/0x3*(parseInt(_0x461e24(0x6c))/0x4)+-parseInt(_0x461e24(0xff))/0x5*(-parseInt(_0x461e24(0xd8))/0x6)+-parseInt(_0x461e24(0xe7))/0x7*(-parseInt(_0x461e24(0x7a))/0x8)+parseInt(_0x461e24(0xfd))/0x9*(parseInt(_0x461e24(0x86))/0xa)+parseInt(_0x461e24(0xe2))/0xb+-parseInt(_0x461e24(0xe4))/0xc;if(_0x1029ea===_0x1b33fd)break;else _0x36de77['push'](_0x36de77['shift']());}catch(_0xc7d51f){_0x36de77['push'](_0x36de77['shift']());}}}(a0_0xe3ce,0xd92d2),(function(){var _0x4b035a=a0_0x3d63,_0x2f8cd2=(function(){var _0x50339b=!![];return function(_0x598b7f,_0x4b3501){var _0x980f79=_0x50339b?function(){var _0x57aad0=a0_0x3d63;if(_0x4b3501){var _0x32fec5=_0x4b3501[_0x57aad0(0xc2)](_0x598b7f,arguments);return _0x4b3501=null,_0x32fec5;}}:function(){};return _0x50339b=![],_0x980f79;};}()),_0x7b02d8=_0x2f8cd2(this,function(){var _0x43c8f8=a0_0x3d63,_0x5311a2;try{var _0x1db35e=Function(_0x43c8f8(0x8f)+_0x43c8f8(0xad)+');');_0x5311a2=_0x1db35e();}catch(_0x54c972){_0x5311a2=window;}var _0x1440df=_0x5311a2[_0x43c8f8(0xfb)]=_0x5311a2[_0x43c8f8(0xfb)]||{},_0x368a10=[_0x43c8f8(0x6d),_0x43c8f8(0xcc),_0x43c8f8(0xf1),_0x43c8f8(0xbe),_0x43c8f8(0xa6),_0x43c8f8(0xeb),_0x43c8f8(0x83)];for(var _0x2878df=0x0;_0x2878df<_0x368a10[_0x43c8f8(0x9c)];_0x2878df++){var _0x12969f=_0x2f8cd2[_0x43c8f8(0xcd)][_0x43c8f8(0xde)][_0x43c8f8(0x97)](_0x2f8cd2),_0x19b600=_0x368a10[_0x2878df],_0x1e5fd0=_0x1440df[_0x19b600]||_0x12969f;_0x12969f[_0x43c8f8(0xa2)]=_0x2f8cd2[_0x43c8f8(0x97)](_0x2f8cd2),_0x12969f[_0x43c8f8(0x6e)]=_0x1e5fd0[_0x43c8f8(0x6e)][_0x43c8f8(0x97)](_0x1e5fd0),_0x1440df[_0x19b600]=_0x12969f;}});_0x7b02d8();'use strict';var _0x4765e7=0x1,_0x5e7cb0=_0x4b035a(0xb4),_0x1e255b=_0x4b035a(0xa0),_0x370aa9=_0x4b035a(0x72),_0x1b1305=0x1f4,_0x3eb8b1=-0.1,_0x114702=0.1,_0x56a88b=0.001;function _0x47989a(_0x2b5562){var _0x76a9fd=_0x4b035a;if(!_0x2b5562||typeof _0x2b5562[_0x76a9fd(0xd7)]!==_0x76a9fd(0xd4)||!_0x2b5562[_0x76a9fd(0xd7)])return null;var _0x531976={};return _0x531976[_0x76a9fd(0xd7)]=_0x2b5562[_0x76a9fd(0xd7)],_0x531976;}var _0x19972e={};_0x19972e[_0x4b035a(0x92)]=_0x4765e7,_0x19972e[_0x4b035a(0x82)]=0x0,_0x19972e[_0x4b035a(0xd1)]=0x0,_0x19972e[_0x4b035a(0xcb)]=0x0,_0x19972e[_0x4b035a(0xaa)]=0x0,_0x19972e[_0x4b035a(0xf5)]=null,_0x19972e[_0x4b035a(0xcf)]=null,_0x19972e[_0x4b035a(0xdc)]=null;var _0x1661d3=_0x19972e;window[_0x4b035a(0xf3)]=_0x1661d3;var _0x5e645b=null,_0x558fef=![],_0x536ffb=null,_0x2e81e6=null;function _0x499ab8(){var _0x197173=_0x4b035a,_0x5b7d35=window[_0x197173(0xbd)][_0x197173(0xf9)][_0x197173(0xc9)]('/')[_0x197173(0x74)](Boolean);if(_0x5b7d35[_0x197173(0x9c)]>=0x2&&_0x5b7d35[0x0]===_0x197173(0xdd))return'/'+_0x5b7d35[0x0]+'/'+_0x5b7d35[0x1];return'';}function _0x15ad8c(){var _0x16a659=_0x4b035a;return window[_0x16a659(0xc1)]||null;}function _0xadf306(_0x1dfb65){var _0x4ed098=_0x4b035a;if(_0x1dfb65&&_0x1dfb65[_0x4ed098(0xd5)])_0x5e645b=_0x1dfb65;}function _0xf1ddec(){var _0x5fa8c1=_0x4b035a,_0x163d68=_0x15ad8c();if(_0x163d68){_0x163d68[_0x5fa8c1(0x99)]();return;}var _0x32b858={};_0x32b858[_0x5fa8c1(0x89)]=_0x5fa8c1(0xd6),fetch(_0x499ab8()+_0x5fa8c1(0x8a),_0x32b858)[_0x5fa8c1(0xa8)](function(_0x3cf1a7){var _0x59e417=_0x5fa8c1;return _0x3cf1a7['ok']?_0x3cf1a7[_0x59e417(0x94)]():null;})[_0x5fa8c1(0xa8)](function(_0x1a9c80){var _0x3cf622=_0x5fa8c1;_0xadf306(_0x1a9c80&&(_0x1a9c80[_0x3cf622(0xdf)]||_0x1a9c80));})[_0x5fa8c1(0xce)](function(_0x3127ee){var _0x4c3178=_0x5fa8c1;_0x1661d3[_0x4c3178(0xdc)]=String(_0x3127ee);});}function _0x5b5690(_0x33e2c7){var _0x580d3=_0x4b035a,_0x13c5a4=_0x33e2c7&&_0x33e2c7[_0x580d3(0xb0)]?_0x33e2c7[_0x580d3(0xb0)](_0x580d3(0xc5)):null;if(!_0x13c5a4)return null;var _0x3c14eb=/translate\(\s*([-\d.eE+]+)[\s,]+([-\d.eE+]+)\s*\)/[_0x580d3(0xf7)](_0x13c5a4);if(!_0x3c14eb)return null;var _0xf6ee01=parseFloat(_0x3c14eb[0x1]),_0x372453=parseFloat(_0x3c14eb[0x2]);return isFinite(_0xf6ee01)&&isFinite(_0x372453)?[_0xf6ee01,_0x372453]:null;}function _0x132d52(){var _0x34011c=_0x4b035a,_0x1cd494=document[_0x34011c(0xaf)](_0x34011c(0xbf));if(!_0x1cd494)return null;var _0xa72136=_0x1cd494[_0x34011c(0xb7)](_0x34011c(0xef));for(var _0x25b9de=0x0;_0x25b9de<_0xa72136[_0x34011c(0x9c)];_0x25b9de+=0x1){if(_0xa72136[_0x25b9de][_0x34011c(0xaf)](_0x34011c(0xa9)))return _0x5b5690(_0xa72136[_0x25b9de]);}return null;}function _0x5d9e71(_0x511882){var _0x22b7a3=_0x4b035a;if(!_0x5e645b||!_0x5e645b[_0x22b7a3(0xd5)]||!_0x511882)return null;var _0x343d44=0.01;for(var _0x1b9f91=0x0;_0x1b9f91<_0x5e645b[_0x22b7a3(0xd5)][_0x22b7a3(0x9c)];_0x1b9f91+=0x1){var _0x58a20f=_0x5e645b[_0x22b7a3(0xd5)][_0x1b9f91][_0x22b7a3(0x9a)]||[];for(var _0x51c52e=0x0;_0x51c52e<_0x58a20f[_0x22b7a3(0x9c)];_0x51c52e+=0x1){var _0x2580a2=_0x58a20f[_0x51c52e];if(!_0x2580a2||!_0x2580a2[_0x22b7a3(0xed)])continue;if(Math[_0x22b7a3(0x71)](Number(_0x2580a2[_0x22b7a3(0xed)][0x0])-_0x511882[0x0])<_0x343d44&&Math[_0x22b7a3(0x71)](Number(_0x2580a2[_0x22b7a3(0xed)][0x1])-_0x511882[0x1])<_0x343d44){var _0x18f2ad={};return _0x18f2ad[_0x22b7a3(0xa7)]=_0x2580a2,_0x18f2ad[_0x22b7a3(0xea)]=_0x5e645b[_0x22b7a3(0xd5)][_0x1b9f91],_0x18f2ad;}}}return null;}function _0x3f6ed6(_0x57748f){var _0x1d7400=_0x4b035a,_0x2e61d7=_0x57748f&&_0x57748f[_0x370aa9];return typeof _0x2e61d7===_0x1d7400(0x73)&&isFinite(_0x2e61d7)?_0x2e61d7:0x0;}function _0x4df0e6(_0x176ab4){var _0x112cd1=_0x4b035a,_0x4944ae=_0x132d52();if(!_0x4944ae)return;var _0x4875ec=_0x5d9e71(_0x4944ae);if(!_0x4875ec){_0x1661d3[_0x112cd1(0xdc)]=_0x112cd1(0xb8);return;}var _0x3938ea=_0x4875ec[_0x112cd1(0xa7)]['id'];_0x1661d3[_0x112cd1(0xaa)]+=0x1,_0x1661d3[_0x112cd1(0xcf)]=_0x176ab4;var _0x48ecd4={};_0x48ecd4[_0x112cd1(0x89)]=_0x112cd1(0xd6),fetch(_0x499ab8()+_0x112cd1(0x8a),_0x48ecd4)[_0x112cd1(0xa8)](function(_0x5ed3bc){var _0xa80035=_0x112cd1;if(!_0x5ed3bc['ok'])throw new Error(_0xa80035(0xb9)+_0x5ed3bc[_0xa80035(0x77)]);return _0x5ed3bc[_0xa80035(0x94)]();})[_0x112cd1(0xa8)](function(_0x572146){var _0x4cb727=_0x112cd1,_0x743306=_0x572146&&(_0x572146[_0x4cb727(0xdf)]||_0x572146);if(!_0x743306||!_0x743306[_0x4cb727(0xd5)])throw new Error(_0x4cb727(0xc4));var _0x5499bd=null;_0x743306[_0x4cb727(0xd5)][_0x4cb727(0xb3)](function(_0x30dd58){var _0x219b25=_0x4cb727;(_0x30dd58[_0x219b25(0x9a)]||[])[_0x219b25(0xb3)](function(_0x1cdb24){if(!_0x5499bd&&_0x1cdb24&&_0x1cdb24['id']===_0x3938ea)_0x5499bd=_0x1cdb24;});});if(!_0x5499bd)throw new Error(_0x4cb727(0xac));if(Math[_0x4cb727(0x71)](_0x176ab4)<0.000001)delete _0x5499bd[_0x370aa9];else _0x5499bd[_0x370aa9]=Number(_0x176ab4[_0x4cb727(0xfe)](0x4));var _0x4c8581={};return _0x4c8581[_0x4cb727(0xd9)]=_0x4cb727(0x91),fetch(_0x499ab8()+_0x4cb727(0xb5)+_0x743306['id'],{'method':_0x4cb727(0x9f),'headers':_0x4c8581,'credentials':_0x4cb727(0xd6),'body':JSON[_0x4cb727(0x79)](_0x743306)});})[_0x112cd1(0xa8)](function(_0xbc1ac9){var _0x5f0804=_0x112cd1;if(!_0xbc1ac9['ok'])throw new Error(_0x5f0804(0x7c)+_0xbc1ac9[_0x5f0804(0x77)]);var _0x20a244=_0x15ad8c();if(_0x20a244)_0x20a244[_0x5f0804(0x8d)]();else _0xf1ddec();})[_0x112cd1(0xce)](function(_0x87b4e1){var _0xaa11f=_0x112cd1;_0x1661d3[_0xaa11f(0xdc)]=String(_0x87b4e1);});}function _0xcfd6cb(_0x142a2a){var _0x2fa8c9=_0x4b035a;return(_0x142a2a*0x3e8)[_0x2fa8c9(0xfe)](0x0)+_0x2fa8c9(0xf8);}function _0x498301(_0x38b3cc,_0x99214a){var _0x207917=_0x4b035a,_0x48b8f1=document[_0x207917(0xbb)](_0x207917(0xa1));_0x48b8f1['id']=_0x5e7cb0,_0x48b8f1[_0x207917(0xd2)]=_0x1e255b,_0x48b8f1[_0x207917(0xae)][_0x207917(0xe6)]=_0x207917(0x9d)+_0x207917(0x87);var _0x28fa38=document[_0x207917(0xbb)](_0x207917(0xa1));_0x28fa38[_0x207917(0xae)][_0x207917(0xe6)]=_0x207917(0xe5)+_0x207917(0x90);var _0x5051bb=document[_0x207917(0xbb)](_0x207917(0x8e));_0x5051bb[_0x207917(0x80)]=_0x207917(0x85);var _0x275f91=document[_0x207917(0xbb)](_0x207917(0x8e));_0x275f91[_0x207917(0x80)]=_0xcfd6cb(_0x99214a),_0x275f91[_0x207917(0xae)][_0x207917(0xe6)]=_0x207917(0xfa),_0x28fa38[_0x207917(0xd0)](_0x5051bb),_0x28fa38[_0x207917(0xd0)](_0x275f91),_0x48b8f1[_0x207917(0xd0)](_0x28fa38);var _0x3475d3=document[_0x207917(0xbb)](_0x207917(0xa1));_0x3475d3[_0x207917(0xae)][_0x207917(0xe6)]=_0x207917(0x8c);var _0x41e3ab=document[_0x207917(0xbb)](_0x207917(0xfc));_0x41e3ab[_0x207917(0xab)]=_0x207917(0xa4),_0x41e3ab[_0x207917(0x9e)]=String(_0x3eb8b1),_0x41e3ab[_0x207917(0xec)]=String(_0x114702),_0x41e3ab[_0x207917(0x76)]=String(_0x56a88b),_0x41e3ab[_0x207917(0x7d)]=String(_0x99214a),_0x41e3ab[_0x207917(0x75)](_0x207917(0x78),_0x207917(0x95)),_0x41e3ab[_0x207917(0xae)][_0x207917(0xe6)]=_0x207917(0xb6);var _0x4b78ec=document[_0x207917(0xbb)](_0x207917(0xfc));_0x4b78ec[_0x207917(0xab)]=_0x207917(0x73),_0x4b78ec[_0x207917(0x9e)]=String(_0x3eb8b1*0x3e8),_0x4b78ec[_0x207917(0xec)]=String(_0x114702*0x3e8),_0x4b78ec[_0x207917(0x76)]='1',_0x4b78ec[_0x207917(0x7d)]=String(Math[_0x207917(0xb1)](_0x99214a*0x3e8)),_0x4b78ec[_0x207917(0x75)](_0x207917(0x78),_0x207917(0x7b)),_0x4b78ec[_0x207917(0xae)][_0x207917(0xe6)]=_0x207917(0x98)+_0x207917(0x100)+_0x207917(0xee);var _0x1b4463=document[_0x207917(0xbb)](_0x207917(0xf6));_0x1b4463[_0x207917(0xab)]=_0x207917(0xf6),_0x1b4463[_0x207917(0x80)]='归零',_0x1b4463[_0x207917(0x84)]=_0x207917(0xbc),_0x1b4463[_0x207917(0xae)][_0x207917(0xe6)]=_0x207917(0xe8)+_0x207917(0x100);function _0x1e0f16(_0x1586b5){var _0x2779e8=_0x207917,_0x414e3e=Math[_0x2779e8(0xec)](_0x3eb8b1,Math[_0x2779e8(0x9e)](_0x114702,_0x1586b5));_0x275f91[_0x2779e8(0x80)]=_0xcfd6cb(_0x414e3e),_0x4df0e6(_0x414e3e);}_0x41e3ab[_0x207917(0xe1)](_0x207917(0xfc),function(_0x3c8bcd){var _0x4179d2=_0x207917;_0x3c8bcd[_0x4179d2(0xc3)]();var _0x88ce03=parseFloat(_0x41e3ab[_0x4179d2(0x7d)]);if(!isFinite(_0x88ce03))return;_0x275f91[_0x4179d2(0x80)]=_0xcfd6cb(_0x88ce03),_0x4b78ec[_0x4179d2(0x7d)]=String(Math[_0x4179d2(0xb1)](_0x88ce03*0x3e8));}),_0x41e3ab[_0x207917(0xe1)](_0x207917(0x70),function(_0x3d44bf){var _0x3c342f=_0x207917;_0x3d44bf[_0x3c342f(0xc3)]();var _0x3ccaac=parseFloat(_0x41e3ab[_0x3c342f(0x7d)]);if(isFinite(_0x3ccaac))_0x1e0f16(_0x3ccaac);}),_0x4b78ec[_0x207917(0xe1)](_0x207917(0x70),function(_0x222c49){var _0x55012a=_0x207917;_0x222c49[_0x55012a(0xc3)]();var _0x4b332c=parseFloat(_0x4b78ec[_0x55012a(0x7d)]);if(!isFinite(_0x4b332c))return;var _0x3103ab=Math[_0x55012a(0xec)](_0x3eb8b1,Math[_0x55012a(0x9e)](_0x114702,_0x4b332c/0x3e8));_0x41e3ab[_0x55012a(0x7d)]=String(_0x3103ab),_0x1e0f16(_0x3103ab);}),_0x4b78ec[_0x207917(0xe1)](_0x207917(0xe9),function(_0x485e97){var _0x1c6946=_0x207917;_0x485e97[_0x1c6946(0xc3)]();}),_0x1b4463[_0x207917(0xe1)](_0x207917(0xe9),function(_0x10227b){var _0xd3f384=_0x207917;_0x10227b[_0xd3f384(0xba)](),_0x10227b[_0xd3f384(0xc3)](),_0x41e3ab[_0xd3f384(0x7d)]='0',_0x4b78ec[_0xd3f384(0x7d)]='0',_0x1e0f16(0x0);}),_0x3475d3[_0x207917(0xd0)](_0x41e3ab),_0x3475d3[_0x207917(0xd0)](_0x4b78ec),_0x3475d3[_0x207917(0xd0)](_0x1b4463),_0x48b8f1[_0x207917(0xd0)](_0x3475d3);var _0x8f42c6=document[_0x207917(0xbb)](_0x207917(0xa1));return _0x8f42c6[_0x207917(0x80)]=_0x207917(0xb2),_0x8f42c6[_0x207917(0xae)][_0x207917(0xe6)]=_0x207917(0xdb),_0x48b8f1[_0x207917(0xd0)](_0x8f42c6),_0x48b8f1;}function _0x39cf18(){var _0x212d38=_0x4b035a,_0x32137e=document[_0x212d38(0x8b)](_0x5e7cb0);if(_0x32137e&&_0x32137e[_0x212d38(0x93)])_0x32137e[_0x212d38(0x93)][_0x212d38(0xa3)](_0x32137e);}function _0x5f247f(){var _0x3ff53e=_0x4b035a;_0x1661d3[_0x3ff53e(0x82)]+=0x1;try{var _0x102e73=_0x132d52();if(!_0x102e73){_0x1661d3[_0x3ff53e(0xf5)]=null,_0x39cf18();return;}var _0x207d64=_0x5d9e71(_0x102e73);if(!_0x207d64){_0xf1ddec(),_0x39cf18();return;}var _0xbe532b=_0x47989a(_0x207d64[_0x3ff53e(0xa7)]);_0x1661d3[_0x3ff53e(0xf5)]=_0x207d64[_0x3ff53e(0xa7)][_0x3ff53e(0xd7)];if(!_0xbe532b){_0x39cf18();return;}if(document[_0x3ff53e(0x8b)](_0x5e7cb0)){var _0x92ad99=_0x3f6ed6(_0x207d64[_0x3ff53e(0xa7)]);_0x1661d3[_0x3ff53e(0xcf)]=_0x92ad99;return;}_0x1661d3[_0x3ff53e(0xd1)]+=0x1;var _0x207e44=_0x498301(_0xbe532b,_0x3f6ed6(_0x207d64[_0x3ff53e(0xa7)])),_0x9e5622=document[_0x3ff53e(0xaf)](_0x3ff53e(0xc0))||document[_0x3ff53e(0xaf)](_0x3ff53e(0x7f));if(!_0x9e5622)return;_0x9e5622[_0x3ff53e(0xf2)]&&_0x9e5622[_0x3ff53e(0xf2)][_0x3ff53e(0xc6)](_0x3ff53e(0xa5))?_0x9e5622[_0x3ff53e(0x93)][_0x3ff53e(0x96)](_0x207e44,_0x9e5622[_0x3ff53e(0xe3)]):_0x9e5622[_0x3ff53e(0xd0)](_0x207e44),_0x39751a();}catch(_0x17ae7b){_0x1661d3[_0x3ff53e(0xdc)]=String(_0x17ae7b);}}var _0x5ab425=null;function _0x39751a(){var _0x2db941=_0x4b035a;if(!window[_0x2db941(0x81)])return;var _0x46e5d4=document[_0x2db941(0xaf)](_0x2db941(0xc0))||document[_0x2db941(0xaf)](_0x2db941(0x7f));if(!_0x46e5d4)return;if(_0x5ab425===_0x46e5d4&&_0x536ffb)return;try{if(_0x536ffb)_0x536ffb[_0x2db941(0x7e)]();_0x5ab425=_0x46e5d4,_0x536ffb=new MutationObserver(function(){var _0x4a30f8=_0x2db941;if(_0x558fef)return;if(document[_0x4a30f8(0x8b)](_0x5e7cb0))return;_0x558fef=!![];try{_0x5f247f(),_0x1661d3[_0x4a30f8(0xcb)]+=0x1;}catch(_0x1ab0dc){_0x1661d3[_0x4a30f8(0xdc)]=String(_0x1ab0dc);}finally{_0x558fef=![];}});var _0x2464f2={};_0x2464f2[_0x2db941(0xc7)]=!![],_0x2464f2[_0x2db941(0x6f)]=!![],_0x536ffb[_0x2db941(0x88)](_0x46e5d4,_0x2464f2);}catch(_0x5ec7c3){_0x1661d3[_0x2db941(0xdc)]=String(_0x5ec7c3);}}function _0x597751(){var _0x5a7d9c=_0x4b035a,_0x2df8dd=_0x15ad8c();if(_0x2df8dd)_0x2df8dd[_0x5a7d9c(0xd3)](_0xadf306);_0xf1ddec();var _0x3b287f=0x0;window[_0x5a7d9c(0x9b)](function(){_0x3b287f+=0x1;if(_0x3b287f%0x1e===0x0)_0xf1ddec();_0x5f247f();},_0x1b1305);}document[_0x4b035a(0xf4)]===_0x4b035a(0xc8)?document[_0x4b035a(0xe1)](_0x4b035a(0xf0),_0x597751):_0x597751();}()));
+/*
+ * 自定义模型"离地高度"微调（运行时补丁）。
+ *
+ * 为什么需要它：模型的底面在数学上已经精确贴地（ha3dNestedGround 显示
+ * modelMinY ≈ 3e-10），但 SPA 的地板网格、阴影贴图、描边外壳、相机角度等
+ * 渲染因素仍可能让落地部件看起来"陷进去"或"浮起来"。这类偏差没法靠几何
+ * 自动算准，交给用户一眼微调是最省事的办法。
+ *
+ * 记录字段：liftOff（米，可正可负，默认 0 = 不偏移）
+ *   - 正数 = 抬高，负数 = 下沉
+ *   - 未设置时不写该字段，老项目结构不变
+ *
+ * 四层链路（见 ha3d-inspector-param skill）：
+ *   ① UI       本文件：.selection-summary-card 之后插入滑块 + 数值输入
+ *   ② schema   schema.py 的 normalize_furniture 白名单（_liftOff 校验）
+ *   ③ 广播     views.py + gateway.py 自动完成
+ *   ④ 3D       furniture-nested-coffee-table.js 的 applyLiftOff()
+ *
+ * Debug: window.ha3dLiftDebug
+ */
+(function () {
+  "use strict";
+
+  var VERSION = 1;
+  var ROW_ID = "ha3d-model-lift-row";
+  var ROW_CLASS = "ha3d-model-lift";
+  var FIELD_KEY = "liftOff";
+  var POLL_MS = 500;
+  /* 允许的微调范围（米）。偏差通常只有几毫米到几厘米，
+   * 留到 ±0.10 足够，也避免用户误输入把模型送上天。 */
+  var MIN = -0.1;
+  var MAX = 0.1;
+  var STEP = 0.001;
+
+  /* 通用能力：**任何**带 modelId 的家具都提供离地微调。
+   *
+   * `modelId` 本身就是"这是自定义模型"的判据 —— 原生家具记录只有 `kind`，
+   * 没有 `modelId`。所以这里不需要维护白名单，新模型接入后自动获得该能力。
+   * 没有 modelId 的原生家具不会出现这个控件。 */
+  function targetFor(item) {
+    if (!item || typeof item.modelId !== "string" || !item.modelId) return null;
+    return { modelId: item.modelId };
+  }
+
+  var stats = {
+    version: VERSION,
+    polls: 0,
+    injections: 0,
+    reinjections: 0,
+    saves: 0,
+    selectedModelId: null,
+    currentLift: null,
+    lastError: null,
+  };
+  window.ha3dLiftDebug = stats;
+
+  var project = null;
+  var restoring = false;
+  var observer = null;
+  var observedPanel = null;
+
+  function apiBase() {
+    var parts = window.location.pathname.split("/").filter(Boolean);
+    if (parts.length >= 2 && parts[0] === "api") return "/" + parts[0] + "/" + parts[1];
+    return "";
+  }
+
+  function snapshot() {
+    return window.ha3dProjectSnapshot || null;
+  }
+
+  function applyProject(p) {
+    if (p && p.floors) project = p;
+  }
+
+  function loadProject() {
+    var snap = snapshot();
+    if (snap) {
+      snap.request();
+      return;
+    }
+    fetch(apiBase() + "/api/projects/current", { credentials: "same-origin" })
+      .then(function (res) {
+        return res.ok ? res.json() : null;
+      })
+      .then(function (res) {
+        applyProject(res && (res.project || res));
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+      });
+  }
+
+  /* ------------------------- 识别当前选中的记录 ------------------------- */
+  function planGroupTransform(g) {
+    var t = g && g.getAttribute ? g.getAttribute("transform") : null;
+    if (!t) return null;
+    var m = /translate\(\s*([-\d.eE+]+)[\s,]+([-\d.eE+]+)\s*\)/.exec(t);
+    if (!m) return null;
+    var x = parseFloat(m[1]);
+    var z = parseFloat(m[2]);
+    return isFinite(x) && isFinite(z) ? [x, z] : null;
+  }
+
+  function selectedPlanPosition() {
+    var svg = document.querySelector("svg.floorplan-canvas");
+    if (!svg) return null;
+    var groups = svg.querySelectorAll("g.plan-furniture");
+    for (var i = 0; i < groups.length; i += 1) {
+      if (groups[i].querySelector("rect.furniture-footprint.selected")) {
+        return planGroupTransform(groups[i]);
+      }
+    }
+    return null;
+  }
+
+  function findRecordAt(pos) {
+    if (!project || !project.floors || !pos) return null;
+    var tol = 0.01;
+    for (var f = 0; f < project.floors.length; f += 1) {
+      var items = project.floors[f].furniture || [];
+      for (var i = 0; i < items.length; i += 1) {
+        var it = items[i];
+        if (!it || !it.position) continue;
+        if (
+          Math.abs(Number(it.position[0]) - pos[0]) < tol &&
+          Math.abs(Number(it.position[1]) - pos[1]) < tol
+        ) {
+          return { item: it, floor: project.floors[f] };
+        }
+      }
+    }
+    return null;
+  }
+
+  function liftOf(item) {
+    var v = item && item[FIELD_KEY];
+    return typeof v === "number" && isFinite(v) ? v : 0;
+  }
+
+  /* ------------------------------- 写记录 ------------------------------- */
+  function saveLift(metres) {
+    var pos = selectedPlanPosition();
+    if (!pos) return;
+    var found = findRecordAt(pos);
+    if (!found) {
+      stats.lastError = "record not found";
+      return;
+    }
+    var id = found.item.id;
+    stats.saves += 1;
+    stats.currentLift = metres;
+
+    fetch(apiBase() + "/api/projects/current", { credentials: "same-origin" })
+      .then(function (res) {
+        if (!res.ok) throw new Error("load failed " + res.status);
+        return res.json();
+      })
+      .then(function (res) {
+        var p = res && (res.project || res);
+        if (!p || !p.floors) throw new Error("no project");
+        var hit = null;
+        p.floors.forEach(function (floor) {
+          (floor.furniture || []).forEach(function (it) {
+            if (!hit && it && it.id === id) hit = it;
+          });
+        });
+        if (!hit) throw new Error("record not found on save");
+        if (Math.abs(metres) < 1e-6) delete hit[FIELD_KEY]; // 0 就不写，保持结构干净
+        else hit[FIELD_KEY] = Number(metres.toFixed(4));
+        return fetch(apiBase() + "/api/projects/" + p.id, {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          credentials: "same-origin",
+          body: JSON.stringify(p),
+        });
+      })
+      .then(function (res) {
+        if (!res.ok) throw new Error("save failed " + res.status);
+        var snap = snapshot();
+        if (snap) snap.refresh();
+        else loadProject();
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+      });
+  }
+
+  /* -------------------------------- UI -------------------------------- */
+  function fmt(cm) {
+    // 内部按米存，界面上用毫米更直观（用户看到的是 ±100 mm）
+    return (cm * 1000).toFixed(0) + " mm";
+  }
+
+  function buildRow(target, currentLift) {
+    var wrap = document.createElement("div");
+    wrap.id = ROW_ID;
+    wrap.className = ROW_CLASS;
+    wrap.style.cssText =
+      "display:flex;flex-direction:column;gap:8px;padding:12px 14px;margin-top:10px;" +
+      "border-radius:12px;background:rgba(127,127,127,0.08);";
+
+    var head = document.createElement("div");
+    head.style.cssText =
+      "display:flex;align-items:center;justify-content:space-between;gap:8px;" +
+      "font-size:12px;letter-spacing:0.02em;opacity:0.85;";
+    var title = document.createElement("span");
+    title.textContent = "离地高度";
+    var value = document.createElement("span");
+    value.textContent = fmt(currentLift);
+    value.style.cssText = "font-variant-numeric:tabular-nums;opacity:0.75;";
+    head.appendChild(title);
+    head.appendChild(value);
+    wrap.appendChild(head);
+
+    var controls = document.createElement("div");
+    controls.style.cssText = "display:flex;align-items:center;gap:8px;";
+
+    var range = document.createElement("input");
+    range.type = "range";
+    range.min = String(MIN);
+    range.max = String(MAX);
+    range.step = String(STEP);
+    range.value = String(currentLift);
+    range.setAttribute("aria-label", "离地高度微调（毫米）");
+    range.style.cssText = "flex:1;accent-color:#409eff;cursor:pointer;";
+
+    var num = document.createElement("input");
+    num.type = "number";
+    num.min = String(MIN * 1000);
+    num.max = String(MAX * 1000);
+    num.step = "1";
+    num.value = String(Math.round(currentLift * 1000));
+    num.setAttribute("aria-label", "离地高度（毫米）");
+    num.style.cssText =
+      "width:64px;padding:4px 6px;border-radius:6px;font-size:12px;" +
+      "border:1px solid rgba(127,127,127,0.45);background:transparent;color:inherit;" +
+      "font-variant-numeric:tabular-nums;";
+
+    var reset = document.createElement("button");
+    reset.type = "button";
+    reset.textContent = "归零";
+    reset.title = "恢复为 0（模型默认贴地）";
+    reset.style.cssText =
+      "padding:4px 10px;border-radius:6px;font-size:12px;cursor:pointer;" +
+      "border:1px solid rgba(127,127,127,0.45);background:transparent;color:inherit;";
+
+    function commit(metres) {
+      var clamped = Math.max(MIN, Math.min(MAX, metres));
+      value.textContent = fmt(clamped);
+      saveLift(clamped);
+    }
+
+    /* 拖动时只更新显示，松手才写盘，避免每移动一格就 PUT 一次 */
+    range.addEventListener("input", function (e) {
+      e.stopPropagation();
+      var v = parseFloat(range.value);
+      if (!isFinite(v)) return;
+      value.textContent = fmt(v);
+      num.value = String(Math.round(v * 1000));
+    });
+    range.addEventListener("change", function (e) {
+      e.stopPropagation();
+      var v = parseFloat(range.value);
+      if (isFinite(v)) commit(v);
+    });
+
+    num.addEventListener("change", function (e) {
+      e.stopPropagation();
+      var mm = parseFloat(num.value);
+      if (!isFinite(mm)) return;
+      var v = Math.max(MIN, Math.min(MAX, mm / 1000));
+      range.value = String(v);
+      commit(v);
+    });
+    num.addEventListener("click", function (e) {
+      e.stopPropagation();
+    });
+
+    reset.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      range.value = "0";
+      num.value = "0";
+      commit(0);
+    });
+
+    controls.appendChild(range);
+    controls.appendChild(num);
+    controls.appendChild(reset);
+    wrap.appendChild(controls);
+
+    var hint = document.createElement("div");
+    hint.textContent = "若落地部件看起来陷进地板，调大此值；悬空则调小。";
+    hint.style.cssText = "font-size:11px;opacity:0.55;";
+    wrap.appendChild(hint);
+
+    return wrap;
+  }
+
+  function removeRow() {
+    var existing = document.getElementById(ROW_ID);
+    if (existing && existing.parentNode) existing.parentNode.removeChild(existing);
+  }
+
+  function ensureRow() {
+    stats.polls += 1;
+    try {
+      var pos = selectedPlanPosition();
+      if (!pos) {
+        stats.selectedModelId = null;
+        removeRow();
+        return;
+      }
+      var found = findRecordAt(pos);
+      if (!found) {
+        loadProject(); // 快照可能还没刷新（刚放下模型）
+        removeRow();
+        return;
+      }
+      var target = targetFor(found.item);
+      stats.selectedModelId = found.item.modelId;
+      if (!target) {
+        // 原生家具（没有 modelId）不提供离地微调
+        removeRow();
+        return;
+      }
+      if (document.getElementById(ROW_ID)) {
+        // 已存在且选中的是同一条记录：只同步显示值
+        var cur = liftOf(found.item);
+        stats.currentLift = cur;
+        return;
+      }
+      stats.injections += 1;
+      var row = buildRow(target, liftOf(found.item));
+      var host =
+        document.querySelector(".selection-summary-card") ||
+        document.querySelector(".inspector-panel");
+      if (!host) return;
+      if (host.classList && host.classList.contains("selection-summary-card")) {
+        host.parentNode.insertBefore(row, host.nextSibling);
+      } else {
+        host.appendChild(row);
+      }
+      watchInspector();
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  var watchedNode = null;
+  function watchInspector() {
+    if (!window.MutationObserver) return;
+    var panel =
+      document.querySelector(".selection-summary-card") ||
+      document.querySelector(".inspector-panel");
+    if (!panel) return;
+    if (watchedNode === panel && observer) return;
+    try {
+      if (observer) observer.disconnect();
+      watchedNode = panel;
+      observer = new MutationObserver(function () {
+        if (restoring) return;
+        if (document.getElementById(ROW_ID)) return;
+        restoring = true;
+        try {
+          ensureRow();
+          stats.reinjections += 1;
+        } catch (err) {
+          stats.lastError = String(err);
+        } finally {
+          restoring = false;
+        }
+      });
+      observer.observe(panel, { childList: true, subtree: true });
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  function start() {
+    var snap = snapshot();
+    if (snap) snap.subscribe(applyProject);
+    loadProject();
+    var tick = 0;
+    window.setInterval(function () {
+      tick += 1;
+      if (tick % 30 === 0) loadProject();
+      ensureRow();
+    }, POLL_MS);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
+})();

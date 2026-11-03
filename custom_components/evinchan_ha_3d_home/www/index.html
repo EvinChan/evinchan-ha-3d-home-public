@@ -44,7 +44,7 @@
     <script src="./inspector-surface-color.js?v=7"></script>
     <!-- 地面（楼板）着色：白天 #7784a8 / 夜晚 #1f2447。依赖上面的补丁发布
          window.__ha3dCapturedScene，故放在所有 3D 补丁之后。 -->
-    <script src="./ground-tint.js?v=6"></script>
+    <script src="./ground-tint.js?v=43"></script>
     <!-- 离地高度微调：几何精确贴地但渲染仍可能有视觉偏差时的兜底手段 -->
     <script src="./inspector-model-offset.js?v=2"></script>
     <!-- 彻底关闭 SPA 内置语音助手：在 module bundle 之前把开关置 false，
@@ -57,7 +57,9 @@
          preload so it only loads on-demand if the SPA ever imports it. -->
     <link rel="modulepreload" crossorigin href="./assets/three-DWA6IWsx.js">
     <link rel="stylesheet" crossorigin href="./assets/index-BRJrgFDd.css">
-    <link rel="stylesheet" crossorigin href="./ui-theme.css" />
+    <!-- 场景配色配置（唯一调色入口）：ui-theme.css 与 ground-tint.js 都从这里读 -->
+    <link rel="stylesheet" crossorigin href="./scene-colors.css?v=17" />
+    <link rel="stylesheet" crossorigin href="./ui-theme.css?v=4" />
   </head>
   <body>
     <div id="root"></div>

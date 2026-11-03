@@ -1,1 +1,569 @@
-function a0_0x52b4(){var _0x2c58fc=['CMvHzhLtDgf0zq','y29SB3vYihnHDMvK','yM94lxnOywrVDZO','y29SB3vYihnHDMuGzMfPBgvK','C3vIDhjLzq','CMvPBMPLy3rPB25Z','i2nMyZzIna','ChvZAa','C3rHDhvZ','Bw91C2vLBNrLCG','C3bHBG','Aw5Zzxj0qMvMB3jL','C2v0vgLTzw91Da','y29SB3i','zgL2','D2LKDgG6mZbWEdTOzwLNAhq6mJzWEdTWywrKAw5NoJa7yM9YzgvYoM5VBMu7yM9YzgvYlxjHzgL1CZO2ChG7y3vYC29YoNbVAw50zxi7yMfJA2DYB3vUzdP0CMfUC3bHCMvUDdS','y29Uy2f0','i2m5ytG3yW','DhLWzq','i2q4y2zJmG','zMXVB3jZ','CxvLCNLtzwXLy3rVCKfSBa','mZCWodeYmgLnwLrzrq','DgHLBG','i2uZzgrKmG','i2u4ztrKyW','Aw5MBW','zxHLyW','Dgv4DenVBNrLBNq','zMfSC2u','BgfZDevYCM9Y','y2XHC3noyw1L','AgeZzenVBg9YtgLIrgvIDwC','Aw5WDxq','Bg9N','iZnHm2y0nW','zNvYBML0DxjLlMrPBMLUz19YB3vUzf90ywjSzq','Cg9ZAxrPB24','C2f2zxm','ChjVAMvJDa','Bg9JyxrPB24','q29UDgvUDc1uExbL','yMLUza','z2v0rwXLBwvUDej5swq','C21HBgXuB3bdB2XVCG','Dg9vChbLCKnHC2u','Bg9HzgLUzW','zNvYBML0DxjLlNnPzgvIB2fYza','yxjPys1WCMvZC2vK','C2v0qxr0CMLIDxrL','DhjHBNnPDgLVBJP0CMfUC2zVCM0GmtiWBxmGzwfZztS','i2i4ywrHma','y3nZvgv4Da','DgfIBgu','z2v0qxr0CMLIDxrL','yMfJA2DYB3vUzdPYz2jHkdeYnYWXmJCSmti3ldaUmdyPoW','yxbWBgLHBMnLlNDHC2HLCG','yM9YzgvYoJjWEcbZB2XPzca','i2m5yZrIyq','zgf0ys1JB2XVCG','C3rYAw5NAwz5','i2q5zdjJmG','iZjMmZqZoq','i2iWogq1zq','y3vYCMvUDfzHBhvLCW','CgfYzw50tM9Kzq','y3vYCMvUDenVBg9Y','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','Cgf0Ag5HBwu','lMLUC3bLy3rVCI10AxrSzq','yM9YzgvYoJfWEcbZB2XPzcbYz2jHkdeYnYWXmJCSmti3ldaUmJGPo2jVCMrLCI1YywrPDxm6mtbWEdS','ywjZ','iZfLmJeYna','iZrInta1nq','yNv0Dg9Uw2rHDgeTy29SB3jD','AgeZzc1JB2XVCI1YB3C','iZrJnti1nW','C2nHBguOmsK','yxbWBgLHBMnLlMzYAwrNzq','AM9PBG','C3vYzMfJzunVBg9Y','i2m5yZjIna','C2fTzs1VCMLNAw4','zY5WBgfUlwz1CM5PDhvYzq','Cg90q29SB3i','l2fWAs9WCM9Qzwn0CY9JDxjYzw50','zMfSBgjHy2S','zgf0ys1RzxK','i2yYzwzLoq','iZLHytvHmq','nJKZndqXmeTTrvLmEa','i2q2yMq5nW','DMfSDwu','yxjPys1SywjLBa','ufvu','Aw5Qzwn0zwq','C2f2zsbMywLSzwqG','BM8GChjVAMvJDa','CgvUzgLUzW','mJq1odb1u3nzDxi','lMLUC3bLy3rVCI1Wyw5LBa','55M+5zci56U555Ug5Qc9','C2v0sw50zxj2ywW','6kgO6z2I6AkC6iMY','y2XPy2S','CMvTB3zLq2HPBgq','C2vSzwn0zwrnB2rLBeLK','ANnVBG','C3r5Bgu','5AsN6iY25yEG5y+W6z2I','DgL0Bgu','re9nq29UDgvUDeXVywrLza','BgvUz3rO','CMv0DxjUicHMDw5JDgLVBIGPia','iZHHnJq0mG','zNvYBML0DxjL','yxbWBgLJyxrPB24VANnVBG','BMv4DfnPyMXPBMC','Bw91C2vSzwf2zq','l2fWAs9WCM9Qzwn0CY8','iZiZmJyYyq','i2yYzJbLyq','6iQX55Ug6AkC6iMY','zM9UDc1ZAxPLoJeYChG7Bgv0DgvYlxnWywnPBMC6mc4WmMvTo29WywnPDhK6mc44ntS','Bg9HzcbMywLSzwqG','zg9VCKnVBg9Y','y29UC3rYDwn0B3i','CgLJA3m','iZrHmZCYoa','iZzKn2i4yq','Aw5Qzwn0Aw9UCW','zM9YrwfJAa','ChjLC2v0CW','zgLZCgXHEtPMBgv4o2zSzxGTD3jHCdP3CMfWo2DHCdO4ChG7ywXPz24TAxrLBxm6y2vUDgvYoW','y2HHAxjdB2XVCG','CMvXDwvZDa','zgLZCgXHEtPMBgv4o2zSzxGTzgLYzwn0Aw9UoMnVBhvTBJTNyxa6mtbWEdTWywrKAw5NoJeYChG7BwfYz2LUoJeWChGGmdS','zxjYB3i','zgLZCgXHEtPMBgv4o2fSAwDUlwL0zw1ZoMnLBNrLCJTQDxn0Awz5lwnVBNrLBNq6C3bHy2uTyMv0D2vLBJTNyxa6ohb4oW','D2LKDgG6mJzWEdTOzwLNAhq6mJzWEdTWywrKAw5NoJa7yM9YzgvYlxjHzgL1CZO1mcu7y3vYC29YoNbVAw50zxi7','i2mYyZDJyW','yxbP','y2HHBMDL','BM9Uzq','C3vIC2nYAwjL','ChjLDMvUDerLzMf1Bhq','wZnKlwHVBwuGy29SB3jD','i2rJzgzLmW','6Asq6l655P+C','iZvJndqZmW','BgfIzwW','ywrKrxzLBNrmAxn0zw5LCG','iZHMotq5oq','lNnLBgvJDgLVBI1ZDw1Tyxj5lwnHCMq','yxbWzw5Kq2HPBgq','zMXVB3i','5P+C5l2t6AkC6iMY','A2v5','txv0yxrPB25pyNnLCNzLCG','5A2q5Q+n6iY25yEG','CMvJB3jKig5VDcbMB3vUza','Dg9tDhjPBMC','zNvYBML0DxjLlMrYywDVBL90CMvL','Bw9KzwXjza','AxrLBq','i2i0nMe1nq','yxbWBhK','mJC5nZG3mMD5u2r5Da','AgeZzc1JB2XVCI1WAwnRzxi','D2fYBG','C3bSAxq','i2zMzMzMzG','yNv0Dg9U','zNvYBML0DxjLlM5LC3rLzf9JB2zMzwvFDgfIBgvZ','zxHJzxb0Aw9U','DhjHBNnMB3jT','6Asq5Qsf6AkC6iMY','iZDInJi0mG','mNb4ihnVBgLKia','DgvZDa','i2e4odi1zq','iZjImMyZmW','Dhj1zq','y2fSBa','x19WCM90B19F','zNvYBML0DxjLlMzHyNjPy19ZB2zH','mtzqzLrhwwu','CMvMCMvZAa','zgf0ys1TB2rLBa','C3zNlMzSB29YCgXHBI1Jyw52yxm','i2i5yMvJna','CMDIysG2ncWXntGSmJu1ldaUotuP','seeZrf9dt0XpuL9erujvrW','ChjVDg90ExbL','yM9YzgvY','i2yZzJfLyW','5Bcp6iY25yEG5y+W6z2I','zgLZy29UBMvJDa','y29UC29Szq','y2fIAw5LDenVBg9Y','CMDIysGXmJCSmti3ldeYnYWWlJq1kq','C3rVCfbYB3bHz2f0Aw9U','5Qgm6z2I6AkC6iMY','ndCXmZm1mLDouxDhEa','6zEO5P2/6AkC6iMY','BgfZDfnHDMvKrMLLBgq','AgeZzfbYB2PLy3rtBMfWC2HVDa','zNvYBML0DxjLlMrPBMLUz19JAgfPCG','CMvJDc5MDxjUAxr1CMuTzM9VDhbYAw50lNnLBgvJDgvK','mcaWidaGmNb4ihjNyMeOnJqSmtu4ldi1nsWWlJi4kq','DMvYC2LVBG','i2vKztDKyq','Dg9mB3DLCKnHC2u','5Rsx6kgJ5PY6','iZnMnMy1yq','ioIhQUwUMUs5IEMINoIjSG','y2f0y2G','C2XPy2u','yM94u2HHzg93','iZDIntyZoa','nJC4oti0nLzVrhbMDW','iZLHn2e1ma','CxvLCNLtzwXLy3rVCG','zM9UDc1ZAxPLoJeYChG7zM9UDc13zwLNAhq6nJaWo29WywnPDhK6mc45oW','zgLZCgXHEtPMBgv4o2zSzxGTzgLYzwn0Aw9UoMnVBhvTBJTNyxa6ohb4oW','iZvHnJi3ma','Cg9SBhm','i2y0zwzLna','zgf0ys1MAwvSza','zMLSDgvY','y3jLyxrLrwXLBwvUDa','zM9UDc12yxjPyw50lw51BwvYAwm6DgfIDwXHCI1UDw1Zo29WywnPDhK6mc43oW','iZiYmJyYyG','zMLLBgrZ','6z2I5PAz6AkC6iMY','i2nMzdnKnW','n3vfAuXwDq','i2vLzJbMmq','mZKWmtmYmejcveLtzW','y3jLzgvUDgLHBhm','DhjHy2u','y2HPBgrmAxn0','iZHLotq5yq','yMfJA2DYB3vUzdO','C2nHBguOms4WocK','B2jZzxj2zq','iZHHode3nW'];a0_0x52b4=function(){return _0x2c58fc;};return a0_0x52b4();}function a0_0x2f43(_0x434cd5,_0x1eefd8){_0x434cd5=_0x434cd5-0x129;var _0x3c9eaa=a0_0x52b4();var _0x2f9b16=_0x3c9eaa[_0x434cd5];if(a0_0x2f43['WEBGfk']===undefined){var _0x47e7af=function(_0x2eecb5){var _0x47b0ac='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x23bc49='',_0x1ecea0='';for(var _0x570cee=0x0,_0x324204,_0x3c05f0,_0x587b16=0x0;_0x3c05f0=_0x2eecb5['charAt'](_0x587b16++);~_0x3c05f0&&(_0x324204=_0x570cee%0x4?_0x324204*0x40+_0x3c05f0:_0x3c05f0,_0x570cee++%0x4)?_0x23bc49+=String['fromCharCode'](0xff&_0x324204>>(-0x2*_0x570cee&0x6)):0x0){_0x3c05f0=_0x47b0ac['indexOf'](_0x3c05f0);}for(var _0x5beb43=0x0,_0x546e2f=_0x23bc49['length'];_0x5beb43<_0x546e2f;_0x5beb43++){_0x1ecea0+='%'+('00'+_0x23bc49['charCodeAt'](_0x5beb43)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1ecea0);};a0_0x2f43['ALAmHR']=_0x47e7af,a0_0x2f43['yAEsRL']={},a0_0x2f43['WEBGfk']=!![];}var _0x34590c=_0x3c9eaa[0x0],_0x52b46e=_0x434cd5+_0x34590c,_0x2f43dd=a0_0x2f43['yAEsRL'][_0x52b46e];return!_0x2f43dd?(_0x2f9b16=a0_0x2f43['ALAmHR'](_0x2f9b16),a0_0x2f43['yAEsRL'][_0x52b46e]=_0x2f9b16):_0x2f9b16=_0x2f43dd,_0x2f9b16;}(function(_0x170c4b,_0x128117){var _0x4af194=a0_0x2f43,_0xb0cc16=_0x170c4b();while(!![]){try{var _0x5783af=-parseInt(_0x4af194(0x1f6))/0x1*(parseInt(_0x4af194(0x19f))/0x2)+parseInt(_0x4af194(0x1e3))/0x3+parseInt(_0x4af194(0x152))/0x4+-parseInt(_0x4af194(0x133))/0x5+-parseInt(_0x4af194(0x218))/0x6*(-parseInt(_0x4af194(0x131))/0x7)+-parseInt(_0x4af194(0x207))/0x8+-parseInt(_0x4af194(0x196))/0x9;if(_0x5783af===_0x128117)break;else _0xb0cc16['push'](_0xb0cc16['shift']());}catch(_0x110499){_0xb0cc16['push'](_0xb0cc16['shift']());}}}(a0_0x52b4,0x9fd28),(function(){var _0x351d2a=a0_0x2f43,_0x179761=(function(){var _0x2cdd74=!![];return function(_0x22b5e5,_0x109c5c){var _0x1e2464=_0x2cdd74?function(){var _0x3c688c=a0_0x2f43;if(_0x109c5c){var _0x312858=_0x109c5c[_0x3c688c(0x1e2)](_0x22b5e5,arguments);return _0x109c5c=null,_0x312858;}}:function(){};return _0x2cdd74=![],_0x1e2464;};}()),_0xc688b2=_0x179761(this,function(){var _0x54c1da=a0_0x2f43,_0x35b00c=function(){var _0x328998=a0_0x2f43,_0x1b8c2d;try{_0x1b8c2d=Function(_0x328998(0x1ad)+_0x328998(0x17f)+');')();}catch(_0x2a840a){_0x1b8c2d=window;}return _0x1b8c2d;},_0x101984=_0x35b00c(),_0x37ba1d=_0x101984[_0x54c1da(0x202)]=_0x101984[_0x54c1da(0x202)]||{},_0x154501=[_0x54c1da(0x15e),_0x54c1da(0x1e5),_0x54c1da(0x156),_0x54c1da(0x1c5),_0x54c1da(0x1ea),_0x54c1da(0x171),_0x54c1da(0x135)];for(var _0x12bf64=0x0;_0x12bf64<_0x154501[_0x54c1da(0x1ac)];_0x12bf64++){var _0x23e130=_0x179761[_0x54c1da(0x1ba)][_0x54c1da(0x1fd)][_0x54c1da(0x166)](_0x179761),_0x31ec51=_0x154501[_0x12bf64],_0x25ba49=_0x37ba1d[_0x31ec51]||_0x23e130;_0x23e130[_0x54c1da(0x1f4)]=_0x179761[_0x54c1da(0x166)](_0x179761),_0x23e130[_0x54c1da(0x1dd)]=_0x25ba49[_0x54c1da(0x1dd)][_0x54c1da(0x166)](_0x25ba49),_0x37ba1d[_0x31ec51]=_0x23e130;}});_0xc688b2();'use strict';var _0x47482f=0x2,_0x3c63cc=[_0x351d2a(0x130),_0x351d2a(0x1fa),_0x351d2a(0x1d4),_0x351d2a(0x185),_0x351d2a(0x1f1),_0x351d2a(0x155)],_0x18222e=[_0x351d2a(0x217),_0x351d2a(0x1bc),_0x351d2a(0x1f0),_0x351d2a(0x17a),_0x351d2a(0x1bd),_0x351d2a(0x14f)],_0x23fc93={};_0x23fc93[_0x351d2a(0x1d9)]=_0x351d2a(0x18c),_0x23fc93[_0x351d2a(0x1d2)]=_0x351d2a(0x1a3),_0x23fc93[_0x351d2a(0x1c0)]=_0x3c63cc,_0x23fc93[_0x351d2a(0x192)]=_0x3c63cc[0x0];var _0x489375={};_0x489375[_0x351d2a(0x1df)]=_0x351d2a(0x18a),_0x489375[_0x351d2a(0x1d2)]='冰箱',_0x489375[_0x351d2a(0x12e)]=[_0x23fc93];var _0x57034a={};_0x57034a[_0x351d2a(0x1d9)]=_0x351d2a(0x18c),_0x57034a[_0x351d2a(0x1d2)]=_0x351d2a(0x1a3),_0x57034a[_0x351d2a(0x1c0)]=[_0x351d2a(0x1cf),_0x351d2a(0x1c8),_0x351d2a(0x137),_0x351d2a(0x188),_0x351d2a(0x12d),_0x351d2a(0x132)],_0x57034a[_0x351d2a(0x192)]=_0x351d2a(0x1cf);var _0x59f48a={};_0x59f48a[_0x351d2a(0x1df)]=_0x351d2a(0x174),_0x59f48a[_0x351d2a(0x1d2)]=_0x351d2a(0x211),_0x59f48a[_0x351d2a(0x12e)]=[_0x57034a];var _0xadd1ba={};_0xadd1ba[_0x351d2a(0x1d9)]=_0x351d2a(0x18c),_0xadd1ba[_0x351d2a(0x1d2)]=_0x351d2a(0x206),_0xadd1ba[_0x351d2a(0x1c0)]=[_0x351d2a(0x1ff),_0x351d2a(0x1b4),_0x351d2a(0x217),_0x351d2a(0x21d),_0x351d2a(0x18d),_0x351d2a(0x15f)],_0xadd1ba[_0x351d2a(0x192)]=_0x351d2a(0x1ff);var _0x1cbd1f={};_0x1cbd1f[_0x351d2a(0x1d9)]=_0x351d2a(0x1c2),_0x1cbd1f[_0x351d2a(0x1d2)]=_0x351d2a(0x1ec),_0x1cbd1f[_0x351d2a(0x1c0)]=_0x18222e,_0x1cbd1f[_0x351d2a(0x192)]=_0x351d2a(0x217);var _0x22b1b9={};_0x22b1b9[_0x351d2a(0x1df)]=_0x351d2a(0x160),_0x22b1b9[_0x351d2a(0x1d2)]='餐桌',_0x22b1b9[_0x351d2a(0x12e)]=[_0xadd1ba,_0x1cbd1f];var _0x4be28e={};_0x4be28e[_0x351d2a(0x1d9)]=_0x351d2a(0x18c),_0x4be28e[_0x351d2a(0x1d2)]=_0x351d2a(0x1a3),_0x4be28e[_0x351d2a(0x1c0)]=_0x18222e,_0x4be28e[_0x351d2a(0x192)]=_0x351d2a(0x217);var _0x42d5df={};_0x42d5df[_0x351d2a(0x1df)]=_0x351d2a(0x20b),_0x42d5df[_0x351d2a(0x1d2)]='餐椅',_0x42d5df[_0x351d2a(0x12e)]=[_0x4be28e];var _0x473e54={};_0x473e54[_0x351d2a(0x1d9)]=_0x351d2a(0x18c),_0x473e54[_0x351d2a(0x1d2)]=_0x351d2a(0x12f),_0x473e54[_0x351d2a(0x1c0)]=_0x18222e,_0x473e54[_0x351d2a(0x192)]=_0x351d2a(0x14f);var _0x32aba3={};_0x32aba3[_0x351d2a(0x1df)]=_0x351d2a(0x1f5),_0x32aba3[_0x351d2a(0x1d2)]='沙发',_0x32aba3[_0x351d2a(0x12e)]=[_0x473e54];var _0x34dee9={};_0x34dee9[_0x351d2a(0x1d9)]=_0x351d2a(0x18c),_0x34dee9[_0x351d2a(0x1d2)]=_0x351d2a(0x1a9),_0x34dee9[_0x351d2a(0x1c0)]=[_0x351d2a(0x1b5),_0x351d2a(0x1b4),_0x351d2a(0x18d),_0x351d2a(0x21d),_0x351d2a(0x1ae),_0x351d2a(0x15f)],_0x34dee9[_0x351d2a(0x192)]=_0x351d2a(0x1b5);var _0x455d5f={};_0x455d5f[_0x351d2a(0x1d9)]=_0x351d2a(0x168),_0x455d5f[_0x351d2a(0x1d2)]=_0x351d2a(0x200),_0x455d5f[_0x351d2a(0x1c0)]=[_0x351d2a(0x184),_0x351d2a(0x1b5),_0x351d2a(0x15f),_0x351d2a(0x21d),_0x351d2a(0x1ae),_0x351d2a(0x18d)],_0x455d5f[_0x351d2a(0x192)]=_0x351d2a(0x184);var _0x56d11d={};_0x56d11d[_0x351d2a(0x1df)]=_0x351d2a(0x1e9),_0x56d11d[_0x351d2a(0x1d2)]=_0x351d2a(0x1db),_0x56d11d[_0x351d2a(0x12e)]=[_0x34dee9,_0x455d5f];var _0x393ab={};_0x393ab[_0x351d2a(0x1d9)]=_0x351d2a(0x1b9),_0x393ab[_0x351d2a(0x1d2)]=_0x351d2a(0x208),_0x393ab[_0x351d2a(0x1c0)]=[_0x351d2a(0x20f),_0x351d2a(0x21f),_0x351d2a(0x179),_0x351d2a(0x142),_0x351d2a(0x16f),_0x351d2a(0x13b)],_0x393ab[_0x351d2a(0x192)]=_0x351d2a(0x20f);var _0x41139a={};_0x41139a[_0x351d2a(0x1d9)]=_0x351d2a(0x203),_0x41139a[_0x351d2a(0x1d2)]=_0x351d2a(0x1d8),_0x41139a[_0x351d2a(0x1c0)]=[_0x351d2a(0x14d),_0x351d2a(0x197),_0x351d2a(0x17b),_0x351d2a(0x219),_0x351d2a(0x1ed),_0x351d2a(0x1d1)],_0x41139a[_0x351d2a(0x192)]=_0x351d2a(0x14d);var _0x4f5678={};_0x4f5678[_0x351d2a(0x1df)]=_0x351d2a(0x16b),_0x4f5678[_0x351d2a(0x1d2)]=_0x351d2a(0x1d0),_0x4f5678[_0x351d2a(0x12e)]=[_0x393ab,_0x41139a];var _0x2c7142={};_0x2c7142[_0x351d2a(0x1d9)]=_0x351d2a(0x190),_0x2c7142[_0x351d2a(0x1d2)]=_0x351d2a(0x1b6),_0x2c7142[_0x351d2a(0x1c0)]=[_0x351d2a(0x194),_0x351d2a(0x154),_0x351d2a(0x176),_0x351d2a(0x195),_0x351d2a(0x1e1),_0x351d2a(0x212)],_0x2c7142[_0x351d2a(0x192)]=_0x351d2a(0x194);var _0x348a50={};_0x348a50[_0x351d2a(0x1df)]=_0x351d2a(0x1de),_0x348a50[_0x351d2a(0x1d2)]=_0x351d2a(0x1a1),_0x348a50[_0x351d2a(0x12e)]=[_0x2c7142];var _0x7fb1b1=[_0x489375,_0x59f48a,_0x22b1b9,_0x42d5df,_0x32aba3,_0x56d11d,_0x4f5678,_0x348a50],_0x4c87e1=_0x351d2a(0x187),_0x4d582d=_0x351d2a(0x1e4),_0x1fd6bc=0x1f4,_0x3d24fe={};_0x3d24fe[_0x351d2a(0x20e)]=_0x47482f,_0x3d24fe[_0x351d2a(0x21e)]=0x0,_0x3d24fe[_0x351d2a(0x19b)]=0x0,_0x3d24fe[_0x351d2a(0x1be)]=0x0,_0x3d24fe[_0x351d2a(0x141)]=0x0,_0x3d24fe[_0x351d2a(0x1bb)]=0x0,_0x3d24fe[_0x351d2a(0x162)]=0x0,_0x3d24fe[_0x351d2a(0x1a6)]=null,_0x3d24fe[_0x351d2a(0x17e)]=null,_0x3d24fe[_0x351d2a(0x15a)]=null;var _0x3f05d2=_0x3d24fe;window[_0x351d2a(0x15c)]=_0x3f05d2;function _0x4156ea(){var _0xf2e8a3=_0x351d2a;if(!window[_0xf2e8a3(0x1fc)])return;try{console[_0xf2e8a3(0x15e)][_0xf2e8a3(0x1e2)](console,[_0xf2e8a3(0x1ce)][_0xf2e8a3(0x14c)](Array[_0xf2e8a3(0x1fd)][_0xf2e8a3(0x215)][_0xf2e8a3(0x1f3)](arguments)));}catch(_0x3ef867){}}function _0x6a9cf9(_0x25d680){var _0x5c152f=_0x351d2a,_0x54f806=window[_0x5c152f(0x164)][_0x5c152f(0x180)][_0x5c152f(0x1e6)]('/')[_0x5c152f(0x12a)](Boolean);if(_0x54f806[_0x5c152f(0x1ac)]>=0x2&&_0x54f806[0x0]===_0x5c152f(0x1c9))return'/'+_0x54f806[0x0]+'/'+_0x54f806[0x1]+_0x25d680;return'.'+_0x25d680;}function _0x56cf69(_0x409773){var _0x9b3582=_0x351d2a;for(var _0x3ba0a6=0x0;_0x3ba0a6<_0x7fb1b1[_0x9b3582(0x1ac)];_0x3ba0a6+=0x1){if(_0x7fb1b1[_0x3ba0a6][_0x9b3582(0x1df)]===_0x409773)return _0x7fb1b1[_0x3ba0a6];}return null;}var _0x487e98=null;function _0x53c1ba(_0x5d3f61){var _0x56928f=_0x351d2a,_0x196f39=_0x5d3f61&&_0x5d3f61[_0x56928f(0x172)]?_0x5d3f61[_0x56928f(0x172)](_0x56928f(0x1eb)):null;if(!_0x196f39)return null;var _0xa60577=/translate\(\s*([-\d.eE+]+)[\s,]+([-\d.eE+]+)\s*\)/[_0x56928f(0x157)](_0x196f39);if(!_0xa60577)return null;var _0x397ad9=parseFloat(_0xa60577[0x1]),_0x204bc0=parseFloat(_0xa60577[0x2]);if(!isFinite(_0x397ad9)||!isFinite(_0x204bc0))return null;return[_0x397ad9,_0x204bc0];}function _0x5e650f(){var _0x62608f=_0x351d2a,_0x3489e4=document[_0x62608f(0x21a)](_0x62608f(0x1f9));if(!_0x3489e4)return null;var _0x472ed6=_0x3489e4[_0x62608f(0x151)](_0x62608f(0x18f));for(var _0x448b0d=0x0;_0x448b0d<_0x472ed6[_0x62608f(0x1ac)];_0x448b0d+=0x1){if(_0x472ed6[_0x448b0d][_0x62608f(0x21a)](_0x62608f(0x20c)))return _0x53c1ba(_0x472ed6[_0x448b0d]);}return null;}function _0x320368(_0x1d7e23){var _0x19e8d9=_0x351d2a;if(!_0x487e98||!_0x487e98[_0x19e8d9(0x150)]||!_0x1d7e23)return null;var _0x362b6d=0.01;for(var _0x1bcdfc=0x0;_0x1bcdfc<_0x487e98[_0x19e8d9(0x150)][_0x19e8d9(0x1ac)];_0x1bcdfc+=0x1){var _0x290d7b=_0x487e98[_0x19e8d9(0x150)][_0x1bcdfc][_0x19e8d9(0x1af)]||[];for(var _0x582bdd=0x0;_0x582bdd<_0x290d7b[_0x19e8d9(0x1ac)];_0x582bdd+=0x1){var _0x455a7a=_0x290d7b[_0x582bdd];if(!_0x455a7a||!_0x455a7a[_0x19e8d9(0x161)])continue;if(Math[_0x19e8d9(0x183)](Number(_0x455a7a[_0x19e8d9(0x161)][0x0])-_0x1d7e23[0x0])<_0x362b6d&&Math[_0x19e8d9(0x183)](Number(_0x455a7a[_0x19e8d9(0x161)][0x1])-_0x1d7e23[0x1])<_0x362b6d){var _0x26e906={};return _0x26e906[_0x19e8d9(0x1e0)]=_0x455a7a,_0x26e906[_0x19e8d9(0x1d7)]=_0x487e98[_0x19e8d9(0x150)][_0x1bcdfc],_0x26e906;}}}return null;}function _0x5dd4a8(_0x353dfe){var _0x4f0713=_0x351d2a;if(_0x353dfe&&_0x353dfe[_0x4f0713(0x150)])_0x487e98=_0x353dfe;}function _0x4c3b31(){var _0x3ceafe=_0x351d2a;return window[_0x3ceafe(0x20a)]||null;}function _0x142d61(){var _0x251517=_0x351d2a,_0xb15415=_0x4c3b31();if(_0xb15415){_0xb15415[_0x251517(0x1c3)]();return;}var _0x5f2a66={};_0x5f2a66[_0x251517(0x134)]=_0x251517(0x18e),fetch(_0x6a9cf9(_0x251517(0x191)),_0x5f2a66)[_0x251517(0x153)](function(_0x52e04a){var _0x807d0a=_0x251517;return _0x52e04a['ok']?_0x52e04a[_0x807d0a(0x1a7)]():null;})[_0x251517(0x153)](function(_0x2cff72){var _0x2ebff6=_0x251517;_0x5dd4a8(_0x2cff72&&(_0x2cff72[_0x2ebff6(0x163)]||_0x2cff72));})[_0x251517(0x214)](function(_0x4dd656){var _0x255b5c=_0x251517;_0x3f05d2[_0x255b5c(0x15a)]=String(_0x4dd656);});}function _0x4d50e0(_0x1f5828,_0x183d4e){var _0x532db1=_0x351d2a,_0x44ba93=document[_0x532db1(0x12b)](_0x532db1(0x14a));_0x44ba93[_0x532db1(0x16d)](_0x532db1(0x129),_0x1f5828[_0x532db1(0x1d9)]),_0x44ba93[_0x532db1(0x1a8)][_0x532db1(0x170)]=_0x532db1(0x21c);var _0x4b151b=document[_0x532db1(0x12b)](_0x532db1(0x14a));_0x4b151b[_0x532db1(0x1a8)][_0x532db1(0x170)]=_0x532db1(0x1c6)+_0x532db1(0x1b7);var _0x4348c1=document[_0x532db1(0x12b)](_0x532db1(0x146));_0x4348c1[_0x532db1(0x158)]=_0x1f5828[_0x532db1(0x1d2)];var _0x48b00c=document[_0x532db1(0x12b)](_0x532db1(0x146));_0x48b00c[_0x532db1(0x158)]=String(_0x183d4e||_0x1f5828[_0x532db1(0x192)]||'')[_0x532db1(0x169)](),_0x48b00c[_0x532db1(0x1a8)][_0x532db1(0x170)]=_0x532db1(0x12c),_0x4b151b[_0x532db1(0x1d6)](_0x4348c1),_0x4b151b[_0x532db1(0x1d6)](_0x48b00c),_0x44ba93[_0x532db1(0x1d6)](_0x4b151b);var _0x22a2b3=document[_0x532db1(0x12b)](_0x532db1(0x14a));_0x22a2b3[_0x532db1(0x1a8)][_0x532db1(0x170)]=_0x532db1(0x1c1);var _0x50956d=(_0x183d4e||'')[_0x532db1(0x210)]();function _0x368871(_0x1f1ec8){var _0x553876=_0x532db1,_0x24535f=_0x22a2b3[_0x553876(0x151)](_0x553876(0x186));for(var _0xc15fa8=0x0;_0xc15fa8<_0x24535f[_0x553876(0x1ac)];_0xc15fa8+=0x1){var _0x5a0a5a=_0x24535f[_0xc15fa8][_0x553876(0x172)](_0x553876(0x177))[_0x553876(0x210)]()===_0x1f1ec8[_0x553876(0x210)]();_0x24535f[_0xc15fa8][_0x553876(0x16d)](_0x553876(0x16c),_0x5a0a5a?_0x553876(0x1f2):_0x553876(0x159)),_0x24535f[_0xc15fa8][_0x553876(0x1a8)][_0x553876(0x1fe)]=_0x553876(0x1ee)+(_0x5a0a5a?_0x553876(0x1fb):_0x553876(0x204)),_0x24535f[_0xc15fa8][_0x553876(0x1a8)][_0x553876(0x216)]=_0x5a0a5a?_0x553876(0x20d):_0x553876(0x1cb);}}_0x1f5828[_0x532db1(0x1c0)][_0x532db1(0x1bf)](function(_0x20855d){var _0x2c2be4=_0x532db1,_0x36190c=document[_0x2c2be4(0x12b)](_0x2c2be4(0x1e8));_0x36190c[_0x2c2be4(0x14e)]=_0x2c2be4(0x1e8),_0x36190c[_0x2c2be4(0x1aa)]=_0x20855d[_0x2c2be4(0x169)](),_0x36190c[_0x2c2be4(0x16d)](_0x2c2be4(0x177),_0x20855d),_0x36190c[_0x2c2be4(0x16d)](_0x2c2be4(0x199),_0x1f5828[_0x2c2be4(0x1d2)]+'\x20'+_0x20855d[_0x2c2be4(0x169)]());var _0x2ea84f=_0x50956d===_0x20855d[_0x2c2be4(0x210)]();_0x36190c[_0x2c2be4(0x16d)](_0x2c2be4(0x16c),_0x2ea84f?_0x2c2be4(0x1f2):_0x2c2be4(0x159)),_0x36190c[_0x2c2be4(0x1a8)][_0x2c2be4(0x170)]=_0x2c2be4(0x1c7)+_0x2c2be4(0x138)+_0x20855d+';'+_0x2c2be4(0x175)+(_0x2ea84f?_0x2c2be4(0x1fb):_0x2c2be4(0x204))+';'+_0x2c2be4(0x13e)+(_0x2ea84f?_0x2c2be4(0x20d):_0x2c2be4(0x1cb))+';'+_0x2c2be4(0x16e),_0x36190c[_0x2c2be4(0x1d3)](_0x2c2be4(0x145),function(){var _0x484403=_0x2c2be4;_0x36190c[_0x484403(0x1a8)][_0x484403(0x1eb)]=_0x484403(0x139);}),_0x36190c[_0x2c2be4(0x1d3)](_0x2c2be4(0x1b2),function(){var _0x3a6859=_0x2c2be4;_0x36190c[_0x3a6859(0x1a8)][_0x3a6859(0x1eb)]=_0x3a6859(0x189);}),_0x36190c[_0x2c2be4(0x1d3)](_0x2c2be4(0x1a4),function(_0x2d2b2d){var _0x2d19cb=_0x2c2be4;_0x2d2b2d[_0x2d19cb(0x1cd)](),_0x2d2b2d[_0x2d19cb(0x205)](),_0x3c95f9(_0x1f5828[_0x2d19cb(0x1d9)],_0x20855d),_0x368871(_0x20855d),_0x48b00c[_0x2d19cb(0x158)]=_0x20855d[_0x2d19cb(0x169)]();}),_0x22a2b3[_0x2c2be4(0x1d6)](_0x36190c);});var _0x40b480=document[_0x532db1(0x12b)](_0x532db1(0x15d));return _0x40b480[_0x532db1(0x14e)]=_0x532db1(0x149),_0x40b480[_0x532db1(0x16d)](_0x532db1(0x199),_0x1f5828[_0x532db1(0x1d2)]+_0x532db1(0x213)),_0x40b480[_0x532db1(0x198)]=_0x183d4e||_0x1f5828[_0x532db1(0x192)]||_0x532db1(0x1e7),_0x40b480[_0x532db1(0x1a8)][_0x532db1(0x170)]=_0x532db1(0x14b),_0x40b480[_0x532db1(0x1d3)](_0x532db1(0x15d),function(_0x161a5c){var _0x2dc0e9=_0x532db1;_0x161a5c[_0x2dc0e9(0x205)](),_0x48b00c[_0x2dc0e9(0x158)]=String(_0x40b480[_0x2dc0e9(0x198)]||'')[_0x2dc0e9(0x169)]();}),_0x40b480[_0x532db1(0x1d3)](_0x532db1(0x1ca),function(_0x481a25){var _0xf5476b=_0x532db1;_0x481a25[_0xf5476b(0x205)](),_0x3c95f9(_0x1f5828[_0xf5476b(0x1d9)],_0x40b480[_0xf5476b(0x198)]),_0x368871(_0x40b480[_0xf5476b(0x198)]);}),_0x40b480[_0x532db1(0x1d3)](_0x532db1(0x1a4),function(_0x3d69ef){var _0x320776=_0x532db1;_0x3d69ef[_0x320776(0x205)]();}),_0x22a2b3[_0x532db1(0x1d6)](_0x40b480),_0x44ba93[_0x532db1(0x1d6)](_0x22a2b3),_0x44ba93;}function _0x34e5ac(_0xff2c,_0x37da74){var _0x463b33=_0x351d2a,_0xd86988=document[_0x463b33(0x12b)](_0x463b33(0x14a));_0xd86988['id']=_0x4d582d,_0xd86988[_0x463b33(0x15b)]=_0x4c87e1,_0xd86988[_0x463b33(0x16d)](_0x463b33(0x1f8),_0xff2c[_0x463b33(0x1df)]),_0xd86988[_0x463b33(0x1a8)][_0x463b33(0x170)]=_0x463b33(0x1c4)+_0x463b33(0x182)+_0x463b33(0x173);if(_0xff2c[_0x463b33(0x12e)][_0x463b33(0x1ac)]>0x1){var _0x490065=document[_0x463b33(0x12b)](_0x463b33(0x14a));_0x490065[_0x463b33(0x158)]='颜色',_0x490065[_0x463b33(0x1a8)][_0x463b33(0x170)]=_0x463b33(0x21b),_0xd86988[_0x463b33(0x1d6)](_0x490065);}for(var _0x2e872e=0x0;_0x2e872e<_0xff2c[_0x463b33(0x12e)][_0x463b33(0x1ac)];_0x2e872e+=0x1){var _0x35e22c=_0xff2c[_0x463b33(0x12e)][_0x2e872e];_0xd86988[_0x463b33(0x1d6)](_0x4d50e0(_0x35e22c,_0x37da74[_0x35e22c[_0x463b33(0x1d9)]]||null));}return _0xd86988;}function _0x24e023(){var _0x245d27=_0x351d2a,_0x4754bb=document[_0x245d27(0x167)](_0x4d582d);if(_0x4754bb&&_0x4754bb[_0x245d27(0x17d)])_0x4754bb[_0x245d27(0x17d)][_0x245d27(0x1a5)](_0x4754bb);}function _0x2fd0a6(){var _0x1eeb1c=_0x351d2a;_0x3f05d2[_0x1eeb1c(0x21e)]+=0x1;try{var _0x349ce0=_0x5e650f();if(!_0x349ce0){_0x4d54e7[_0x1eeb1c(0x1d9)]=null,_0x24e023();return;}var _0x5f1ef7=_0x320368(_0x349ce0);if(!_0x5f1ef7){_0x142d61(),_0x24e023();return;}var _0x5548ca=_0x5f1ef7[_0x1eeb1c(0x1e0)][_0x1eeb1c(0x1df)],_0x3b82e6=_0x56cf69(_0x5548ca);if(!_0x3b82e6){_0x4d54e7[_0x1eeb1c(0x1d9)]=null,_0x24e023();return;}var _0x225c01={},_0x258407=[_0x5548ca,_0x349ce0[0x0],_0x349ce0[0x1]];for(var _0x4511dc=0x0;_0x4511dc<_0x3b82e6[_0x1eeb1c(0x12e)][_0x1eeb1c(0x1ac)];_0x4511dc+=0x1){var _0x242df1=_0x3b82e6[_0x1eeb1c(0x12e)][_0x4511dc][_0x1eeb1c(0x1d9)];_0x225c01[_0x242df1]=_0x5f1ef7[_0x1eeb1c(0x1e0)][_0x242df1]||null,_0x258407[_0x1eeb1c(0x143)](_0x242df1+':'+(_0x225c01[_0x242df1]||''));}var _0x448a5f=_0x258407[_0x1eeb1c(0x18b)]('|');_0x3f05d2[_0x1eeb1c(0x1a6)]=_0x5548ca,_0x3f05d2[_0x1eeb1c(0x17e)]=_0x225c01[_0x3b82e6[_0x1eeb1c(0x12e)][0x0][_0x1eeb1c(0x1d9)]]||null,_0x3f05d2[_0x1eeb1c(0x17c)]=_0x225c01;var _0x3638c4=document[_0x1eeb1c(0x167)](_0x4d582d);if(_0x3638c4&&_0x3638c4[_0x1eeb1c(0x172)](_0x1eeb1c(0x193))===_0x448a5f&&_0x3638c4[_0x1eeb1c(0x17d)])return;_0x24e023();var _0x25c56b=_0x34e5ac(_0x3b82e6,_0x225c01);_0x25c56b[_0x1eeb1c(0x16d)](_0x1eeb1c(0x193),_0x448a5f);var _0x2a158c=document[_0x1eeb1c(0x21a)](_0x1eeb1c(0x1d5))||document[_0x1eeb1c(0x21a)](_0x1eeb1c(0x1a0))||document[_0x1eeb1c(0x21a)](_0x1eeb1c(0x181));if(!_0x2a158c)return;_0x2a158c===document[_0x1eeb1c(0x21a)](_0x1eeb1c(0x1d5))?_0x2a158c[_0x1eeb1c(0x17d)][_0x1eeb1c(0x147)](_0x25c56b,_0x2a158c[_0x1eeb1c(0x1b1)]):_0x2a158c[_0x1eeb1c(0x1d6)](_0x25c56b),_0x3f05d2[_0x1eeb1c(0x19b)]=0x1,_0x3f05d2[_0x1eeb1c(0x1be)]+=0x1,_0x46dddb();}catch(_0x1e2754){_0x3f05d2[_0x1eeb1c(0x15a)]=String(_0x1e2754);}}var _0x11d974={};_0x11d974[_0x351d2a(0x1d9)]=null;var _0x4d54e7=_0x11d974,_0x303ade=null,_0x1d03ef=null,_0x54c566=![];function _0x46dddb(){var _0x59d2ff=_0x351d2a;if(!window[_0x59d2ff(0x1da)])return;var _0x1180c2=document[_0x59d2ff(0x21a)](_0x59d2ff(0x1a0))||document[_0x59d2ff(0x21a)](_0x59d2ff(0x1d5));if(!_0x1180c2)return;if(_0x303ade===_0x1180c2&&_0x1d03ef)return;try{if(_0x1d03ef)_0x1d03ef[_0x59d2ff(0x201)]();_0x303ade=_0x1180c2,_0x1d03ef=new MutationObserver(function(){var _0x21147f=_0x59d2ff;if(_0x54c566)return;if(document[_0x21147f(0x167)](_0x4d582d))return;_0x54c566=!![];try{_0x2fd0a6(),_0x3f05d2[_0x21147f(0x141)]+=0x1;}catch(_0x35c9ae){_0x3f05d2[_0x21147f(0x15a)]=String(_0x35c9ae);}_0x54c566=![];});var _0x42501b={};_0x42501b[_0x59d2ff(0x136)]=!![],_0x42501b[_0x59d2ff(0x140)]=!![],_0x1d03ef[_0x59d2ff(0x13a)](_0x1180c2,_0x42501b);}catch(_0x4b2c2a){_0x3f05d2[_0x59d2ff(0x15a)]=String(_0x4b2c2a);}}function _0x3c95f9(_0x3862a7,_0x260e88){var _0x3320a4=_0x351d2a;if(!/^#[0-9a-fA-F]{6}$/[_0x3320a4(0x1ef)](_0x260e88))return;var _0x24a1cc=_0x5e650f();if(!_0x24a1cc)return;_0x3f05d2[_0x3320a4(0x1bb)]+=0x1,_0x4d54e7[_0x3320a4(0x1d9)]=_0x3320a4(0x19e);var _0x32de75={};_0x32de75[_0x3320a4(0x134)]=_0x3320a4(0x18e),fetch(_0x6a9cf9(_0x3320a4(0x191)),_0x32de75)[_0x3320a4(0x153)](function(_0x424682){var _0x31e991=_0x3320a4;if(!_0x424682['ok'])throw new Error(_0x31e991(0x1b8)+_0x424682[_0x31e991(0x144)]);return _0x424682[_0x31e991(0x1a7)]();})[_0x3320a4(0x153)](function(_0x54ad33){var _0x52a187=_0x3320a4,_0xf41a5e=_0x54ad33&&(_0x54ad33[_0x52a187(0x163)]||_0x54ad33);if(!_0xf41a5e||!_0xf41a5e[_0x52a187(0x150)])throw new Error(_0x52a187(0x19d));var _0x76f9b3=null;_0xf41a5e[_0x52a187(0x150)][_0x52a187(0x1bf)](function(_0x14e0f9){var _0x4e38ad=_0x52a187;(_0x14e0f9[_0x4e38ad(0x1af)]||[])[_0x4e38ad(0x1bf)](function(_0xc76253){var _0x190fd4=_0x4e38ad;if(_0x76f9b3||!_0xc76253||!_0xc76253[_0x190fd4(0x161)])return;Math[_0x190fd4(0x183)](Number(_0xc76253[_0x190fd4(0x161)][0x0])-_0x24a1cc[0x0])<0.01&&Math[_0x190fd4(0x183)](Number(_0xc76253[_0x190fd4(0x161)][0x1])-_0x24a1cc[0x1])<0.01&&(_0x76f9b3=_0xc76253);});});if(!_0x76f9b3)throw new Error(_0x52a187(0x1dc));_0x76f9b3[_0x3862a7]=_0x260e88[_0x52a187(0x210)]();var _0x292fa0={};return _0x292fa0[_0x52a187(0x165)]=_0x52a187(0x1b0),fetch(_0x6a9cf9(_0x52a187(0x1b3)+_0xf41a5e['id']),{'method':_0x52a187(0x19a),'headers':_0x292fa0,'credentials':_0x52a187(0x18e),'body':JSON[_0x52a187(0x178)](_0xf41a5e)});})[_0x3320a4(0x153)](function(_0x49cdfc){var _0x201f5e=_0x3320a4;if(!_0x49cdfc['ok'])throw new Error(_0x201f5e(0x19c)+_0x49cdfc[_0x201f5e(0x144)]);_0x3f05d2[_0x201f5e(0x162)]+=0x1,_0x3f05d2[_0x201f5e(0x17e)]=_0x260e88[_0x201f5e(0x210)](),_0x3f05d2[_0x201f5e(0x209)]=_0x3862a7,_0x4156ea(_0x201f5e(0x13d),_0x3862a7,_0x260e88);var _0x55b399=_0x4c3b31();if(_0x55b399)_0x55b399[_0x201f5e(0x1f7)]();else _0x142d61();_0x4d54e7[_0x201f5e(0x1d9)]=null,window[_0x201f5e(0x148)](_0x2fd0a6,0x78);})[_0x3320a4(0x214)](function(_0xd88b2d){var _0x3ed6e3=_0x3320a4;_0x3f05d2[_0x3ed6e3(0x15a)]=String(_0xd88b2d),_0x4156ea(_0x3ed6e3(0x13f),_0xd88b2d),_0x4d54e7[_0x3ed6e3(0x1d9)]=null,window[_0x3ed6e3(0x148)](_0x2fd0a6,0x78);});}function _0x1b17c0(){var _0xde9e91=_0x351d2a,_0x165b8b=_0x4c3b31();if(_0x165b8b)_0x165b8b[_0xde9e91(0x1cc)](_0x5dd4a8);_0x142d61();var _0x2c0413=0x0;window[_0xde9e91(0x1a2)](function(){_0x2c0413+=0x1;if(_0x2c0413%0x1e===0x0)_0x142d61();_0x2fd0a6();},_0x1fd6bc);}document[_0x351d2a(0x13c)]===_0x351d2a(0x16a)?document[_0x351d2a(0x1d3)](_0x351d2a(0x1ab),_0x1b17c0):_0x1b17c0();}()));
+/*
+ * Surface colour picker for custom appliance models (运行时补丁).
+ *
+ * WHAT IT DOES
+ *   Injects a "表面颜色" swatch row into the floor-plan editor's inspector
+ *   panel whenever the selected furniture record belongs to one of our custom
+ *   appliance models (fridge / washer / dining set). Picking a swatch writes
+ *   `surfaceColor` onto the record and PUTs the project, which broadcasts
+ *   `project.updated`; the 3D patches pick up the new value and rebuild the
+ *   model with that colour. No page reload, no rebuild step.
+ *
+ * WHY A SEPARATE PATCH
+ *   The picker is model-agnostic: it only needs to know which `modelId`s are
+ *   recolourable and what to show as the swatch list. Keeping it in one file
+ *   means adding a new model does not duplicate the whole inspector plumbing.
+ *
+ * WHY THE COLOUR LIVES ON THE RECORD
+ *   Anything the SPA itself does not know about must survive
+ *   `normalize_furniture` in schema.py, which rebuilds the record field by
+ *   field and silently drops unknown keys. `surfaceColor` is therefore
+ *   whitelisted there (validated as #rrggbb). Storing it client-side only
+ *   (localStorage) would not follow the furniture item around and would be
+ *   lost on another browser.
+ *
+ * HOW THE INJECTION SURVIVES REACT
+ *   The inspector is React managed: it re-renders on every selection change and
+ *   wipes foreign nodes. A MutationObserver on the panel re-inserts the row as
+ *   soon as it disappears (microtask level), with the poll as a backstop.
+ *
+ * Debug: window.ha3dColorLibDebug
+ */
+(function () {
+  "use strict";
+
+  var VERSION = 2;
+
+  /* One entry per recolorable model; `fields` lists every record key that model
+   * exposes to the user. A model with more than one field shows one swatch row
+   * per field, so a round table can offer "桌面颜色" and "餐椅颜色" separately
+   * (the table record owns the six chairs it renders — see
+   * furniture-dining-table.js).
+   *
+   * Each field:
+   *   key      record key the swatch writes (#rrggbb, whitelisted in schema.py)
+   *   label    what the inspector shows above the swatches
+   *   presets  swatch palette
+   *   fallback swatch shown as "current" when the record has no value yet
+   */
+  var SURFACE_PRESETS = ["#cfd3d7", "#b9bec4", "#8f9499", "#4b5055", "#2b2f33", "#e8e4dc"];
+  var UPHOLSTERY_PRESETS = ["#7b5638", "#4a3728", "#a8825e", "#2f3439", "#6d7b8a", "#d8cfc2"];
+
+  var TARGETS = [
+    {
+      modelId: "appliance.fridge",
+      label: "冰箱",
+      fields: [{ key: "surfaceColor", label: "表面颜色", presets: SURFACE_PRESETS, fallback: SURFACE_PRESETS[0] }],
+    },
+    {
+      modelId: "appliance.washer",
+      label: "洗衣机",
+      fields: [
+        {
+          key: "surfaceColor",
+          label: "表面颜色",
+          presets: ["#dcdfe3", "#c2c7cc", "#8e949a", "#4c5257", "#22262b", "#eef0f1"],
+          fallback: "#dcdfe3",
+        },
+      ],
+    },
+    {
+      /* Table top and the chairs that belong to it are separate options: the
+       * six chairs are part of the table model, so their colour cannot be set
+       * from a chair record. */
+      modelId: "furniture.dining_round_table",
+      label: "餐桌",
+      fields: [
+        {
+          key: "surfaceColor",
+          label: "桌面颜色",
+          presets: ["#f3f1ec", "#23262a", "#7b5638", "#5a6270", "#c9c2b4", "#3a3f47"],
+          fallback: "#f3f1ec",
+        },
+        { key: "chairColor", label: "餐椅颜色", presets: UPHOLSTERY_PRESETS, fallback: "#7b5638" },
+      ],
+    },
+    {
+      modelId: "furniture.dining_chair",
+      label: "餐椅",
+      fields: [{ key: "surfaceColor", label: "表面颜色", presets: UPHOLSTERY_PRESETS, fallback: "#7b5638" }],
+    },
+    {
+      /* 布艺沙发：色板 = 布艺软垫（坐垫/靠背/扶手/拉点），木框架保持胡桃木。 */
+      modelId: "furniture.fabric_sofa",
+      label: "沙发",
+      fields: [{ key: "surfaceColor", label: "面料颜色", presets: UPHOLSTERY_PRESETS, fallback: "#d8cfc2" }],
+    },
+    {
+      /* 子母茶几：两张岩板台面各自独立配置颜色；桌腿与落地圆环
+       * 永远是黑金属，不随色板变化。 */
+      modelId: "furniture.nested_coffee_tables",
+      label: "子母茶几",
+      fields: [
+        {
+          key: "surfaceColor",
+          label: "大茶几台面",
+          presets: ["#f2f0ea", "#23262a", "#c9c2b4", "#5a6270", "#8a6442", "#3a3f47"],
+          fallback: "#f2f0ea",
+        },
+        {
+          key: "smallTopColor",
+          label: "小茶几台面",
+          presets: ["#1e2124", "#f2f0ea", "#3a3f47", "#5a6270", "#8a6442", "#c9c2b4"],
+          fallback: "#1e2124",
+        },
+      ],
+    },
+    {
+      /* 定制餐边柜：奶白门板与浅木柜体各自独立配置；
+       * 黑框与玻璃固定，不随色板变化。 */
+      modelId: "furniture.sideboard",
+      label: "餐边柜",
+      fields: [
+        {
+          key: "doorColor",
+          label: "门板颜色",
+          presets: ["#ede7da", "#f4efe4", "#d9d2c2", "#cfc6b4", "#b8ada0", "#8a8177"],
+          fallback: "#ede7da",
+        },
+        {
+          key: "cabinetColor",
+          label: "柜体颜色",
+          presets: ["#c9a87c", "#d6bd97", "#b08d5e", "#9a7a50", "#7b6242", "#5c4433"],
+          fallback: "#c9a87c",
+        },
+      ],
+    },
+    {
+      /* 百合竹盆栽：只开放花盆基色（默认白底黑纹大理石的白）；
+       * 黑纹、金福字贴纸、浅木枝干与鲜绿叶片固定不随色板变化。 */
+      modelId: "furniture.dragon_tree",
+      label: "百合竹盆栽",
+      fields: [
+        {
+          key: "potColor",
+          label: "花盆颜色",
+          presets: ["#f2efe9", "#e3ddd2", "#c9c4ba", "#9aa5a1", "#b46a55", "#3f6f5a"],
+          fallback: "#f2efe9",
+        },
+      ],
+    },
+  ];
+
+  var ROW_CLASS = "ha3d-color-row";
+  var ROW_ID = "ha3d-color-picker";
+  var POLL_MS = 500;
+
+  var stats = {
+    version: VERSION,
+    polls: 0,
+    injected: 0,
+    injections: 0,
+    reinjections: 0,
+    picks: 0,
+    saves: 0,
+    selectedModelId: null,
+    currentColor: null,
+    lastError: null,
+  };
+  window.ha3dColorLibDebug = stats;
+
+  function log() {
+    if (!window.HA3D_COLOR_DEBUG) return;
+    try {
+      console.log.apply(console, ["[3d-home color]"].concat(Array.prototype.slice.call(arguments)));
+    } catch (e) {
+      /* ignore */
+    }
+  }
+
+  function apiUrl(path) {
+    var parts = window.location.pathname.split("/").filter(Boolean);
+    if (parts.length >= 2 && parts[0] === "api") return "/" + parts[0] + "/" + parts[1] + path;
+    return "." + path;
+  }
+
+  function targetFor(modelId) {
+    for (var i = 0; i < TARGETS.length; i += 1) {
+      if (TARGETS[i].modelId === modelId) return TARGETS[i];
+    }
+    return null;
+  }
+
+  /* ---------------------------------------------------- record lookup */
+  /* The selected item is identified by the SELECTED footprint on the canvas:
+   * its <g class="plan-furniture"> translate equals item.position, so the
+   * record can be found without relying on any size (which the editor lets the
+   * user change). */
+  var project = null;
+
+  function planGroupTransform(g) {
+    var t = g && g.getAttribute ? g.getAttribute("transform") : null;
+    if (!t) return null;
+    var m = /translate\(\s*([-\d.eE+]+)[\s,]+([-\d.eE+]+)\s*\)/.exec(t);
+    if (!m) return null;
+    var x = parseFloat(m[1]);
+    var z = parseFloat(m[2]);
+    if (!isFinite(x) || !isFinite(z)) return null;
+    return [x, z];
+  }
+
+  function selectedPlanPosition() {
+    var svg = document.querySelector("svg.floorplan-canvas");
+    if (!svg) return null;
+    var groups = svg.querySelectorAll("g.plan-furniture");
+    for (var i = 0; i < groups.length; i += 1) {
+      if (groups[i].querySelector("rect.furniture-footprint.selected")) {
+        return planGroupTransform(groups[i]);
+      }
+    }
+    return null;
+  }
+
+  function findRecordAt(pos) {
+    if (!project || !project.floors || !pos) return null;
+    var tol = 0.01;
+    for (var f = 0; f < project.floors.length; f += 1) {
+      var items = project.floors[f].furniture || [];
+      for (var i = 0; i < items.length; i += 1) {
+        var it = items[i];
+        if (!it || !it.position) continue;
+        if (Math.abs(Number(it.position[0]) - pos[0]) < tol && Math.abs(Number(it.position[1]) - pos[1]) < tol) {
+          return { item: it, floor: project.floors[f] };
+        }
+      }
+    }
+    return null;
+  }
+
+  function applyProject(p) {
+    if (p && p.floors) project = p;
+  }
+
+  function snapshot() {
+    return window.ha3dProjectSnapshot || null;
+  }
+
+  /* 走共享快照：多个补丁不再各拉一份完整项目（§6.1 性能预算）。 */
+  function loadProject() {
+    var snap = snapshot();
+    if (snap) {
+      snap.request();
+      return;
+    }
+    fetch(apiUrl("/api/projects/current"), { credentials: "same-origin" })
+      .then(function (res) {
+        return res.ok ? res.json() : null;
+      })
+      .then(function (res) {
+        applyProject(res && (res.project || res));
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+      });
+  }
+
+  /* ------------------------------------------------------------ the UI */
+  /* One field = one labelled swatch row. A target with several fields (the
+   * round table: top + chairs) renders a titled block with a row per field, so
+   * the two colours can be set independently. Inline styles only: the markup
+   * lives inside React-owned containers and a stylesheet rule could be scoped
+   * away by the SPA's CSS. */
+  function buildFieldRow(field, currentColor) {
+    var wrap = document.createElement("div");
+    wrap.setAttribute("data-field", field.key);
+    wrap.style.cssText = "display:flex;flex-direction:column;gap:8px;";
+
+    var head = document.createElement("div");
+    head.style.cssText =
+      "display:flex;align-items:center;justify-content:space-between;gap:8px;" +
+      "font-size:12px;letter-spacing:0.02em;opacity:0.85;";
+    var title = document.createElement("span");
+    title.textContent = field.label;
+    var value = document.createElement("span");
+    value.textContent = String(currentColor || field.fallback || "").toUpperCase();
+    value.style.cssText = "font-variant-numeric:tabular-nums;opacity:0.7;";
+    head.appendChild(title);
+    head.appendChild(value);
+    wrap.appendChild(head);
+
+    var swatches = document.createElement("div");
+    swatches.style.cssText = "display:flex;flex-wrap:wrap;gap:8px;align-items:center;";
+
+    var active = (currentColor || "").toLowerCase();
+    function applyActive(hex) {
+      var buttons = swatches.querySelectorAll("button[data-color]");
+      for (var i = 0; i < buttons.length; i += 1) {
+        var on = buttons[i].getAttribute("data-color").toLowerCase() === hex.toLowerCase();
+        buttons[i].setAttribute("aria-pressed", on ? "true" : "false");
+        buttons[i].style.border = "2px solid " + (on ? "rgba(64,158,255,0.95)" : "rgba(127,127,127,0.45)");
+        buttons[i].style.boxShadow = on ? "0 0 0 2px rgba(64,158,255,0.28)" : "none";
+      }
+    }
+
+    field.presets.forEach(function (hex) {
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.title = hex.toUpperCase();
+      btn.setAttribute("data-color", hex);
+      btn.setAttribute("aria-label", field.label + " " + hex.toUpperCase());
+      var isActive = active === hex.toLowerCase();
+      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+      btn.style.cssText =
+        "width:26px;height:26px;padding:0;border-radius:50%;cursor:pointer;" +
+        "background:" + hex + ";" +
+        "border:2px solid " + (isActive ? "rgba(64,158,255,0.95)" : "rgba(127,127,127,0.45)") + ";" +
+        "box-shadow:" + (isActive ? "0 0 0 2px rgba(64,158,255,0.28)" : "none") + ";" +
+        "transition:transform 120ms ease;";
+      btn.addEventListener("mouseenter", function () {
+        btn.style.transform = "scale(1.08)";
+      });
+      btn.addEventListener("mouseleave", function () {
+        btn.style.transform = "scale(1)";
+      });
+      // stopPropagation: a click here must not be mistaken for a canvas or
+      // inspector interaction that would change the selection.
+      btn.addEventListener("click", function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        pickColor(field.key, hex);
+        applyActive(hex);
+        value.textContent = hex.toUpperCase();
+      });
+      swatches.appendChild(btn);
+    });
+
+    /* Native colour input for anything outside the presets. */
+    var custom = document.createElement("input");
+    custom.type = "color";
+    custom.setAttribute("aria-label", field.label + " 自定义颜色");
+    custom.value = currentColor || field.fallback || "#ffffff";
+    custom.style.cssText =
+      "width:30px;height:26px;padding:0;border:none;border-radius:6px;cursor:pointer;background:transparent;";
+    custom.addEventListener("input", function (e) {
+      e.stopPropagation();
+      value.textContent = String(custom.value || "").toUpperCase();
+    });
+    custom.addEventListener("change", function (e) {
+      e.stopPropagation();
+      pickColor(field.key, custom.value);
+      applyActive(custom.value);
+    });
+    custom.addEventListener("click", function (e) {
+      e.stopPropagation();
+    });
+    swatches.appendChild(custom);
+    wrap.appendChild(swatches);
+    return wrap;
+  }
+
+  function buildBlock(target, values) {
+    var block = document.createElement("div");
+    block.id = ROW_ID;
+    block.className = ROW_CLASS;
+    block.setAttribute("data-model", target.modelId);
+    block.style.cssText =
+      "display:flex;flex-direction:column;gap:10px;padding:12px;margin:10px 0;" +
+      "border:1px solid rgba(127,127,127,0.28);border-radius:10px;" +
+      "background:rgba(127,127,127,0.06);";
+
+    if (target.fields.length > 1) {
+      var heading = document.createElement("div");
+      heading.textContent = "颜色";
+      heading.style.cssText = "font-size:12px;font-weight:600;opacity:0.9;";
+      block.appendChild(heading);
+    }
+
+    for (var i = 0; i < target.fields.length; i += 1) {
+      var field = target.fields[i];
+      block.appendChild(buildFieldRow(field, values[field.key] || null));
+    }
+    return block;
+  }
+
+  function removeRow() {
+    var existing = document.getElementById(ROW_ID);
+    if (existing && existing.parentNode) existing.parentNode.removeChild(existing);
+  }
+
+  /* Insert the row into the inspector, right after the summary card so it
+   * reads as a normal inspector section (not a floating overlay). */
+  function ensureRow() {
+    stats.polls += 1;
+    try {
+      var pos = selectedPlanPosition();
+      if (!pos) {
+        state.key = null;
+        removeRow();
+        return;
+      }
+      var found = findRecordAt(pos);
+      if (!found) {
+        // The project copy may be stale (first paint, or a record just added).
+        loadProject();
+        removeRow();
+        return;
+      }
+      var modelId = found.item.modelId;
+      var target = targetFor(modelId);
+      if (!target) {
+        state.key = null;
+        removeRow();
+        return;
+      }
+
+      /* Every field's value is part of the rebuild key, so changing the chair
+       * colour rebuilds the block with the top colour still highlighted (and
+       * vice versa) instead of resetting the other row. */
+      var values = {};
+      var keyParts = [modelId, pos[0], pos[1]];
+      for (var fi = 0; fi < target.fields.length; fi += 1) {
+        var fk = target.fields[fi].key;
+        values[fk] = found.item[fk] || null;
+        keyParts.push(fk + ":" + (values[fk] || ""));
+      }
+      var key = keyParts.join("|");
+      stats.selectedModelId = modelId;
+      stats.currentColor = values[target.fields[0].key] || null;
+      stats.currentValues = values;
+
+      var existing = document.getElementById(ROW_ID);
+      if (existing && existing.getAttribute("data-key") === key && existing.parentNode) return;
+
+      removeRow();
+      var row = buildBlock(target, values);
+      row.setAttribute("data-key", key);
+
+      var host =
+        document.querySelector(".selection-summary-card") ||
+        document.querySelector(".inspector-panel") ||
+        document.querySelector(".inspector-title");
+      if (!host) return;
+      if (host === document.querySelector(".selection-summary-card")) {
+        host.parentNode.insertBefore(row, host.nextSibling);
+      } else {
+        host.appendChild(row);
+      }
+      stats.injected = 1;
+      stats.injections += 1;
+      watchInspector();
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  var state = { key: null };
+
+  /* React wipes the injected row on every re-render of the inspector. */
+  var observedPanel = null;
+  var observer = null;
+  var restoring = false;
+
+  function watchInspector() {
+    if (!window.MutationObserver) return;
+    var panel = document.querySelector(".inspector-panel") || document.querySelector(".selection-summary-card");
+    if (!panel) return;
+    if (observedPanel === panel && observer) return;
+    try {
+      if (observer) observer.disconnect();
+      observedPanel = panel;
+      observer = new MutationObserver(function () {
+        if (restoring) return;
+        if (document.getElementById(ROW_ID)) return;
+        restoring = true;
+        try {
+          ensureRow();
+          stats.reinjections += 1;
+        } catch (err) {
+          stats.lastError = String(err);
+        }
+        restoring = false;
+      });
+      observer.observe(panel, { childList: true, subtree: true });
+    } catch (err) {
+      stats.lastError = String(err);
+    }
+  }
+
+  /* --------------------------------------------------------- persistence */
+  /* `fieldKey` is the RECORD KEY to write (surfaceColor / chairColor / ...).
+   * The row is already repainted optimistically by buildFieldRow's handlers,
+   * and the block is rebuilt from the fresh project after the save lands, so
+   * the other field's swatch ring is never disturbed. */
+  function pickColor(fieldKey, hex) {
+    if (!/^#[0-9a-fA-F]{6}$/.test(hex)) return;
+    var pos = selectedPlanPosition();
+    if (!pos) return;
+    stats.picks += 1;
+    state.key = "pending";
+
+    fetch(apiUrl("/api/projects/current"), { credentials: "same-origin" })
+      .then(function (res) {
+        if (!res.ok) throw new Error("load failed " + res.status);
+        return res.json();
+      })
+      .then(function (res) {
+        var p = res && (res.project || res);
+        if (!p || !p.floors) throw new Error("no project");
+        var hit = null;
+        p.floors.forEach(function (floor) {
+          (floor.furniture || []).forEach(function (it) {
+            if (hit || !it || !it.position) return;
+            if (Math.abs(Number(it.position[0]) - pos[0]) < 0.01 && Math.abs(Number(it.position[1]) - pos[1]) < 0.01) {
+              hit = it;
+            }
+          });
+        });
+        if (!hit) throw new Error("record not found");
+        hit[fieldKey] = hex.toLowerCase();
+        return fetch(apiUrl("/api/projects/" + p.id), {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          credentials: "same-origin",
+          body: JSON.stringify(p),
+        });
+      })
+      .then(function (res) {
+        if (!res.ok) throw new Error("save failed " + res.status);
+        stats.saves += 1;
+        stats.currentColor = hex.toLowerCase();
+        stats.lastSavedField = fieldKey;
+        log("colour saved", fieldKey, hex);
+        // 写操作后必须强制拉新：共享快照里还是保存前的旧数据
+        var snapAfter = snapshot();
+        if (snapAfter) snapAfter.refresh();
+        else loadProject();
+        state.key = null; // force a rebuild of the row with the new state
+        window.setTimeout(ensureRow, 120);
+      })
+      .catch(function (err) {
+        stats.lastError = String(err);
+        log("colour save failed", err);
+        state.key = null;
+        window.setTimeout(ensureRow, 120);
+      });
+  }
+
+  /* ------------------------------------------------------------- boot */
+  function start() {
+    // 订阅共享快照：有缓存时立即回调一次，之后每次刷新都会再次回调
+    var snap = snapshot();
+    if (snap) snap.subscribe(applyProject);
+    loadProject();
+    // The inspector only exists in the editor view; keep polling defensively
+    // because switching floors / views rebuilds it.
+    var tick = 0;
+    window.setInterval(function () {
+      tick += 1;
+      // 共享层自带节流与在途合并，这里只做低成本触发
+      if (tick % 30 === 0) loadProject();
+      ensureRow();
+    }, POLL_MS);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
+})();

@@ -1,7 +1,7 @@
 {
   "domain": "evinchan_ha_3d_home",
   "name": "Evinchan HA 3D Home",
-  "version": "1.9.8",
+  "version": "1.9.9",
   "config_flow": true,
   "documentation": "https://gitee.com/evinchan/evinchan-ha-3d-home-integration",
   "issue_tracker": "https://gitee.com/evinchan/evinchan-ha-3d-home-integration/issues",

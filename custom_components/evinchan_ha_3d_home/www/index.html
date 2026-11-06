@@ -27,23 +27,26 @@
     <!-- 场景自动旋转时补丁模型漂移修复：必须在所有 3D 补丁之前加载，
          3D 补丁的 adoptStockTransform 会读 window.ha3dSceneRotation -->
     <script src="./scene-origin-fix.js?v=3"></script>
-    <script src="./appliance-fridge.js?v=28"></script>
+    <script src="./appliance-fridge.js?v=29"></script>
     <script src="./furniture-library-fridge.js?v=27"></script>
-    <script src="./furniture-dining-table.js?v=18"></script>
+    <script src="./furniture-dining-table.js?v=20"></script>
     <script src="./furniture-library-dining.js?v=7"></script>
-    <script src="./appliance-washer.js?v=13"></script>
+    <script src="./appliance-washer.js?v=14"></script>
     <script src="./furniture-library-washer.js?v=7"></script>
-    <script src="./furniture-sofa.js?v=10"></script>
+    <script src="./furniture-sofa.js?v=11"></script>
     <script src="./furniture-library-sofa.js?v=7"></script>
-    <script src="./furniture-nested-coffee-table.js?v=11"></script>
+    <script src="./furniture-nested-coffee-table.js?v=12"></script>
     <script src="./furniture-library-nested-coffee-table.js?v=7"></script>
-    <script src="./furniture-sideboard.js?v=7"></script>
+    <script src="./furniture-sideboard.js?v=8"></script>
     <script src="./furniture-library-sideboard.js?v=1"></script>
-    <script src="./furniture-dragon-tree.js?v=18"></script>
+    <script src="./furniture-dragon-tree.js?v=19"></script>
     <script src="./furniture-library-dragon-tree.js?v=1"></script>
+    <!-- 落地电视柜：载体 kind tv_stand（原生 label 已是「电视柜」），纯家具路径 -->
+    <script src="./furniture-tv-stand.js?v=4"></script>
+    <script src="./furniture-library-tv-stand.js?v=1"></script>
     <!-- 75 英寸电视：替换 SPA 原生 media_player.tv 设备模型（设备列表 / 设备卡片页沿用原生流程） -->
-    <script src="./appliance-tv-75.js?v=5"></script>
-    <script src="./inspector-surface-color.js?v=7"></script>
+    <script src="./appliance-tv-75.js?v=7"></script>
+    <script src="./inspector-surface-color.js?v=8"></script>
     <!-- 地面（楼板）着色：白天 #7784a8 / 夜晚 #1f2447。依赖上面的补丁发布
          window.__ha3dCapturedScene，故放在所有 3D 补丁之后。 -->
     <script src="./ground-tint.js?v=59"></script>

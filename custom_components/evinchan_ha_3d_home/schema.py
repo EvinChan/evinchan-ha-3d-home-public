@@ -279,6 +279,15 @@ def normalize_furniture(value: Any, floor_id: str) -> dict:
         # doors and the light-wood carcase are configured separately.
         **({"doorColor": _color(source.get("doorColor"))} if _color(source.get("doorColor")) else {}),
         **({"cabinetColor": _color(source.get("cabinetColor"))} if _color(source.get("cabinetColor")) else {}),
+        # `cabinetBodyColor` is the custom TV stand's carcase colour
+        # (furniture-tv-stand.js): it paints EVERY part except the five door
+        # fronts -- side panels, the two vertical frame boards (the inner
+        # walls of the open niches), centre divider, back panel, cabinet
+        # bottom, niche shelf, both drawer boxes, the top slab and the
+        # plinth. `doorColor` covers only the left door, the two drawer
+        # fronts and the two right doors.
+        **({"cabinetBodyColor": _color(source.get("cabinetBodyColor"))}
+           if _color(source.get("cabinetBodyColor")) else {}),
         # `potColor` is the marble planter base colour of the potted dracaena
         # (furniture-dragon-tree.js); the black veins, gold 福 sticker, canes
         # and foliage stay fixed regardless of it.

@@ -115,6 +115,25 @@ def _color(value: Any) -> str | None:
     return text.lower() if _HEX_COLOR.match(text) else None
 
 
+def _tv_glow_fields(device: Any) -> dict:
+    """Whitelist the 75\" TV's glow tuning fields on a *device* record.
+
+    Only `modelId == media_player.tv` gets them: other device models must keep
+    their exact record shape. ``glowColor`` is an ``#rrggbb`` string,
+    ``glowIntensity`` is clamped to 0..1.5. Both are optional — an old project
+    without them is byte-for-byte unchanged after a normalise round-trip.
+    """
+    if not isinstance(device, dict) or device.get("modelId") != "media_player.tv":
+        return {}
+    out: dict = {}
+    color = _color(device.get("glowColor"))
+    if color:
+        out["glowColor"] = color
+    if "glowIntensity" in device:
+        out["glowIntensity"] = _finite(device.get("glowIntensity"), 0.75, 0, 1.5)
+    return out
+
+
 # User-tunable vertical nudge for a custom model, in metres. Small by design:
 # it compensates a few millimetres of rendering drift, not to relocate a model.
 _LIFT_OFF_LIMIT = 0.1
@@ -330,6 +349,7 @@ def normalize_floorplan_project(value: Any) -> dict:
                 "icon": d.get("icon") if isinstance(d.get("icon"), str) and d["icon"] else None,
                 "lightStrip": None,
                 "controlledLightFixtures": None,
+                **_tv_glow_fields(d),
             }
             for di, d in enumerate(floor.get("devices", []) if isinstance(floor.get("devices"), list) else [])
             if isinstance(d.get("entityId"), str) and d["entityId"].strip()

@@ -1,4 +1,4 @@
-import{r as B0,a as Le,g as Sw}from"./react-BvuTDSTB.js";import"./hls-CWrIGcEr.js";var hv={exports:{}},Sh={};/**
+import{r as B0,a as Le,g as Sw}from"./react-BvuTDSTB.js";if(!window.__ha3dSkipHls)import("./hls-CWrIGcEr.js").catch(function(){});var hv={exports:{}},Sh={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *

@@ -7,8 +7,8 @@
     <title>HA 3D Home</title>
     <!-- 授权守卫：必须最先加载；其它补丁可读 window.ha3dLicenseGuard 决定是否启用高级功能 -->
     <script src="./license-guard.js?v=1"></script>
-    <script src="./perf-tune.js?v=6"></script>
-    <script src="./live-state-fast.js"></script>
+    <script src="./perf-tune.js?v=13"></script>
+    <script src="./live-state-fast.js?v=2"></script>
     <script src="./number-input-fix.js"></script>
     <script src="./view-orbit-fix.js"></script>
     <script src="./room-panel.js"></script>
@@ -53,8 +53,14 @@
     <script src="./voice-disable.js"></script>
     <script type="module" crossorigin src="./assets/index-D4mP-uq0.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/react-BvuTDSTB.js">
-    <!-- hls (525KB video player) is not used by the 3D panel; dropped from
-         preload so it only loads on-demand if the SPA ever imports it. -->
+    <!-- hls.js (525 KB) is NOT preloaded here. It used to be pulled on every
+         first paint anyway: 4 emitted chunks had a static side-effect import
+         and two __vite__mapDeps tables listed it for modulepreload. P2-B patches
+         those 6 sites (see sandbox/apply-hls-lazy.mjs --check): on weak devices
+         perf-tune.js sets window.__ha3dSkipHls, so the library is skipped until
+         AppSelect's real `await import("./hls-CWrIGcEr.js")` (HLS camera stream)
+         needs it. ?perf-hls=1 restores the original eager behaviour.
+         Re-run apply-hls-lazy.mjs after any SPA rebuild. -->
     <link rel="modulepreload" crossorigin href="./assets/three-DWA6IWsx.js">
     <link rel="stylesheet" crossorigin href="./assets/index-BRJrgFDd.css">
     <!-- 场景配色配置（唯一调色入口）：ui-theme.css 与 ground-tint.js 都从这里读 -->

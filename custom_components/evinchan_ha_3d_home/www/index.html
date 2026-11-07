@@ -34,7 +34,7 @@
     <script src="./appliance-washer.js?v=14"></script>
     <script src="./furniture-library-washer.js?v=7"></script>
     <script src="./furniture-sofa.js?v=11"></script>
-    <script src="./furniture-library-sofa.js?v=7"></script>
+    <script src="./furniture-library-sofa.js?v=10"></script>
     <script src="./furniture-nested-coffee-table.js?v=12"></script>
     <script src="./furniture-library-nested-coffee-table.js?v=7"></script>
     <script src="./furniture-sideboard.js?v=8"></script>
@@ -49,6 +49,18 @@
     <script src="./furniture-library-shoe-cabinet.js?v=1"></script>
     <!-- 75 英寸电视：替换 SPA 原生 media_player.tv 设备模型（设备列表 / 设备卡片页沿用原生流程） -->
     <script src="./appliance-tv-75.js?v=7"></script>
+    <!-- 原生家具库按钮隐藏公共引擎：必须先于下面每个 kind 的声明加载 -->
+    <script src="./furniture-library-hide-core.js?v=1"></script>
+    <!-- 只隐藏家具库里 SPA 原生的「沙发」卡片；定制「布艺沙发」卡片与其它按钮不受影响 -->
+    <script src="./furniture-library-hide-sofa.js?v=2"></script>
+    <!-- 只隐藏家具库里 SPA 原生的「餐边柜」卡片；定制「餐边柜」卡片（带 id）与其它按钮不受影响 -->
+    <script src="./furniture-library-hide-sideboard.js?v=2"></script>
+    <!-- 只隐藏家具库里 SPA 原生的「茶几」卡片；定制「子母茶几」卡片（带 id）与其它按钮不受影响 -->
+    <script src="./furniture-library-hide-coffee-table.js?v=2"></script>
+    <!-- 只隐藏家具库里 SPA 原生的「电视柜」卡片；定制「落地电视柜」卡片（带 id）与其它按钮不受影响 -->
+    <script src="./furniture-library-hide-tv-stand.js?v=2"></script>
+    <!-- 只隐藏家具库里 SPA 原生的「餐桌」卡片；定制「圆餐桌 / 餐椅」卡片（带 id）与其它按钮不受影响 -->
+    <script src="./furniture-library-hide-dining-table.js?v=2"></script>
     <script src="./inspector-surface-color.js?v=11"></script>
     <!-- 地面（楼板）着色：白天 #7784a8 / 夜晚 #1f2447。依赖上面的补丁发布
          window.__ha3dCapturedScene，故放在所有 3D 补丁之后。 -->

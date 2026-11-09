@@ -5,87 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23070a14'/%3E%3Cpath d='M16 33 32 19l16 14v15a3 3 0 0 1-3 3H19a3 3 0 0 1-3-3V33Z' fill='none' stroke='%23dce9ff' stroke-width='4' stroke-linejoin='round'/%3E%3Cpath d='M24 51V36h16v15' fill='none' stroke='%23ff6a2f' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E" />
     <title>HA 3D Home</title>
-    <!-- 授权守卫：必须最先加载；其它补丁可读 window.ha3dLicenseGuard 决定是否启用高级功能 -->
+    <!-- 授权守卫：独立 classic script，必须最先加载，且不随 bundle 变化。
+         本地 dev/preview 由 scripts/local-dev.mjs 豁免其反调试探针。 -->
     <script src="./license-guard.js?v=1"></script>
-    <script src="./perf-tune.js?v=13"></script>
-    <script src="./live-state-fast.js?v=2"></script>
-    <script src="./number-input-fix.js"></script>
-    <script src="./view-orbit-fix.js"></script>
-    <script src="./room-panel.js"></script>
-    <script src="./light-fade.js"></script>
-    <script src="./fullscreen-toggle.js"></script>
-    <!-- dock 菜单点击外部自动收起：SPA 在 mode-home 下菜单容器由 .tools-open
-         控制、菜单项却仍走 :hover/:focus-within，点外部会留下"空卡片"。
-         本补丁在 dock 外点击时程序化点一下 toggle 让 React 正常收起。 -->
-    <script src="./dock-outside-close.js"></script>
-    <!-- 共享项目快照：必须最先加载，供所有库补丁 / inspector 复用同一份数据 -->
-    <script src="./project-snapshot.js?v=1"></script>
-    <!-- 放置后自动选中（走 SPA 自身的属性卡片逻辑），库补丁共用 -->
-    <script src="./select-after-place.js?v=2"></script>
-    <!-- 离地高度通用能力：所有自定义模型共用，各 3D 补丁不再各写一份 -->
-    <script src="./model-lift.js?v=1"></script>
-    <!-- 场景自动旋转时补丁模型漂移修复：必须在所有 3D 补丁之前加载，
-         3D 补丁的 adoptStockTransform 会读 window.ha3dSceneRotation -->
-    <script src="./scene-origin-fix.js?v=3"></script>
-    <script src="./appliance-fridge.js?v=29"></script>
-    <script src="./furniture-library-fridge.js?v=27"></script>
-    <script src="./furniture-dining-table.js?v=20"></script>
-    <script src="./furniture-library-dining.js?v=7"></script>
-    <script src="./appliance-washer.js?v=14"></script>
-    <script src="./furniture-library-washer.js?v=7"></script>
-    <script src="./furniture-sofa.js?v=11"></script>
-    <script src="./furniture-library-sofa.js?v=10"></script>
-    <script src="./furniture-nested-coffee-table.js?v=12"></script>
-    <script src="./furniture-library-nested-coffee-table.js?v=7"></script>
-    <script src="./furniture-sideboard.js?v=8"></script>
-    <script src="./furniture-library-sideboard.js?v=1"></script>
-    <script src="./furniture-dragon-tree.js?v=19"></script>
-    <script src="./furniture-library-dragon-tree.js?v=1"></script>
-    <!-- 落地电视柜：载体 kind tv_stand（原生 label 已是「电视柜」），纯家具路径 -->
-    <script src="./furniture-tv-stand.js?v=4"></script>
-    <script src="./furniture-library-tv-stand.js?v=1"></script>
-    <!-- 入户鞋柜：载体 kind shoe_cabinet（SPA 白名单内），纯家具路径，不绑定实体 -->
-    <script src="./furniture-shoe-cabinet.js?v=3"></script>
-    <script src="./furniture-library-shoe-cabinet.js?v=1"></script>
-    <!-- 75 英寸电视：替换 SPA 原生 media_player.tv 设备模型（设备列表 / 设备卡片页沿用原生流程） -->
-    <script src="./appliance-tv-75.js?v=7"></script>
-    <!-- 原生家具库按钮隐藏公共引擎：必须先于下面每个 kind 的声明加载 -->
-    <script src="./furniture-library-hide-core.js?v=1"></script>
-    <!-- 只隐藏家具库里 SPA 原生的「沙发」卡片；定制「布艺沙发」卡片与其它按钮不受影响 -->
-    <script src="./furniture-library-hide-sofa.js?v=2"></script>
-    <!-- 只隐藏家具库里 SPA 原生的「餐边柜」卡片；定制「餐边柜」卡片（带 id）与其它按钮不受影响 -->
-    <script src="./furniture-library-hide-sideboard.js?v=2"></script>
-    <!-- 只隐藏家具库里 SPA 原生的「茶几」卡片；定制「子母茶几」卡片（带 id）与其它按钮不受影响 -->
-    <script src="./furniture-library-hide-coffee-table.js?v=2"></script>
-    <!-- 只隐藏家具库里 SPA 原生的「电视柜」卡片；定制「落地电视柜」卡片（带 id）与其它按钮不受影响 -->
-    <script src="./furniture-library-hide-tv-stand.js?v=2"></script>
-    <!-- 只隐藏家具库里 SPA 原生的「餐桌」卡片；定制「圆餐桌 / 餐椅」卡片（带 id）与其它按钮不受影响 -->
-    <script src="./furniture-library-hide-dining-table.js?v=2"></script>
-    <script src="./inspector-surface-color.js?v=11"></script>
-    <!-- 地面（楼板）着色：白天 #7784a8 / 夜晚 #1f2447。依赖上面的补丁发布
-         window.__ha3dCapturedScene，故放在所有 3D 补丁之后。 -->
-    <script src="./ground-tint.js?v=59"></script>
-    <!-- 离地高度微调：几何精确贴地但渲染仍可能有视觉偏差时的兜底手段 -->
-    <script src="./inspector-model-offset.js?v=2"></script>
-    <!-- 彻底关闭 SPA 内置语音助手：在 module bundle 之前把开关置 false，
-         语音 FAB 及整个语音面板在 React 层不再挂载；dock 里的语音开关由
-         ui-theme.css 隐藏。必须放在 module bundle 之前。 -->
-    <script src="./voice-disable.js"></script>
-    <script type="module" crossorigin src="./assets/index-D4mP-uq0.js"></script>
-    <link rel="modulepreload" crossorigin href="./assets/react-BvuTDSTB.js">
-    <!-- hls.js (525 KB) is NOT preloaded here. It used to be pulled on every
-         first paint anyway: 4 emitted chunks had a static side-effect import
-         and two __vite__mapDeps tables listed it for modulepreload. P2-B patches
-         those 6 sites (see sandbox/apply-hls-lazy.mjs --check): on weak devices
-         perf-tune.js sets window.__ha3dSkipHls, so the library is skipped until
-         AppSelect's real `await import("./hls-CWrIGcEr.js")` (HLS camera stream)
-         needs it. ?perf-hls=1 restores the original eager behaviour.
-         Re-run apply-hls-lazy.mjs after any SPA rebuild. -->
-    <link rel="modulepreload" crossorigin href="./assets/three-DWA6IWsx.js">
-    <link rel="stylesheet" crossorigin href="./assets/index-BRJrgFDd.css">
+    <!-- 其余功能已融入 src/features/，由 /src/entry.js 按依赖顺序导入，
+         不再以 <script> 补丁形式注入（见 scripts/integrate-features.mjs）。 -->
+    <!-- hls.js is an on-demand chunk; the camera feature imports it lazily. -->
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./home-view.css">
     <!-- 场景配色配置（唯一调色入口）：ui-theme.css 与 ground-tint.js 都从这里读 -->
     <link rel="stylesheet" crossorigin href="./scene-colors.css?v=23" />
     <link rel="stylesheet" crossorigin href="./ui-theme.css?v=4" />
+    <script type="module" crossorigin src="./assets/index-B9fnPLgZ.js"></script>
   </head>
   <body>
     <div id="root"></div>

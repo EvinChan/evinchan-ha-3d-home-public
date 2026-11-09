@@ -1,1 +1,359 @@
-function a0_0x3d65(_0x292fb1,_0x26e8e9){_0x292fb1=_0x292fb1-0x113;var _0x41eb17=a0_0x5394();var _0xf58bd=_0x41eb17[_0x292fb1];if(a0_0x3d65['XvHGtX']===undefined){var _0x3c4653=function(_0x2f19c9){var _0x3141c4='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x3270e8='',_0x1d9423='';for(var _0x5f3584=0x0,_0xfccb94,_0x12b3d3,_0xced36=0x0;_0x12b3d3=_0x2f19c9['charAt'](_0xced36++);~_0x12b3d3&&(_0xfccb94=_0x5f3584%0x4?_0xfccb94*0x40+_0x12b3d3:_0x12b3d3,_0x5f3584++%0x4)?_0x3270e8+=String['fromCharCode'](0xff&_0xfccb94>>(-0x2*_0x5f3584&0x6)):0x0){_0x12b3d3=_0x3141c4['indexOf'](_0x12b3d3);}for(var _0x1f8c25=0x0,_0x539bb0=_0x3270e8['length'];_0x1f8c25<_0x539bb0;_0x1f8c25++){_0x1d9423+='%'+('00'+_0x3270e8['charCodeAt'](_0x1f8c25)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1d9423);};a0_0x3d65['NCycUs']=_0x3c4653,a0_0x3d65['xdaDhD']={},a0_0x3d65['XvHGtX']=!![];}var _0x5becd7=_0x41eb17[0x0],_0x5394e4=_0x292fb1+_0x5becd7,_0x3d657e=a0_0x3d65['xdaDhD'][_0x5394e4];return!_0x3d657e?(_0xf58bd=a0_0x3d65['NCycUs'](_0xf58bd),a0_0x3d65['xdaDhD'][_0x5394e4]=_0xf58bd):_0xf58bd=_0x3d657e,_0xf58bd;}function a0_0x5394(){var _0x366954=['zg9JDw1LBNrfBgvTzw50','y29UC29Szq','ntu5oty5mKrfzuH0sq','Dw5YzwfJAgfIBgu','wZnKlwHVBwvDioAJGoA1I+wiSow8GowpKEIaHEw3PEwfT+oaGUACRoMHUEEBRUs4UUs7MoI0UEAoIoADG+I9R+s7TU+8JoIVT+MbTEwUIcbmsunftLnf77YB','yM9KEq','ywjVCNq','CMvHC29U','ue9tva','AxnbCNjHEq','ota2nZq5uK5Yy3H6','CMvHzhLtDgf0zq','ywn0AxzHDguGzMfPBgvKia','C3vIC2nYAwjLCIbMywLSzwq','yxbWBhK','BNvTyMvY','CgvUzgLUzW','AM9PBG','zNvUy3rPB24','C2XPy2u','DgHLBG','AgeZzc1JB21TDw5PDhK','y3jLzgvUDgLHBhm','DMLLDW','mte3ndG5ntfAvKruCva','Aw5KzxHpzG','q29UDgvUDc1uExbL','yMfZAwnFy29UDhjVBa','y29UC3rYDwn0B3i','DgLLCG','l2fWAs9SAwnLBNnL','zxHJzxb0Aw9U','Cgf0Ag5HBwu','nZG0otqWtfvdsvzv','C2LNBMfS','C3rYAw5N','AgLKzgvU','Bg9HzgLUzW','zNjLzxPL','C3vIC2nYAwjL','ywrKrxzLBNrmAxn0zw5LCG','C3bSAwnL','ndCZmtCWotbMwxblDKW','yMLUza','wZnKlwHVBwuGBgLJzw5Zzv0','BgLJzw5ZzsbLBMrWB2LUDca','D2fYBG','ANnVBG','y2fSBa','BM93','C2v0sw50zxj2ywW','Aw50zwDYAxr5ignOzwnRigzHAwXLzcWGzgvNCMfKzwqGDg8Gy29TBxvUAxr5','zxjYB3i','y2f0y2G','Bg9N','seeZrf9msunftLnfx0rfqLvh','BwfJAgLUzuLK','zMvHDhvYzxm','BgLJzw5Zzwq','y29Uy2f0','y2XHC3nmAxn0','zxHWAxjLC0f0','Dg9tDhjPBMC','yxbP','C3rHDhvZ','CMv0DxjUicHMDw5JDgLVBIGPia','DhjHy2u','AgfZrMvHDhvYzq','ywn0AxzHDgvK','zMLSDgvY','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','ywn0AxzHDgu','re9nq29UDgvUDeXVywrLza','m2veu2jnDa','x19WCM90B19F','ChjVDg90ExbL','C3rYAw5NAwz5','oeT3Ahb3zW','yxbWBgLJyxrPB24VANnVBG','zgv2Dg9VBhm','Dg9Nz2XL','AgeZzeXPy2vUC2vhDwfYza','C2v0vgLTzw91Da','AgeZzc1SAwnLBNnLza','ChvZAa','y29TBxvUAxr5','B2jQzwn0','Dw5RBM93BG','C3bSAxq','Aw5MBW','mtKYAMHJDNfo','mJC0nJK0t1juBvjv','A2v5CW','CMvMCMvZAa','5zwg5lIA5l2/55sO6k+36ycA6l+hic9HCgKVBgLJzw5ZzsdMV4dMTlVMJOJMNypJGii','C2fTzs1VCMLNAw4','BgvUz3rO','C3rHDhvZigzLDgnOigzHAwXLza','DgfIBgu','DgfTCgvYzwq','y2XLyxjuAw1LB3v0','Axnby3rPDMf0zwq','zM9YrwfJAa','mtK0mZeWohbrzKvzAG','Bg9JyxrPB24'];a0_0x5394=function(){return _0x366954;};return a0_0x5394();}(function(_0x2b3b42,_0x29da75){var _0x5ea17a=a0_0x3d65,_0x26cacd=_0x2b3b42();while(!![]){try{var _0x21921a=-parseInt(_0x5ea17a(0x125))/0x1+-parseInt(_0x5ea17a(0x119))/0x2*(-parseInt(_0x5ea17a(0x164))/0x3)+-parseInt(_0x5ea17a(0x11d))/0x4+parseInt(_0x5ea17a(0x13c))/0x5+parseInt(_0x5ea17a(0x175))/0x6*(-parseInt(_0x5ea17a(0x176))/0x7)+-parseInt(_0x5ea17a(0x168))/0x8*(parseInt(_0x5ea17a(0x133))/0x9)+parseInt(_0x5ea17a(0x145))/0xa;if(_0x21921a===_0x29da75)break;else _0x26cacd['push'](_0x26cacd['shift']());}catch(_0xb68e34){_0x26cacd['push'](_0x26cacd['shift']());}}}(a0_0x5394,0xf248c),(function(){var _0x4a7a62=a0_0x3d65,_0x539bb0=(function(){var _0x4f3411=!![];return function(_0x4c464a,_0x87c0b){var _0x38e03d=_0x4f3411?function(){var _0x3bb89e=a0_0x3d65;if(_0x87c0b){var _0x2eccc2=_0x87c0b[_0x3bb89e(0x129)](_0x4c464a,arguments);return _0x87c0b=null,_0x2eccc2;}}:function(){};return _0x4f3411=![],_0x38e03d;};}()),_0x3d5a79=_0x539bb0(this,function(){var _0x519f8d=a0_0x3d65,_0x53eac5=function(){var _0xf5f534=a0_0x3d65,_0x84fda6;try{_0x84fda6=Function(_0xf5f534(0x15c)+_0xf5f534(0x161)+');')();}catch(_0x5019b1){_0x84fda6=window;}return _0x84fda6;},_0x105dc8=_0x53eac5(),_0x442d3a=_0x105dc8[_0x519f8d(0x11c)]=_0x105dc8[_0x519f8d(0x11c)]||{},_0x3428d9=[_0x519f8d(0x151),_0x519f8d(0x149),_0x519f8d(0x174),_0x519f8d(0x14f),_0x519f8d(0x13a),_0x519f8d(0x114),_0x519f8d(0x15d)];for(var _0x1daa76=0x0;_0x1daa76<_0x3428d9[_0x519f8d(0x17b)];_0x1daa76++){var _0x6c2431=_0x539bb0[_0x519f8d(0x137)][_0x519f8d(0x166)][_0x519f8d(0x146)](_0x539bb0),_0xa8011=_0x3428d9[_0x1daa76],_0x587c84=_0x442d3a[_0xa8011]||_0x6c2431;_0x6c2431[_0x519f8d(0x165)]=_0x539bb0[_0x519f8d(0x146)](_0x539bb0),_0x6c2431[_0x519f8d(0x159)]=_0x587c84[_0x519f8d(0x159)][_0x519f8d(0x146)](_0x587c84),_0x442d3a[_0xa8011]=_0x6c2431;}});_0x3d5a79();'use strict';if(window[_0x4a7a62(0x16c)])return;var _0x37f94f=0x1770,_0xa0830a=0xea60,_0x190f41=0xfa0;function _0x3aa1f5(){var _0x3e7961=_0x4a7a62;if(window[_0x3e7961(0x152)])try{console[_0x3e7961(0x151)][_0x3e7961(0x129)](console,[_0x3e7961(0x147)][_0x3e7961(0x156)]([][_0x3e7961(0x12e)][_0x3e7961(0x14b)](arguments)));}catch(_0x1ba8a2){}}function _0x152131(){var _0x559087=_0x4a7a62,_0x1104bc=window[_0x559087(0x11a)][_0x559087(0x13b)][_0x559087(0x173)]('/')[_0x559087(0x160)](Boolean);if(_0x1104bc[_0x559087(0x17b)]>=0x2&&_0x1104bc[0x0]===_0x559087(0x15a))return'/'+_0x1104bc[0x0]+'/'+_0x1104bc[0x1];return'';}var _0x2d3fb7={};_0x2d3fb7[_0x4a7a62(0x15f)]=![],_0x2d3fb7[_0x4a7a62(0x138)]=_0x4a7a62(0x170),_0x2d3fb7[_0x4a7a62(0x154)]=[_0x4a7a62(0x136),_0x4a7a62(0x132)],_0x2d3fb7[_0x4a7a62(0x158)]=null,_0x2d3fb7[_0x4a7a62(0x122)]=_0x4a7a62(0x12b),_0x2d3fb7[_0x4a7a62(0x153)]=null,_0x2d3fb7[_0x4a7a62(0x115)]=![],_0x2d3fb7[_0x4a7a62(0x16a)]=![];var _0x5bff22=_0x2d3fb7,_0x361b08=[],_0x46b9b0=0x0,_0x277bef=null;function _0x1ab0cb(){var _0x935860=_0x4a7a62;return{'activated':_0x5bff22[_0x935860(0x15f)],'tier':_0x5bff22[_0x935860(0x138)],'features':_0x5bff22[_0x935860(0x154)][_0x935860(0x12e)](),'expiresAt':_0x5bff22[_0x935860(0x158)],'reason':_0x5bff22[_0x935860(0x122)],'machineId':_0x5bff22[_0x935860(0x153)],'tampered':_0x5bff22[_0x935860(0x115)],'devtools':_0x5bff22[_0x935860(0x16a)]};}function _0x44ef79(){var _0x12e9f5=_0x4a7a62,_0x5be906=_0x1ab0cb();_0x361b08[_0x12e9f5(0x12e)]()[_0x12e9f5(0x118)](function(_0x147f91){var _0x1033b7=_0x12e9f5;try{_0x147f91(_0x5be906);}catch(_0x35fcc4){_0x3aa1f5(_0x1033b7(0x128),_0x35fcc4);}});try{document[_0x12e9f5(0x11b)][_0x12e9f5(0x157)][_0x12e9f5(0x16b)](_0x12e9f5(0x16e),!!_0x5be906[_0x12e9f5(0x15f)]),document[_0x12e9f5(0x120)]&&document[_0x12e9f5(0x120)][_0x12e9f5(0x157)][_0x12e9f5(0x16b)](_0x12e9f5(0x130),!_0x5be906[_0x12e9f5(0x15f)]);}catch(_0x2d7ad4){}}function _0x225fc2(_0x2ea996){var _0x56e20b=_0x4a7a62;if(!_0x2ea996||typeof _0x2ea996!==_0x56e20b(0x171))return;var _0x555062=_0x2ea996[_0x56e20b(0x15f)]===!![]&&_0x2ea996[_0x56e20b(0x138)]===_0x56e20b(0x155),_0x56c9ed=Array[_0x56e20b(0x124)](_0x2ea996[_0x56e20b(0x154)])?_0x2ea996[_0x56e20b(0x154)][_0x56e20b(0x160)](function(_0x585646){var _0x19a759=_0x56e20b;return typeof _0x585646===_0x19a759(0x13e);}):[],_0x31537b=_0x555062!==_0x5bff22[_0x56e20b(0x15f)]||_0x2ea996[_0x56e20b(0x138)]!==_0x5bff22[_0x56e20b(0x138)]||_0x56c9ed[_0x56e20b(0x12c)](',')!==_0x5bff22[_0x56e20b(0x154)][_0x56e20b(0x12c)](',');_0x5bff22[_0x56e20b(0x15f)]=_0x555062,_0x5bff22[_0x56e20b(0x138)]=typeof _0x2ea996[_0x56e20b(0x138)]===_0x56e20b(0x13e)?_0x2ea996[_0x56e20b(0x138)]:_0x56e20b(0x170),_0x5bff22[_0x56e20b(0x154)]=_0x56c9ed,_0x5bff22[_0x56e20b(0x158)]=typeof _0x2ea996[_0x56e20b(0x158)]===_0x56e20b(0x12a)?_0x2ea996[_0x56e20b(0x158)]:null,_0x5bff22[_0x56e20b(0x122)]=typeof _0x2ea996[_0x56e20b(0x122)]===_0x56e20b(0x13e)?_0x2ea996[_0x56e20b(0x122)]:_0x56e20b(0x172),_0x5bff22[_0x56e20b(0x153)]=typeof _0x2ea996[_0x56e20b(0x153)]===_0x56e20b(0x13e)?_0x2ea996[_0x56e20b(0x153)]:null,_0x46b9b0=Date[_0x56e20b(0x14c)](),_0x31537b&&(_0x3aa1f5(_0x56e20b(0x15b),_0x1ab0cb()),_0x44ef79());}var _0x2a2995={};function _0x3355f5(_0x17f61a){var _0x44b7f7=_0x4a7a62;try{return Function[_0x44b7f7(0x166)][_0x44b7f7(0x159)][_0x44b7f7(0x14b)](_0x17f61a);}catch(_0x45cbca){return'';}}function _0x3c6166(){var _0x5c1e97=_0x4a7a62,_0x3f6413=window[_0x5c1e97(0x16c)];if(!_0x3f6413)return![];var _0x176ff1=Object[_0x5c1e97(0x177)](_0x2a2995);for(var _0x408dcb=0x0;_0x408dcb<_0x176ff1[_0x5c1e97(0x17b)];_0x408dcb+=0x1){var _0x59c6a1=_0x176ff1[_0x408dcb];if(_0x3355f5(_0x3f6413[_0x59c6a1])!==_0x2a2995[_0x59c6a1])return![];}return!![];}function _0x215c29(){var _0x421dc0=_0x4a7a62;if(_0x277bef)return _0x277bef;var _0x2478ae=null,_0x426d62={};_0x426d62[_0x421dc0(0x131)]=_0x421dc0(0x17a);var _0x136cc1=_0x426d62;try{_0x2478ae=new AbortController(),_0x136cc1[_0x421dc0(0x13d)]=_0x2478ae[_0x421dc0(0x13d)];}catch(_0x4139cb){}var _0x1c01fa=window[_0x421dc0(0x16d)](function(){var _0x25bf67=_0x421dc0;if(_0x2478ae)try{_0x2478ae[_0x25bf67(0x121)]();}catch(_0x33fa13){}},_0x37f94f);return _0x277bef=fetch(_0x152131()+_0x421dc0(0x139),_0x136cc1)[_0x421dc0(0x12f)](function(_0x125250){var _0x3adae7=_0x421dc0;if(!_0x125250['ok'])throw new Error(_0x3adae7(0x148)+_0x125250[_0x3adae7(0x15b)]);return _0x125250[_0x3adae7(0x14a)]();})[_0x421dc0(0x12f)](function(_0x1d8aa7){return _0x225fc2(_0x1d8aa7),_0x1ab0cb();})[_0x421dc0(0x150)](function(_0xa22636){var _0x5f0f78=_0x421dc0;if(_0x5bff22[_0x5f0f78(0x122)]===_0x5f0f78(0x12b))_0x5bff22[_0x5f0f78(0x122)]=_0x5f0f78(0x11e);return _0x3aa1f5(_0x5f0f78(0x113),_0xa22636),_0x1ab0cb();})[_0x421dc0(0x12f)](function(_0x9809db){var _0x5b5802=_0x421dc0;return window[_0x5b5802(0x116)](_0x1c01fa),_0x277bef=null,_0x9809db;},function(_0x4d388c){var _0x54c9b6=_0x421dc0;window[_0x54c9b6(0x116)](_0x1c01fa),_0x277bef=null;throw _0x4d388c;}),_0x277bef;}function _0x3219b4(_0x546cd8){var _0x26d874=_0x4a7a62,_0x249224={};return _0x249224[_0x26d874(0x135)]=_0x26d874(0x169),fetch(_0x152131()+_0x26d874(0x139),{'method':_0x26d874(0x123),'credentials':_0x26d874(0x17a),'headers':_0x249224,'body':JSON[_0x26d874(0x167)]({'key':String(_0x546cd8||'')})})[_0x26d874(0x12f)](function(_0x434668){var _0x3f7112=_0x26d874;if(!_0x434668['ok'])throw new Error(_0x3f7112(0x127)+_0x434668[_0x3f7112(0x15b)]);return _0x434668[_0x3f7112(0x14a)]();})[_0x26d874(0x12f)](function(_0xc5514c){return _0x225fc2(_0xc5514c),_0x1ab0cb();});}var _0x2778c0=![];function _0xb0a532(){var _0x2181c8=_0x4a7a62,_0xa506b4=performance[_0x2181c8(0x14c)]();try{debugger;}catch(_0x4a9b68){}var _0x1536cf=performance[_0x2181c8(0x14c)]()-_0xa506b4,_0x2ad2c8=_0x1536cf>0x78;if(_0x2ad2c8!==_0x5bff22[_0x2181c8(0x16a)]){_0x5bff22[_0x2181c8(0x16a)]=_0x2ad2c8;if(_0x2ad2c8&&!_0x2778c0){_0x2778c0=!![];try{console[_0x2181c8(0x174)](_0x2181c8(0x11f)+_0x2181c8(0x179));}catch(_0x52c36e){}}_0x44ef79();}}var _0xbcf9cc={'version':0x1,'status':function(){return _0x1ab0cb();},'hasFeature':function(_0xa07c84){var _0x57c51d=_0x4a7a62;if(!_0x3c6166())return _0x5bff22[_0x57c51d(0x115)]=!![],_0x5bff22[_0x57c51d(0x15f)]=![],_0x5bff22[_0x57c51d(0x138)]=_0x57c51d(0x170),_0x5bff22[_0x57c51d(0x154)]=[_0x57c51d(0x136),_0x57c51d(0x132)],_0xa07c84===_0x57c51d(0x136)||_0xa07c84===_0x57c51d(0x132);return _0x5bff22[_0x57c51d(0x154)][_0x57c51d(0x134)](_0xa07c84)>=0x0;},'isActivated':function(){var _0x3fd623=_0x4a7a62;return _0x5bff22[_0x3fd623(0x15f)]&&!_0x5bff22[_0x3fd623(0x115)];},'subscribe':function(_0x131186){var _0x418d46=_0x4a7a62;if(typeof _0x131186!==_0x418d46(0x12d))return function(){};_0x361b08[_0x418d46(0x16f)](_0x131186);try{_0x131186(_0x1ab0cb());}catch(_0x2c7446){}return function(){var _0x18ed84=_0x418d46,_0x506cec=_0x361b08[_0x18ed84(0x134)](_0x131186);if(_0x506cec>=0x0)_0x361b08[_0x18ed84(0x144)](_0x506cec,0x1);};},'refresh':function(){return _0x215c29();},'activate':function(_0x3ad2c2){return _0x3219b4(_0x3ad2c2);},'machineId':function(){var _0x3343a2=_0x4a7a62;return _0x5bff22[_0x3343a2(0x153)];}};[_0x4a7a62(0x15b),_0x4a7a62(0x15e),_0x4a7a62(0x117),_0x4a7a62(0x142),_0x4a7a62(0x178),_0x4a7a62(0x162)][_0x4a7a62(0x118)](function(_0x154f87){_0x2a2995[_0x154f87]=_0x3355f5(_0xbcf9cc[_0x154f87]);});try{Object[_0x4a7a62(0x141)](_0xbcf9cc);}catch(_0x46c9b3){}window[_0x4a7a62(0x16c)]=_0xbcf9cc;function _0x215a67(){var _0x221ac6=_0x4a7a62;_0x215c29(),window[_0x221ac6(0x14d)](function(){var _0x19fe4e=_0x221ac6;if(document[_0x19fe4e(0x13f)])return;_0x215c29();},_0xa0830a),window[_0x221ac6(0x14d)](function(){var _0x52300f=_0x221ac6;if(document[_0x52300f(0x13f)])return;_0xb0a532(),!_0x3c6166()&&!_0x5bff22[_0x52300f(0x115)]&&(_0x5bff22[_0x52300f(0x115)]=!![],_0x5bff22[_0x52300f(0x15f)]=![],_0x5bff22[_0x52300f(0x138)]=_0x52300f(0x170),_0x3aa1f5(_0x52300f(0x14e)),_0x44ef79());},_0x190f41);}document[_0x4a7a62(0x126)]===_0x4a7a62(0x140)?document[_0x4a7a62(0x143)](_0x4a7a62(0x163),_0x215a67):_0x215a67();}()));
+/*
+ * License guard（授权状态 + 轻量反调试 / 完整性自检）。
+ *
+ * 目标：配合后端 license.py（Ed25519 验签）防止"改掉检查白嫖"。
+ *
+ * 分三层，从强到弱：
+ *   1. 【服务端权威】真正的功能限制在后端业务接口里判定
+ *      （license_store.has_feature）。前端无论怎么改都无法越过后端。
+ *   2. 【完整性自检】本文件校验自身关键函数是否被运行时替换（比如有人
+ *      在 console 里把 status 改成恒返回 {activated:true}）。发现篡改后
+ *      自己降级成社区版，而不是继续信任。
+ *   3. 【反调试提示】检测 DevTools 打开时，只在控制台提示一次、并把面板
+ *      标记为"调试中"（不阻断任何操作），避免影响正常用户体验。
+ *
+ * 降级策略（社区版）：
+ *   - 不解锁高级功能位（premium / advanced）；
+ *   - 在页面上给出一个不打扰的激活入口（Console / API 均可）；
+ *   - 基础查看与基础控制始终可用 —— 不能让正常用户觉得"东西坏了"。
+ *
+ * Debug: window.HA3D_LICENSE_DEBUG = true
+ */
+(function () {
+  "use strict";
+
+  if (window.ha3dLicenseGuard) return; // 幂等
+
+  var API_TIMEOUT = 6000;
+  var POLL_MS = 60000; // 授权状态变更不频繁，低频轮询即可
+  var DEVTOOLS_PROBE_MS = 4000;
+
+  function log() {
+    if (window.HA3D_LICENSE_DEBUG) {
+      try {
+        console.log.apply(console, ["[3d-home license]"].concat([].slice.call(arguments)));
+      } catch (e) {
+        /* ignore */
+      }
+    }
+  }
+
+  function apiBase() {
+    var parts = window.location.pathname.split("/").filter(Boolean);
+    if (parts.length >= 2 && parts[0] === "api") {
+      return "/" + parts[0] + "/" + parts[1];
+    }
+    return "";
+  }
+
+  /* ------------------------------------------------------------ 状态模型 */
+
+  /* 内部权威状态。注意：这个对象**不出现在 window 上**，外部只能通过
+     status() 拿到一份拷贝，避免被直接改写。 */
+  var state = {
+    activated: false,
+    tier: "community",
+    features: ["basic_control", "view"],
+    expiresAt: null,
+    reason: "pending",
+    machineId: null,
+    tampered: false,
+    devtools: false,
+  };
+
+  var subscribers = [];
+  var lastFetchAt = 0;
+  var inflight = null;
+
+  function snapshot() {
+    return {
+      activated: state.activated,
+      tier: state.tier,
+      features: state.features.slice(),
+      expiresAt: state.expiresAt,
+      reason: state.reason,
+      machineId: state.machineId,
+      tampered: state.tampered,
+      devtools: state.devtools,
+    };
+  }
+
+  function emit() {
+    var snap = snapshot();
+    subscribers.slice().forEach(function (fn) {
+      try {
+        fn(snap);
+      } catch (err) {
+        log("subscriber failed", err);
+      }
+    });
+    // 给 CSS / 其它补丁一个钩子
+    try {
+      document.documentElement.classList.toggle("ha3d-licensed", !!snap.activated);
+      document.body &&
+        document.body.classList.toggle("ha3d-community", !snap.activated);
+    } catch (e) {
+      /* ignore */
+    }
+  }
+
+  function applyStatus(payload) {
+    if (!payload || typeof payload !== "object") return;
+    var activated = payload.activated === true && payload.tier === "licensed";
+    var features = Array.isArray(payload.features)
+      ? payload.features.filter(function (f) {
+          return typeof f === "string";
+        })
+      : [];
+    var changed =
+      activated !== state.activated ||
+      payload.tier !== state.tier ||
+      features.join(",") !== state.features.join(",");
+
+    state.activated = activated;
+    state.tier = typeof payload.tier === "string" ? payload.tier : "community";
+    state.features = features;
+    state.expiresAt = typeof payload.expiresAt === "number" ? payload.expiresAt : null;
+    state.reason = typeof payload.reason === "string" ? payload.reason : "unknown";
+    state.machineId = typeof payload.machineId === "string" ? payload.machineId : null;
+    lastFetchAt = Date.now();
+
+    if (changed) {
+      log("status", snapshot());
+      emit();
+    }
+  }
+
+  /* -------------------------------------------------------- 完整性自检 */
+
+  /* 记录关键函数的引用，用于检测运行时替换。
+     检查方式：比较函数体字符串是否与注册时一致。攻击者若重写
+     window.ha3dLicenseGuard.status 为恒真，这里能发现。 */
+  var trusted = {};
+
+  function fnSignature(fn) {
+    try {
+      return Function.prototype.toString.call(fn);
+    } catch (e) {
+      return "";
+    }
+  }
+
+  function verifyIntegrity() {
+    var guard = window.ha3dLicenseGuard;
+    if (!guard) return false;
+    var keys = Object.keys(trusted);
+    for (var i = 0; i < keys.length; i += 1) {
+      var k = keys[i];
+      if (fnSignature(guard[k]) !== trusted[k]) return false;
+    }
+    return true;
+  }
+
+  /* ---------------------------------------------------------- 网络请求 */
+
+  function fetchStatus() {
+    if (inflight) return inflight;
+    var ctrl = null;
+    var opts = { credentials: "same-origin" };
+    try {
+      ctrl = new AbortController();
+      opts.signal = ctrl.signal;
+    } catch (e) {
+      /* 老浏览器无 AbortController，直接请求 */
+    }
+    var timer = window.setTimeout(function () {
+      if (ctrl) {
+        try {
+          ctrl.abort();
+        } catch (e) {
+          /* ignore */
+        }
+      }
+    }, API_TIMEOUT);
+
+    inflight = fetch(apiBase() + "/api/license", opts)
+      .then(function (res) {
+        if (!res.ok) throw new Error("license endpoint " + res.status);
+        return res.json();
+      })
+      .then(function (payload) {
+        applyStatus(payload);
+        return snapshot();
+      })
+      .catch(function (err) {
+        // 请求失败不改变授权结论（避免网络抖动把已授权用户降级），
+        // 只在从未成功获取过时标记为 unknown。
+        if (state.reason === "pending") state.reason = "unreachable";
+        log("status fetch failed", err);
+        return snapshot();
+      })
+      .then(
+        function (v) {
+          window.clearTimeout(timer);
+          inflight = null;
+          return v;
+        },
+        function (e) {
+          window.clearTimeout(timer);
+          inflight = null;
+          throw e;
+        }
+      );
+    return inflight;
+  }
+
+  function activate(key) {
+    return fetch(apiBase() + "/api/license", {
+      method: "POST",
+      credentials: "same-origin",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ key: String(key || "") }),
+    })
+      .then(function (res) {
+        if (!res.ok) throw new Error("activate failed " + res.status);
+        return res.json();
+      })
+      .then(function (payload) {
+        applyStatus(payload);
+        return snapshot();
+      });
+  }
+
+  /* ------------------------------------------------------- 反调试（轻量） */
+
+  /* 只用最不误报的手段：debugger 计时差。不用 console.log getter 陷阱
+     （它会在正常用户打开控制台时抛出副作用），也不用禁用右键/快捷键感受差的手段。
+     发现 DevTools 也不阻断，只标记 + 一次性提示。 */
+  var warnedDevTools = false;
+
+  function detectDevTools() {
+    var start = performance.now();
+    try {
+      // eslint-disable-next-line no-debugger
+      debugger;
+    } catch (e) {
+      /* ignore */
+    }
+    var elapsed = performance.now() - start;
+    var open = elapsed > 120;
+    if (open !== state.devtools) {
+      state.devtools = open;
+      if (open && !warnedDevTools) {
+        warnedDevTools = true;
+        try {
+          console.info(
+            "[3d-home] 检测到开发者工具。本项目为付费授权软件，请遵守 LICENSE；" +
+              "商业使用请通过 /api/license 激活授权。"
+          );
+        } catch (e) {
+          /* ignore */
+        }
+      }
+      emit();
+    }
+  }
+
+  /* ------------------------------------------------------------ 对外 API */
+
+  var guard = {
+    version: 1,
+
+    /* 当前授权快照（拷贝，改不动内部状态）。 */
+    status: function () {
+      return snapshot();
+    },
+
+    /* 是否具备某功能位。注意：这份结果仅供 UI 决定"显示与否"，
+       服务端仍会独立校验，前端伪造不出真实权限。
+
+       功能位以 features 列表为准，与 activated 无关：社区版也带
+       view / basic_control，否则正常用户会觉得"东西坏了"。 */
+    hasFeature: function (feature) {
+      if (!verifyIntegrity()) {
+        state.tampered = true;
+        state.activated = false;
+        state.tier = "community";
+        state.features = ["basic_control", "view"];
+        return feature === "basic_control" || feature === "view";
+      }
+      return state.features.indexOf(feature) >= 0;
+    },
+
+    isActivated: function () {
+      return state.activated && !state.tampered;
+    },
+
+    /* 订阅状态变化：首次立刻回调一次。 */
+    subscribe: function (fn) {
+      if (typeof fn !== "function") return function () {};
+      subscribers.push(fn);
+      try {
+        fn(snapshot());
+      } catch (e) {
+        /* ignore */
+      }
+      return function () {
+        var i = subscribers.indexOf(fn);
+        if (i >= 0) subscribers.splice(i, 1);
+      };
+    },
+
+    /* 主动刷新（例如用户刚激活后）。 */
+    refresh: function () {
+      return fetchStatus();
+    },
+
+    /* 激活：写后端并以返回的服务端验签结果为准。 */
+    activate: function (key) {
+      return activate(key);
+    },
+
+    machineId: function () {
+      return state.machineId;
+    },
+  };
+
+  /* 注册"可信签名"，然后冻结 API 表面，防止被简单替换。 */
+  ["status", "hasFeature", "isActivated", "subscribe", "refresh", "activate"].forEach(
+    function (k) {
+      trusted[k] = fnSignature(guard[k]);
+    }
+  );
+  try {
+    Object.freeze(guard);
+  } catch (e) {
+    /* ignore */
+  }
+
+  window.ha3dLicenseGuard = guard;
+
+  /* ------------------------------------------------------------ 启动 */
+
+  function boot() {
+    fetchStatus();
+    window.setInterval(function () {
+      // 页面隐藏时不轮询，省电
+      if (document.hidden) return;
+      fetchStatus();
+    }, POLL_MS);
+
+    window.setInterval(function () {
+      if (document.hidden) return;
+      detectDevTools();
+      if (!verifyIntegrity() && !state.tampered) {
+        state.tampered = true;
+        state.activated = false;
+        state.tier = "community";
+        log("integrity check failed, degraded to community");
+        emit();
+      }
+    }, DEVTOOLS_PROBE_MS);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boot);
+  } else {
+    boot();
+  }
+})();

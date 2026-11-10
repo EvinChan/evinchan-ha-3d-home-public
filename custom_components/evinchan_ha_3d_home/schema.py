@@ -146,6 +146,21 @@ def _mirror_x(source: Any) -> dict:
     return {"mirrorX": True}
 
 
+# Per-model numeric option: the dynamic wardrobe's door width sits.
+# Door count = record width / doorWidth, so it changes the built geometry and
+# has to survive `normalize_furniture`. Only that one model reads it; every
+# other record stays byte-for-byte unchanged after a normalise round-trip.
+_DOOR_WIDTH_RANGE = (0.2, 1.2)
+
+
+def _door_width(source: Any) -> dict:
+    """Whitelist ``doorWidth`` (metres) on the dynamic wardrobe record."""
+    if not isinstance(source, dict) or source.get("modelId") != "furniture.wardrobe_dynamic":
+        return {}
+    value = _finite(source.get("doorWidth"), 0.3, *_DOOR_WIDTH_RANGE)
+    return {"doorWidth": round(value, 3)}
+
+
 # User-tunable vertical nudge for a custom model, in metres. Small by design:
 # it compensates a few millimetres of rendering drift, not to relocate a model.
 _LIFT_OFF_LIMIT = 0.1
@@ -311,6 +326,8 @@ def normalize_furniture(value: Any, floor_id: str) -> dict:
         **({"pillowColor": _color(source.get("pillowColor"))} if _color(source.get("pillowColor")) else {}),
         # Shared model flags (strict boolean, omitted when unset).
         **_mirror_x(source),
+        # Per-model numeric option (dynamic wardrobe door width).
+        **_door_width(source),
         # `liftOff` (metres) nudges a custom model up/down to compensate for
         # rendering-level drift: the geometry can sit exactly on y = 0 and still
         # look sunk into (or floating above) the SPA's floor mesh because of

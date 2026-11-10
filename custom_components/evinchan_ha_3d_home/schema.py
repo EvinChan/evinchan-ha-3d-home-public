@@ -304,6 +304,11 @@ def normalize_furniture(value: Any, floor_id: str) -> dict:
         # (furniture-dragon-tree.js); the black veins, gold 福 sticker, canes
         # and foliage stay fixed regardless of it.
         **({"potColor": _color(source.get("potColor"))} if _color(source.get("potColor")) else {}),
+        # `blanketColor` / `pillowColor` are the Japanese storage platform
+        # bed's two bedding colours (furniture-japanese-storage-bed.js);
+        # the mattress and the black drawer seams stay fixed.
+        **({"blanketColor": _color(source.get("blanketColor"))} if _color(source.get("blanketColor")) else {}),
+        **({"pillowColor": _color(source.get("pillowColor"))} if _color(source.get("pillowColor")) else {}),
         # Shared model flags (strict boolean, omitted when unset).
         **_mirror_x(source),
         # `liftOff` (metres) nudges a custom model up/down to compensate for

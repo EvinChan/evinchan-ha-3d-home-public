@@ -134,6 +134,18 @@ def _tv_glow_fields(device: Any) -> dict:
     return out
 
 
+def _mirror_x(source: Any) -> dict:
+    """Whitelist the shared ``mirrorX`` flag on BOTH record types.
+
+    ``mirrorX`` mirrors a custom 3D model along its local X axis. It is a
+    strict boolean: only ``True`` is written, so unset / false / stray types
+    keep old projects byte-for-byte unchanged after a normalise round-trip.
+    """
+    if not isinstance(source, dict) or source.get("mirrorX") is not True:
+        return {}
+    return {"mirrorX": True}
+
+
 # User-tunable vertical nudge for a custom model, in metres. Small by design:
 # it compensates a few millimetres of rendering drift, not to relocate a model.
 _LIFT_OFF_LIMIT = 0.1
@@ -292,6 +304,8 @@ def normalize_furniture(value: Any, floor_id: str) -> dict:
         # (furniture-dragon-tree.js); the black veins, gold 福 sticker, canes
         # and foliage stay fixed regardless of it.
         **({"potColor": _color(source.get("potColor"))} if _color(source.get("potColor")) else {}),
+        # Shared model flags (strict boolean, omitted when unset).
+        **_mirror_x(source),
         # `liftOff` (metres) nudges a custom model up/down to compensate for
         # rendering-level drift: the geometry can sit exactly on y = 0 and still
         # look sunk into (or floating above) the SPA's floor mesh because of
@@ -358,6 +372,7 @@ def normalize_floorplan_project(value: Any) -> dict:
                 "icon": d.get("icon") if isinstance(d.get("icon"), str) and d["icon"] else None,
                 "lightStrip": None,
                 "controlledLightFixtures": None,
+                **_mirror_x(d),
                 **_tv_glow_fields(d),
             }
             for di, d in enumerate(floor.get("devices", []) if isinstance(floor.get("devices"), list) else [])

@@ -161,17 +161,17 @@ def _door_width(source: Any) -> dict:
     return {"doorWidth": round(value, 3)}
 
 
-# User-tunable vertical nudge for a custom model, in metres. Small by design:
-# it compensates a few millimetres of rendering drift, not to relocate a model.
-_LIFT_OFF_LIMIT = 0.1
+# Vertical coordinate ("Z" in floor-plan terms) of any furniture / device
+# record, in metres. Large on purpose: a cabinet can hang well above the floor;
+# the +/-6 m ceiling keeps a malformed value from poisoning the transform.
+_LIFT_OFF_LIMIT = 6.0
 
 
 def _lift_off(value: Any) -> float | None:
-    """Normalise the ``liftOff`` nudge (metres).
+    """Normalise the ``liftOff`` vertical offset (metres).
 
-    Clamped to +/-0.1 m and rounded to 0.1 mm so a slider cannot push a model
-    into the ceiling or poison the transform with a huge value. ``None`` means
-    "not set" (the field is then omitted entirely, keeping old records intact).
+    Clamped to +/-6 m and rounded to 0.1 mm. ``None`` means "not set" (the
+    field is then omitted entirely, keeping old records intact).
     """
     if isinstance(value, bool) or not isinstance(value, (int, float)):
         return None
@@ -328,11 +328,9 @@ def normalize_furniture(value: Any, floor_id: str) -> dict:
         **_mirror_x(source),
         # Per-model numeric option (dynamic wardrobe door width).
         **_door_width(source),
-        # `liftOff` (metres) nudges a custom model up/down to compensate for
-        # rendering-level drift: the geometry can sit exactly on y = 0 and still
-        # look sunk into (or floating above) the SPA's floor mesh because of
-        # shadow maps, outline shells or the floor slab itself. Written by
-        # inspector-model-offset.js, applied by furniture-nested-coffee-table.js.
+        # `liftOff` (metres) is the model's vertical coordinate: a cabinet can
+        # hang above the floor or sit below it. Applied to the host group in
+        # scene.js for both furniture and devices; +/-6 m is clamped above.
         # 0 / unset is dropped so existing projects keep their exact shape.
         **(
             {"liftOff": _lift_off(source.get("liftOff"))}
@@ -396,6 +394,9 @@ def normalize_floorplan_project(value: Any) -> dict:
                 "controlledLightFixtures": None,
                 **_mirror_x(d),
                 **_tv_glow_fields(d),
+                # Vertical offset shared with furniture records (see _lift_off).
+                **({"liftOff": _lift_off(d.get("liftOff"))}
+                   if _lift_off(d.get("liftOff")) is not None else {}),
             }
             for di, d in enumerate(floor.get("devices", []) if isinstance(floor.get("devices"), list) else [])
             if isinstance(d.get("entityId"), str) and d["entityId"].strip()
@@ -446,6 +447,12 @@ def normalize_floorplan_project(value: Any) -> dict:
             if _is_record(a)
         ],
         "dashboardWidgets": _normalize_dashboard_widgets(source.get("dashboardWidgets")),
+        # Project-wide cabinet colours: applied to every custom cabinet unless
+        # that record carries its own swatch (see mergeCabinetColors).
+        **({"defaultDoorColor": _color(source.get("defaultDoorColor"))}
+           if _color(source.get("defaultDoorColor")) else {}),
+        **({"defaultCabinetBodyColor": _color(source.get("defaultCabinetBodyColor"))}
+           if _color(source.get("defaultCabinetBodyColor")) else {}),
     }
 
 

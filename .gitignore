@@ -1,7 +1,11 @@
 # OS / 编辑器
 .DS_Store
+._*
 Thumbs.db
 *.swp
+
+# HACS validation 不允许发布包内含 zip（skill 附件不是运行时资源）
+*.zip
 
 # Python 字节码缓存（HA / py_compile 会产生，绝不可进发布包）
 __pycache__/

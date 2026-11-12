@@ -1,12 +1,13 @@
 {
   "domain": "evinchan_ha_3d_home",
   "name": "Evinchan HA 3D Home",
-  "version": "1.9.30",
-  "config_flow": true,
-  "documentation": "https://gitee.com/evinchan/evinchan-ha-3d-home-integration",
-  "issue_tracker": "https://gitee.com/evinchan/evinchan-ha-3d-home-integration/issues",
-  "requirements": [],
-  "iot_class": "local_polling",
   "after_dependencies": ["frontend"],
-  "integration_type": "hub"
+  "codeowners": ["@EvinChan"],
+  "config_flow": true,
+  "documentation": "https://github.com/EvinChan/evinchan-ha-3d-home-public",
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/EvinChan/evinchan-ha-3d-home-public/issues",
+  "requirements": [],
+  "version": "1.9.30"
 }

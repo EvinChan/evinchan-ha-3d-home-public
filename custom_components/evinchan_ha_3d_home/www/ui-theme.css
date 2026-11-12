@@ -148,24 +148,44 @@ body {
   backdrop-filter: blur(20px) saturate(1.15);
 }
 
+/* Floor nav sits on the bright daytime blue gradient. The dark-theme
+   --muted / --subtle / --accent-soft tokens are far too pale there, so the
+   labels were barely legible. Use explicit high-contrast values while keeping
+   the page's white-on-blue design language. Selectors stay unchanged, so the
+   cream / night variants (higher specificity) keep their own colours and no
+   other component or :root token is affected. */
 .home-floor-nav > small {
-  color: var(--subtle);
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-shadow: 0 1px 3px rgba(12, 28, 60, .65);
 }
 
 .home-floor-nav button {
-  color: var(--muted);
+  color: #ffffff;
+  font-weight: 700;
+  text-shadow: 0 1px 3px rgba(12, 28, 60, .65);
 }
 
 .home-floor-nav button:hover {
   color: #ffffff;
-  background: var(--surface-hover);
+  background: rgba(255, 255, 255, .2);
 }
 
 .home-floor-nav button.active,
 .home-floor-nav button[aria-current="true"] {
   color: #ffffff;
-  background: var(--accent-soft);
-  box-shadow: inset 0 0 0 1px rgba(255, 138, 61, 0.35);
+  font-weight: 800;
+  background: rgba(255, 138, 61, .42);
+  box-shadow: inset 0 0 0 1px rgba(255, 205, 155, .8), 0 6px 18px rgba(12, 28, 60, .24);
+}
+
+/* The floor-number badge was equally pale; active badges keep the SPA's own
+   higher-specificity light-blue treatment. */
+.home-floor-nav .floor-level {
+  color: #ffffff;
+  background: rgba(12, 28, 60, .32);
 }
 
 .room-focus-card small {

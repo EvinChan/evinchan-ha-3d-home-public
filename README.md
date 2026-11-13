@@ -64,8 +64,9 @@ evinchan-ha-3d-home-public/
 │   ├── gateway.py         # WebSocket 网关（合并推送）
 │   ├── panel.py           # iframe 面板注册
 │   ├── manifest.json      # 集成清单
+│   ├── brand/icon.png     # HACS 品牌图标（Check brands 校验此处）
 │   └── www/               # 预构建前端 SPA（Vite 产物）
-├── brand/icon.png                  # HACS 品牌图标
+├── brand/icon.png                  # 仓库展示用图标
 ├── .github/workflows/validate.yml  # HACS Action + Hassfest 校验
 ├── hacs.json
 ├── README.md

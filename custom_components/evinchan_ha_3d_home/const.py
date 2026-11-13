@@ -7,7 +7,7 @@ from typing import Final
 DOMAIN: Final = "evinchan_ha_3d_home"
 # Must match manifest.json's "version" (R2.6). It is what the startup log prints,
 # so a mismatch makes it impossible to tell which build is actually running.
-VERSION: Final = "1.9.30"
+VERSION: Final = "1.9.31"
 
 # Sidebar panel
 PANEL_TITLE: Final = "3D Home"

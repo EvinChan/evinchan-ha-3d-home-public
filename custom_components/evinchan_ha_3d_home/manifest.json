@@ -9,5 +9,5 @@
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/EvinChan/evinchan-ha-3d-home-public/issues",
   "requirements": [],
-  "version": "1.9.30"
+  "version": "1.9.31"
 }

@@ -39,6 +39,69 @@
   --surface-hover: rgba(38, 49, 82, 0.82);
   --glass: rgba(17, 24, 43, 0.82);
 
+  /* 方案 C（日间可读性）：更高的玻璃底不透明度 + 橙底深色字 + 日间浅色小字。
+     消费方一律写 var(--x, 原值) 带回退，iframe 内变量未就绪也不会变透明。 */
+  --glass-bg: rgba(21, 28, 51, 0.92);
+  /* 兼容别名：保留给 room-panel.js 的既有引用，新代码请用 --on-accent-solid。
+     解析值仍是 #1A1005，零视觉变化。 */
+  --accent-on: var(--on-accent-solid);
+  --ink-day: #f4fbfc;
+  --muted-day: #a6b1cc;
+
+  /* ---- 批次 3 / T0 token 地基（全部为新增名或同值别名，零视觉变化） ----
+     唯一导出出口就是这里的 :root；消费方一律写 var(--x, 改动前的字面量)，
+     保证 iframe 内 ui-theme.css 未就绪时面板不会变透明。 */
+
+  /* 品牌橙的可派生分量，供 rgba(var(--accent-rgb), α) 使用。
+     ★ 3D 光池 / 材质色不能用它：ground-tint.js:1780-1813 的 parseColor()
+       只接受 #rgb / #rrggbb / rgb() / rgba() 字面量，见 scene-colors.css 头部注释。 */
+  --accent-rgb: 255, 138, 61;
+
+  /* 浅底上的橙：#ff8a3d 叠 #ffffff 只有 2.35:1，2D 编辑器（浅色底）上的
+     小字与 1px 描边必须用深一档，否则不达 WCAG AA。 */
+  --accent-deep: #c2561a;   /* on #ffffff 4.53:1 */
+  --accent-editor: #a8470f; /* on #ffffff 5.88:1，更小字号时用 */
+
+  /* 橙底文字的两个语义 token —— 硬约束，禁止互相替代。
+     判定依据只有一条：WCAG 2.1 src-over 合成后的相对亮度 L。
+       --on-accent-solid 只允许用于 alpha ≥ .90 的近实心橙填充（合成后 L≈0.29~0.45）
+       --on-accent-tint  用于半透明橙（alpha .16~.58，合成后 L≈0.03~0.15）与深色玻璃底
+     实测分界：L ≥ 0.25 取深字；L ≤ 0.20 取白字；0.20~0.25 为灰区须单独取色复核。
+     历史教训：批次 0 曾把 4 处半透明橙控件改成深字，对比度从 6.27:1 掉到 2.69:1。 */
+  --on-accent-solid: #1A1005;
+  --on-accent-tint: #f4fbfc;
+
+  /* 状态语义。值等于现有 token，新代码用 --state-*，
+     旧引用继续走 --success / --danger 别名（index.css 有 586 个 var() 消费）。 */
+  --state-on: var(--accent);
+  --state-off: #8a97b8;
+  --state-success: #4fd1a5;
+  --state-warning: #ffc46b;
+  --state-danger: #ff6b6b;
+
+  /* 实心面。故意另起名字：现有 --surface / --surface-hover 是半透明叠色，
+     被 index.css 大量消费，本批不动它们的值。 */
+  --surface-solid: #1b2440;
+  --surface-solid-hover: #232e4f;
+
+  /* 玻璃拟态参数。T0 只登记，尚未接入 :161-164 的 backdrop-filter（接入属 T1，
+     因为统一 blur 数值会产生视觉变化）。 */
+  --glass-blur: 16px;
+  --glass-saturate: 1.25;
+  --glass-border: rgba(180, 200, 240, 0.14);
+  --glass-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  --glass-shadow: var(--shadow-md);
+
+  /* 焦点环。T0 保持当前生效值（.16 / .55），T1 统一到 .28 时只改这两个颜色值。 */
+  --focus-ring-width: 3px;
+  --focus-ring-color: rgba(255, 138, 61, 0.16);
+  --focus-ring-border: rgba(255, 138, 61, 0.55);
+  --focus-ring: 0 0 0 var(--focus-ring-width) var(--focus-ring-color);
+
+  /* 最弱一级文字（.scene-eyebrow 的 #97a5c6）。T1 再决定是否并入 --subtle：
+     --subtle 当前是 #6f7b9b，比它更暗，直接并会让眉标变暗，属视觉变化，故本批不并。 */
+  --ink-faint: #97a5c6;
+
   /* Deeper, softer shadows read better on a dark background. */
   --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.35);
   --shadow-md: 0 12px 34px rgba(0, 0, 0, 0.45);
@@ -50,6 +113,44 @@
   --home-scene-panel-top: clamp(5.5rem, 12vh, 7.5rem);
   /* Width reserved on the right when the room device panel is open. */
   --ha3d-room-panel-w: 22rem;
+}
+
+/* ---- 2D 编辑器作用域重声明（K1：解决特异性覆盖） ----------------------
+   public/index.css 第 2 个 .app-shell.mode-editor 块以 (0,2,0) 重定义了编辑器
+   配色，特异性高于本文件的 :root (0,1,0)，"最后加载"压不过它 —— 编辑器里
+   --accent 一直是 #1677ff，改 ui-theme.css 的 --accent 对编辑器无效。
+   这里用同特异性 (0,2,0) + 更靠后的源序做最小重声明。
+
+   ★ 12 个 --editor-* 布局变量（--editor-tool-left / --editor-resource-width /
+     --editor-inspector-width / --editor-commandbar-row 等）绝对不能出现在这里：
+     它们是三栏几何（工具轨 / 资源栏 / 检查器 / 状态栏 / 缩放条）的定位基准，
+     覆盖会让编辑器布局崩掉。
+   ★ --ink / --canvas / --surface 在这里是浅底深字语义，不要改成 var(--ink)
+     （那是深色主题的 #e8eeff）。
+   ★ 本批取值与 index.css 生效值逐字相同 = 零视觉变化；T1/T2 只改这里的值。 */
+.app-shell.mode-editor {
+  /* 决策③保持全浅、②暂缓：本块取值与 index.css 第 2 块生效值逐字相同 = 零视觉变化；
+     K1 同特异性重声明结构保持不变。 */
+  --accent: #1677ff;
+  --accent-hover: #0f67de;
+  --accent-soft: #eaf3ff;
+  --selection: #1677ff;
+  --selection-soft: #eaf3ff;
+  --success: #13a36f;
+  --success-soft: #eaf8f2;
+
+  /* 中性色：编辑器是浅色底，必须保持深色字 */
+  --ink: #172033;
+  --muted: #647181;
+  --subtle: #9aa6b2;
+  --line: #e7ebf0;
+  --line-strong: #d8dee6;
+  --canvas: #f8fafc;
+  --surface: #f9fbfd;
+  --surface-hover: #f1f6fb;
+
+  /* 来自 index.css 第 1 个 .app-shell.mode-editor 块（第 2 块未重定义） */
+  --glass: rgba(255, 255, 255, 0.88);
 }
 
 /* ---- page shells ---------------------------------------------------- */
@@ -105,7 +206,7 @@ body {
 }
 
 .scene-eyebrow {
-  color: #97a5c6 !important;
+  color: var(--ink-faint, #97a5c6) !important;
 }
 
 .scene-title-meta {
@@ -175,6 +276,9 @@ body {
 
 .home-floor-nav button.active,
 .home-floor-nav button[aria-current="true"] {
+  /* 为何回滚：这里的橙是 rgba(255,138,61,.42) 半透明橙叠深玻璃，src-over
+     合成后是暗棕灰，深字与暗底同向；白字实测 6.27~6.97:1，深字仅 2.69~2.99:1。
+     --accent-on 只适用于近实心橙渐变（见 room-panel.js 的 .ha3d-power.is-on）。 */
   color: #ffffff;
   font-weight: 800;
   background: rgba(255, 138, 61, .42);
@@ -284,9 +388,9 @@ body {
 .home-dashboard-manager select:focus,
 .room-binding-panel input:focus,
 .search-field input:focus {
-  border-color: rgba(255, 138, 61, 0.55);
+  border-color: var(--focus-ring-border, rgba(255, 138, 61, 0.55));
   outline: none;
-  box-shadow: 0 0 0 3px rgba(255, 138, 61, 0.16);
+  box-shadow: var(--focus-ring, 0 0 0 3px rgba(255, 138, 61, 0.16));
 }
 
 .home-dashboard-manager-backdrop,

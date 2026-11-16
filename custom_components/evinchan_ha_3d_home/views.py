@@ -368,13 +368,6 @@ class ThreeDHomeApiView(HomeAssistantView):
             return _ok({"status": ha.status()})
         if head == "config" and request.method == "POST":
             return _err("集成模式下无需配置连接：数据直接来自 Home Assistant 内部", 403)
-        if head == "binding-suggestions" and request.method == "GET":
-            project = store.get_project()
-            if not project:
-                return _err("Project not found", 404)
-            return _ok({"suggestions": ha.get_room_binding_suggestions(project)})
-        if head == "binding-suggestions" and request.method == "POST":
-            return await self._apply_binding_suggestions(request, ha, store)
         if head == "cameras" and len(segments) >= 3 and segments[-1] in ("stream", "snapshot", "mjpeg"):
             return await self._camera(request, segments, ha)
         if head == "camera-proxy" and request.method == "GET":
@@ -432,59 +425,6 @@ class ThreeDHomeApiView(HomeAssistantView):
         except Exception as err:  # noqa: BLE001
             return _err(str(err), 502)
         return _ok({"response": result})
-
-    async def _apply_binding_suggestions(self, request, ha: HaClient, store: ProjectStore) -> web.Response:
-        import copy
-        import re
-
-        body = await _json(request)
-        suggestions_in = body.get("suggestions", [])
-        if not isinstance(suggestions_in, list) or not suggestions_in:
-            return _err("suggestions 不能为空", 400)
-        project = store.get_project()
-        if not project:
-            return _err("Project not found", 404)
-        allowed = ha.get_room_binding_suggestions(project)
-        allowed_keys = {
-            f"{s['floorId']}:{s['roomId']}:{s['areaId']}:{','.join(sorted(s['entityIds']))}"
-            for s in allowed
-        }
-        confirmed = [
-            s for s in suggestions_in
-            if f"{s.get('floorId')}:{s.get('roomId')}:{s.get('areaId')}:{','.join(sorted(s.get('entityIds', [])))}" in allowed_keys
-        ]
-        if not confirmed:
-            return _err("No valid binding suggestion selected", 400)
-        entities = {e["entityId"]: e for e in ha.get_entities()}
-        placed = {d["entityId"] for f in project["floors"] for d in f.get("devices", [])}
-        next_project = copy.deepcopy(project)
-        for suggestion in confirmed:
-            floor = next((f for f in next_project["floors"] if f["id"] == suggestion["floorId"]), None)
-            room = next((r for r in floor.get("rooms", []) if r["id"] == suggestion["roomId"]), None) if floor else None
-            if not floor or not room or any(d.get("roomId") == room["id"] for d in floor.get("devices", [])):
-                continue
-            poly = room.get("polygon", []) or [[0, 0], [1, 1], [1, 0], [0, 1]]
-            cx = sum(p[0] for p in poly) / len(poly)
-            cy = sum(p[1] for p in poly) / len(poly)
-            for entity_id in suggestion["entityIds"]:
-                if entity_id in placed:
-                    continue
-                entity = entities.get(entity_id)
-                if not entity:
-                    continue
-                floor["devices"].append({
-                    "id": f"device-{int(__import__('time').time() * 1000)}-{len(floor['devices'])}",
-                    "entityId": entity_id,
-                    "kind": _KIND_FROM_DOMAIN.get(entity["domain"], "custom"),
-                    "floorId": floor["id"],
-                    "roomId": room["id"],
-                    "position": [cx, 2.3 if entity["domain"] == "light" else 1.2, cy],
-                    "rotation": [0, 0, 0],
-                })
-                placed.add(entity_id)
-        saved = await store.save_project(next_project)
-        _broadcast_project(request.app["hass"], saved)
-        return _ok({"project": saved})
 
     async def _camera(self, request, segments, ha: HaClient) -> web.Response:
         # Best-effort: delegate to HA camera proxy for snapshot/mjpeg.

@@ -545,8 +545,31 @@ class ThreeDHomeApiView(HomeAssistantView):
                 return _err(str(err), 400)
             _broadcast_project(request.app["hass"], saved)
             return _ok({"project": saved, "assetId": saved["assets"][-1]["id"]})
-        if sub == "backups" and method == "GET":
+        if sub == "backups" and method == "GET" and len(segments) == 2:
             return _ok({"backups": store.list_backups(pid)})
+        if sub == "backups" and method == "GET" and len(segments) == 3:
+            project = store.get_backup(pid, segments[2])
+            if project is None:
+                return _err("Invalid backup id", 404)
+            meta = next(
+                (b for b in store.list_backups(pid) if b["id"] == segments[2]),
+                {"id": segments[2]},
+            )
+            return _ok({"backup": meta, "project": project})
+        if sub == "backups" and len(segments) == 2:
+            if method != "POST":
+                return _err("Method not allowed", 405)
+            try:
+                backup = await store.create_manual_backup(pid)
+            except ValueError as err:
+                return _err(str(err), 400)
+            return _ok({"backup": backup})
+        if sub == "backups" and len(segments) == 3 and method == "DELETE":
+            try:
+                await store.delete_backup(pid, segments[2])
+            except ValueError as err:
+                return _err(str(err), 400)
+            return _ok({"ok": True})
         # 备份恢复兼容两种 URL（响应契约 _ok({"project": ...}) / _err(..., 400) 不变）：
         #   POST /projects/:id/backups/:backupId/restore -> SPA 现用（4 段，id 在路径里，无 body）
         #   POST /projects/:id/backups/restore            -> 3 段，id 放 JSON body

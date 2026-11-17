@@ -377,6 +377,30 @@ class ProjectStore:
             for bid in sorted(backups.keys(), reverse=True)
         ]
 
+    def get_backup(self, project_id: str, backup_id: str) -> dict[str, Any] | None:
+        """Return the stored project snapshot for inspection / download."""
+        pid = project_id or self._data["current"]
+        return self._data.get("backups", {}).get(pid, {}).get(backup_id)
+
+    async def create_manual_backup(self, project_id: str) -> dict[str, Any]:
+        """Create an explicit backup on user request and return its metadata."""
+        pid = project_id or self._data["current"]
+        if pid not in self._data["projects"]:
+            raise ValueError("Project not found")
+        await self._create_backup(pid)
+        await self._persist()
+        return self.list_backups(pid)[0]
+
+    async def delete_backup(self, project_id: str, backup_id: str) -> bool:
+        """Remove one backup so the user can manage local storage."""
+        pid = project_id or self._data["current"]
+        backups = self._data.get("backups", {}).get(pid, {})
+        if backup_id not in backups:
+            raise ValueError("Invalid backup id")
+        del backups[backup_id]
+        await self._persist()
+        return True
+
     async def restore_backup(self, project_id: str, backup_id: str) -> dict[str, Any]:
         pid = project_id or self._data["current"]
         if pid not in self._data["projects"]:

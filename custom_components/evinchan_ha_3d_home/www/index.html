@@ -3,7 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23070a14'/%3E%3Cpath d='M16 33 32 19l16 14v15a3 3 0 0 1-3 3H19a3 3 0 0 1-3-3V33Z' fill='none' stroke='%23dce9ff' stroke-width='4' stroke-linejoin='round'/%3E%3Cpath d='M24 51V36h16v15' fill='none' stroke='%23ff6a2f' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23070a14'/%3E%3Cpath d='M16 33 32 19l16 14v15a3 3 0 0 1-3 3H19a3 3 0 0 1-3-3V33Z' fill='none' stroke='%23dce9ff' stroke-width='4' stroke-linejoin='round'/%3E%3Cpath d='M24 51V36h16v15' fill='none' stroke='%23ff6a2f' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E"
+    />
     <title>HA 3D Home</title>
     <!-- 授权守卫：独立 classic script，必须最先加载，且不随 bundle 变化。
          本地 dev/preview 由 scripts/local-dev.mjs 豁免其反调试探针。 -->
@@ -11,12 +14,12 @@
     <!-- 其余功能已融入 src/features/，由 /src/entry.js 按依赖顺序导入，
          不再以 <script> 补丁形式注入（见 scripts/integrate-features.mjs）。 -->
     <!-- hls.js is an on-demand chunk; the camera feature imports it lazily. -->
-    <link rel="stylesheet" href="./index.css">
-    <link rel="stylesheet" href="./home-view.css">
+    <link rel="stylesheet" href="./index.css?v=11" />
+    <link rel="stylesheet" href="./home-view.css" />
     <!-- 场景配色配置（唯一调色入口）：ui-theme.css 与 ground-tint.js 都从这里读 -->
     <link rel="stylesheet" crossorigin href="./scene-colors.css?v=23" />
-    <link rel="stylesheet" crossorigin href="./ui-theme.css?v=4" />
-    <script type="module" crossorigin src="./assets/index-73r6xp4U.js"></script>
+    <link rel="stylesheet" crossorigin href="./ui-theme.css?v=23" />
+    <script type="module" crossorigin src="./assets/index-BVuVOxs_.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CcqN6Qkb.css">
   </head>
   <body>

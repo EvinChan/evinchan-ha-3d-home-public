@@ -332,12 +332,80 @@ body {
 
 /* ---- right-side insight / detail panel ------------------------------ */
 .home-insight-panel.entity-selected .home-insight-track,
-.home-dashboard-card,
 .insight-pane.insight-detail {
   color: var(--ink);
   border: 1px solid var(--line);
   background: radial-gradient(circle at 18% 0%, rgba(131, 216, 255, 0.09), transparent 46%), var(--glass);
   box-shadow: var(--shadow-md), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+/* 桌面自定义数据卡片：按设计稿的 glass 样式独立染色（比共用 --glass 亮）。 */
+.home-dashboard-card {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background: rgba(211, 211, 211, 0.21);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(211, 211, 211, 0.39);
+}
+/* 数据卡片毛玻璃不生效的根因修复：index.css 给 .dashboard-widget-shell 挂了
+   device-panel-slide-in（fill-mode: both）。任何运行/填充中的 animation（哪怕
+   只动 opacity）都会把该容器提升为独立合成组，切断后代 backdrop-filter 对背后
+   3D 场景的采样；其终态 filter: blur(0)/transform 同样会创建 backdrop root。
+   必须彻底关掉动画才能让卡片的 backdrop-filter 真正生效。仅影响数据卡片，
+   其余 6 处使用 device-panel-slide-in 的面板动画不变。 */
+.dashboard-widget-shell {
+  animation: none;
+}
+/* 拖动瞬间 blur 失效的根因：index.css 的 .dragging 用 filter: drop-shadow 和
+   transform: scale 做浮起反馈，二者都会建隔离层，让卡片的 backdrop-filter 在
+   拖动期间失效、松手后才恢复。改用不建隔离层的 box-shadow 保留浮起反馈。
+   外壳本身无圆角（0px），而卡片是 16px；拖动时若不给外壳同样圆角，矩形阴影
+   会从卡片两个下角露出直角，故这里一并把外壳圆角对齐到 16px。 */
+.dashboard-widget-shell.dragging {
+  filter: none;
+  transform: none;
+  border-radius: 16px;
+  box-shadow: 0 1rem 1.75rem rgba(5, 12, 28, 0.28);
+}
+
+/* Apple Liquid Glass：折射扭曲只放在伪元素层，文字保持清晰。
+   滤镜 #ha3d-liquid-glass 由 room-panel.js 常驻注入（feDisplacementMap）。
+   z-index:0 的玻璃层 + z-index:1 的内容层，避免负 z-index 被滚动父层吞掉。 */
+/* .home-dashboard-card > * {
+  position: relative;
+  z-index: 1;
+}
+.home-dashboard-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  background:
+    radial-gradient(120% 120% at 0% 0%, rgba(255, 255, 255, 0.22) 0%, rgba(255, 255, 255, 0) 42%),
+    radial-gradient(120% 120% at 100% 100%, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0) 45%);
+  backdrop-filter: url(#ha3d-liquid-glass);
+  -webkit-backdrop-filter: url(#ha3d-liquid-glass);
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.4),
+    inset 2px 2px 4px rgba(255, 255, 255, 0.45),
+    inset -2px -2px 5px rgba(130, 160, 200, 0.3);
+} */
+
+/* 右侧场景/概览面板：任何视口与缩放下都保留安全边距，内部按钮不得溢出面板 */
+.home-insight-panel {
+  max-width: calc(100vw - var(--home-edge-x) - 1rem);
+}
+.home-insight-panel .ha-scene-panel,
+.home-insight-panel .ha-scene-list,
+.home-insight-panel .ha-scene-list button {
+  max-width: 100%;
+  min-width: 0;
 }
 
 .home-dashboard-card small,
@@ -527,12 +595,123 @@ html.ha3d-fullscreen-shell .home-corner-dock {
   display: none !important;
 }
 
-/* Dock menu (mode-home vertical popover): the SPA shows/hides the container
-   via `.tools-open` (React state) but leaves the ITEMS keyed to desktop
-   `:hover/:focus-within` (opacity:0). Losing focus while the popover stays
-   open produced an "empty card". Pin the items to the container's state. */
+/* Dock menu (mode-home vertical popover): `.tools-open` (React state) is the
+   only source of truth. Desktop `:hover/:focus-within` rules in index.css
+   hide item labels (opacity:0), so losing focus to DevTools used to leave an
+   empty card. Pin items AND their labels/badges to the container's state. */
 .mode-home .home-corner-dock.tools-open .corner-dock-menu>.corner-dock-action,
 .mode-home .home-corner-dock.tools-open .corner-dock-menu>.corner-dock-icon {
   opacity: 1;
   pointer-events: auto;
 }
+/* Keep opacity/transform here only. `margin-left:0` must NOT be set at this
+   level: `.mode-home` is present at every viewport, and zeroing the label
+   margin here collapsed the icon/label spacing on the large (left-bottom,
+   horizontal) dock after a click. The small-screen popover sets it inside its
+   own max-width:1366px media query, where `gap` provides the spacing. */
+.mode-home .home-corner-dock.tools-open .corner-dock-menu>.corner-dock-action span,
+.mode-home .home-corner-dock.tools-open .corner-dock-menu>.corner-dock-icon span {
+  opacity: 1;
+  transform: none;
+}
+/* No badge margin rule here: `margin-left:auto` at this level also collapsed
+   to 0px on the large horizontal dock after a click, pulling the count badge
+   into the label. The small-screen popover owns its badge layout in the
+   max-width:1366px media query inside index.css. */
+
+/* Glass Button Container */
+.glass-button {
+  z-index: 1000;
+  --bg-color: rgba(255, 255, 255, 0.25);
+  --highlight: rgba(255, 255, 255, 0.75);
+  --text: #ffffff;
+  
+  position: relative;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  overflow: hidden;
+  background: transparent;
+  transition: transform 0.2s ease;
+  outline: none;
+}
+
+.glass-button:hover {
+  transform: scale(1.05);
+}
+
+.glass-button:active {
+  transform: scale(0.95);
+}
+
+.glass-filter,
+.glass-overlay,
+.glass-specular {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+}
+
+.glass-filter {
+  z-index: 1;
+  backdrop-filter: blur(4px);
+  filter: url(#glass-distortion) saturate(120%) brightness(1.15);
+}
+
+.glass-overlay {
+  z-index: 2;
+  background: var(--bg-color);
+}
+
+.glass-specular {
+  z-index: 3;
+  box-shadow: inset 1px 1px 1px var(--highlight);
+}
+
+.glass-content {
+  position: relative;
+  z-index: 4;
+  color: var(--text);
+  font-weight: 500;
+  font-size: 16px;
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  .glass-button {
+    --bg-color: rgba(0, 0, 0, 0.25);
+    --highlight: rgba(255, 255, 255, 0.15);
+  }
+}
+
+/* Corner dock / menu 毛玻璃：index.css 的窄屏菜单背景 #131d3694 (alpha .58)
+   太厚，把 backdrop 采样遮住，blur(22px) 有值却看不出玻璃感。这里降低底色
+   alpha 并加 saturate + 边缘高光，让背后 3D 场景透出来并被模糊。
+   祖先链审计：dock/menu 无 filter/transform/animation 隔离层，父 .home-scene
+   的 isolation:isolate 正含 3D canvas，是 blur 该采样的范围，无需关动画。 */
+/* .mode-home .corner-dock-menu {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 999px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.39);
+} */
+/* 宽屏 (>=1367px) 底部横条展开态同样轻薄化；窄屏横条容器透明、只有 toggle
+   圆形按钮（它自身已有 blur），不要给容器加底色以免变成矩形块。 */
+/* @media (min-width: 1367px) {
+  .mode-home .home-corner-dock.tools-open {
+    background: rgba(13, 19, 36, 0.3);
+    border: 1px solid rgba(226, 236, 255, 0.18);
+    box-shadow:
+      0 12px 30px rgba(0, 0, 0, 0.2),
+      inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    -webkit-backdrop-filter: blur(18px) saturate(1.2);
+    backdrop-filter: blur(18px) saturate(1.2);
+  }
+} */
+

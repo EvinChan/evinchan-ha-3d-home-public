@@ -183,7 +183,10 @@ class ProjectStore:
         if not validation["valid"] or not validation.get("project"):
             raise ValueError("; ".join(validation.get("issues", [])) or "Invalid project")
         saved = {**validation["project"], "updatedAt": self._iso_now()}
-        await self._create_backup(saved["id"])
+        # Autosave must not create a backup: the editor saves on every 900ms
+        # debounce, which would otherwise flood the backup list. Backups are
+        # created by explicit user request, the frontend time-based scheduler,
+        # and one-shot destructive operations (import/reset/restore) instead.
         self._data["projects"][saved["id"]] = saved
         if saved["id"] == self._data["current"]:
             self._data["current"] = saved["id"]
@@ -351,6 +354,9 @@ class ProjectStore:
             if key != EXPORT_LAYOUTS_KEY
         }
         merged = {**project_payload, "id": pid, "createdAt": current.get("createdAt")}
+        # Import replaces the whole project, so snapshot the previous state
+        # explicitly. save_project() no longer backs up on every save.
+        await self._create_backup(pid)
         saved = await self.save_project(merged)
         if layouts is not None:
             await self.save_layouts(layouts, pid)
